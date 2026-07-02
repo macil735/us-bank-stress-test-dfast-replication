@@ -165,14 +165,3 @@ A machine-readable citation file is provided in CITATION.cff.
 License
 
 This project is released under the MIT License. See LICENSE for details.
-
-
-## Avaliação
-
-Esta versão está mais limpa e mais segura para publicação. Ela remove duplicações, atualiza a pipeline, explica a quarentena dos PDFs inválidos e reforça a interpretação responsável dos resultados.
-
-Pode substituir o `README.md` por esta versão. Depois execute:
-
-```powershell
-cd D:/GitHub/us-bank-stress-test-dfast-replication
-git status
