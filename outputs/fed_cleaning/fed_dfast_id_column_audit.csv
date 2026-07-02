@@ -1,0 +1,6 @@
+dataset_name,possible_bank_or_entity_columns,possible_time_or_scenario_columns
+fed_dfast_results_clean,exercise_name | id_rssd | disclosure_legal_name | scenario_name,scenario_type | dt_exercise_quarter | scenario_id | scenario_name
+fed_dfast_nine_quarter_paths_clean,,scenario_type
+fed_macro_historic_domestic_clean,scenario_name,scenario_type | scenario_name | date | x5_year_treasury_yield | x10_year_treasury_yield
+fed_macro_baseline_domestic_clean,scenario_name,scenario_type | scenario_name | date | x5_year_treasury_yield | x10_year_treasury_yield
+fed_macro_severely_adverse_domestic_clean,scenario_name,scenario_type | scenario_name | date | x5_year_treasury_yield | x10_year_treasury_yield

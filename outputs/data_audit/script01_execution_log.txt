@@ -1,0 +1,19 @@
+US Bank Stress Test Replication and DFAST Benchmarking
+Script 01 — Data Availability Audit
+Execution date: 2026-06-29 17:00:23.583563
+Project root: D:/GitHub/us-bank-stress-test-dfast-replication
+Sources inventoried: 9
+Banks in initial universe: 10
+Variables inventoried: 40
+Script roadmap entries: 13
+
+Main outputs:
+D:/GitHub/us-bank-stress-test-dfast-replication/outputs/data_audit/us_project_metadata.csv
+D:/GitHub/us-bank-stress-test-dfast-replication/outputs/data_audit/us_initial_bank_universe.csv
+D:/GitHub/us-bank-stress-test-dfast-replication/outputs/data_audit/us_source_catalog.csv
+D:/GitHub/us-bank-stress-test-dfast-replication/outputs/data_audit/us_variable_inventory.csv
+D:/GitHub/us-bank-stress-test-dfast-replication/outputs/data_audit/us_source_variable_map.csv
+D:/GitHub/us-bank-stress-test-dfast-replication/outputs/data_audit/us_data_availability_assessment.csv
+D:/GitHub/us-bank-stress-test-dfast-replication/outputs/data_audit/us_script_roadmap.csv
+D:/GitHub/us-bank-stress-test-dfast-replication/outputs/data_audit/us_project_structure.csv
+D:/GitHub/us-bank-stress-test-dfast-replication/outputs/data_audit/script01_data_availability_audit_report.docx

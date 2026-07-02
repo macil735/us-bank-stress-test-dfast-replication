@@ -1,0 +1,95 @@
+============================================================
+Script 16 - Create Final Institutional Report completed
+============================================================
+Project root: D:/GitHub/us-bank-stress-test-dfast-replication
+
+Started at: 2026-06-30 07:55:17.822258
+Completed at: 2026-06-30 07:55:32.196539
+
+Final results rows: 497
+Validation rows: 497
+Model risk rows: 497
+Banks: 56
+Years: 11
+Scenarios: 3
+Latest exercise year: 2025
+Duplicated keys: 0
+Figures available: 8
+
+Executive summary:
+# A tibble: 18 × 2
+   metric                                   value  
+   <chr>                                    <chr>  
+ 1 Panel observations                       497    
+ 2 Banks                                    56     
+ 3 Exercise years                           11     
+ 4 Scenarios                                3      
+ 5 Latest exercise year                     2025   
+ 6 Minimum predicted CET1 ratio             5.5573 
+ 7 Mean predicted CET1 ratio                10.6961
+ 8 Maximum predicted capital depletion      8.5976 
+ 9 Mean predicted capital depletion         2.6675 
+10 CET1 minimum ratio RMSE                  0.846  
+11 CET1 minimum ratio MAE                   0.5873 
+12 CET1 minimum ratio bias                  0.0145 
+13 CET1 minimum ratio R-squared             0.9688 
+14 CET1 minimum ratio correlation           0.9843 
+15 CET1 4.5 percent classification accuracy 1      
+16 CET1 7.0 percent classification accuracy 0.9557 
+17 High model risk observations             35     
+18 Largest absolute CET1 error              5.0721 
+
+Core accuracy:
+# A tibble: 4 × 7
+  component              observations    rmse     mae        bias r_squared correlation
+  <chr>                         <int>   <dbl>   <dbl>       <dbl>     <dbl>       <dbl>
+1 Credit loss ratio               497 0.00596 0.00428 -0.0000721      0.956       0.978
+2 PPNR ratio                      497 0.00933 0.00654 -0.00000706     0.920       0.959
+3 CET1 capital depletion          497 0.789   0.570    0.000399       0.838       0.915
+4 CET1 minimum ratio              497 0.846   0.587    0.0145         0.969       0.984
+
+Threshold summary:
+# A tibble: 2 × 4
+  threshold        observations correctly_classified classification_accuracy
+  <chr>                   <int>                <int>                   <dbl>
+1 CET1 4.5 percent          497                  497                   1    
+2 CET1 7.0 percent          497                  475                   0.956
+
+Model risk bucket summary:
+# A tibble: 4 × 3
+  model_risk_bucket   observations  share
+  <chr>                      <int>  <dbl>
+1 Low model risk               302 0.608 
+2 Watchlist                     92 0.185 
+3 Moderate model risk           68 0.137 
+4 High model risk               35 0.0704
+
+Execution summary:
+# A tibble: 1 × 15
+  script_id script_name    project_root started_at completed_at final_results_rows validation_rows model_risk_rows banks years
+  <chr>     <chr>          <chr>        <chr>      <chr>                     <int>           <int>           <int> <int> <int>
+1 16        create_final_… D:/GitHub/u… 2026-06-3… 2026-06-30 …                497             497             497    56    11
+# ℹ 5 more variables: scenarios <int>, latest_exercise_year <dbl>, duplicated_keys <int>, figures_available <int>,
+#   final_report_path <chr>
+
+Main outputs:
+ - outputs/final_report/script16_input_check.csv
+ - outputs/final_report/script16_required_column_check.csv
+ - outputs/final_report/script16_key_audit_summary.csv
+ - outputs/final_report/script16_executive_summary.csv
+ - outputs/final_report/script16_core_accuracy.csv
+ - outputs/final_report/script16_threshold_summary.csv
+ - outputs/final_report/script16_model_risk_bucket_summary.csv
+ - outputs/final_report/script16_pipeline_map.csv
+ - outputs/final_report/script16_model_architecture.csv
+ - outputs/final_report/script16_top_latest_ranking.csv
+ - outputs/final_report/script16_top_full_sample_ranking.csv
+ - outputs/final_report/script16_largest_cet1_errors.csv
+ - outputs/final_report/script16_bank_model_risk.csv
+ - outputs/final_report/script16_pedagogical_use.csv
+ - outputs/final_report/script16_limitations.csv
+ - outputs/final_report/script16_figure_inventory.csv
+ - outputs/final_report/script16_execution_summary.csv
+ - outputs/final_report/script16_final_report_outputs.xlsx
+ - report/final_institutional_report_dfast_replication.docx
+ - outputs/final_report/script16_execution_log.txt

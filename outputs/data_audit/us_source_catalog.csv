@@ -1,0 +1,10 @@
+source_id,source_name,source_owner,likely_url,access_mode,expected_frequency,expected_standardization,expected_manual_burden,main_use,availability_class
+FED_DFAST,Federal Reserve DFAST / Stress Test Results,Federal Reserve,https://www.federalreserve.gov/supervisionreg/dfa-stress-tests.htm,Direct CSV/XLSX,Annual,High,Low,"Benchmark stress-test outputs: CET1, losses, PPNR and capital actions.",High
+FED_SUPERVISORY_SCENARIOS,Federal Reserve Supervisory Scenarios,Federal Reserve,https://www.federalreserve.gov/supervisionreg/stress-tests-capital-planning.htm,PDF/XLSX,Annual,High,Low,Macroeconomic and financial scenario variables.,Review required
+FDIC_SDI,FDIC Statistics on Depository Institutions,Federal Deposit Insurance Corporation,https://www.fdic.gov/bank-data-guide/statistics-depository-institutions,Direct CSV/XLSX,Quarterly,Very high,Very low,"Bank financial ratios, balance-sheet and income-statement indicators.",High
+FDIC_CALL_REPORTS,FDIC Call Reports,Federal Deposit Insurance Corporation,https://www.fdic.gov/bank-data-guide/data-downloads,Bulk download,Quarterly,Very high,Low,Detailed bank regulatory data.,High
+FFIEC_CDR,FFIEC Central Data Repository,Federal Financial Institutions Examination Council,https://cdr.ffiec.gov/,Bulk download,Quarterly,Very high,Low,Official call-report retrieval and metadata.,High
+FR_Y9C,Federal Reserve FR Y-9C Reports,Federal Reserve,https://www.federalreserve.gov/apps/reportingforms/Report/Index/FR_Y-9C,Bulk download,Quarterly,Very high,Low,Holding-company consolidated regulatory data.,High
+FRED_MACRO,Federal Reserve Economic Data,Federal Reserve Bank of St. Louis,https://fred.stlouisfed.org/,API,Monthly/Quarterly,Very high,Very low,Macroeconomic variables and interest-rate paths.,High
+SEC_10K,SEC Form 10-K filings,U.S. Securities and Exchange Commission,https://www.sec.gov/edgar/search/,HTML/XBRL,Annual/Quarterly,Moderate,Moderate,Validation against bank disclosures.,Review required
+BANK_ANNUAL_REPORTS,Bank annual reports,Individual banks,Bank investor relations websites,PDF,Annual/Quarterly,Moderate,High,Narrative validation and supplementary disclosures.,Low

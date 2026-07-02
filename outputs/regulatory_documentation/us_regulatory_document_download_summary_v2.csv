@@ -1,0 +1,7 @@
+regulator,document_type,validation_status,number_of_documents,successful_validated_downloads,failed_or_invalid_downloads,total_size_bytes
+FFIEC,HTML,VALID_HTML,1,1,0,27784
+Federal Reserve,HTML,VALID_HTML,2,2,0,505494
+Federal Reserve,PDF,DOWNLOAD_ERROR,3,0,3,0
+Federal Reserve,PDF,VALID_PDF,7,7,0,14475790
+SEC,HTML,VALID_HTML,1,1,0,68391
+eCFR,HTML,VALID_HTML,1,1,0,10596

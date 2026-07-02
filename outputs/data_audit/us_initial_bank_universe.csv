@@ -1,0 +1,11 @@
+bank_short_name,holding_company_name,initial_priority,rationale
+JPMorgan Chase,JPMorgan Chase & Co.,Immediate,Largest U.S. bank; strong DFAST relevance; already familiar from previous project.
+Bank of America,Bank of America Corporation,Immediate,Large diversified bank; strong DFAST and regulatory data availability.
+Citigroup,Citigroup Inc.,Immediate,Large global systemically important bank; strong DFAST relevance.
+Wells Fargo,Wells Fargo & Company,Immediate,Large retail and commercial bank; relevant for credit-loss stress.
+Goldman Sachs,"The Goldman Sachs Group, Inc.",High,Capital markets and trading exposure; useful for market-risk comparison.
+Morgan Stanley,Morgan Stanley,High,Capital markets and wealth management exposure; useful for PPNR comparison.
+U.S. Bancorp,U.S. Bancorp,High,Large regional bank; useful benchmark against G-SIBs.
+PNC,"The PNC Financial Services Group, Inc.",High,Large regional bank; relevant for commercial credit stress.
+Truist,Truist Financial Corporation,High,Large regional bank; useful post-merger case.
+Capital One,Capital One Financial Corporation,High,Consumer-credit bank; useful for credit-card and loan-loss stress.

@@ -1,0 +1,60 @@
+============================================================
+Script 07 - Exploratory Analysis of DFAST Transmission Layer completed
+============================================================
+Project root: D:/GitHub/us-bank-stress-test-dfast-replication
+
+Started at: 2026-06-30 04:29:34.528744
+Completed at: 2026-06-30 04:29:47.045183
+
+Input rows: 665
+Input columns: 58
+Banks: 61
+Years: 14
+Scenarios: 3
+Core variables analyzed: 21
+Outlier variables analyzed: 6
+Outliers detected: 79
+Figures created: 6
+
+Structure audit:
+# A tibble: 1 × 9
+  input_path                                                     rows columns banks rssd_ids years scenarios min_year max_year
+  <chr>                                                         <int>   <int> <int>    <int> <int>     <int>    <dbl>    <dbl>
+1 data/processed/model/dfast_capital_losses_transmission_panel…   665      58    61       46    14         3     2012     2025
+
+Outlier summary:
+# A tibble: 6 × 4
+  variable                   outlier_count banks_affected years_affected
+  <chr>                              <int>          <int>          <int>
+1 ppnr_loss_absorption_ratio            14              6             10
+2 pretax_net_income_amount              14             11             10
+3 total_loan_losses_amount              14              6              9
+4 ppnr_amount                           13              9              9
+5 cet1_depletion_min                    12              6              7
+6 rwa_growth_rate                       12              5              5
+
+Main outputs:
+ - outputs/exploratory_analysis/script07_required_column_check.csv
+ - outputs/exploratory_analysis/script07_structure_audit.csv
+ - outputs/exploratory_analysis/script07_missing_values_audit.csv
+ - outputs/exploratory_analysis/script07_core_descriptive_statistics.csv
+ - outputs/exploratory_analysis/script07_scenario_summary.csv
+ - outputs/exploratory_analysis/script07_bank_summary_all_years.csv
+ - outputs/exploratory_analysis/script07_bank_year_stress_ranking.csv
+ - outputs/exploratory_analysis/script07_outlier_table.csv
+ - outputs/exploratory_analysis/script07_outlier_summary.csv
+ - outputs/exploratory_analysis/script07_correlation_matrix.csv
+ - outputs/exploratory_analysis/script07_correlation_long.csv
+ - outputs/exploratory_analysis/script07_figure_inventory.csv
+ - outputs/exploratory_analysis/script07_execution_summary.csv
+ - outputs/exploratory_analysis/script07_exploratory_analysis_outputs.xlsx
+ - outputs/exploratory_analysis/script07_exploratory_analysis_report.docx
+ - outputs/exploratory_analysis/script07_execution_log.txt
+
+Figures:
+ - outputs/exploratory_analysis/figures/fig01_cet1_depletion_distribution.png
+ - outputs/exploratory_analysis/figures/fig02_cet1_depletion_by_year_scenario.png
+ - outputs/exploratory_analysis/figures/fig03_ppnr_vs_loan_losses.png
+ - outputs/exploratory_analysis/figures/fig04_ppnr_loss_absorption_distribution.png
+ - outputs/exploratory_analysis/figures/fig05_top20_banks_cet1_depletion.png
+ - outputs/exploratory_analysis/figures/fig06_rwa_growth_distribution.png

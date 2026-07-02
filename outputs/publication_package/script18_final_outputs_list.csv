@@ -1,0 +1,11 @@
+output_group,path,description,exists
+Institutional report,report/final_institutional_report_dfast_replication.docx,"Final institutional report summarising methodology, results, validation and model risk.",TRUE
+Technical and pedagogical manual,manual/final_technical_pedagogical_manual_dfast_replication.docx,"Student-oriented manual explaining concepts, pipeline, variables, models and exercises.",TRUE
+Final results workbook,outputs/final_results/script13_final_results_outputs.xlsx,Workbook containing final stress test results and rankings.,TRUE
+Benchmark validation workbook,outputs/benchmark_validation/script14_benchmark_validation_outputs.xlsx,Workbook containing validation metrics against public Federal Reserve results.,TRUE
+Model risk workbook,outputs/model_risk/script15_model_risk_assessment_outputs.xlsx,"Workbook containing robustness, sensitivity and model-risk assessment.",TRUE
+Final stress test panel,data/processed/model/final_stress_test_results_panel.csv,Final bank-year-scenario stress test results panel.,TRUE
+Benchmark validation panel,data/processed/model/benchmark_validation_panel.csv,Panel used for benchmark validation.,TRUE
+Model risk panel,data/processed/model/model_risk_assessment_panel.csv,Panel used for model-risk assessment.,TRUE
+Latest bank ranking,data/processed/model/latest_exercise_bank_vulnerability_ranking.csv,Latest exercise bank vulnerability ranking.,TRUE
+Full-sample bank ranking,data/processed/model/final_bank_vulnerability_ranking.csv,Full-sample composite vulnerability ranking.,TRUE

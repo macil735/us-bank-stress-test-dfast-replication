@@ -1,0 +1,7 @@
+model_block,preferred_source,likely_automation,expected_gap_risk,number_of_variables,core_variables
+Balance sheet,FDIC/FFIEC/FR_Y9C,Automatable,Low,9,9
+Capital and solvency,FDIC/FFIEC/FR_Y9C,Automatable,Low,8,8
+DFAST benchmark,FED_DFAST,Automatable,Low to moderate,3,3
+Funding and liquidity,FDIC/FFIEC/FR_Y9C,Automatable,Low,6,6
+Income and losses,FDIC/FFIEC/FR_Y9C,Automatable,Low,6,6
+Macro scenario,FRED / Federal Reserve scenarios,Automatable,Low,8,8

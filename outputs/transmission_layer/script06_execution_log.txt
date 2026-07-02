@@ -1,0 +1,38 @@
+============================================================
+Script 06 - Capital and Losses Transmission Layer completed
+============================================================
+Project root: D:/GitHub/us-bank-stress-test-dfast-replication
+
+Started at: 2026-06-30 04:25:18.607028
+Completed at: 2026-06-30 04:25:37.400517
+
+Input rows: 665
+Transmission panel rows: 665
+Transmission long rows: 33915
+Banks: 61
+Years: 14
+Scenarios: 3
+Source variables available: 33
+Source variables expected: 33
+
+Identity audit summary:
+# A tibble: 1 × 5
+  observations non_missing_identity_gaps mean_gap median_gap max_abs_gap
+         <int>                     <int>    <dbl>      <dbl>       <dbl>
+1          665                       665   0.0290          0         7.2
+
+Processed outputs:
+ - data/processed/model/dfast_capital_losses_transmission_panel.csv
+ - data/processed/model/dfast_capital_losses_transmission_long.csv
+
+Audit outputs:
+ - outputs/transmission_layer/transmission_source_map.csv
+ - outputs/transmission_layer/transmission_variable_map.csv
+ - outputs/transmission_layer/transmission_bank_summary.csv
+ - outputs/transmission_layer/transmission_scenario_summary.csv
+ - outputs/transmission_layer/transmission_identity_audit.csv
+ - outputs/transmission_layer/transmission_identity_audit_summary.csv
+ - outputs/transmission_layer/script06_execution_summary.csv
+ - outputs/transmission_layer/script06_transmission_layer_outputs.xlsx
+ - outputs/transmission_layer/script06_transmission_layer_report.docx
+ - outputs/transmission_layer/script06_execution_log.txt

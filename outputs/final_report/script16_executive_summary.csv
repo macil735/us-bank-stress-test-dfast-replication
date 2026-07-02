@@ -1,0 +1,19 @@
+metric,value
+Panel observations,497
+Banks,56
+Exercise years,11
+Scenarios,3
+Latest exercise year,2025
+Minimum predicted CET1 ratio,5.5573
+Mean predicted CET1 ratio,10.6961
+Maximum predicted capital depletion,8.5976
+Mean predicted capital depletion,2.6675
+CET1 minimum ratio RMSE,0.846
+CET1 minimum ratio MAE,0.5873
+CET1 minimum ratio bias,0.0145
+CET1 minimum ratio R-squared,0.9688
+CET1 minimum ratio correlation,0.9843
+CET1 4.5 percent classification accuracy,1
+CET1 7.0 percent classification accuracy,0.9557
+High model risk observations,35
+Largest absolute CET1 error,5.0721

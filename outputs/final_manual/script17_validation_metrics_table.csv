@@ -1,0 +1,7 @@
+metric,meaning,classroom_warning
+RMSE,Root mean squared error; penalizes large errors more heavily.,A low RMSE can hide important tail errors.
+MAE,Mean absolute error; average size of the prediction error.,MAE is intuitive but does not penalize large errors as strongly as RMSE.
+Bias,Average prediction error; indicates whether predictions are systematically above or below observed values.,A low bias does not mean every prediction is accurate.
+R-squared,Share of outcome variation explained by the prediction.,A high R-squared does not eliminate model risk.
+Correlation,Linear association between observed and predicted values.,High correlation can coexist with level errors.
+Classification accuracy,Share of observations correctly classified relative to a threshold.,Accuracy depends on the chosen threshold.

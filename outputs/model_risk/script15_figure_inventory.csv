@@ -1,0 +1,8 @@
+figure_path,exists,size_bytes
+outputs/model_risk/figures/fig01_abs_cet1_error_distribution.png,TRUE,70735
+outputs/model_risk/figures/fig02_model_risk_buckets.png,TRUE,56786
+outputs/model_risk/figures/fig03_top20_bank_model_risk_score.png,TRUE,197625
+outputs/model_risk/figures/fig04_threshold_classification_sensitivity.png,TRUE,115947
+outputs/model_risk/figures/fig05_cet1_rmse_by_year.png,TRUE,120245
+outputs/model_risk/figures/fig06_cet1_rmse_by_scenario.png,TRUE,55945
+outputs/model_risk/figures/fig07_observed_vs_predicted_cet1.png,TRUE,169640

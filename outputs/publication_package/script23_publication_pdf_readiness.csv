@@ -1,0 +1,8 @@
+item,value
+PDF files searched,27
+Valid PDF files,12
+Invalid PDF files,15
+Very small PDFs requiring review,0
+Invalid PDFs in regulatory publication folder,13
+Publication PDF status,PDF_PUBLICATION_NOT_READY
+Required action,"Move, remove or replace invalid PDFs in the regulatory publication folder before GitHub publication."

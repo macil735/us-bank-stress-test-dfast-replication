@@ -1,0 +1,70 @@
+component,duplicated_key,bank_rssd_id,bank_name,exercise_year,scenario_code,scenario_label,key_count
+capital_depletion,TRUE,1245415,BMO Financial Corp.,2020,3,Supervisory Severely Adverse,2
+capital_depletion,TRUE,1073757,Bank of America Corporation,2020,3,Supervisory Severely Adverse,2
+capital_depletion,TRUE,5006575,Barclays US LLC,2020,3,Supervisory Severely Adverse,2
+capital_depletion,TRUE,2277860,Capital One Financial Corporation,2020,3,Supervisory Severely Adverse,2
+capital_depletion,TRUE,1951350,Citigroup Inc.,2020,3,Supervisory Severely Adverse,2
+capital_depletion,TRUE,1574834,"Credit Suisse Holdings (USA), Inc.",2020,3,Supervisory Severely Adverse,2
+capital_depletion,TRUE,2816906,DB USA Corporation,2020,3,Supervisory Severely Adverse,2
+capital_depletion,TRUE,3232316,HSBC North America Holdings Inc.,2020,3,Supervisory Severely Adverse,2
+capital_depletion,TRUE,1039502,JPMorgan Chase & Co.,2020,3,Supervisory Severely Adverse,2
+capital_depletion,TRUE,1378434,MUFG Americas Holdings Corporation,2020,3,Supervisory Severely Adverse,2
+capital_depletion,TRUE,2162966,Morgan Stanley,2020,3,Supervisory Severely Adverse,2
+capital_depletion,TRUE,1199611,Northern Trust Corporation,2020,3,Supervisory Severely Adverse,2
+capital_depletion,TRUE,5280254,RBC US Group Holdings LLC,2020,3,Supervisory Severely Adverse,2
+capital_depletion,TRUE,3242838,Regions Financial Corporation,2020,3,Supervisory Severely Adverse,2
+capital_depletion,TRUE,1111435,State Street Corporation,2020,3,Supervisory Severely Adverse,2
+capital_depletion,TRUE,3606542,TD Group US Holdings LLC,2020,3,Supervisory Severely Adverse,2
+capital_depletion,TRUE,3587146,The Bank of New York Mellon Corporation,2020,3,Supervisory Severely Adverse,2
+capital_depletion,TRUE,2380443,"The Goldman Sachs Group, Inc.",2020,3,Supervisory Severely Adverse,2
+capital_depletion,TRUE,1069778,"The PNC Financial Services Group, Inc.",2020,3,Supervisory Severely Adverse,2
+capital_depletion,TRUE,1074156,Truist Financial Corporation,2020,3,Supervisory Severely Adverse,2
+capital_depletion,TRUE,1119794,U.S. Bancorp,2020,3,Supervisory Severely Adverse,2
+capital_depletion,TRUE,4846998,UBS Americas Holding LLC,2020,3,Supervisory Severely Adverse,2
+capital_depletion,TRUE,1120754,Wells Fargo & Company,2020,3,Supervisory Severely Adverse,2
+credit_loss,TRUE,1245415,BMO Financial Corp.,2020,3,Supervisory Severely Adverse,2
+credit_loss,TRUE,1073757,Bank of America Corporation,2020,3,Supervisory Severely Adverse,2
+credit_loss,TRUE,5006575,Barclays US LLC,2020,3,Supervisory Severely Adverse,2
+credit_loss,TRUE,2277860,Capital One Financial Corporation,2020,3,Supervisory Severely Adverse,2
+credit_loss,TRUE,1951350,Citigroup Inc.,2020,3,Supervisory Severely Adverse,2
+credit_loss,TRUE,1574834,"Credit Suisse Holdings (USA), Inc.",2020,3,Supervisory Severely Adverse,2
+credit_loss,TRUE,2816906,DB USA Corporation,2020,3,Supervisory Severely Adverse,2
+credit_loss,TRUE,3232316,HSBC North America Holdings Inc.,2020,3,Supervisory Severely Adverse,2
+credit_loss,TRUE,1039502,JPMorgan Chase & Co.,2020,3,Supervisory Severely Adverse,2
+credit_loss,TRUE,1378434,MUFG Americas Holdings Corporation,2020,3,Supervisory Severely Adverse,2
+credit_loss,TRUE,2162966,Morgan Stanley,2020,3,Supervisory Severely Adverse,2
+credit_loss,TRUE,1199611,Northern Trust Corporation,2020,3,Supervisory Severely Adverse,2
+credit_loss,TRUE,5280254,RBC US Group Holdings LLC,2020,3,Supervisory Severely Adverse,2
+credit_loss,TRUE,3242838,Regions Financial Corporation,2020,3,Supervisory Severely Adverse,2
+credit_loss,TRUE,1111435,State Street Corporation,2020,3,Supervisory Severely Adverse,2
+credit_loss,TRUE,3606542,TD Group US Holdings LLC,2020,3,Supervisory Severely Adverse,2
+credit_loss,TRUE,3587146,The Bank of New York Mellon Corporation,2020,3,Supervisory Severely Adverse,2
+credit_loss,TRUE,2380443,"The Goldman Sachs Group, Inc.",2020,3,Supervisory Severely Adverse,2
+credit_loss,TRUE,1069778,"The PNC Financial Services Group, Inc.",2020,3,Supervisory Severely Adverse,2
+credit_loss,TRUE,1074156,Truist Financial Corporation,2020,3,Supervisory Severely Adverse,2
+credit_loss,TRUE,1119794,U.S. Bancorp,2020,3,Supervisory Severely Adverse,2
+credit_loss,TRUE,4846998,UBS Americas Holding LLC,2020,3,Supervisory Severely Adverse,2
+credit_loss,TRUE,1120754,Wells Fargo & Company,2020,3,Supervisory Severely Adverse,2
+ppnr,TRUE,1245415,BMO Financial Corp.,2020,3,Supervisory Severely Adverse,2
+ppnr,TRUE,1073757,Bank of America Corporation,2020,3,Supervisory Severely Adverse,2
+ppnr,TRUE,5006575,Barclays US LLC,2020,3,Supervisory Severely Adverse,2
+ppnr,TRUE,2277860,Capital One Financial Corporation,2020,3,Supervisory Severely Adverse,2
+ppnr,TRUE,1951350,Citigroup Inc.,2020,3,Supervisory Severely Adverse,2
+ppnr,TRUE,1574834,"Credit Suisse Holdings (USA), Inc.",2020,3,Supervisory Severely Adverse,2
+ppnr,TRUE,2816906,DB USA Corporation,2020,3,Supervisory Severely Adverse,2
+ppnr,TRUE,3232316,HSBC North America Holdings Inc.,2020,3,Supervisory Severely Adverse,2
+ppnr,TRUE,1039502,JPMorgan Chase & Co.,2020,3,Supervisory Severely Adverse,2
+ppnr,TRUE,1378434,MUFG Americas Holdings Corporation,2020,3,Supervisory Severely Adverse,2
+ppnr,TRUE,2162966,Morgan Stanley,2020,3,Supervisory Severely Adverse,2
+ppnr,TRUE,1199611,Northern Trust Corporation,2020,3,Supervisory Severely Adverse,2
+ppnr,TRUE,5280254,RBC US Group Holdings LLC,2020,3,Supervisory Severely Adverse,2
+ppnr,TRUE,3242838,Regions Financial Corporation,2020,3,Supervisory Severely Adverse,2
+ppnr,TRUE,1111435,State Street Corporation,2020,3,Supervisory Severely Adverse,2
+ppnr,TRUE,3606542,TD Group US Holdings LLC,2020,3,Supervisory Severely Adverse,2
+ppnr,TRUE,3587146,The Bank of New York Mellon Corporation,2020,3,Supervisory Severely Adverse,2
+ppnr,TRUE,2380443,"The Goldman Sachs Group, Inc.",2020,3,Supervisory Severely Adverse,2
+ppnr,TRUE,1069778,"The PNC Financial Services Group, Inc.",2020,3,Supervisory Severely Adverse,2
+ppnr,TRUE,1074156,Truist Financial Corporation,2020,3,Supervisory Severely Adverse,2
+ppnr,TRUE,1119794,U.S. Bancorp,2020,3,Supervisory Severely Adverse,2
+ppnr,TRUE,4846998,UBS Americas Holding LLC,2020,3,Supervisory Severely Adverse,2
+ppnr,TRUE,1120754,Wells Fargo & Company,2020,3,Supervisory Severely Adverse,2

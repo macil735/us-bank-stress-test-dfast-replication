@@ -1,0 +1,90 @@
+# ============================================================
+# .gitignore
+# USA Bank Stress Test DFAST Replication
+# ============================================================
+
+# R session and history files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# RStudio project user files
+*.Rproj.user
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+*~
+~$*
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs that are not part of the reproducibility pipeline
+*.log
+!outputs/**/script*_execution_log.txt
+
+# Cache folders
+.cache/
+cache/
+__pycache__/
+
+# Quarto / R Markdown cache
+*_cache/
+*.utf8.md
+*.knit.md
+
+# Local environment files
+.Renviron
+.Rprofile
+.env
+
+# Very large compressed files
+*.zip
+*.7z
+*.rar
+*.tar
+*.gz
+
+# Office temporary lock files
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# Keep final project outputs
+!report/*.docx
+!manual/*.docx
+!outputs/**/*.xlsx
+!outputs/**/*.csv
+!outputs/**/*.txt
+!outputs/**/*.md
+!outputs/**/*.png
+
+# Keep public processed datasets
+!data/processed/**/*.csv
+
+# Keep repository documentation
+!README.md
+!LICENSE
+!CITATION.cff
+!docs/**/*.md
+
+# Quarantined invalid downloads
+docs/regulatory_framework/failed_downloads/**
+!docs/regulatory_framework/failed_downloads/**/*.md
+
+# Notes:
+# - Invalid quarantined PDFs are not committed to GitHub.
+# - Markdown notes inside the quarantine folder may still be committed.
+# - Audit logs in outputs/publication_package remain preserved.
+
+# Note:
+# Raw public data may be committed if file sizes are reasonable.
+# If any raw file is too large, document it in docs/reproducibility_notes.md.
+# Local Git preview files
+outputs/publication_package/git_add_dry_run_preview*.txt

@@ -1,0 +1,3 @@
+validation_status,files,total_size_bytes,total_size_kb
+INVALID_PDF,4,324784,317.2
+VALID_PDF,10,16883834,16488.1

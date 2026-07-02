@@ -1,0 +1,2 @@
+script_id,script_name,project_root,started_at,completed_at,pdf_files_searched,valid_pdf_files,invalid_pdf_files,very_small_pdf_review_files,invalid_pdfs_in_regulatory_publication_folder,publication_pdf_status,pdf_validation_note_created
+23,validate_regulatory_pdf_files,D:/GitHub/us-bank-stress-test-dfast-replication,2026-06-30 11:09:13.384301,2026-06-30 11:09:18.048964,27,12,15,0,13,PDF_PUBLICATION_NOT_READY,TRUE

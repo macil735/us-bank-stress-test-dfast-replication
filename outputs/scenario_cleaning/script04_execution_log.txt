@@ -1,0 +1,46 @@
+============================================================
+Script 04 - Structure Federal Reserve Macro Scenarios completed
+============================================================
+Project root: D:/GitHub/us-bank-stress-test-dfast-replication
+
+Started at: 2026-06-29 18:59:29.075685
+Completed at: 2026-06-29 18:59:39.158465
+
+Input files: 3
+Scenarios structured: 3
+Macro variables detected: 10
+Long rows: 2260
+Wide rows: 226
+Shock rows: 130
+
+Input structure audit:
+# A tibble: 3 × 5
+  input_dataset    input_path                                                       detected_time_column  rows columns
+  <chr>            <chr>                                                            <chr>                <int>   <int>
+1 historic         data/processed/fed/fed_macro_historic_domestic_clean.csv         date                   200      23
+2 baseline         data/processed/fed/fed_macro_baseline_domestic_clean.csv         date                    13      23
+3 severely_adverse data/processed/fed/fed_macro_severely_adverse_domestic_clean.csv date                    13      23
+
+Scenario structure audit:
+# A tibble: 3 × 6
+  scenario         n_periods n_macro_variables n_observations n_missing_values missing_share
+  <chr>                <int>             <int>          <int>            <int>         <dbl>
+1 baseline                13                10            130                0        0     
+2 historic               200                10           2000               51        0.0255
+3 severely_adverse        13                10            130                0        0     
+
+Processed outputs:
+ - data/processed/fed/fed_macro_scenarios_long.csv
+ - data/processed/fed/fed_macro_scenarios_wide.csv
+ - data/processed/fed/fed_macro_scenario_shocks.csv
+
+Audit outputs:
+ - outputs/scenario_cleaning/fed_macro_scenario_variable_map.csv
+ - outputs/scenario_cleaning/fed_macro_scenario_shock_summary.csv
+ - outputs/scenario_cleaning/fed_macro_scenario_structure_audit.csv
+ - outputs/scenario_cleaning/script04_input_structure_audit.csv
+ - outputs/scenario_cleaning/script04_detected_macro_variables.csv
+ - outputs/scenario_cleaning/script04_execution_summary.csv
+ - outputs/scenario_cleaning/script04_macro_scenario_outputs.xlsx
+ - outputs/scenario_cleaning/script04_macro_scenario_cleaning_report.docx
+ - outputs/scenario_cleaning/script04_execution_log.txt

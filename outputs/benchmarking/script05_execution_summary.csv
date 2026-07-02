@@ -1,0 +1,2 @@
+script_id,script_name,project_root,started_at,completed_at,input_rows,input_columns,banks,bank_rssd_ids,years,scenarios,benchmark_metrics,long_rows,wide_rows
+05,build_dfast_benchmark_dataset,D:/GitHub/us-bank-stress-test-dfast-replication,2026-06-29 19:10:53.105133,2026-06-29 19:11:00.764582,665,66,61,46,14,3,56,37240,665

@@ -1,0 +1,89 @@
+============================================================
+Script 24 — Clean Regulatory Documentation After PDF Audit
+============================================================
+Project root: D:/GitHub/us-bank-stress-test-dfast-replication
+Started at: 2026-07-02 05:03:40.379044
+Completed at: 2026-07-02 05:03:44.077005
+
+Cleaning summary:
+# A tibble: 0 × 18
+# ℹ 18 variables: script_id <chr>, script_name <chr>, project_root <chr>, started_at <chr>, completed_at <chr>,
+#   script23c_quarantine_input <chr>, files_listed_for_quarantine <int>, files_moved_to_quarantine <int>,
+#   files_not_moved <int>, source_files_remaining_after_move <int>, quarantine_files_created <int>,
+#   pre_cleaning_pdf_files <int>, post_cleaning_pdf_files <int>, pre_cleaning_invalid_pdf_signatures <int>,
+#   post_cleaning_invalid_pdf_signatures <int>, remaining_invalid_pdfs <int>, quarantine_folder <chr>, cleaning_status <chr>
+
+Pre-cleaning summary:
+# A tibble: 4 × 5
+  folder_role                            pdf_signature_status  files total_size_bytes total_size_kb
+  <chr>                                  <chr>                 <int>            <dbl>         <dbl>
+1 RAW_FED_METHODOLOGY                    VALID_PDF_SIGNATURE       2          3162327         3088.
+2 RAW_FED_RESULTS                        INVALID_PDF_SIGNATURE     2           162392          159.
+3 REGULATORY_PUBLICATION_FEDERAL_RESERVE INVALID_PDF_SIGNATURE    13          1055548         1031.
+4 REGULATORY_PUBLICATION_FEDERAL_RESERVE VALID_PDF_SIGNATURE      11         18983374        18538.
+
+Post-cleaning summary:
+# A tibble: 2 × 5
+  folder_role                            pdf_signature_status files total_size_bytes total_size_kb
+  <chr>                                  <chr>                <int>            <dbl>         <dbl>
+1 RAW_FED_METHODOLOGY                    VALID_PDF_SIGNATURE      2          3162327         3088.
+2 REGULATORY_PUBLICATION_FEDERAL_RESERVE VALID_PDF_SIGNATURE     11         18983374        18538.
+
+Move log:
+# A tibble: 15 × 6
+   folder_role                            file_name              moved_to_quarantine source_path quarantine_path error_message
+   <chr>                                  <chr>                  <lgl>               <chr>       <chr>           <chr>        
+ 1 RAW_FED_RESULTS                        fed_2026_Detailed_Nin… TRUE                D:/GitHub/… D:/GitHub/us-b… <NA>         
+ 2 RAW_FED_RESULTS                        fed_public_results_DF… TRUE                D:/GitHub/… D:/GitHub/us-b… <NA>         
+ 3 REGULATORY_PUBLICATION_FEDERAL_RESERVE fed_2026_Detailed_Nin… TRUE                D:/GitHub/… D:/GitHub/us-b… <NA>         
+ 4 REGULATORY_PUBLICATION_FEDERAL_RESERVE fed_2026_aggregation_… TRUE                D:/GitHub/… D:/GitHub/us-b… <NA>         
+ 5 REGULATORY_PUBLICATION_FEDERAL_RESERVE fed_2026_detailed_nin… TRUE                D:/GitHub/… D:/GitHub/us-b… <NA>         
+ 6 REGULATORY_PUBLICATION_FEDERAL_RESERVE fed_2026_operational_… TRUE                D:/GitHub/… D:/GitHub/us-b… <NA>         
+ 7 REGULATORY_PUBLICATION_FEDERAL_RESERVE fed_2026_ppnr_models.… TRUE                D:/GitHub/… D:/GitHub/us-b… <NA>         
+ 8 REGULATORY_PUBLICATION_FEDERAL_RESERVE fed_2026_supervisory_… TRUE                D:/GitHub/… D:/GitHub/us-b… <NA>         
+ 9 REGULATORY_PUBLICATION_FEDERAL_RESERVE fed_detailed_nine_qua… TRUE                D:/GitHub/… D:/GitHub/us-b… <NA>         
+10 REGULATORY_PUBLICATION_FEDERAL_RESERVE fed_large_bank_capita… TRUE                D:/GitHub/… D:/GitHub/us-b… <NA>         
+11 REGULATORY_PUBLICATION_FEDERAL_RESERVE fed_large_bank_capita… TRUE                D:/GitHub/… D:/GitHub/us-b… <NA>         
+12 REGULATORY_PUBLICATION_FEDERAL_RESERVE fed_public_results_DF… TRUE                D:/GitHub/… D:/GitHub/us-b… <NA>         
+13 REGULATORY_PUBLICATION_FEDERAL_RESERVE fed_public_results_DF… TRUE                D:/GitHub/… D:/GitHub/us-b… <NA>         
+14 REGULATORY_PUBLICATION_FEDERAL_RESERVE fed_public_results_DF… TRUE                D:/GitHub/… D:/GitHub/us-b… <NA>         
+15 REGULATORY_PUBLICATION_FEDERAL_RESERVE fed_stress_test_resul… TRUE                D:/GitHub/… D:/GitHub/us-b… <NA>         
+
+Remaining invalid PDFs:
+# A tibble: 0 × 12
+# ℹ 12 variables: folder_role <chr>, folder_path <chr>, file_name <chr>, full_path <chr>, relative_path <chr>,
+#   extension <chr>, size_bytes <dbl>, size_kb <dbl>, pdf_signature_valid <lgl>, pdf_signature_status <chr>,
+#   ascii_header <chr>, hex_header <chr>
+
+Quarantine inventory:
+# A tibble: 15 × 7
+   quarantine_file_name              quarantine_path size_bytes size_kb modified_time pdf_signature_valid pdf_signature_status
+   <chr>                             <chr>                <dbl>   <dbl> <chr>         <lgl>               <chr>               
+ 1 RAW_FED_RESULTS__fed_2026_Detail… D:/GitHub/us-b…      81196    79.3 2026-06-29 1… FALSE               INVALID_PDF_SIGNATU…
+ 2 RAW_FED_RESULTS__fed_public_resu… D:/GitHub/us-b…      81196    79.3 2026-06-29 1… FALSE               INVALID_PDF_SIGNATU…
+ 3 REGULATORY_PUBLICATION_FEDERAL_R… D:/GitHub/us-b…      81196    79.3 2026-06-29 1… FALSE               INVALID_PDF_SIGNATU…
+ 4 REGULATORY_PUBLICATION_FEDERAL_R… D:/GitHub/us-b…      81196    79.3 2026-06-29 1… FALSE               INVALID_PDF_SIGNATU…
+ 5 REGULATORY_PUBLICATION_FEDERAL_R… D:/GitHub/us-b…      81196    79.3 2026-06-29 1… FALSE               INVALID_PDF_SIGNATU…
+ 6 REGULATORY_PUBLICATION_FEDERAL_R… D:/GitHub/us-b…      81196    79.3 2026-06-29 1… FALSE               INVALID_PDF_SIGNATU…
+ 7 REGULATORY_PUBLICATION_FEDERAL_R… D:/GitHub/us-b…      81196    79.3 2026-06-29 1… FALSE               INVALID_PDF_SIGNATU…
+ 8 REGULATORY_PUBLICATION_FEDERAL_R… D:/GitHub/us-b…      81196    79.3 2026-06-29 1… FALSE               INVALID_PDF_SIGNATU…
+ 9 REGULATORY_PUBLICATION_FEDERAL_R… D:/GitHub/us-b…      81196    79.3 2026-06-29 1… FALSE               INVALID_PDF_SIGNATU…
+10 REGULATORY_PUBLICATION_FEDERAL_R… D:/GitHub/us-b…      81196    79.3 2026-06-29 1… FALSE               INVALID_PDF_SIGNATU…
+11 REGULATORY_PUBLICATION_FEDERAL_R… D:/GitHub/us-b…      81196    79.3 2026-06-29 1… FALSE               INVALID_PDF_SIGNATU…
+12 REGULATORY_PUBLICATION_FEDERAL_R… D:/GitHub/us-b…      81196    79.3 2026-06-29 1… FALSE               INVALID_PDF_SIGNATU…
+13 REGULATORY_PUBLICATION_FEDERAL_R… D:/GitHub/us-b…      81196    79.3 2026-06-29 1… FALSE               INVALID_PDF_SIGNATU…
+14 REGULATORY_PUBLICATION_FEDERAL_R… D:/GitHub/us-b…      81196    79.3 2026-06-29 1… FALSE               INVALID_PDF_SIGNATU…
+15 REGULATORY_PUBLICATION_FEDERAL_R… D:/GitHub/us-b…      81196    79.3 2026-06-29 1… FALSE               INVALID_PDF_SIGNATU…
+
+Main outputs:
+ - D:/GitHub/us-bank-stress-test-dfast-replication/outputs/publication_package/script24_cleaning_summary.csv
+ - D:/GitHub/us-bank-stress-test-dfast-replication/outputs/publication_package/script24_quarantine_move_log.csv
+ - D:/GitHub/us-bank-stress-test-dfast-replication/outputs/publication_package/script24_pre_cleaning_pdf_inventory.csv
+ - D:/GitHub/us-bank-stress-test-dfast-replication/outputs/publication_package/script24_pre_cleaning_pdf_summary.csv
+ - D:/GitHub/us-bank-stress-test-dfast-replication/outputs/publication_package/script24_post_cleaning_pdf_inventory.csv
+ - D:/GitHub/us-bank-stress-test-dfast-replication/outputs/publication_package/script24_post_cleaning_pdf_summary.csv
+ - D:/GitHub/us-bank-stress-test-dfast-replication/outputs/publication_package/script24_remaining_invalid_pdfs.csv
+ - D:/GitHub/us-bank-stress-test-dfast-replication/outputs/publication_package/script24_quarantine_inventory.csv
+ - D:/GitHub/us-bank-stress-test-dfast-replication/outputs/publication_package/script24_cleaning_outputs.xlsx
+ - D:/GitHub/us-bank-stress-test-dfast-replication/docs/regulatory_framework/regulatory_pdf_cleanup_note.md
+ - D:/GitHub/us-bank-stress-test-dfast-replication/outputs/publication_package/script24_execution_log.txt

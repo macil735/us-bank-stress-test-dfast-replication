@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: "USA Bank Stress Test DFAST Replication"
+message: "If you use this project, please cite it using the metadata from this file."
+type: software
+authors:
+  - family-names: "Picol"
+    given-names: "Gelo"
+repository-code: "https://github.com/macil735/us-bank-stress-test-dfast-replication"
+url: "https://github.com/macil735/us-bank-stress-test-dfast-replication"
+license: MIT
+version: "v1.0.0"
+date-released: "2026-07-02"
+abstract: "A public-data, reproducible DFAST-style stress testing project for large U.S. banking organizations, including data processing, reduced-form modelling, benchmark validation, model risk assessment, final institutional reporting and a technical pedagogical manual."
+keywords:
+  - stress testing
+  - DFAST
+  - banking
+  - capital adequacy
+  - CET1
+  - PPNR
+  - Federal Reserve
+  - reproducible research
+  - financial econometrics

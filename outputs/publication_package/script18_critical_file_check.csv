@@ -1,0 +1,24 @@
+category,description,file_path,required,exists,size_bytes,modified_at,status
+Final documents,Final institutional report,report/final_institutional_report_dfast_replication.docx,TRUE,TRUE,853601,2026-06-30 08:06:42,OK
+Final documents,Final technical and pedagogical manual,manual/final_technical_pedagogical_manual_dfast_replication.docx,TRUE,TRUE,658547,2026-06-30 08:49:20,OK
+Final documents,Copy of final technical and pedagogical manual,outputs/final_manual/final_technical_pedagogical_manual_dfast_replication.docx,TRUE,TRUE,527304,2026-06-30 08:14:32,OK
+Final workbooks,Final institutional report workbook,outputs/final_report/script16_final_report_outputs.xlsx,TRUE,TRUE,46432,2026-06-30 07:55:24,OK
+Final workbooks,Final technical manual workbook,outputs/final_manual/script17_final_manual_outputs.xlsx,TRUE,TRUE,51501,2026-06-30 08:14:22,OK
+Final workbooks,Final stress test results workbook,outputs/final_results/script13_final_results_outputs.xlsx,TRUE,TRUE,50431,2026-06-30 07:21:00,OK
+Final workbooks,Benchmark validation workbook,outputs/benchmark_validation/script14_benchmark_validation_outputs.xlsx,TRUE,TRUE,107730,2026-06-30 07:30:58,OK
+Final workbooks,Model risk assessment workbook,outputs/model_risk/script15_model_risk_assessment_outputs.xlsx,TRUE,TRUE,125466,2026-06-30 07:40:58,OK
+Processed datasets,Final stress test results panel,data/processed/model/final_stress_test_results_panel.csv,TRUE,TRUE,462090,2026-06-30 07:20:58,OK
+Processed datasets,Full-sample vulnerability ranking,data/processed/model/final_bank_vulnerability_ranking.csv,TRUE,TRUE,20305,2026-06-30 07:20:58,OK
+Processed datasets,Latest exercise vulnerability ranking,data/processed/model/latest_exercise_bank_vulnerability_ranking.csv,TRUE,TRUE,6772,2026-06-30 07:20:58,OK
+Processed datasets,Benchmark validation panel,data/processed/model/benchmark_validation_panel.csv,TRUE,TRUE,578605,2026-06-30 07:30:58,OK
+Processed datasets,Model risk assessment panel,data/processed/model/model_risk_assessment_panel.csv,TRUE,TRUE,654043,2026-06-30 07:40:58,OK
+Processed datasets,Bank-level model risk assessment,data/processed/model/bank_model_risk_assessment.csv,TRUE,TRUE,13488,2026-06-30 07:40:58,OK
+Execution logs,Script 13 execution log,outputs/final_results/script13_execution_log.txt,TRUE,TRUE,7543,2026-06-30 07:21:04,OK
+Execution logs,Script 14 execution log,outputs/benchmark_validation/script14_execution_log.txt,TRUE,TRUE,5766,2026-06-30 07:31:02,OK
+Execution logs,Script 15 execution log,outputs/model_risk/script15_execution_log.txt,TRUE,TRUE,6354,2026-06-30 07:41:04,OK
+Execution logs,Script 16 execution log,outputs/final_report/script16_execution_log.txt,TRUE,TRUE,4562,2026-06-30 07:55:34,OK
+Execution logs,Script 17 execution log,outputs/final_manual/script17_execution_log.txt,TRUE,TRUE,4360,2026-06-30 08:14:32,OK
+Repository metadata,README file,README.md,FALSE,TRUE,8167,2026-06-30 10:31:40,OPTIONAL_PRESENT
+Repository metadata,License file,LICENSE,FALSE,TRUE,1474,2026-06-30 09:16:20,OPTIONAL_PRESENT
+Repository metadata,Citation file,CITATION.cff,FALSE,TRUE,905,2026-06-30 09:16:20,OPTIONAL_PRESENT
+Repository metadata,Git ignore file,.gitignore,FALSE,TRUE,1302,2026-06-30 10:09:56,OPTIONAL_PRESENT

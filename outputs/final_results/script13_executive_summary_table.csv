@@ -1,0 +1,16 @@
+metric,value
+Panel observations,497
+Banks,56
+Exercise years,11
+Scenarios,3
+Latest exercise year,2025
+Minimum predicted CET1 ratio,5.5573
+Mean predicted CET1 ratio,10.6961
+Maximum predicted capital depletion,8.5976
+Mean predicted capital depletion,2.6675
+Observations below 4.5 percent CET1,0
+Observations below 7.0 percent CET1,31
+CET1 minimum ratio RMSE,0.846
+CET1 minimum ratio R-squared,0.9688
+Most vulnerable bank by composite score,BMO Financial Corp.
+Most vulnerable bank by minimum predicted CET1,M&T Bank Corporation

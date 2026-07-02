@@ -1,0 +1,4 @@
+scenario_label,observations,banks,years,mean_abs_cet1_error,max_abs_cet1_error,optimistic_projection_share,conservative_projection_share
+Supervisory Severely Adverse,16,11,9,2.559134487071645,5.0721321569668625,0.75,0.25
+Supervisory Adverse,7,6,4,1.9479708657586126,2.19892765830706,0.42857142857142855,0.5714285714285714
+Supervisory Alternative Severe,2,2,1,2.738146497039679,3.402423390872997,1,0

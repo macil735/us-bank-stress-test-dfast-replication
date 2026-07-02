@@ -1,0 +1,6 @@
+figure_path,exists,size_bytes
+outputs/credit_loss_model/figures/fig01_actual_vs_predicted_credit_loss_ratio.png,TRUE,295352
+outputs/credit_loss_model/figures/fig02_residual_distribution.png,TRUE,60308
+outputs/credit_loss_model/figures/fig03_model_rmse_comparison.png,TRUE,85570
+outputs/credit_loss_model/figures/fig04_rmse_by_scenario.png,TRUE,56545
+outputs/credit_loss_model/figures/fig05_top20_bank_residual_rmse.png,TRUE,197048

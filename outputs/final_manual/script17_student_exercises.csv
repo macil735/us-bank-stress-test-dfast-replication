@@ -1,0 +1,13 @@
+exercise_number,exercise,expected_learning_outcome
+1,Explain why a public DFAST replication cannot reproduce confidential supervisory models.,Understand the boundary between public replication and official supervision.
+2,Identify the role of PPNR in the stress testing transmission mechanism.,Understand earnings as a loss absorption channel.
+3,Explain why duplicated join keys increased the integrated panel from 520 to 658 rows.,Understand panel-data keys and join mechanics.
+4,Compute RMSE and MAE manually for a small set of observed and predicted CET1 ratios.,Understand forecast error metrics.
+5,Compare the interpretation of R-squared and correlation.,Understand model fit versus association.
+6,Discuss why CET1 classification at 4.5 percent can be perfect while 7.0 percent classification is not.,Understand threshold sensitivity.
+7,Interpret the difference between vulnerability ranking and model risk ranking.,Distinguish bank vulnerability from model uncertainty.
+8,Explain why DB USA Corporation appears as a tail error case in the validation output.,Interpret tail risk.
+9,Discuss why a model can have low average bias but still have severe individual errors.,Understand distributional model risk.
+10,Propose one additional robustness test for the project.,Think critically about robustness.
+11,Write a short policy note explaining the limitations of public-data stress testing.,Communicate limitations clearly.
+12,Replicate one figure and explain its economic interpretation.,Connect graphics with economic interpretation.

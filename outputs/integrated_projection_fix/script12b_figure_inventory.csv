@@ -1,0 +1,5 @@
+figure_path,exists,size_bytes
+outputs/integrated_projection_fix/figures/fig01_fixed_observed_vs_predicted_cet1_min_ratio.png,TRUE,181065
+outputs/integrated_projection_fix/figures/fig02_fixed_cet1_prediction_gap_distribution.png,TRUE,66814
+outputs/integrated_projection_fix/figures/fig03_fixed_integrated_rmse_by_component.png,TRUE,64429
+outputs/integrated_projection_fix/figures/fig04_fixed_top20_vulnerable_banks.png,TRUE,186920

@@ -1,0 +1,2 @@
+script_id,script_name,project_root,started_at,completed_at,integrated_panel_rows,integrated_long_rows,banks,years,scenarios,credit_operational_model,ppnr_operational_model,capital_operational_model,figures_created
+12,integrated_stress_test_projection_engine,D:/GitHub/us-bank-stress-test-dfast-replication,2026-06-30 07:07:45.906021,2026-06-30 07:07:53.483927,658,10528,56,11,3,M5_bank_year_fixed_effects,M5_bank_year_fixed_effects,M6_bank_year_fixed_effects,6

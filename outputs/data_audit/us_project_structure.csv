@@ -1,0 +1,15 @@
+folder,role,created
+R,R scripts.,TRUE
+data/raw,Raw data parent folder.,TRUE
+data/raw/dfast,Federal Reserve DFAST data.,TRUE
+data/raw/fdic,FDIC SDI and related files.,TRUE
+data/raw/ffiec,FFIEC Call Report data.,TRUE
+data/raw/fr_y9c,Federal Reserve FR Y-9C files.,TRUE
+data/raw/fred,FRED macro and financial data.,TRUE
+data/processed,Processed analytical datasets.,TRUE
+outputs/data_audit,Data audit outputs.,TRUE
+outputs/report_ready,Tables prepared for reports.,TRUE
+outputs/tables,Final tables.,TRUE
+outputs/figures,Figures and charts.,TRUE
+outputs/diagnostics,Diagnostics and logs.,TRUE
+docs,Documentation and final reports.,TRUE

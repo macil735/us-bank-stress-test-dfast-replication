@@ -1,0 +1,5 @@
+source_family,priority,number_of_files,successful_downloads,failed_downloads,total_size_bytes
+FRED,Support,3,3,0,29478
+Federal Reserve,Important,3,3,0,16191
+Federal Reserve,Core,9,7,2,3377989
+SEC EDGAR,Important,2,2,0,12209034

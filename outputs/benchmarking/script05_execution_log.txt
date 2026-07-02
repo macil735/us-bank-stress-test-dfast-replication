@@ -1,0 +1,46 @@
+============================================================
+Script 05 - Build DFAST Benchmark Dataset completed
+============================================================
+Project root: D:/GitHub/us-bank-stress-test-dfast-replication
+
+Started at: 2026-06-29 19:10:53.105133
+Completed at: 2026-06-29 19:11:07.457282
+
+Input rows: 665
+Input columns: 66
+Banks: 61
+RSSD IDs: 46
+Years: 14
+Scenarios: 3
+Benchmark metrics: 56
+Long rows: 37240
+Wide rows: 665
+
+Metric block summary:
+# A tibble: 7 × 3
+  metric_block               unit_type     number_of_metrics
+  <chr>                      <chr>                     <int>
+1 Capital and solvency       ratio_or_rate                18
+2 Income and PPNR            amount                        6
+3 Income and PPNR            ratio_or_rate                 4
+4 Losses and provisions      amount                       13
+5 Losses and provisions      ratio_or_rate                 9
+6 Other comprehensive income amount                        2
+7 Risk-weighted assets       amount                        4
+
+Processed outputs:
+ - data/processed/fed/fed_dfast_benchmark_long.csv
+ - data/processed/fed/fed_dfast_benchmark_wide.csv
+
+Audit outputs:
+ - outputs/benchmarking/dfast_benchmark_column_audit.csv
+ - outputs/benchmarking/script05_required_column_check.csv
+ - outputs/benchmarking/dfast_benchmark_detected_metrics.csv
+ - outputs/benchmarking/dfast_benchmark_variable_map.csv
+ - outputs/benchmarking/dfast_benchmark_bank_summary.csv
+ - outputs/benchmarking/dfast_benchmark_year_summary.csv
+ - outputs/benchmarking/dfast_benchmark_metric_block_summary.csv
+ - outputs/benchmarking/script05_execution_summary.csv
+ - outputs/benchmarking/script05_benchmark_outputs.xlsx
+ - outputs/benchmarking/script05_benchmark_report.docx
+ - outputs/benchmarking/script05_execution_log.txt

@@ -1,0 +1,19 @@
+============================================================
+Script 22 - Insert Regulatory Documentation Note into README completed
+============================================================
+Project root: D:/GitHub/us-bank-stress-test-dfast-replication
+
+README path: README.md
+Block path: outputs/publication_package/script21_readme_regulatory_documentation_block.md
+Existing block replaced: FALSE
+
+File check:
+# A tibble: 2 × 3
+  file                                                                          exists size_bytes
+  <chr>                                                                         <lgl>       <dbl>
+1 README.md                                                                     TRUE         8167
+2 outputs/publication_package/script21_readme_regulatory_documentation_block.md TRUE          865
+
+Inserted section markers:
+<!-- BEGIN REGULATORY DOCUMENTATION NOTE -->
+<!-- END REGULATORY DOCUMENTATION NOTE -->

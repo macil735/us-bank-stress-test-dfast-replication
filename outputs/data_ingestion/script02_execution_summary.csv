@@ -1,0 +1,2 @@
+script_id,script_name,project_root,started_at,completed_at,regulatory_documents_catalogued,download_targets,successful_downloads,failed_downloads,raw_files_inventoried,script01_source_catalog_found,script01_bank_universe_found
+02,regulatory_documentation_and_raw_data_ingestion,D:/GitHub/us-bank-stress-test-dfast-replication,2026-06-29 17:09:16.191422,2026-06-29 17:09:46.87296,12,17,15,2,17,TRUE,TRUE

@@ -1,0 +1,66 @@
+============================================================
+Script 12 - Integrated Stress Test Projection Engine completed
+============================================================
+Project root: D:/GitHub/us-bank-stress-test-dfast-replication
+
+Started at: 2026-06-30 07:07:45.906021
+Completed at: 2026-06-30 07:07:58.121993
+
+Integrated panel rows: 658
+Integrated long rows: 10528
+Banks: 56
+Years: 11
+Scenarios: 3
+Credit operational model: M5_bank_year_fixed_effects
+PPNR operational model: M5_bank_year_fixed_effects
+Capital operational model: M6_bank_year_fixed_effects
+Figures created: 6
+
+Selected model check:
+# A tibble: 3 × 3
+  selected_component selected_model             rows_selected
+  <chr>              <chr>                              <int>
+1 credit_loss        M5_bank_year_fixed_effects           520
+2 ppnr               M5_bank_year_fixed_effects           520
+3 capital_depletion  M6_bank_year_fixed_effects           520
+
+Integrated validation metrics:
+# A tibble: 4 × 5
+  component         observations    rmse     mae r2_outcome_prediction
+  <chr>                    <int>   <dbl>   <dbl>                 <dbl>
+1 credit_loss_ratio          658 0.00654 0.00479                 0.944
+2 ppnr_ratio                 658 0.00943 0.00669                 0.905
+3 capital_depletion          658 0.774   0.560                   0.847
+4 cet1_min_ratio             658 0.849   0.587                   0.966
+
+Execution summary:
+# A tibble: 1 × 14
+  script_id script_name  project_root started_at completed_at integrated_panel_rows integrated_long_rows banks years scenarios
+  <chr>     <chr>        <chr>        <chr>      <chr>                        <int>                <int> <int> <int>     <int>
+1 12        integrated_… D:/GitHub/u… 2026-06-3… 2026-06-30 …                   658                10528    56    11         3
+# ℹ 4 more variables: credit_operational_model <chr>, ppnr_operational_model <chr>, capital_operational_model <chr>,
+#   figures_created <int>
+
+Main outputs:
+ - data/processed/model/integrated_stress_test_projection_panel.csv
+ - data/processed/model/integrated_stress_test_projection_long.csv
+ - outputs/integrated_projection/script12_input_check.csv
+ - outputs/integrated_projection/script12_selected_model_check.csv
+ - outputs/integrated_projection/script12_integrated_validation_metrics.csv
+ - outputs/integrated_projection/script12_scenario_summary.csv
+ - outputs/integrated_projection/script12_bank_vulnerability_ranking.csv
+ - outputs/integrated_projection/script12_bank_model_error_ranking.csv
+ - outputs/integrated_projection/script12_projection_variable_map.csv
+ - outputs/integrated_projection/script12_figure_inventory.csv
+ - outputs/integrated_projection/script12_execution_summary.csv
+ - outputs/integrated_projection/script12_integrated_projection_outputs.xlsx
+ - outputs/integrated_projection/script12_integrated_projection_report.docx
+ - outputs/integrated_projection/script12_execution_log.txt
+
+Figures:
+ - outputs/integrated_projection/figures/fig01_observed_vs_predicted_cet1_min_ratio.png
+ - outputs/integrated_projection/figures/fig02_cet1_prediction_gap_distribution.png
+ - outputs/integrated_projection/figures/fig03_integrated_rmse_by_component.png
+ - outputs/integrated_projection/figures/fig04_top20_vulnerable_banks_predicted_cet1.png
+ - outputs/integrated_projection/figures/fig05_predicted_cet1_by_year_scenario.png
+ - outputs/integrated_projection/figures/fig06_predicted_ppnr_vs_credit_losses.png

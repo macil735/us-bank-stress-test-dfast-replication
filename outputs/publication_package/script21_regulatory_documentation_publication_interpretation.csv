@@ -1,0 +1,11 @@
+item,value
+Documentation publication status,PRIMARY_FOLDER_MIXED_PDF_AND_MARKDOWN
+PDF count across searched locations,27
+PDF count in primary regulatory folder,23
+Markdown count across searched locations,7
+Markdown count in primary regulatory folder,7
+Inventory count across searched locations,26
+Regulatory-relevant files outside primary folder,32
+Recommended repository language,"The repository contains a mixed regulatory documentation folder, including downloaded public PDF documents where available, Markdown notes, source references and audit inventories."
+Publication risk,Low: publication is acceptable if documentation wording is accurate.
+Required action before GitHub publication,No blocking action required; retain accurate repository wording.

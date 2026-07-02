@@ -1,0 +1,76 @@
+============================================================
+Script 02b v2 - Download Regulatory Documentation completed
+with File Signature Validation
+============================================================
+Project root: D:/GitHub/us-bank-stress-test-dfast-replication
+
+Started at: 2026-06-30 11:46:32.708735
+Completed at: 2026-06-30 11:47:50.640656
+
+Documentation targets: 15
+Successful validated downloads: 12
+Failed or invalid downloads: 3
+PDF targets: 10
+Valid PDF downloads: 7
+Invalid PDF signature downloads: 0
+Failed downloads moved: 1
+Legacy invalid files moved: 0
+Documents inventoried: 26
+
+Execution summary:
+# A tibble: 1 × 15
+  script_id script_name                      project_root started_at completed_at documentation_targets successful_validated…¹
+  <chr>     <chr>                            <chr>        <chr>      <chr>                        <int>                  <int>
+1 02b_v2    download_regulatory_documentati… D:/GitHub/u… 2026-06-3… 2026-06-30 …                    15                     12
+# ℹ abbreviated name: ¹​successful_validated_downloads
+# ℹ 8 more variables: failed_or_invalid_downloads <int>, pdf_targets <int>, valid_pdf_downloads <int>,
+#   invalid_pdf_signature_downloads <int>, documents_inventoried <int>, failed_downloads_moved <int>,
+#   legacy_invalid_files_moved <int>, publication_pdf_rule <chr>
+
+Download summary:
+# A tibble: 6 × 7
+  regulator document_type validation_status number_of_documents successful_validated…¹ failed_or_invalid_do…² total_size_bytes
+  <chr>     <chr>         <chr>                           <int>                  <int>                  <int>            <dbl>
+1 FFIEC     HTML          VALID_HTML                          1                      1                      0            27784
+2 Federal … HTML          VALID_HTML                          2                      2                      0           505494
+3 Federal … PDF           DOWNLOAD_ERROR                      3                      0                      3                0
+4 Federal … PDF           VALID_PDF                           7                      7                      0         14475790
+5 SEC       HTML          VALID_HTML                          1                      1                      0            68391
+6 eCFR      HTML          VALID_HTML                          1                      1                      0            10596
+# ℹ abbreviated names: ¹​successful_validated_downloads, ²​failed_or_invalid_downloads
+
+PDF validation summary:
+# A tibble: 2 × 5
+  validation_status files successful_validated_downloads failed_or_invalid_downloads total_size_bytes
+  <chr>             <int>                          <int>                       <int>            <dbl>
+1 DOWNLOAD_ERROR        3                              0                           3                0
+2 VALID_PDF             7                              7                           0         14475790
+
+Failed or invalid downloads:
+# A tibble: 3 × 15
+  document_id       regulator document_title document_type url   http_status content_type file_size_bytes temp_file_size_bytes
+  <chr>             <chr>     <chr>          <chr>         <chr>       <int> <chr>                  <dbl>                <dbl>
+1 FED_PUBLIC_RESUL… Federal … Public Result… PDF           http…          NA <NA>                      NA                   NA
+2 FED_9Q_PATHS_DIC… Federal … 2026 Detailed… PDF           http…          NA <NA>                      NA                   NA
+3 FED_LARGE_BANK_C… Federal … Large Bank Ca… PDF           http…          NA <NA>                      NA                   NA
+# ℹ 6 more variables: detected_signature <chr>, validation_status <chr>, validation_passed <lgl>,
+#   legacy_invalid_moved_to <chr>, failed_moved_to <chr>, error_message <chr>
+
+Main documentation folder:
+ - D:/GitHub/us-bank-stress-test-dfast-replication/docs/regulatory_framework/source_documents
+
+Failed download folder:
+ - D:/GitHub/us-bank-stress-test-dfast-replication/docs/regulatory_framework/failed_downloads
+
+Main outputs:
+ - D:/GitHub/us-bank-stress-test-dfast-replication/outputs/regulatory_documentation/us_regulatory_document_targets_v2.csv
+ - D:/GitHub/us-bank-stress-test-dfast-replication/outputs/regulatory_documentation/us_regulatory_document_download_log_v2.csv
+ - D:/GitHub/us-bank-stress-test-dfast-replication/outputs/regulatory_documentation/us_regulatory_document_inventory_v2.csv
+ - D:/GitHub/us-bank-stress-test-dfast-replication/outputs/regulatory_documentation/us_regulatory_document_download_summary_v2.csv
+ - D:/GitHub/us-bank-stress-test-dfast-replication/outputs/regulatory_documentation/us_regulatory_document_failed_downloads_v2.csv
+ - D:/GitHub/us-bank-stress-test-dfast-replication/outputs/regulatory_documentation/us_regulatory_document_validated_downloads_v2.csv
+ - D:/GitHub/us-bank-stress-test-dfast-replication/outputs/regulatory_documentation/us_regulatory_document_pdf_validation_summary_v2.csv
+ - D:/GitHub/us-bank-stress-test-dfast-replication/outputs/regulatory_documentation/script02b_v2_execution_summary.csv
+ - D:/GitHub/us-bank-stress-test-dfast-replication/outputs/regulatory_documentation/script02b_v2_regulatory_documentation_outputs.xlsx
+ - D:/GitHub/us-bank-stress-test-dfast-replication/outputs/regulatory_documentation/script02b_v2_regulatory_documentation_report.docx
+ - D:/GitHub/us-bank-stress-test-dfast-replication/outputs/regulatory_documentation/script02b_v2_execution_log.txt

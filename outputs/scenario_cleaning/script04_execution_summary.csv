@@ -1,0 +1,2 @@
+script_id,script_name,project_root,started_at,completed_at,input_files,scenarios_structured,macro_variables_detected,long_rows,wide_rows,shock_rows
+04,structure_fed_macro_scenarios,D:/GitHub/us-bank-stress-test-dfast-replication,2026-06-29 18:59:29.075685,2026-06-29 18:59:33.95124,3,3,10,2260,226,130

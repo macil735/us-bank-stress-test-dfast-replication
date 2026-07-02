@@ -1,0 +1,58 @@
+============================================================
+Script 08 - Build Modelling Sample and Treatment Rules completed
+============================================================
+Project root: D:/GitHub/us-bank-stress-test-dfast-replication
+
+Started at: 2026-06-30 04:46:44.920781
+Completed at: 2026-06-30 04:46:52.932643
+
+Input rows: 665
+Input columns: 58
+Modelling sample rows: 665
+Winsorized sample rows: 665
+Treatment variables: 12
+Outliers detected: 157
+Credit loss model sample: 520
+PPNR model sample: 520
+Capital model sample: 520
+Full core model sample: 520
+
+Sample summary:
+# A tibble: 5 × 3
+  sample_name              observations share_of_raw_sample
+  <chr>                           <int>               <dbl>
+1 raw_transmission_panel            665               1    
+2 credit_loss_model_sample          520               0.782
+3 ppnr_model_sample                 520               0.782
+4 capital_model_sample              520               0.782
+5 full_core_model_sample            520               0.782
+
+Outlier summary:
+# A tibble: 12 × 4
+   variable               outlier_count banks_affected years_affected
+   <chr>                          <int>          <int>          <int>
+ 1 x_loan_loss_burden                14              4              7
+ 2 x_observed_loss_burden            14              5              8
+ 3 x_ppnr_absorption                 14              6             10
+ 4 x_ppnr_to_losses                  14              5             10
+ 5 x_provision_ratio                 14              8              8
+ 6 y_credit_loss_rate                14              5              7
+ 7 y_ppnr_rate                       13              7              9
+ 8 x_rwa_growth                      12              5              5
+ 9 y_capital_depletion               12              6              7
+10 y_credit_loss_ratio               12              3              8
+11 y_ppnr_ratio                      12              4              9
+12 y_pretax_margin                   12              7              7
+
+Main outputs:
+ - data/processed/model/modelling_sample_clean.csv
+ - data/processed/model/modelling_sample_winsorized.csv
+ - data/processed/model/modelling_sample_outlier_flags.csv
+ - outputs/modelling_sample/script08_sample_summary.csv
+ - outputs/modelling_sample/script08_scenario_sample_summary.csv
+ - outputs/modelling_sample/script08_variable_treatment_summary.csv
+ - outputs/modelling_sample/script08_outlier_summary.csv
+ - outputs/modelling_sample/script08_execution_summary.csv
+ - outputs/modelling_sample/script08_modelling_sample_outputs.xlsx
+ - outputs/modelling_sample/script08_modelling_sample_report.docx
+ - outputs/modelling_sample/script08_execution_log.txt

@@ -1,0 +1,10 @@
+field,value
+project_title,US Bank Stress Test Replication and DFAST Benchmarking
+project_short_name,us-bank-stress-test-dfast-replication
+project_root,D:/GitHub/us-bank-stress-test-dfast-replication
+country,United States
+banking_system,Large U.S. banking organizations
+main_objective,Build a replicable data infrastructure for DFAST benchmarking and bank-level stress-test replication.
+script_number,01
+script_name,Data Availability Audit
+script_file,R/01_data_availability_audit.R

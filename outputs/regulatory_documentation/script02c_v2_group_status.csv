@@ -1,0 +1,4 @@
+document_group,selected_document_id,selected_document_type,validation_status,fixed,status
+Public Results Data Dictionary,FED_PUBLIC_RESULTS_DICTIONARY_PAGE_ATTEMPT_04,HTML,VALID_HTML,TRUE,Fixed with HTML fallback reference
+Detailed Nine Quarter Paths Dictionary,FED_9Q_PATHS_DICTIONARY_ATTEMPT_02,PDF,VALID_PDF,TRUE,Fixed with validated PDF
+Large Bank Capital Requirements,FED_LARGE_BANK_CAPITAL_REQUIREMENTS_ATTEMPT_01,HTML,VALID_HTML,TRUE,Fixed with HTML fallback reference

@@ -1,0 +1,19 @@
+metric,value
+Model risk assessment observations,497
+Banks,56
+Exercise years,11
+Scenarios,3
+Duplicated keys,0
+CET1 minimum ratio RMSE,0.846
+CET1 minimum ratio MAE,0.5873
+CET1 minimum ratio bias,0.0145
+CET1 minimum ratio R-squared,0.9688
+CET1 minimum ratio correlation,0.9843
+Largest absolute CET1 error,5.0721
+High model risk observations,35
+Moderate model risk observations,68
+Watchlist observations,92
+Low model risk observations,302
+Tail error cutoff p95,1.6163
+Threshold misses,22
+Near-threshold observations,127

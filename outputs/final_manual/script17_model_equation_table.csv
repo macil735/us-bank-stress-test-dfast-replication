@@ -1,0 +1,5 @@
+model_block,simplified_equation,pedagogical_message
+Credit loss model,"Credit loss ratio = f(bank effects, year effects, scenario indicators, balance sheet controls)",Credit losses are not only macro driven; they also depend on bank-specific portfolios.
+PPNR model,"PPNR ratio = f(bank effects, year effects, scenario indicators, profitability controls)",PPNR is the first buffer against stress losses.
+Capital depletion model,"CET1 depletion = f(credit losses, PPNR, RWA dynamics, initial CET1, bank effects, year effects)",Capital depletion aggregates multiple channels and is therefore harder to model than a single component.
+Integrated CET1 projection,Predicted CET1 minimum ratio = Starting CET1 ratio - Predicted CET1 depletion,The integrated engine converts model components into a capital adequacy outcome.

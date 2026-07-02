@@ -1,0 +1,2 @@
+script_id,script_name,project_root,started_at,completed_at,input_rows,input_columns,modelling_sample_rows,winsorized_sample_rows,treatment_variables,outliers_detected,credit_loss_model_sample,ppnr_model_sample,capital_model_sample,full_core_model_sample
+08,build_modelling_sample,D:/GitHub/us-bank-stress-test-dfast-replication,2026-06-30 04:46:44.920781,2026-06-30 04:46:47.341674,665,58,665,665,12,157,520,520,520,520

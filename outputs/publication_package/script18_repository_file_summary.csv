@@ -1,0 +1,15 @@
+file_type_group,extension,files,total_size_bytes
+CSV,csv,354,25112383
+Documentation/text,cff,1,905
+Documentation/text,md,20,29786
+Documentation/text,txt,31,132289
+Excel workbook,xlsx,30,1328587
+Figure,png,69,9658552
+No extension,,25,3681444
+Other,html,8,864255
+Other,json,2,12209034
+Other,pper,5,734
+Other,rproj,1,218
+PDF,pdf,38,24094405
+R script,r,32,962724
+Word document,docx,23,2576690

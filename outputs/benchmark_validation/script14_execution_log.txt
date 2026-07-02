@@ -1,0 +1,97 @@
+============================================================
+Script 14 - Benchmark Validation Against Federal Reserve Public Results completed
+============================================================
+Project root: D:/GitHub/us-bank-stress-test-dfast-replication
+
+Started at: 2026-06-30 07:30:49.445845
+Completed at: 2026-06-30 07:31:01.483686
+
+Input rows: 497
+Validation rows: 497
+Banks: 56
+Years: 11
+Scenarios: 3
+Latest exercise year: 2025
+Duplicated keys: 0
+CET1 minimum RMSE: 0.846
+CET1 minimum MAE: 0.5873
+CET1 minimum bias: 0.0145
+CET1 minimum R-squared: 0.9688
+CET1 minimum correlation: 0.9843
+Figures created: 7
+
+Executive validation summary:
+# A tibble: 15 × 2
+   metric                                    value 
+   <chr>                                     <chr> 
+ 1 Benchmark validation observations         497   
+ 2 Banks                                     56    
+ 3 Exercise years                            11    
+ 4 Scenarios                                 3     
+ 5 Latest exercise year                      2025  
+ 6 CET1 minimum ratio RMSE                   0.846 
+ 7 CET1 minimum ratio MAE                    0.5873
+ 8 CET1 minimum ratio bias                   0.0145
+ 9 CET1 minimum ratio R-squared              0.9688
+10 CET1 minimum ratio correlation            0.9843
+11 High precision share                      0.5674
+12 Acceptable or better share                0.8189
+13 CET1 4.5 percent classification accuracy  1     
+14 CET1 7.0 percent classification accuracy  0.9557
+15 Largest absolute CET1 minimum ratio error 5.0721
+
+Overall validation metrics:
+# A tibble: 4 × 17
+  component          actual_variable predicted_variable observations actual_mean predicted_mean actual_median predicted_median
+  <chr>              <chr>           <chr>                     <int>       <dbl>          <dbl>         <dbl>            <dbl>
+1 Credit loss ratio  actual_credit_… predicted_credit_…          497      0.0420         0.0419        0.0398           0.0404
+2 PPNR ratio         actual_ppnr_ra… predicted_ppnr_ra…          497      0.0450         0.0450        0.0379           0.0388
+3 CET1 capital depl… actual_capital… predicted_capital…          497      2.67           2.67          2.3              2.43  
+4 CET1 minimum ratio observed_cet1_… integrated_predic…          497     10.7           10.7           9.7              9.77  
+# ℹ 9 more variables: actual_min <dbl>, predicted_min <dbl>, actual_max <dbl>, predicted_max <dbl>, bias <dbl>, rmse <dbl>,
+#   mae <dbl>, r2_outcome_prediction <dbl>, correlation <dbl>
+
+Threshold classification summary:
+# A tibble: 2 × 6
+  threshold        observations observed_below_threshold predicted_below_threshold correctly_classified classification_accur…¹
+  <chr>                   <int>                    <int>                     <int>                <int>                  <dbl>
+1 CET1 4.5 percent          497                        0                         0                  497                  1    
+2 CET1 7.0 percent          497                       39                        31                  475                  0.956
+# ℹ abbreviated name: ¹​classification_accuracy
+
+Execution summary:
+# A tibble: 1 × 18
+  script_id script_name                  project_root started_at completed_at input_rows validation_rows banks years scenarios
+  <chr>     <chr>                        <chr>        <chr>      <chr>             <int>           <int> <int> <int>     <int>
+1 14        benchmark_validation_agains… D:/GitHub/u… 2026-06-3… 2026-06-30 …        497             497    56    11         3
+# ℹ 8 more variables: latest_exercise_year <dbl>, duplicated_keys <int>, cet1_min_rmse <dbl>, cet1_min_mae <dbl>,
+#   cet1_min_bias <dbl>, cet1_min_r2 <dbl>, cet1_min_correlation <dbl>, figures_created <int>
+
+Main outputs:
+ - data/processed/model/benchmark_validation_panel.csv
+ - data/processed/model/benchmark_validation_largest_cet1_errors.csv
+ - outputs/benchmark_validation/script14_key_audit_summary.csv
+ - outputs/benchmark_validation/script14_executive_validation_summary.csv
+ - outputs/benchmark_validation/script14_overall_validation_metrics.csv
+ - outputs/benchmark_validation/script14_scenario_validation_metrics.csv
+ - outputs/benchmark_validation/script14_bank_validation_metrics.csv
+ - outputs/benchmark_validation/script14_error_bucket_summary.csv
+ - outputs/benchmark_validation/script14_validation_flag_by_scenario.csv
+ - outputs/benchmark_validation/script14_largest_cet1_errors.csv
+ - outputs/benchmark_validation/script14_threshold_classification_summary.csv
+ - outputs/benchmark_validation/script14_latest_validation_metrics.csv
+ - outputs/benchmark_validation/script14_latest_largest_errors.csv
+ - outputs/benchmark_validation/script14_figure_inventory.csv
+ - outputs/benchmark_validation/script14_execution_summary.csv
+ - outputs/benchmark_validation/script14_benchmark_validation_outputs.xlsx
+ - outputs/benchmark_validation/script14_benchmark_validation_report.docx
+ - outputs/benchmark_validation/script14_execution_log.txt
+
+Figures:
+ - outputs/benchmark_validation/figures/fig01_observed_vs_predicted_cet1_min_ratio.png
+ - outputs/benchmark_validation/figures/fig02_cet1_prediction_error_distribution.png
+ - outputs/benchmark_validation/figures/fig03_validation_rmse_by_component.png
+ - outputs/benchmark_validation/figures/fig04_cet1_validation_precision_buckets.png
+ - outputs/benchmark_validation/figures/fig05_top20_bank_cet1_validation_rmse.png
+ - outputs/benchmark_validation/figures/fig06_cet1_rmse_by_year_scenario.png
+ - outputs/benchmark_validation/figures/fig07_observed_vs_predicted_capital_depletion.png

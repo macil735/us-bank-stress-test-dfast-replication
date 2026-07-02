@@ -1,0 +1,13 @@
+description,file_path,required,exists,size_bytes,modified_at,status
+Git ignore file,.gitignore,TRUE,TRUE,1302,2026-06-30 10:09:56,OK
+Git publication instructions,docs/git_publication_steps.md,TRUE,TRUE,2006,2026-06-30 10:09:56,OK
+Final publication status,docs/final_publication_status.md,TRUE,TRUE,1556,2026-06-30 10:09:56,OK
+Repository README,README.md,TRUE,TRUE,7204,2026-06-30 09:16:20,OK
+Repository license,LICENSE,TRUE,TRUE,1474,2026-06-30 09:16:20,OK
+Citation metadata,CITATION.cff,TRUE,TRUE,905,2026-06-30 09:16:20,OK
+Public disclaimer,docs/public_disclaimer.md,TRUE,TRUE,1068,2026-06-30 09:16:20,OK
+Reproducibility notes,docs/reproducibility_notes.md,TRUE,TRUE,1521,2026-06-30 09:16:20,OK
+Project scope,docs/project_scope.md,TRUE,TRUE,1481,2026-06-30 09:16:20,OK
+Final institutional report,report/final_institutional_report_dfast_replication.docx,TRUE,TRUE,853601,2026-06-30 08:06:42,OK
+Final technical and pedagogical manual,manual/final_technical_pedagogical_manual_dfast_replication.docx,TRUE,TRUE,658547,2026-06-30 08:49:20,OK
+Final publication checklist workbook,outputs/publication_package/script18_publication_checklist.xlsx,TRUE,TRUE,35027,2026-06-30 09:17:40,OK

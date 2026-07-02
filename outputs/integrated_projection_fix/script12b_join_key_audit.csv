@@ -1,0 +1,1492 @@
+component,duplicated_key,bank_rssd_id,bank_name,exercise_year,scenario_code,scenario_label,key_count
+credit_loss,FALSE,1025608,BancWest Corporation,2015,2,Supervisory Adverse,1
+credit_loss,FALSE,1025608,BancWest Corporation,2015,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1026632,The Charles Schwab Corporation,2021,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1026632,The Charles Schwab Corporation,2022,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1026632,The Charles Schwab Corporation,2023,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1026632,The Charles Schwab Corporation,2024,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1026632,The Charles Schwab Corporation,2025,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1027004,Zions Bancorporation,2015,2,Supervisory Adverse,1
+credit_loss,FALSE,1027004,Zions Bancorporation,2015,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1027004,Zions Bancorporation,2016,2,Supervisory Adverse,1
+credit_loss,FALSE,1027004,Zions Bancorporation,2016,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1032473,Deutsche Bank Trust Corporation,2015,2,Supervisory Adverse,1
+credit_loss,FALSE,1032473,Deutsche Bank Trust Corporation,2015,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1032473,Deutsche Bank Trust Corporation,2016,2,Supervisory Adverse,1
+credit_loss,FALSE,1032473,Deutsche Bank Trust Corporation,2016,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1036967,CIT Group Inc.,2016,2,Supervisory Adverse,1
+credit_loss,FALSE,1036967,CIT Group Inc.,2016,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1037003,M&T Bank Corporation,2015,2,Supervisory Adverse,1
+credit_loss,FALSE,1037003,M&T Bank Corporation,2015,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1037003,M&T Bank Corporation,2016,2,Supervisory Adverse,1
+credit_loss,FALSE,1037003,M&T Bank Corporation,2016,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1037003,M&T Bank Corporation,2017,2,Supervisory Adverse,1
+credit_loss,FALSE,1037003,M&T Bank Corporation,2017,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1037003,M&T Bank Corporation,2019,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1037003,M&T Bank Corporation,2020,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1037003,M&T Bank Corporation,2020,30,Supervisory Alternative Severe,1
+credit_loss,FALSE,1037003,M&T Bank Corporation,2021,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1037003,M&T Bank Corporation,2022,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1037003,M&T Bank Corporation,2023,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1037003,M&T Bank Corporation,2024,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1037003,M&T Bank Corporation,2025,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1039502,JPMorgan Chase & Co.,2015,2,Supervisory Adverse,1
+credit_loss,FALSE,1039502,JPMorgan Chase & Co.,2015,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1039502,JPMorgan Chase & Co.,2016,2,Supervisory Adverse,1
+credit_loss,FALSE,1039502,JPMorgan Chase & Co.,2016,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1039502,JPMorgan Chase & Co.,2017,2,Supervisory Adverse,1
+credit_loss,FALSE,1039502,JPMorgan Chase & Co.,2017,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1039502,JPMorgan Chase & Co.,2018,2,Supervisory Adverse,1
+credit_loss,FALSE,1039502,JPMorgan Chase & Co.,2018,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1039502,JPMorgan Chase & Co.,2019,3,Supervisory Severely Adverse,1
+credit_loss,TRUE,1039502,JPMorgan Chase & Co.,2020,3,Supervisory Severely Adverse,2
+credit_loss,FALSE,1039502,JPMorgan Chase & Co.,2020,30,Supervisory Alternative Severe,1
+credit_loss,FALSE,1039502,JPMorgan Chase & Co.,2021,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1039502,JPMorgan Chase & Co.,2022,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1039502,JPMorgan Chase & Co.,2023,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1039502,JPMorgan Chase & Co.,2024,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1039502,JPMorgan Chase & Co.,2025,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1068025,KeyCorp,2015,2,Supervisory Adverse,1
+credit_loss,FALSE,1068025,KeyCorp,2015,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1068025,KeyCorp,2016,2,Supervisory Adverse,1
+credit_loss,FALSE,1068025,KeyCorp,2016,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1068025,KeyCorp,2017,2,Supervisory Adverse,1
+credit_loss,FALSE,1068025,KeyCorp,2017,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1068025,KeyCorp,2019,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1068025,KeyCorp,2020,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1068025,KeyCorp,2020,30,Supervisory Alternative Severe,1
+credit_loss,FALSE,1068025,KeyCorp,2021,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1068025,KeyCorp,2023,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1068025,KeyCorp,2025,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1068191,Huntington Bancshares Incorporated,2015,2,Supervisory Adverse,1
+credit_loss,FALSE,1068191,Huntington Bancshares Incorporated,2015,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1068191,Huntington Bancshares Incorporated,2016,2,Supervisory Adverse,1
+credit_loss,FALSE,1068191,Huntington Bancshares Incorporated,2016,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1068191,Huntington Bancshares Incorporated,2017,2,Supervisory Adverse,1
+credit_loss,FALSE,1068191,Huntington Bancshares Incorporated,2017,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1068191,Huntington Bancshares Incorporated,2019,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1068191,Huntington Bancshares Incorporated,2020,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1068191,Huntington Bancshares Incorporated,2020,30,Supervisory Alternative Severe,1
+credit_loss,FALSE,1068191,Huntington Bancshares Incorporated,2021,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1068191,Huntington Bancshares Incorporated,2023,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1068191,Huntington Bancshares Incorporated,2025,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1069778,"The PNC Financial Services Group, Inc.",2015,2,Supervisory Adverse,1
+credit_loss,FALSE,1069778,"The PNC Financial Services Group, Inc.",2015,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1069778,"The PNC Financial Services Group, Inc.",2016,2,Supervisory Adverse,1
+credit_loss,FALSE,1069778,"The PNC Financial Services Group, Inc.",2016,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1069778,"The PNC Financial Services Group, Inc.",2017,2,Supervisory Adverse,1
+credit_loss,FALSE,1069778,"The PNC Financial Services Group, Inc.",2017,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1069778,"The PNC Financial Services Group, Inc.",2018,2,Supervisory Adverse,1
+credit_loss,FALSE,1069778,"The PNC Financial Services Group, Inc.",2018,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1069778,"The PNC Financial Services Group, Inc.",2019,3,Supervisory Severely Adverse,1
+credit_loss,TRUE,1069778,"The PNC Financial Services Group, Inc.",2020,3,Supervisory Severely Adverse,2
+credit_loss,FALSE,1069778,"The PNC Financial Services Group, Inc.",2020,30,Supervisory Alternative Severe,1
+credit_loss,FALSE,1069778,"The PNC Financial Services Group, Inc.",2021,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1069778,"The PNC Financial Services Group, Inc.",2022,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1069778,"The PNC Financial Services Group, Inc.",2023,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1069778,"The PNC Financial Services Group, Inc.",2024,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1069778,"The PNC Financial Services Group, Inc.",2025,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1070345,Fifth Third Bancorp,2015,2,Supervisory Adverse,1
+credit_loss,FALSE,1070345,Fifth Third Bancorp,2015,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1070345,Fifth Third Bancorp,2016,2,Supervisory Adverse,1
+credit_loss,FALSE,1070345,Fifth Third Bancorp,2016,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1070345,Fifth Third Bancorp,2017,2,Supervisory Adverse,1
+credit_loss,FALSE,1070345,Fifth Third Bancorp,2017,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1070345,Fifth Third Bancorp,2019,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1070345,Fifth Third Bancorp,2020,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1070345,Fifth Third Bancorp,2020,30,Supervisory Alternative Severe,1
+credit_loss,FALSE,1070345,Fifth Third Bancorp,2021,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1070345,Fifth Third Bancorp,2023,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1070345,Fifth Third Bancorp,2025,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1073757,Bank of America Corporation,2015,2,Supervisory Adverse,1
+credit_loss,FALSE,1073757,Bank of America Corporation,2015,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1073757,Bank of America Corporation,2016,2,Supervisory Adverse,1
+credit_loss,FALSE,1073757,Bank of America Corporation,2016,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1073757,Bank of America Corporation,2017,2,Supervisory Adverse,1
+credit_loss,FALSE,1073757,Bank of America Corporation,2017,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1073757,Bank of America Corporation,2018,2,Supervisory Adverse,1
+credit_loss,FALSE,1073757,Bank of America Corporation,2018,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1073757,Bank of America Corporation,2019,3,Supervisory Severely Adverse,1
+credit_loss,TRUE,1073757,Bank of America Corporation,2020,3,Supervisory Severely Adverse,2
+credit_loss,FALSE,1073757,Bank of America Corporation,2020,30,Supervisory Alternative Severe,1
+credit_loss,FALSE,1073757,Bank of America Corporation,2021,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1073757,Bank of America Corporation,2022,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1073757,Bank of America Corporation,2023,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1073757,Bank of America Corporation,2024,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1073757,Bank of America Corporation,2025,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1074156,BB&T Corporation,2015,2,Supervisory Adverse,1
+credit_loss,FALSE,1074156,BB&T Corporation,2015,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1074156,BB&T Corporation,2016,2,Supervisory Adverse,1
+credit_loss,FALSE,1074156,BB&T Corporation,2016,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1074156,BB&T Corporation,2017,2,Supervisory Adverse,1
+credit_loss,FALSE,1074156,BB&T Corporation,2017,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1074156,Truist Financial Corporation,2019,3,Supervisory Severely Adverse,1
+credit_loss,TRUE,1074156,Truist Financial Corporation,2020,3,Supervisory Severely Adverse,2
+credit_loss,FALSE,1074156,Truist Financial Corporation,2020,30,Supervisory Alternative Severe,1
+credit_loss,FALSE,1074156,Truist Financial Corporation,2021,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1074156,Truist Financial Corporation,2022,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1074156,Truist Financial Corporation,2023,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1074156,Truist Financial Corporation,2024,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1074156,Truist Financial Corporation,2025,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1075612,"First Citizens Bancshares, Inc.",2025,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1078529,"BBVA Compass Bancshares, Inc.",2015,2,Supervisory Adverse,1
+credit_loss,FALSE,1078529,"BBVA Compass Bancshares, Inc.",2015,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1078529,"BBVA Compass Bancshares, Inc.",2016,2,Supervisory Adverse,1
+credit_loss,FALSE,1078529,"BBVA Compass Bancshares, Inc.",2016,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1078529,"BBVA Compass Bancshares, Inc.",2017,2,Supervisory Adverse,1
+credit_loss,FALSE,1078529,"BBVA Compass Bancshares, Inc.",2017,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1111435,State Street Corporation,2015,2,Supervisory Adverse,1
+credit_loss,FALSE,1111435,State Street Corporation,2015,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1111435,State Street Corporation,2016,2,Supervisory Adverse,1
+credit_loss,FALSE,1111435,State Street Corporation,2016,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1111435,State Street Corporation,2017,2,Supervisory Adverse,1
+credit_loss,FALSE,1111435,State Street Corporation,2017,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1111435,State Street Corporation,2018,2,Supervisory Adverse,1
+credit_loss,FALSE,1111435,State Street Corporation,2018,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1111435,State Street Corporation,2019,3,Supervisory Severely Adverse,1
+credit_loss,TRUE,1111435,State Street Corporation,2020,3,Supervisory Severely Adverse,2
+credit_loss,FALSE,1111435,State Street Corporation,2020,30,Supervisory Alternative Severe,1
+credit_loss,FALSE,1111435,State Street Corporation,2021,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1111435,State Street Corporation,2022,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1111435,State Street Corporation,2023,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1111435,State Street Corporation,2024,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1111435,State Street Corporation,2025,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1119794,U.S. Bancorp,2015,2,Supervisory Adverse,1
+credit_loss,FALSE,1119794,U.S. Bancorp,2015,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1119794,U.S. Bancorp,2016,2,Supervisory Adverse,1
+credit_loss,FALSE,1119794,U.S. Bancorp,2016,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1119794,U.S. Bancorp,2017,2,Supervisory Adverse,1
+credit_loss,FALSE,1119794,U.S. Bancorp,2017,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1119794,U.S. Bancorp,2018,2,Supervisory Adverse,1
+credit_loss,FALSE,1119794,U.S. Bancorp,2018,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1119794,U.S. Bancorp,2019,3,Supervisory Severely Adverse,1
+credit_loss,TRUE,1119794,U.S. Bancorp,2020,3,Supervisory Severely Adverse,2
+credit_loss,FALSE,1119794,U.S. Bancorp,2020,30,Supervisory Alternative Severe,1
+credit_loss,FALSE,1119794,U.S. Bancorp,2021,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1119794,U.S. Bancorp,2022,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1119794,U.S. Bancorp,2023,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1119794,U.S. Bancorp,2024,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1119794,U.S. Bancorp,2025,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1120754,Wells Fargo & Company,2015,2,Supervisory Adverse,1
+credit_loss,FALSE,1120754,Wells Fargo & Company,2015,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1120754,Wells Fargo & Company,2016,2,Supervisory Adverse,1
+credit_loss,FALSE,1120754,Wells Fargo & Company,2016,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1120754,Wells Fargo & Company,2017,2,Supervisory Adverse,1
+credit_loss,FALSE,1120754,Wells Fargo & Company,2017,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1120754,Wells Fargo & Company,2018,2,Supervisory Adverse,1
+credit_loss,FALSE,1120754,Wells Fargo & Company,2018,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1120754,Wells Fargo & Company,2019,3,Supervisory Severely Adverse,1
+credit_loss,TRUE,1120754,Wells Fargo & Company,2020,3,Supervisory Severely Adverse,2
+credit_loss,FALSE,1120754,Wells Fargo & Company,2020,30,Supervisory Alternative Severe,1
+credit_loss,FALSE,1120754,Wells Fargo & Company,2021,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1120754,Wells Fargo & Company,2022,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1120754,Wells Fargo & Company,2023,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1120754,Wells Fargo & Company,2024,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1120754,Wells Fargo & Company,2025,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1131787,"SunTrust Banks, Inc.",2015,2,Supervisory Adverse,1
+credit_loss,FALSE,1131787,"SunTrust Banks, Inc.",2015,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1131787,"SunTrust Banks, Inc.",2016,2,Supervisory Adverse,1
+credit_loss,FALSE,1131787,"SunTrust Banks, Inc.",2016,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1131787,"SunTrust Banks, Inc.",2017,2,Supervisory Adverse,1
+credit_loss,FALSE,1131787,"SunTrust Banks, Inc.",2017,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1132449,"Citizens Financial Group, Inc.",2015,2,Supervisory Adverse,1
+credit_loss,FALSE,1132449,"Citizens Financial Group, Inc.",2015,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1132449,"Citizens Financial Group, Inc.",2016,2,Supervisory Adverse,1
+credit_loss,FALSE,1132449,"Citizens Financial Group, Inc.",2016,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1132449,"Citizens Financial Group, Inc.",2017,2,Supervisory Adverse,1
+credit_loss,FALSE,1132449,"Citizens Financial Group, Inc.",2017,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1132449,"Citizens Financial Group, Inc.",2019,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1132449,"Citizens Financial Group, Inc.",2020,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1132449,"Citizens Financial Group, Inc.",2020,30,Supervisory Alternative Severe,1
+credit_loss,FALSE,1132449,"Citizens Financial Group, Inc.",2021,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1132449,"Citizens Financial Group, Inc.",2022,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1132449,"Citizens Financial Group, Inc.",2023,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1132449,"Citizens Financial Group, Inc.",2025,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1199611,Northern Trust Corporation,2015,2,Supervisory Adverse,1
+credit_loss,FALSE,1199611,Northern Trust Corporation,2015,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1199611,Northern Trust Corporation,2016,2,Supervisory Adverse,1
+credit_loss,FALSE,1199611,Northern Trust Corporation,2016,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1199611,Northern Trust Corporation,2017,2,Supervisory Adverse,1
+credit_loss,FALSE,1199611,Northern Trust Corporation,2017,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1199611,Northern Trust Corporation,2018,2,Supervisory Adverse,1
+credit_loss,FALSE,1199611,Northern Trust Corporation,2018,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1199611,Northern Trust Corporation,2019,3,Supervisory Severely Adverse,1
+credit_loss,TRUE,1199611,Northern Trust Corporation,2020,3,Supervisory Severely Adverse,2
+credit_loss,FALSE,1199611,Northern Trust Corporation,2020,30,Supervisory Alternative Severe,1
+credit_loss,FALSE,1199611,Northern Trust Corporation,2021,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1199611,Northern Trust Corporation,2022,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1199611,Northern Trust Corporation,2023,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1199611,Northern Trust Corporation,2024,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1199611,Northern Trust Corporation,2025,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1199844,Comerica Incorporated,2015,2,Supervisory Adverse,1
+credit_loss,FALSE,1199844,Comerica Incorporated,2015,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1199844,Comerica Incorporated,2016,2,Supervisory Adverse,1
+credit_loss,FALSE,1199844,Comerica Incorporated,2016,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1245415,BMO Financial Corp.,2015,2,Supervisory Adverse,1
+credit_loss,FALSE,1245415,BMO Financial Corp.,2015,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1245415,BMO Financial Corp.,2016,2,Supervisory Adverse,1
+credit_loss,FALSE,1245415,BMO Financial Corp.,2016,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1245415,BMO Financial Corp.,2017,2,Supervisory Adverse,1
+credit_loss,FALSE,1245415,BMO Financial Corp.,2017,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1245415,BMO Financial Corp.,2019,3,Supervisory Severely Adverse,1
+credit_loss,TRUE,1245415,BMO Financial Corp.,2020,3,Supervisory Severely Adverse,2
+credit_loss,FALSE,1245415,BMO Financial Corp.,2020,30,Supervisory Alternative Severe,1
+credit_loss,FALSE,1245415,BMO Financial Corp.,2021,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1245415,BMO Financial Corp.,2022,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1245415,BMO Financial Corp.,2023,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1245415,BMO Financial Corp.,2024,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1245415,BMO Financial Corp.,2025,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1275216,American Express Company,2015,2,Supervisory Adverse,1
+credit_loss,FALSE,1275216,American Express Company,2015,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1275216,American Express Company,2016,2,Supervisory Adverse,1
+credit_loss,FALSE,1275216,American Express Company,2016,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1275216,American Express Company,2017,2,Supervisory Adverse,1
+credit_loss,FALSE,1275216,American Express Company,2017,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1275216,American Express Company,2019,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1275216,American Express Company,2020,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1275216,American Express Company,2020,30,Supervisory Alternative Severe,1
+credit_loss,FALSE,1275216,American Express Company,2021,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1275216,American Express Company,2023,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1275216,American Express Company,2024,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1275216,American Express Company,2025,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1378434,MUFG Americas Holdings Corporation,2015,2,Supervisory Adverse,1
+credit_loss,FALSE,1378434,MUFG Americas Holdings Corporation,2015,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1378434,MUFG Americas Holdings Corporation,2016,2,Supervisory Adverse,1
+credit_loss,FALSE,1378434,MUFG Americas Holdings Corporation,2016,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1378434,MUFG Americas Holdings Corporation,2017,2,Supervisory Adverse,1
+credit_loss,FALSE,1378434,MUFG Americas Holdings Corporation,2017,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1378434,MUFG Americas Holdings Corporation,2019,3,Supervisory Severely Adverse,1
+credit_loss,TRUE,1378434,MUFG Americas Holdings Corporation,2020,3,Supervisory Severely Adverse,2
+credit_loss,FALSE,1378434,MUFG Americas Holdings Corporation,2020,30,Supervisory Alternative Severe,1
+credit_loss,FALSE,1562859,Ally Financial Inc.,2015,2,Supervisory Adverse,1
+credit_loss,FALSE,1562859,Ally Financial Inc.,2015,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1562859,Ally Financial Inc.,2016,2,Supervisory Adverse,1
+credit_loss,FALSE,1562859,Ally Financial Inc.,2016,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1562859,Ally Financial Inc.,2017,2,Supervisory Adverse,1
+credit_loss,FALSE,1562859,Ally Financial Inc.,2017,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1562859,Ally Financial Inc.,2019,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1562859,Ally Financial Inc.,2020,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1562859,Ally Financial Inc.,2020,30,Supervisory Alternative Severe,1
+credit_loss,FALSE,1562859,Ally Financial Inc.,2021,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1562859,Ally Financial Inc.,2023,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1562859,Ally Financial Inc.,2025,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1574834,"Credit Suisse Holdings (USA), Inc.",2017,2,Supervisory Adverse,1
+credit_loss,FALSE,1574834,"Credit Suisse Holdings (USA), Inc.",2017,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1574834,"Credit Suisse Holdings (USA), Inc.",2018,2,Supervisory Adverse,1
+credit_loss,FALSE,1574834,"Credit Suisse Holdings (USA), Inc.",2018,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1574834,"Credit Suisse Holdings (USA), Inc.",2019,3,Supervisory Severely Adverse,1
+credit_loss,TRUE,1574834,"Credit Suisse Holdings (USA), Inc.",2020,3,Supervisory Severely Adverse,2
+credit_loss,FALSE,1574834,"Credit Suisse Holdings (USA), Inc.",2020,30,Supervisory Alternative Severe,1
+credit_loss,FALSE,1574834,"Credit Suisse Holdings (USA), Inc.",2021,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1574834,"Credit Suisse Holdings (USA), Inc.",2022,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1575569,"BNP Paribas USA, Inc.",2017,2,Supervisory Adverse,1
+credit_loss,FALSE,1575569,"BNP Paribas USA, Inc.",2017,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1575569,"BNP Paribas USA, Inc.",2019,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1575569,"BNP Paribas USA, Inc.",2020,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1575569,"BNP Paribas USA, Inc.",2020,30,Supervisory Alternative Severe,1
+credit_loss,FALSE,1575569,"BNP Paribas USA, Inc.",2021,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1951350,Citigroup Inc.,2015,2,Supervisory Adverse,1
+credit_loss,FALSE,1951350,Citigroup Inc.,2015,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1951350,Citigroup Inc.,2016,2,Supervisory Adverse,1
+credit_loss,FALSE,1951350,Citigroup Inc.,2016,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1951350,Citigroup Inc.,2017,2,Supervisory Adverse,1
+credit_loss,FALSE,1951350,Citigroup Inc.,2017,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1951350,Citigroup Inc.,2018,2,Supervisory Adverse,1
+credit_loss,FALSE,1951350,Citigroup Inc.,2018,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1951350,Citigroup Inc.,2019,3,Supervisory Severely Adverse,1
+credit_loss,TRUE,1951350,Citigroup Inc.,2020,3,Supervisory Severely Adverse,2
+credit_loss,FALSE,1951350,Citigroup Inc.,2020,30,Supervisory Alternative Severe,1
+credit_loss,FALSE,1951350,Citigroup Inc.,2021,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1951350,Citigroup Inc.,2022,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1951350,Citigroup Inc.,2023,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1951350,Citigroup Inc.,2024,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,1951350,Citigroup Inc.,2025,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,2162966,Morgan Stanley,2015,2,Supervisory Adverse,1
+credit_loss,FALSE,2162966,Morgan Stanley,2015,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,2162966,Morgan Stanley,2016,2,Supervisory Adverse,1
+credit_loss,FALSE,2162966,Morgan Stanley,2016,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,2162966,Morgan Stanley,2017,2,Supervisory Adverse,1
+credit_loss,FALSE,2162966,Morgan Stanley,2017,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,2162966,Morgan Stanley,2018,2,Supervisory Adverse,1
+credit_loss,FALSE,2162966,Morgan Stanley,2018,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,2162966,Morgan Stanley,2019,3,Supervisory Severely Adverse,1
+credit_loss,TRUE,2162966,Morgan Stanley,2020,3,Supervisory Severely Adverse,2
+credit_loss,FALSE,2162966,Morgan Stanley,2020,30,Supervisory Alternative Severe,1
+credit_loss,FALSE,2162966,Morgan Stanley,2021,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,2162966,Morgan Stanley,2022,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,2162966,Morgan Stanley,2023,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,2162966,Morgan Stanley,2024,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,2162966,Morgan Stanley,2025,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,2277860,Capital One Financial Corporation,2015,2,Supervisory Adverse,1
+credit_loss,FALSE,2277860,Capital One Financial Corporation,2015,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,2277860,Capital One Financial Corporation,2016,2,Supervisory Adverse,1
+credit_loss,FALSE,2277860,Capital One Financial Corporation,2016,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,2277860,Capital One Financial Corporation,2017,2,Supervisory Adverse,1
+credit_loss,FALSE,2277860,Capital One Financial Corporation,2017,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,2277860,Capital One Financial Corporation,2018,2,Supervisory Adverse,1
+credit_loss,FALSE,2277860,Capital One Financial Corporation,2018,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,2277860,Capital One Financial Corporation,2019,3,Supervisory Severely Adverse,1
+credit_loss,TRUE,2277860,Capital One Financial Corporation,2020,3,Supervisory Severely Adverse,2
+credit_loss,FALSE,2277860,Capital One Financial Corporation,2020,30,Supervisory Alternative Severe,1
+credit_loss,FALSE,2277860,Capital One Financial Corporation,2021,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,2277860,Capital One Financial Corporation,2022,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,2277860,Capital One Financial Corporation,2023,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,2277860,Capital One Financial Corporation,2024,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,2277860,Capital One Financial Corporation,2025,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,2380443,"The Goldman Sachs Group, Inc.",2015,2,Supervisory Adverse,1
+credit_loss,FALSE,2380443,"The Goldman Sachs Group, Inc.",2015,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,2380443,"The Goldman Sachs Group, Inc.",2016,2,Supervisory Adverse,1
+credit_loss,FALSE,2380443,"The Goldman Sachs Group, Inc.",2016,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,2380443,"The Goldman Sachs Group, Inc.",2017,2,Supervisory Adverse,1
+credit_loss,FALSE,2380443,"The Goldman Sachs Group, Inc.",2017,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,2380443,"The Goldman Sachs Group, Inc.",2018,2,Supervisory Adverse,1
+credit_loss,FALSE,2380443,"The Goldman Sachs Group, Inc.",2018,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,2380443,"The Goldman Sachs Group, Inc.",2019,3,Supervisory Severely Adverse,1
+credit_loss,TRUE,2380443,"The Goldman Sachs Group, Inc.",2020,3,Supervisory Severely Adverse,2
+credit_loss,FALSE,2380443,"The Goldman Sachs Group, Inc.",2020,30,Supervisory Alternative Severe,1
+credit_loss,FALSE,2380443,"The Goldman Sachs Group, Inc.",2021,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,2380443,"The Goldman Sachs Group, Inc.",2022,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,2380443,"The Goldman Sachs Group, Inc.",2023,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,2380443,"The Goldman Sachs Group, Inc.",2024,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,2380443,"The Goldman Sachs Group, Inc.",2025,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,2816906,DB USA Corporation,2017,2,Supervisory Adverse,1
+credit_loss,FALSE,2816906,DB USA Corporation,2017,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,2816906,DB USA Corporation,2018,2,Supervisory Adverse,1
+credit_loss,FALSE,2816906,DB USA Corporation,2018,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,2816906,DB USA Corporation,2019,3,Supervisory Severely Adverse,1
+credit_loss,TRUE,2816906,DB USA Corporation,2020,3,Supervisory Severely Adverse,2
+credit_loss,FALSE,2816906,DB USA Corporation,2020,30,Supervisory Alternative Severe,1
+credit_loss,FALSE,2816906,DB USA Corporation,2021,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,2816906,DB USA Corporation,2022,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,2816906,DB USA Corporation,2023,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,2816906,DB USA Corporation,2024,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,2816906,DB USA Corporation,2025,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,3226762,RBC USA Holdco Corporation,2017,2,Supervisory Adverse,1
+credit_loss,FALSE,3226762,RBC USA Holdco Corporation,2017,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,3232316,HSBC North America Holdings Inc.,2015,2,Supervisory Adverse,1
+credit_loss,FALSE,3232316,HSBC North America Holdings Inc.,2015,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,3232316,HSBC North America Holdings Inc.,2016,2,Supervisory Adverse,1
+credit_loss,FALSE,3232316,HSBC North America Holdings Inc.,2016,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,3232316,HSBC North America Holdings Inc.,2017,2,Supervisory Adverse,1
+credit_loss,FALSE,3232316,HSBC North America Holdings Inc.,2017,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,3232316,HSBC North America Holdings Inc.,2018,2,Supervisory Adverse,1
+credit_loss,FALSE,3232316,HSBC North America Holdings Inc.,2018,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,3232316,HSBC North America Holdings Inc.,2019,3,Supervisory Severely Adverse,1
+credit_loss,TRUE,3232316,HSBC North America Holdings Inc.,2020,3,Supervisory Severely Adverse,2
+credit_loss,FALSE,3232316,HSBC North America Holdings Inc.,2020,30,Supervisory Alternative Severe,1
+credit_loss,FALSE,3232316,HSBC North America Holdings Inc.,2021,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,3232316,HSBC North America Holdings Inc.,2023,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,3232316,HSBC North America Holdings Inc.,2025,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,3242838,Regions Financial Corporation,2015,2,Supervisory Adverse,1
+credit_loss,FALSE,3242838,Regions Financial Corporation,2015,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,3242838,Regions Financial Corporation,2016,2,Supervisory Adverse,1
+credit_loss,FALSE,3242838,Regions Financial Corporation,2016,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,3242838,Regions Financial Corporation,2017,2,Supervisory Adverse,1
+credit_loss,FALSE,3242838,Regions Financial Corporation,2017,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,3242838,Regions Financial Corporation,2019,3,Supervisory Severely Adverse,1
+credit_loss,TRUE,3242838,Regions Financial Corporation,2020,3,Supervisory Severely Adverse,2
+credit_loss,FALSE,3242838,Regions Financial Corporation,2020,30,Supervisory Alternative Severe,1
+credit_loss,FALSE,3242838,Regions Financial Corporation,2021,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,3242838,Regions Financial Corporation,2023,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,3242838,Regions Financial Corporation,2025,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,3587146,The Bank of New York Mellon Corporation,2015,2,Supervisory Adverse,1
+credit_loss,FALSE,3587146,The Bank of New York Mellon Corporation,2015,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,3587146,The Bank of New York Mellon Corporation,2016,2,Supervisory Adverse,1
+credit_loss,FALSE,3587146,The Bank of New York Mellon Corporation,2016,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,3587146,The Bank of New York Mellon Corporation,2017,2,Supervisory Adverse,1
+credit_loss,FALSE,3587146,The Bank of New York Mellon Corporation,2017,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,3587146,The Bank of New York Mellon Corporation,2018,2,Supervisory Adverse,1
+credit_loss,FALSE,3587146,The Bank of New York Mellon Corporation,2018,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,3587146,The Bank of New York Mellon Corporation,2019,3,Supervisory Severely Adverse,1
+credit_loss,TRUE,3587146,The Bank of New York Mellon Corporation,2020,3,Supervisory Severely Adverse,2
+credit_loss,FALSE,3587146,The Bank of New York Mellon Corporation,2020,30,Supervisory Alternative Severe,1
+credit_loss,FALSE,3587146,The Bank of New York Mellon Corporation,2021,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,3587146,The Bank of New York Mellon Corporation,2022,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,3587146,The Bank of New York Mellon Corporation,2023,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,3587146,The Bank of New York Mellon Corporation,2024,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,3587146,The Bank of New York Mellon Corporation,2025,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,3606542,TD Group US Holdings LLC,2015,2,Supervisory Adverse,1
+credit_loss,FALSE,3606542,TD Group US Holdings LLC,2015,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,3606542,TD Group US Holdings LLC,2016,2,Supervisory Adverse,1
+credit_loss,FALSE,3606542,TD Group US Holdings LLC,2016,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,3606542,TD Group US Holdings LLC,2017,2,Supervisory Adverse,1
+credit_loss,FALSE,3606542,TD Group US Holdings LLC,2017,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,3606542,TD Group US Holdings LLC,2018,2,Supervisory Adverse,1
+credit_loss,FALSE,3606542,TD Group US Holdings LLC,2018,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,3606542,TD Group US Holdings LLC,2019,3,Supervisory Severely Adverse,1
+credit_loss,TRUE,3606542,TD Group US Holdings LLC,2020,3,Supervisory Severely Adverse,2
+credit_loss,FALSE,3606542,TD Group US Holdings LLC,2020,30,Supervisory Alternative Severe,1
+credit_loss,FALSE,3606542,TD Group US Holdings LLC,2021,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,3606542,TD Group US Holdings LLC,2022,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,3606542,TD Group US Holdings LLC,2023,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,3606542,TD Group US Holdings LLC,2024,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,3606542,TD Group US Holdings LLC,2025,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,3846375,Discover Financial Services,2015,2,Supervisory Adverse,1
+credit_loss,FALSE,3846375,Discover Financial Services,2015,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,3846375,Discover Financial Services,2016,2,Supervisory Adverse,1
+credit_loss,FALSE,3846375,Discover Financial Services,2016,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,3846375,Discover Financial Services,2017,2,Supervisory Adverse,1
+credit_loss,FALSE,3846375,Discover Financial Services,2017,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,3846375,Discover Financial Services,2019,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,3846375,Discover Financial Services,2020,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,3846375,Discover Financial Services,2020,30,Supervisory Alternative Severe,1
+credit_loss,FALSE,3846375,Discover Financial Services,2021,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,3846375,Discover Financial Services,2023,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,3981856,"Santander Holdings USA, Inc.",2015,2,Supervisory Adverse,1
+credit_loss,FALSE,3981856,"Santander Holdings USA, Inc.",2015,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,3981856,"Santander Holdings USA, Inc.",2016,2,Supervisory Adverse,1
+credit_loss,FALSE,3981856,"Santander Holdings USA, Inc.",2016,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,3981856,"Santander Holdings USA, Inc.",2017,2,Supervisory Adverse,1
+credit_loss,FALSE,3981856,"Santander Holdings USA, Inc.",2017,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,3981856,"Santander Holdings USA, Inc.",2019,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,3981856,"Santander Holdings USA, Inc.",2020,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,3981856,"Santander Holdings USA, Inc.",2020,30,Supervisory Alternative Severe,1
+credit_loss,FALSE,3981856,"Santander Holdings USA, Inc.",2021,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,3981856,"Santander Holdings USA, Inc.",2023,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,3981856,"Santander Holdings USA, Inc.",2025,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,4504654,Synchrony Financial,2025,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,4846998,UBS Americas Holding LLC,2017,2,Supervisory Adverse,1
+credit_loss,FALSE,4846998,UBS Americas Holding LLC,2017,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,4846998,UBS Americas Holding LLC,2018,2,Supervisory Adverse,1
+credit_loss,FALSE,4846998,UBS Americas Holding LLC,2018,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,4846998,UBS Americas Holding LLC,2019,3,Supervisory Severely Adverse,1
+credit_loss,TRUE,4846998,UBS Americas Holding LLC,2020,3,Supervisory Severely Adverse,2
+credit_loss,FALSE,4846998,UBS Americas Holding LLC,2020,30,Supervisory Alternative Severe,1
+credit_loss,FALSE,4846998,UBS Americas Holding LLC,2021,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,4846998,UBS Americas Holding LLC,2022,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,4846998,UBS Americas Holding LLC,2023,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,4846998,UBS Americas Holding LLC,2024,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,4846998,UBS Americas Holding LLC,2025,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,5005998,BancWest Corporation,2016,2,Supervisory Adverse,1
+credit_loss,FALSE,5005998,BancWest Corporation,2016,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,5006575,Barclays US LLC,2017,2,Supervisory Adverse,1
+credit_loss,FALSE,5006575,Barclays US LLC,2017,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,5006575,Barclays US LLC,2018,2,Supervisory Adverse,1
+credit_loss,FALSE,5006575,Barclays US LLC,2018,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,5006575,Barclays US LLC,2019,3,Supervisory Severely Adverse,1
+credit_loss,TRUE,5006575,Barclays US LLC,2020,3,Supervisory Severely Adverse,2
+credit_loss,FALSE,5006575,Barclays US LLC,2020,30,Supervisory Alternative Severe,1
+credit_loss,FALSE,5006575,Barclays US LLC,2021,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,5006575,Barclays US LLC,2022,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,5006575,Barclays US LLC,2023,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,5006575,Barclays US LLC,2024,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,5006575,Barclays US LLC,2025,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,5280254,RBC US Group Holdings LLC,2019,3,Supervisory Severely Adverse,1
+credit_loss,TRUE,5280254,RBC US Group Holdings LLC,2020,3,Supervisory Severely Adverse,2
+credit_loss,FALSE,5280254,RBC US Group Holdings LLC,2020,30,Supervisory Alternative Severe,1
+credit_loss,FALSE,5280254,RBC US Group Holdings LLC,2021,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,5280254,RBC US Group Holdings LLC,2022,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,5280254,RBC US Group Holdings LLC,2023,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,5280254,RBC US Group Holdings LLC,2024,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,5280254,RBC US Group Holdings LLC,2025,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,NA,18 participating firms,2018,2,Supervisory Adverse,1
+credit_loss,FALSE,NA,18 participating firms,2018,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,NA,22 participating banks,2024,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,NA,23 participating banks,2022,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,NA,23 participating firms,2020,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,NA,31 participating banks,2023,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,NA,32 participating banks,2025,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,NA,33 participating bank holding companies,2015,2,Supervisory Adverse,1
+credit_loss,FALSE,NA,33 participating bank holding companies,2015,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,NA,33 participating banks,2021,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,NA,33 participating firms,2019,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,NA,33 participating firms,2020,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,NA,33 participating firms,2020,30,Supervisory Alternative Severe,1
+credit_loss,FALSE,NA,34 participating bank holding companies,2016,2,Supervisory Adverse,1
+credit_loss,FALSE,NA,34 participating bank holding companies,2016,3,Supervisory Severely Adverse,1
+credit_loss,FALSE,NA,35 participating firms,2017,2,Supervisory Adverse,1
+credit_loss,FALSE,NA,35 participating firms,2017,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1025608,BancWest Corporation,2015,2,Supervisory Adverse,1
+ppnr,FALSE,1025608,BancWest Corporation,2015,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1026632,The Charles Schwab Corporation,2021,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1026632,The Charles Schwab Corporation,2022,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1026632,The Charles Schwab Corporation,2023,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1026632,The Charles Schwab Corporation,2024,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1026632,The Charles Schwab Corporation,2025,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1027004,Zions Bancorporation,2015,2,Supervisory Adverse,1
+ppnr,FALSE,1027004,Zions Bancorporation,2015,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1027004,Zions Bancorporation,2016,2,Supervisory Adverse,1
+ppnr,FALSE,1027004,Zions Bancorporation,2016,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1032473,Deutsche Bank Trust Corporation,2015,2,Supervisory Adverse,1
+ppnr,FALSE,1032473,Deutsche Bank Trust Corporation,2015,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1032473,Deutsche Bank Trust Corporation,2016,2,Supervisory Adverse,1
+ppnr,FALSE,1032473,Deutsche Bank Trust Corporation,2016,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1036967,CIT Group Inc.,2016,2,Supervisory Adverse,1
+ppnr,FALSE,1036967,CIT Group Inc.,2016,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1037003,M&T Bank Corporation,2015,2,Supervisory Adverse,1
+ppnr,FALSE,1037003,M&T Bank Corporation,2015,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1037003,M&T Bank Corporation,2016,2,Supervisory Adverse,1
+ppnr,FALSE,1037003,M&T Bank Corporation,2016,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1037003,M&T Bank Corporation,2017,2,Supervisory Adverse,1
+ppnr,FALSE,1037003,M&T Bank Corporation,2017,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1037003,M&T Bank Corporation,2019,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1037003,M&T Bank Corporation,2020,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1037003,M&T Bank Corporation,2020,30,Supervisory Alternative Severe,1
+ppnr,FALSE,1037003,M&T Bank Corporation,2021,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1037003,M&T Bank Corporation,2022,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1037003,M&T Bank Corporation,2023,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1037003,M&T Bank Corporation,2024,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1037003,M&T Bank Corporation,2025,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1039502,JPMorgan Chase & Co.,2015,2,Supervisory Adverse,1
+ppnr,FALSE,1039502,JPMorgan Chase & Co.,2015,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1039502,JPMorgan Chase & Co.,2016,2,Supervisory Adverse,1
+ppnr,FALSE,1039502,JPMorgan Chase & Co.,2016,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1039502,JPMorgan Chase & Co.,2017,2,Supervisory Adverse,1
+ppnr,FALSE,1039502,JPMorgan Chase & Co.,2017,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1039502,JPMorgan Chase & Co.,2018,2,Supervisory Adverse,1
+ppnr,FALSE,1039502,JPMorgan Chase & Co.,2018,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1039502,JPMorgan Chase & Co.,2019,3,Supervisory Severely Adverse,1
+ppnr,TRUE,1039502,JPMorgan Chase & Co.,2020,3,Supervisory Severely Adverse,2
+ppnr,FALSE,1039502,JPMorgan Chase & Co.,2020,30,Supervisory Alternative Severe,1
+ppnr,FALSE,1039502,JPMorgan Chase & Co.,2021,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1039502,JPMorgan Chase & Co.,2022,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1039502,JPMorgan Chase & Co.,2023,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1039502,JPMorgan Chase & Co.,2024,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1039502,JPMorgan Chase & Co.,2025,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1068025,KeyCorp,2015,2,Supervisory Adverse,1
+ppnr,FALSE,1068025,KeyCorp,2015,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1068025,KeyCorp,2016,2,Supervisory Adverse,1
+ppnr,FALSE,1068025,KeyCorp,2016,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1068025,KeyCorp,2017,2,Supervisory Adverse,1
+ppnr,FALSE,1068025,KeyCorp,2017,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1068025,KeyCorp,2019,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1068025,KeyCorp,2020,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1068025,KeyCorp,2020,30,Supervisory Alternative Severe,1
+ppnr,FALSE,1068025,KeyCorp,2021,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1068025,KeyCorp,2023,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1068025,KeyCorp,2025,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1068191,Huntington Bancshares Incorporated,2015,2,Supervisory Adverse,1
+ppnr,FALSE,1068191,Huntington Bancshares Incorporated,2015,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1068191,Huntington Bancshares Incorporated,2016,2,Supervisory Adverse,1
+ppnr,FALSE,1068191,Huntington Bancshares Incorporated,2016,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1068191,Huntington Bancshares Incorporated,2017,2,Supervisory Adverse,1
+ppnr,FALSE,1068191,Huntington Bancshares Incorporated,2017,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1068191,Huntington Bancshares Incorporated,2019,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1068191,Huntington Bancshares Incorporated,2020,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1068191,Huntington Bancshares Incorporated,2020,30,Supervisory Alternative Severe,1
+ppnr,FALSE,1068191,Huntington Bancshares Incorporated,2021,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1068191,Huntington Bancshares Incorporated,2023,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1068191,Huntington Bancshares Incorporated,2025,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1069778,"The PNC Financial Services Group, Inc.",2015,2,Supervisory Adverse,1
+ppnr,FALSE,1069778,"The PNC Financial Services Group, Inc.",2015,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1069778,"The PNC Financial Services Group, Inc.",2016,2,Supervisory Adverse,1
+ppnr,FALSE,1069778,"The PNC Financial Services Group, Inc.",2016,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1069778,"The PNC Financial Services Group, Inc.",2017,2,Supervisory Adverse,1
+ppnr,FALSE,1069778,"The PNC Financial Services Group, Inc.",2017,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1069778,"The PNC Financial Services Group, Inc.",2018,2,Supervisory Adverse,1
+ppnr,FALSE,1069778,"The PNC Financial Services Group, Inc.",2018,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1069778,"The PNC Financial Services Group, Inc.",2019,3,Supervisory Severely Adverse,1
+ppnr,TRUE,1069778,"The PNC Financial Services Group, Inc.",2020,3,Supervisory Severely Adverse,2
+ppnr,FALSE,1069778,"The PNC Financial Services Group, Inc.",2020,30,Supervisory Alternative Severe,1
+ppnr,FALSE,1069778,"The PNC Financial Services Group, Inc.",2021,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1069778,"The PNC Financial Services Group, Inc.",2022,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1069778,"The PNC Financial Services Group, Inc.",2023,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1069778,"The PNC Financial Services Group, Inc.",2024,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1069778,"The PNC Financial Services Group, Inc.",2025,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1070345,Fifth Third Bancorp,2015,2,Supervisory Adverse,1
+ppnr,FALSE,1070345,Fifth Third Bancorp,2015,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1070345,Fifth Third Bancorp,2016,2,Supervisory Adverse,1
+ppnr,FALSE,1070345,Fifth Third Bancorp,2016,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1070345,Fifth Third Bancorp,2017,2,Supervisory Adverse,1
+ppnr,FALSE,1070345,Fifth Third Bancorp,2017,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1070345,Fifth Third Bancorp,2019,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1070345,Fifth Third Bancorp,2020,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1070345,Fifth Third Bancorp,2020,30,Supervisory Alternative Severe,1
+ppnr,FALSE,1070345,Fifth Third Bancorp,2021,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1070345,Fifth Third Bancorp,2023,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1070345,Fifth Third Bancorp,2025,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1073757,Bank of America Corporation,2015,2,Supervisory Adverse,1
+ppnr,FALSE,1073757,Bank of America Corporation,2015,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1073757,Bank of America Corporation,2016,2,Supervisory Adverse,1
+ppnr,FALSE,1073757,Bank of America Corporation,2016,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1073757,Bank of America Corporation,2017,2,Supervisory Adverse,1
+ppnr,FALSE,1073757,Bank of America Corporation,2017,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1073757,Bank of America Corporation,2018,2,Supervisory Adverse,1
+ppnr,FALSE,1073757,Bank of America Corporation,2018,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1073757,Bank of America Corporation,2019,3,Supervisory Severely Adverse,1
+ppnr,TRUE,1073757,Bank of America Corporation,2020,3,Supervisory Severely Adverse,2
+ppnr,FALSE,1073757,Bank of America Corporation,2020,30,Supervisory Alternative Severe,1
+ppnr,FALSE,1073757,Bank of America Corporation,2021,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1073757,Bank of America Corporation,2022,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1073757,Bank of America Corporation,2023,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1073757,Bank of America Corporation,2024,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1073757,Bank of America Corporation,2025,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1074156,BB&T Corporation,2015,2,Supervisory Adverse,1
+ppnr,FALSE,1074156,BB&T Corporation,2015,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1074156,BB&T Corporation,2016,2,Supervisory Adverse,1
+ppnr,FALSE,1074156,BB&T Corporation,2016,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1074156,BB&T Corporation,2017,2,Supervisory Adverse,1
+ppnr,FALSE,1074156,BB&T Corporation,2017,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1074156,Truist Financial Corporation,2019,3,Supervisory Severely Adverse,1
+ppnr,TRUE,1074156,Truist Financial Corporation,2020,3,Supervisory Severely Adverse,2
+ppnr,FALSE,1074156,Truist Financial Corporation,2020,30,Supervisory Alternative Severe,1
+ppnr,FALSE,1074156,Truist Financial Corporation,2021,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1074156,Truist Financial Corporation,2022,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1074156,Truist Financial Corporation,2023,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1074156,Truist Financial Corporation,2024,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1074156,Truist Financial Corporation,2025,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1075612,"First Citizens Bancshares, Inc.",2025,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1078529,"BBVA Compass Bancshares, Inc.",2015,2,Supervisory Adverse,1
+ppnr,FALSE,1078529,"BBVA Compass Bancshares, Inc.",2015,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1078529,"BBVA Compass Bancshares, Inc.",2016,2,Supervisory Adverse,1
+ppnr,FALSE,1078529,"BBVA Compass Bancshares, Inc.",2016,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1078529,"BBVA Compass Bancshares, Inc.",2017,2,Supervisory Adverse,1
+ppnr,FALSE,1078529,"BBVA Compass Bancshares, Inc.",2017,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1111435,State Street Corporation,2015,2,Supervisory Adverse,1
+ppnr,FALSE,1111435,State Street Corporation,2015,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1111435,State Street Corporation,2016,2,Supervisory Adverse,1
+ppnr,FALSE,1111435,State Street Corporation,2016,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1111435,State Street Corporation,2017,2,Supervisory Adverse,1
+ppnr,FALSE,1111435,State Street Corporation,2017,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1111435,State Street Corporation,2018,2,Supervisory Adverse,1
+ppnr,FALSE,1111435,State Street Corporation,2018,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1111435,State Street Corporation,2019,3,Supervisory Severely Adverse,1
+ppnr,TRUE,1111435,State Street Corporation,2020,3,Supervisory Severely Adverse,2
+ppnr,FALSE,1111435,State Street Corporation,2020,30,Supervisory Alternative Severe,1
+ppnr,FALSE,1111435,State Street Corporation,2021,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1111435,State Street Corporation,2022,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1111435,State Street Corporation,2023,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1111435,State Street Corporation,2024,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1111435,State Street Corporation,2025,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1119794,U.S. Bancorp,2015,2,Supervisory Adverse,1
+ppnr,FALSE,1119794,U.S. Bancorp,2015,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1119794,U.S. Bancorp,2016,2,Supervisory Adverse,1
+ppnr,FALSE,1119794,U.S. Bancorp,2016,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1119794,U.S. Bancorp,2017,2,Supervisory Adverse,1
+ppnr,FALSE,1119794,U.S. Bancorp,2017,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1119794,U.S. Bancorp,2018,2,Supervisory Adverse,1
+ppnr,FALSE,1119794,U.S. Bancorp,2018,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1119794,U.S. Bancorp,2019,3,Supervisory Severely Adverse,1
+ppnr,TRUE,1119794,U.S. Bancorp,2020,3,Supervisory Severely Adverse,2
+ppnr,FALSE,1119794,U.S. Bancorp,2020,30,Supervisory Alternative Severe,1
+ppnr,FALSE,1119794,U.S. Bancorp,2021,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1119794,U.S. Bancorp,2022,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1119794,U.S. Bancorp,2023,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1119794,U.S. Bancorp,2024,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1119794,U.S. Bancorp,2025,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1120754,Wells Fargo & Company,2015,2,Supervisory Adverse,1
+ppnr,FALSE,1120754,Wells Fargo & Company,2015,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1120754,Wells Fargo & Company,2016,2,Supervisory Adverse,1
+ppnr,FALSE,1120754,Wells Fargo & Company,2016,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1120754,Wells Fargo & Company,2017,2,Supervisory Adverse,1
+ppnr,FALSE,1120754,Wells Fargo & Company,2017,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1120754,Wells Fargo & Company,2018,2,Supervisory Adverse,1
+ppnr,FALSE,1120754,Wells Fargo & Company,2018,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1120754,Wells Fargo & Company,2019,3,Supervisory Severely Adverse,1
+ppnr,TRUE,1120754,Wells Fargo & Company,2020,3,Supervisory Severely Adverse,2
+ppnr,FALSE,1120754,Wells Fargo & Company,2020,30,Supervisory Alternative Severe,1
+ppnr,FALSE,1120754,Wells Fargo & Company,2021,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1120754,Wells Fargo & Company,2022,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1120754,Wells Fargo & Company,2023,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1120754,Wells Fargo & Company,2024,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1120754,Wells Fargo & Company,2025,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1131787,"SunTrust Banks, Inc.",2015,2,Supervisory Adverse,1
+ppnr,FALSE,1131787,"SunTrust Banks, Inc.",2015,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1131787,"SunTrust Banks, Inc.",2016,2,Supervisory Adverse,1
+ppnr,FALSE,1131787,"SunTrust Banks, Inc.",2016,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1131787,"SunTrust Banks, Inc.",2017,2,Supervisory Adverse,1
+ppnr,FALSE,1131787,"SunTrust Banks, Inc.",2017,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1132449,"Citizens Financial Group, Inc.",2015,2,Supervisory Adverse,1
+ppnr,FALSE,1132449,"Citizens Financial Group, Inc.",2015,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1132449,"Citizens Financial Group, Inc.",2016,2,Supervisory Adverse,1
+ppnr,FALSE,1132449,"Citizens Financial Group, Inc.",2016,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1132449,"Citizens Financial Group, Inc.",2017,2,Supervisory Adverse,1
+ppnr,FALSE,1132449,"Citizens Financial Group, Inc.",2017,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1132449,"Citizens Financial Group, Inc.",2019,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1132449,"Citizens Financial Group, Inc.",2020,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1132449,"Citizens Financial Group, Inc.",2020,30,Supervisory Alternative Severe,1
+ppnr,FALSE,1132449,"Citizens Financial Group, Inc.",2021,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1132449,"Citizens Financial Group, Inc.",2022,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1132449,"Citizens Financial Group, Inc.",2023,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1132449,"Citizens Financial Group, Inc.",2025,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1199611,Northern Trust Corporation,2015,2,Supervisory Adverse,1
+ppnr,FALSE,1199611,Northern Trust Corporation,2015,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1199611,Northern Trust Corporation,2016,2,Supervisory Adverse,1
+ppnr,FALSE,1199611,Northern Trust Corporation,2016,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1199611,Northern Trust Corporation,2017,2,Supervisory Adverse,1
+ppnr,FALSE,1199611,Northern Trust Corporation,2017,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1199611,Northern Trust Corporation,2018,2,Supervisory Adverse,1
+ppnr,FALSE,1199611,Northern Trust Corporation,2018,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1199611,Northern Trust Corporation,2019,3,Supervisory Severely Adverse,1
+ppnr,TRUE,1199611,Northern Trust Corporation,2020,3,Supervisory Severely Adverse,2
+ppnr,FALSE,1199611,Northern Trust Corporation,2020,30,Supervisory Alternative Severe,1
+ppnr,FALSE,1199611,Northern Trust Corporation,2021,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1199611,Northern Trust Corporation,2022,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1199611,Northern Trust Corporation,2023,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1199611,Northern Trust Corporation,2024,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1199611,Northern Trust Corporation,2025,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1199844,Comerica Incorporated,2015,2,Supervisory Adverse,1
+ppnr,FALSE,1199844,Comerica Incorporated,2015,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1199844,Comerica Incorporated,2016,2,Supervisory Adverse,1
+ppnr,FALSE,1199844,Comerica Incorporated,2016,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1245415,BMO Financial Corp.,2015,2,Supervisory Adverse,1
+ppnr,FALSE,1245415,BMO Financial Corp.,2015,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1245415,BMO Financial Corp.,2016,2,Supervisory Adverse,1
+ppnr,FALSE,1245415,BMO Financial Corp.,2016,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1245415,BMO Financial Corp.,2017,2,Supervisory Adverse,1
+ppnr,FALSE,1245415,BMO Financial Corp.,2017,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1245415,BMO Financial Corp.,2019,3,Supervisory Severely Adverse,1
+ppnr,TRUE,1245415,BMO Financial Corp.,2020,3,Supervisory Severely Adverse,2
+ppnr,FALSE,1245415,BMO Financial Corp.,2020,30,Supervisory Alternative Severe,1
+ppnr,FALSE,1245415,BMO Financial Corp.,2021,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1245415,BMO Financial Corp.,2022,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1245415,BMO Financial Corp.,2023,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1245415,BMO Financial Corp.,2024,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1245415,BMO Financial Corp.,2025,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1275216,American Express Company,2015,2,Supervisory Adverse,1
+ppnr,FALSE,1275216,American Express Company,2015,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1275216,American Express Company,2016,2,Supervisory Adverse,1
+ppnr,FALSE,1275216,American Express Company,2016,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1275216,American Express Company,2017,2,Supervisory Adverse,1
+ppnr,FALSE,1275216,American Express Company,2017,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1275216,American Express Company,2019,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1275216,American Express Company,2020,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1275216,American Express Company,2020,30,Supervisory Alternative Severe,1
+ppnr,FALSE,1275216,American Express Company,2021,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1275216,American Express Company,2023,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1275216,American Express Company,2024,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1275216,American Express Company,2025,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1378434,MUFG Americas Holdings Corporation,2015,2,Supervisory Adverse,1
+ppnr,FALSE,1378434,MUFG Americas Holdings Corporation,2015,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1378434,MUFG Americas Holdings Corporation,2016,2,Supervisory Adverse,1
+ppnr,FALSE,1378434,MUFG Americas Holdings Corporation,2016,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1378434,MUFG Americas Holdings Corporation,2017,2,Supervisory Adverse,1
+ppnr,FALSE,1378434,MUFG Americas Holdings Corporation,2017,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1378434,MUFG Americas Holdings Corporation,2019,3,Supervisory Severely Adverse,1
+ppnr,TRUE,1378434,MUFG Americas Holdings Corporation,2020,3,Supervisory Severely Adverse,2
+ppnr,FALSE,1378434,MUFG Americas Holdings Corporation,2020,30,Supervisory Alternative Severe,1
+ppnr,FALSE,1562859,Ally Financial Inc.,2015,2,Supervisory Adverse,1
+ppnr,FALSE,1562859,Ally Financial Inc.,2015,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1562859,Ally Financial Inc.,2016,2,Supervisory Adverse,1
+ppnr,FALSE,1562859,Ally Financial Inc.,2016,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1562859,Ally Financial Inc.,2017,2,Supervisory Adverse,1
+ppnr,FALSE,1562859,Ally Financial Inc.,2017,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1562859,Ally Financial Inc.,2019,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1562859,Ally Financial Inc.,2020,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1562859,Ally Financial Inc.,2020,30,Supervisory Alternative Severe,1
+ppnr,FALSE,1562859,Ally Financial Inc.,2021,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1562859,Ally Financial Inc.,2023,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1562859,Ally Financial Inc.,2025,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1574834,"Credit Suisse Holdings (USA), Inc.",2017,2,Supervisory Adverse,1
+ppnr,FALSE,1574834,"Credit Suisse Holdings (USA), Inc.",2017,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1574834,"Credit Suisse Holdings (USA), Inc.",2018,2,Supervisory Adverse,1
+ppnr,FALSE,1574834,"Credit Suisse Holdings (USA), Inc.",2018,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1574834,"Credit Suisse Holdings (USA), Inc.",2019,3,Supervisory Severely Adverse,1
+ppnr,TRUE,1574834,"Credit Suisse Holdings (USA), Inc.",2020,3,Supervisory Severely Adverse,2
+ppnr,FALSE,1574834,"Credit Suisse Holdings (USA), Inc.",2020,30,Supervisory Alternative Severe,1
+ppnr,FALSE,1574834,"Credit Suisse Holdings (USA), Inc.",2021,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1574834,"Credit Suisse Holdings (USA), Inc.",2022,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1575569,"BNP Paribas USA, Inc.",2017,2,Supervisory Adverse,1
+ppnr,FALSE,1575569,"BNP Paribas USA, Inc.",2017,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1575569,"BNP Paribas USA, Inc.",2019,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1575569,"BNP Paribas USA, Inc.",2020,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1575569,"BNP Paribas USA, Inc.",2020,30,Supervisory Alternative Severe,1
+ppnr,FALSE,1575569,"BNP Paribas USA, Inc.",2021,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1951350,Citigroup Inc.,2015,2,Supervisory Adverse,1
+ppnr,FALSE,1951350,Citigroup Inc.,2015,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1951350,Citigroup Inc.,2016,2,Supervisory Adverse,1
+ppnr,FALSE,1951350,Citigroup Inc.,2016,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1951350,Citigroup Inc.,2017,2,Supervisory Adverse,1
+ppnr,FALSE,1951350,Citigroup Inc.,2017,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1951350,Citigroup Inc.,2018,2,Supervisory Adverse,1
+ppnr,FALSE,1951350,Citigroup Inc.,2018,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1951350,Citigroup Inc.,2019,3,Supervisory Severely Adverse,1
+ppnr,TRUE,1951350,Citigroup Inc.,2020,3,Supervisory Severely Adverse,2
+ppnr,FALSE,1951350,Citigroup Inc.,2020,30,Supervisory Alternative Severe,1
+ppnr,FALSE,1951350,Citigroup Inc.,2021,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1951350,Citigroup Inc.,2022,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1951350,Citigroup Inc.,2023,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1951350,Citigroup Inc.,2024,3,Supervisory Severely Adverse,1
+ppnr,FALSE,1951350,Citigroup Inc.,2025,3,Supervisory Severely Adverse,1
+ppnr,FALSE,2162966,Morgan Stanley,2015,2,Supervisory Adverse,1
+ppnr,FALSE,2162966,Morgan Stanley,2015,3,Supervisory Severely Adverse,1
+ppnr,FALSE,2162966,Morgan Stanley,2016,2,Supervisory Adverse,1
+ppnr,FALSE,2162966,Morgan Stanley,2016,3,Supervisory Severely Adverse,1
+ppnr,FALSE,2162966,Morgan Stanley,2017,2,Supervisory Adverse,1
+ppnr,FALSE,2162966,Morgan Stanley,2017,3,Supervisory Severely Adverse,1
+ppnr,FALSE,2162966,Morgan Stanley,2018,2,Supervisory Adverse,1
+ppnr,FALSE,2162966,Morgan Stanley,2018,3,Supervisory Severely Adverse,1
+ppnr,FALSE,2162966,Morgan Stanley,2019,3,Supervisory Severely Adverse,1
+ppnr,TRUE,2162966,Morgan Stanley,2020,3,Supervisory Severely Adverse,2
+ppnr,FALSE,2162966,Morgan Stanley,2020,30,Supervisory Alternative Severe,1
+ppnr,FALSE,2162966,Morgan Stanley,2021,3,Supervisory Severely Adverse,1
+ppnr,FALSE,2162966,Morgan Stanley,2022,3,Supervisory Severely Adverse,1
+ppnr,FALSE,2162966,Morgan Stanley,2023,3,Supervisory Severely Adverse,1
+ppnr,FALSE,2162966,Morgan Stanley,2024,3,Supervisory Severely Adverse,1
+ppnr,FALSE,2162966,Morgan Stanley,2025,3,Supervisory Severely Adverse,1
+ppnr,FALSE,2277860,Capital One Financial Corporation,2015,2,Supervisory Adverse,1
+ppnr,FALSE,2277860,Capital One Financial Corporation,2015,3,Supervisory Severely Adverse,1
+ppnr,FALSE,2277860,Capital One Financial Corporation,2016,2,Supervisory Adverse,1
+ppnr,FALSE,2277860,Capital One Financial Corporation,2016,3,Supervisory Severely Adverse,1
+ppnr,FALSE,2277860,Capital One Financial Corporation,2017,2,Supervisory Adverse,1
+ppnr,FALSE,2277860,Capital One Financial Corporation,2017,3,Supervisory Severely Adverse,1
+ppnr,FALSE,2277860,Capital One Financial Corporation,2018,2,Supervisory Adverse,1
+ppnr,FALSE,2277860,Capital One Financial Corporation,2018,3,Supervisory Severely Adverse,1
+ppnr,FALSE,2277860,Capital One Financial Corporation,2019,3,Supervisory Severely Adverse,1
+ppnr,TRUE,2277860,Capital One Financial Corporation,2020,3,Supervisory Severely Adverse,2
+ppnr,FALSE,2277860,Capital One Financial Corporation,2020,30,Supervisory Alternative Severe,1
+ppnr,FALSE,2277860,Capital One Financial Corporation,2021,3,Supervisory Severely Adverse,1
+ppnr,FALSE,2277860,Capital One Financial Corporation,2022,3,Supervisory Severely Adverse,1
+ppnr,FALSE,2277860,Capital One Financial Corporation,2023,3,Supervisory Severely Adverse,1
+ppnr,FALSE,2277860,Capital One Financial Corporation,2024,3,Supervisory Severely Adverse,1
+ppnr,FALSE,2277860,Capital One Financial Corporation,2025,3,Supervisory Severely Adverse,1
+ppnr,FALSE,2380443,"The Goldman Sachs Group, Inc.",2015,2,Supervisory Adverse,1
+ppnr,FALSE,2380443,"The Goldman Sachs Group, Inc.",2015,3,Supervisory Severely Adverse,1
+ppnr,FALSE,2380443,"The Goldman Sachs Group, Inc.",2016,2,Supervisory Adverse,1
+ppnr,FALSE,2380443,"The Goldman Sachs Group, Inc.",2016,3,Supervisory Severely Adverse,1
+ppnr,FALSE,2380443,"The Goldman Sachs Group, Inc.",2017,2,Supervisory Adverse,1
+ppnr,FALSE,2380443,"The Goldman Sachs Group, Inc.",2017,3,Supervisory Severely Adverse,1
+ppnr,FALSE,2380443,"The Goldman Sachs Group, Inc.",2018,2,Supervisory Adverse,1
+ppnr,FALSE,2380443,"The Goldman Sachs Group, Inc.",2018,3,Supervisory Severely Adverse,1
+ppnr,FALSE,2380443,"The Goldman Sachs Group, Inc.",2019,3,Supervisory Severely Adverse,1
+ppnr,TRUE,2380443,"The Goldman Sachs Group, Inc.",2020,3,Supervisory Severely Adverse,2
+ppnr,FALSE,2380443,"The Goldman Sachs Group, Inc.",2020,30,Supervisory Alternative Severe,1
+ppnr,FALSE,2380443,"The Goldman Sachs Group, Inc.",2021,3,Supervisory Severely Adverse,1
+ppnr,FALSE,2380443,"The Goldman Sachs Group, Inc.",2022,3,Supervisory Severely Adverse,1
+ppnr,FALSE,2380443,"The Goldman Sachs Group, Inc.",2023,3,Supervisory Severely Adverse,1
+ppnr,FALSE,2380443,"The Goldman Sachs Group, Inc.",2024,3,Supervisory Severely Adverse,1
+ppnr,FALSE,2380443,"The Goldman Sachs Group, Inc.",2025,3,Supervisory Severely Adverse,1
+ppnr,FALSE,2816906,DB USA Corporation,2017,2,Supervisory Adverse,1
+ppnr,FALSE,2816906,DB USA Corporation,2017,3,Supervisory Severely Adverse,1
+ppnr,FALSE,2816906,DB USA Corporation,2018,2,Supervisory Adverse,1
+ppnr,FALSE,2816906,DB USA Corporation,2018,3,Supervisory Severely Adverse,1
+ppnr,FALSE,2816906,DB USA Corporation,2019,3,Supervisory Severely Adverse,1
+ppnr,TRUE,2816906,DB USA Corporation,2020,3,Supervisory Severely Adverse,2
+ppnr,FALSE,2816906,DB USA Corporation,2020,30,Supervisory Alternative Severe,1
+ppnr,FALSE,2816906,DB USA Corporation,2021,3,Supervisory Severely Adverse,1
+ppnr,FALSE,2816906,DB USA Corporation,2022,3,Supervisory Severely Adverse,1
+ppnr,FALSE,2816906,DB USA Corporation,2023,3,Supervisory Severely Adverse,1
+ppnr,FALSE,2816906,DB USA Corporation,2024,3,Supervisory Severely Adverse,1
+ppnr,FALSE,2816906,DB USA Corporation,2025,3,Supervisory Severely Adverse,1
+ppnr,FALSE,3226762,RBC USA Holdco Corporation,2017,2,Supervisory Adverse,1
+ppnr,FALSE,3226762,RBC USA Holdco Corporation,2017,3,Supervisory Severely Adverse,1
+ppnr,FALSE,3232316,HSBC North America Holdings Inc.,2015,2,Supervisory Adverse,1
+ppnr,FALSE,3232316,HSBC North America Holdings Inc.,2015,3,Supervisory Severely Adverse,1
+ppnr,FALSE,3232316,HSBC North America Holdings Inc.,2016,2,Supervisory Adverse,1
+ppnr,FALSE,3232316,HSBC North America Holdings Inc.,2016,3,Supervisory Severely Adverse,1
+ppnr,FALSE,3232316,HSBC North America Holdings Inc.,2017,2,Supervisory Adverse,1
+ppnr,FALSE,3232316,HSBC North America Holdings Inc.,2017,3,Supervisory Severely Adverse,1
+ppnr,FALSE,3232316,HSBC North America Holdings Inc.,2018,2,Supervisory Adverse,1
+ppnr,FALSE,3232316,HSBC North America Holdings Inc.,2018,3,Supervisory Severely Adverse,1
+ppnr,FALSE,3232316,HSBC North America Holdings Inc.,2019,3,Supervisory Severely Adverse,1
+ppnr,TRUE,3232316,HSBC North America Holdings Inc.,2020,3,Supervisory Severely Adverse,2
+ppnr,FALSE,3232316,HSBC North America Holdings Inc.,2020,30,Supervisory Alternative Severe,1
+ppnr,FALSE,3232316,HSBC North America Holdings Inc.,2021,3,Supervisory Severely Adverse,1
+ppnr,FALSE,3232316,HSBC North America Holdings Inc.,2023,3,Supervisory Severely Adverse,1
+ppnr,FALSE,3232316,HSBC North America Holdings Inc.,2025,3,Supervisory Severely Adverse,1
+ppnr,FALSE,3242838,Regions Financial Corporation,2015,2,Supervisory Adverse,1
+ppnr,FALSE,3242838,Regions Financial Corporation,2015,3,Supervisory Severely Adverse,1
+ppnr,FALSE,3242838,Regions Financial Corporation,2016,2,Supervisory Adverse,1
+ppnr,FALSE,3242838,Regions Financial Corporation,2016,3,Supervisory Severely Adverse,1
+ppnr,FALSE,3242838,Regions Financial Corporation,2017,2,Supervisory Adverse,1
+ppnr,FALSE,3242838,Regions Financial Corporation,2017,3,Supervisory Severely Adverse,1
+ppnr,FALSE,3242838,Regions Financial Corporation,2019,3,Supervisory Severely Adverse,1
+ppnr,TRUE,3242838,Regions Financial Corporation,2020,3,Supervisory Severely Adverse,2
+ppnr,FALSE,3242838,Regions Financial Corporation,2020,30,Supervisory Alternative Severe,1
+ppnr,FALSE,3242838,Regions Financial Corporation,2021,3,Supervisory Severely Adverse,1
+ppnr,FALSE,3242838,Regions Financial Corporation,2023,3,Supervisory Severely Adverse,1
+ppnr,FALSE,3242838,Regions Financial Corporation,2025,3,Supervisory Severely Adverse,1
+ppnr,FALSE,3587146,The Bank of New York Mellon Corporation,2015,2,Supervisory Adverse,1
+ppnr,FALSE,3587146,The Bank of New York Mellon Corporation,2015,3,Supervisory Severely Adverse,1
+ppnr,FALSE,3587146,The Bank of New York Mellon Corporation,2016,2,Supervisory Adverse,1
+ppnr,FALSE,3587146,The Bank of New York Mellon Corporation,2016,3,Supervisory Severely Adverse,1
+ppnr,FALSE,3587146,The Bank of New York Mellon Corporation,2017,2,Supervisory Adverse,1
+ppnr,FALSE,3587146,The Bank of New York Mellon Corporation,2017,3,Supervisory Severely Adverse,1
+ppnr,FALSE,3587146,The Bank of New York Mellon Corporation,2018,2,Supervisory Adverse,1
+ppnr,FALSE,3587146,The Bank of New York Mellon Corporation,2018,3,Supervisory Severely Adverse,1
+ppnr,FALSE,3587146,The Bank of New York Mellon Corporation,2019,3,Supervisory Severely Adverse,1
+ppnr,TRUE,3587146,The Bank of New York Mellon Corporation,2020,3,Supervisory Severely Adverse,2
+ppnr,FALSE,3587146,The Bank of New York Mellon Corporation,2020,30,Supervisory Alternative Severe,1
+ppnr,FALSE,3587146,The Bank of New York Mellon Corporation,2021,3,Supervisory Severely Adverse,1
+ppnr,FALSE,3587146,The Bank of New York Mellon Corporation,2022,3,Supervisory Severely Adverse,1
+ppnr,FALSE,3587146,The Bank of New York Mellon Corporation,2023,3,Supervisory Severely Adverse,1
+ppnr,FALSE,3587146,The Bank of New York Mellon Corporation,2024,3,Supervisory Severely Adverse,1
+ppnr,FALSE,3587146,The Bank of New York Mellon Corporation,2025,3,Supervisory Severely Adverse,1
+ppnr,FALSE,3606542,TD Group US Holdings LLC,2015,2,Supervisory Adverse,1
+ppnr,FALSE,3606542,TD Group US Holdings LLC,2015,3,Supervisory Severely Adverse,1
+ppnr,FALSE,3606542,TD Group US Holdings LLC,2016,2,Supervisory Adverse,1
+ppnr,FALSE,3606542,TD Group US Holdings LLC,2016,3,Supervisory Severely Adverse,1
+ppnr,FALSE,3606542,TD Group US Holdings LLC,2017,2,Supervisory Adverse,1
+ppnr,FALSE,3606542,TD Group US Holdings LLC,2017,3,Supervisory Severely Adverse,1
+ppnr,FALSE,3606542,TD Group US Holdings LLC,2018,2,Supervisory Adverse,1
+ppnr,FALSE,3606542,TD Group US Holdings LLC,2018,3,Supervisory Severely Adverse,1
+ppnr,FALSE,3606542,TD Group US Holdings LLC,2019,3,Supervisory Severely Adverse,1
+ppnr,TRUE,3606542,TD Group US Holdings LLC,2020,3,Supervisory Severely Adverse,2
+ppnr,FALSE,3606542,TD Group US Holdings LLC,2020,30,Supervisory Alternative Severe,1
+ppnr,FALSE,3606542,TD Group US Holdings LLC,2021,3,Supervisory Severely Adverse,1
+ppnr,FALSE,3606542,TD Group US Holdings LLC,2022,3,Supervisory Severely Adverse,1
+ppnr,FALSE,3606542,TD Group US Holdings LLC,2023,3,Supervisory Severely Adverse,1
+ppnr,FALSE,3606542,TD Group US Holdings LLC,2024,3,Supervisory Severely Adverse,1
+ppnr,FALSE,3606542,TD Group US Holdings LLC,2025,3,Supervisory Severely Adverse,1
+ppnr,FALSE,3846375,Discover Financial Services,2015,2,Supervisory Adverse,1
+ppnr,FALSE,3846375,Discover Financial Services,2015,3,Supervisory Severely Adverse,1
+ppnr,FALSE,3846375,Discover Financial Services,2016,2,Supervisory Adverse,1
+ppnr,FALSE,3846375,Discover Financial Services,2016,3,Supervisory Severely Adverse,1
+ppnr,FALSE,3846375,Discover Financial Services,2017,2,Supervisory Adverse,1
+ppnr,FALSE,3846375,Discover Financial Services,2017,3,Supervisory Severely Adverse,1
+ppnr,FALSE,3846375,Discover Financial Services,2019,3,Supervisory Severely Adverse,1
+ppnr,FALSE,3846375,Discover Financial Services,2020,3,Supervisory Severely Adverse,1
+ppnr,FALSE,3846375,Discover Financial Services,2020,30,Supervisory Alternative Severe,1
+ppnr,FALSE,3846375,Discover Financial Services,2021,3,Supervisory Severely Adverse,1
+ppnr,FALSE,3846375,Discover Financial Services,2023,3,Supervisory Severely Adverse,1
+ppnr,FALSE,3981856,"Santander Holdings USA, Inc.",2015,2,Supervisory Adverse,1
+ppnr,FALSE,3981856,"Santander Holdings USA, Inc.",2015,3,Supervisory Severely Adverse,1
+ppnr,FALSE,3981856,"Santander Holdings USA, Inc.",2016,2,Supervisory Adverse,1
+ppnr,FALSE,3981856,"Santander Holdings USA, Inc.",2016,3,Supervisory Severely Adverse,1
+ppnr,FALSE,3981856,"Santander Holdings USA, Inc.",2017,2,Supervisory Adverse,1
+ppnr,FALSE,3981856,"Santander Holdings USA, Inc.",2017,3,Supervisory Severely Adverse,1
+ppnr,FALSE,3981856,"Santander Holdings USA, Inc.",2019,3,Supervisory Severely Adverse,1
+ppnr,FALSE,3981856,"Santander Holdings USA, Inc.",2020,3,Supervisory Severely Adverse,1
+ppnr,FALSE,3981856,"Santander Holdings USA, Inc.",2020,30,Supervisory Alternative Severe,1
+ppnr,FALSE,3981856,"Santander Holdings USA, Inc.",2021,3,Supervisory Severely Adverse,1
+ppnr,FALSE,3981856,"Santander Holdings USA, Inc.",2023,3,Supervisory Severely Adverse,1
+ppnr,FALSE,3981856,"Santander Holdings USA, Inc.",2025,3,Supervisory Severely Adverse,1
+ppnr,FALSE,4504654,Synchrony Financial,2025,3,Supervisory Severely Adverse,1
+ppnr,FALSE,4846998,UBS Americas Holding LLC,2017,2,Supervisory Adverse,1
+ppnr,FALSE,4846998,UBS Americas Holding LLC,2017,3,Supervisory Severely Adverse,1
+ppnr,FALSE,4846998,UBS Americas Holding LLC,2018,2,Supervisory Adverse,1
+ppnr,FALSE,4846998,UBS Americas Holding LLC,2018,3,Supervisory Severely Adverse,1
+ppnr,FALSE,4846998,UBS Americas Holding LLC,2019,3,Supervisory Severely Adverse,1
+ppnr,TRUE,4846998,UBS Americas Holding LLC,2020,3,Supervisory Severely Adverse,2
+ppnr,FALSE,4846998,UBS Americas Holding LLC,2020,30,Supervisory Alternative Severe,1
+ppnr,FALSE,4846998,UBS Americas Holding LLC,2021,3,Supervisory Severely Adverse,1
+ppnr,FALSE,4846998,UBS Americas Holding LLC,2022,3,Supervisory Severely Adverse,1
+ppnr,FALSE,4846998,UBS Americas Holding LLC,2023,3,Supervisory Severely Adverse,1
+ppnr,FALSE,4846998,UBS Americas Holding LLC,2024,3,Supervisory Severely Adverse,1
+ppnr,FALSE,4846998,UBS Americas Holding LLC,2025,3,Supervisory Severely Adverse,1
+ppnr,FALSE,5005998,BancWest Corporation,2016,2,Supervisory Adverse,1
+ppnr,FALSE,5005998,BancWest Corporation,2016,3,Supervisory Severely Adverse,1
+ppnr,FALSE,5006575,Barclays US LLC,2017,2,Supervisory Adverse,1
+ppnr,FALSE,5006575,Barclays US LLC,2017,3,Supervisory Severely Adverse,1
+ppnr,FALSE,5006575,Barclays US LLC,2018,2,Supervisory Adverse,1
+ppnr,FALSE,5006575,Barclays US LLC,2018,3,Supervisory Severely Adverse,1
+ppnr,FALSE,5006575,Barclays US LLC,2019,3,Supervisory Severely Adverse,1
+ppnr,TRUE,5006575,Barclays US LLC,2020,3,Supervisory Severely Adverse,2
+ppnr,FALSE,5006575,Barclays US LLC,2020,30,Supervisory Alternative Severe,1
+ppnr,FALSE,5006575,Barclays US LLC,2021,3,Supervisory Severely Adverse,1
+ppnr,FALSE,5006575,Barclays US LLC,2022,3,Supervisory Severely Adverse,1
+ppnr,FALSE,5006575,Barclays US LLC,2023,3,Supervisory Severely Adverse,1
+ppnr,FALSE,5006575,Barclays US LLC,2024,3,Supervisory Severely Adverse,1
+ppnr,FALSE,5006575,Barclays US LLC,2025,3,Supervisory Severely Adverse,1
+ppnr,FALSE,5280254,RBC US Group Holdings LLC,2019,3,Supervisory Severely Adverse,1
+ppnr,TRUE,5280254,RBC US Group Holdings LLC,2020,3,Supervisory Severely Adverse,2
+ppnr,FALSE,5280254,RBC US Group Holdings LLC,2020,30,Supervisory Alternative Severe,1
+ppnr,FALSE,5280254,RBC US Group Holdings LLC,2021,3,Supervisory Severely Adverse,1
+ppnr,FALSE,5280254,RBC US Group Holdings LLC,2022,3,Supervisory Severely Adverse,1
+ppnr,FALSE,5280254,RBC US Group Holdings LLC,2023,3,Supervisory Severely Adverse,1
+ppnr,FALSE,5280254,RBC US Group Holdings LLC,2024,3,Supervisory Severely Adverse,1
+ppnr,FALSE,5280254,RBC US Group Holdings LLC,2025,3,Supervisory Severely Adverse,1
+ppnr,FALSE,NA,18 participating firms,2018,2,Supervisory Adverse,1
+ppnr,FALSE,NA,18 participating firms,2018,3,Supervisory Severely Adverse,1
+ppnr,FALSE,NA,22 participating banks,2024,3,Supervisory Severely Adverse,1
+ppnr,FALSE,NA,23 participating banks,2022,3,Supervisory Severely Adverse,1
+ppnr,FALSE,NA,23 participating firms,2020,3,Supervisory Severely Adverse,1
+ppnr,FALSE,NA,31 participating banks,2023,3,Supervisory Severely Adverse,1
+ppnr,FALSE,NA,32 participating banks,2025,3,Supervisory Severely Adverse,1
+ppnr,FALSE,NA,33 participating bank holding companies,2015,2,Supervisory Adverse,1
+ppnr,FALSE,NA,33 participating bank holding companies,2015,3,Supervisory Severely Adverse,1
+ppnr,FALSE,NA,33 participating banks,2021,3,Supervisory Severely Adverse,1
+ppnr,FALSE,NA,33 participating firms,2019,3,Supervisory Severely Adverse,1
+ppnr,FALSE,NA,33 participating firms,2020,3,Supervisory Severely Adverse,1
+ppnr,FALSE,NA,33 participating firms,2020,30,Supervisory Alternative Severe,1
+ppnr,FALSE,NA,34 participating bank holding companies,2016,2,Supervisory Adverse,1
+ppnr,FALSE,NA,34 participating bank holding companies,2016,3,Supervisory Severely Adverse,1
+ppnr,FALSE,NA,35 participating firms,2017,2,Supervisory Adverse,1
+ppnr,FALSE,NA,35 participating firms,2017,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1025608,BancWest Corporation,2015,2,Supervisory Adverse,1
+capital_depletion,FALSE,1025608,BancWest Corporation,2015,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1026632,The Charles Schwab Corporation,2021,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1026632,The Charles Schwab Corporation,2022,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1026632,The Charles Schwab Corporation,2023,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1026632,The Charles Schwab Corporation,2024,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1026632,The Charles Schwab Corporation,2025,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1027004,Zions Bancorporation,2015,2,Supervisory Adverse,1
+capital_depletion,FALSE,1027004,Zions Bancorporation,2015,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1027004,Zions Bancorporation,2016,2,Supervisory Adverse,1
+capital_depletion,FALSE,1027004,Zions Bancorporation,2016,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1032473,Deutsche Bank Trust Corporation,2015,2,Supervisory Adverse,1
+capital_depletion,FALSE,1032473,Deutsche Bank Trust Corporation,2015,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1032473,Deutsche Bank Trust Corporation,2016,2,Supervisory Adverse,1
+capital_depletion,FALSE,1032473,Deutsche Bank Trust Corporation,2016,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1036967,CIT Group Inc.,2016,2,Supervisory Adverse,1
+capital_depletion,FALSE,1036967,CIT Group Inc.,2016,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1037003,M&T Bank Corporation,2015,2,Supervisory Adverse,1
+capital_depletion,FALSE,1037003,M&T Bank Corporation,2015,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1037003,M&T Bank Corporation,2016,2,Supervisory Adverse,1
+capital_depletion,FALSE,1037003,M&T Bank Corporation,2016,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1037003,M&T Bank Corporation,2017,2,Supervisory Adverse,1
+capital_depletion,FALSE,1037003,M&T Bank Corporation,2017,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1037003,M&T Bank Corporation,2019,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1037003,M&T Bank Corporation,2020,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1037003,M&T Bank Corporation,2020,30,Supervisory Alternative Severe,1
+capital_depletion,FALSE,1037003,M&T Bank Corporation,2021,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1037003,M&T Bank Corporation,2022,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1037003,M&T Bank Corporation,2023,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1037003,M&T Bank Corporation,2024,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1037003,M&T Bank Corporation,2025,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1039502,JPMorgan Chase & Co.,2015,2,Supervisory Adverse,1
+capital_depletion,FALSE,1039502,JPMorgan Chase & Co.,2015,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1039502,JPMorgan Chase & Co.,2016,2,Supervisory Adverse,1
+capital_depletion,FALSE,1039502,JPMorgan Chase & Co.,2016,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1039502,JPMorgan Chase & Co.,2017,2,Supervisory Adverse,1
+capital_depletion,FALSE,1039502,JPMorgan Chase & Co.,2017,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1039502,JPMorgan Chase & Co.,2018,2,Supervisory Adverse,1
+capital_depletion,FALSE,1039502,JPMorgan Chase & Co.,2018,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1039502,JPMorgan Chase & Co.,2019,3,Supervisory Severely Adverse,1
+capital_depletion,TRUE,1039502,JPMorgan Chase & Co.,2020,3,Supervisory Severely Adverse,2
+capital_depletion,FALSE,1039502,JPMorgan Chase & Co.,2020,30,Supervisory Alternative Severe,1
+capital_depletion,FALSE,1039502,JPMorgan Chase & Co.,2021,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1039502,JPMorgan Chase & Co.,2022,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1039502,JPMorgan Chase & Co.,2023,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1039502,JPMorgan Chase & Co.,2024,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1039502,JPMorgan Chase & Co.,2025,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1068025,KeyCorp,2015,2,Supervisory Adverse,1
+capital_depletion,FALSE,1068025,KeyCorp,2015,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1068025,KeyCorp,2016,2,Supervisory Adverse,1
+capital_depletion,FALSE,1068025,KeyCorp,2016,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1068025,KeyCorp,2017,2,Supervisory Adverse,1
+capital_depletion,FALSE,1068025,KeyCorp,2017,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1068025,KeyCorp,2019,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1068025,KeyCorp,2020,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1068025,KeyCorp,2020,30,Supervisory Alternative Severe,1
+capital_depletion,FALSE,1068025,KeyCorp,2021,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1068025,KeyCorp,2023,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1068025,KeyCorp,2025,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1068191,Huntington Bancshares Incorporated,2015,2,Supervisory Adverse,1
+capital_depletion,FALSE,1068191,Huntington Bancshares Incorporated,2015,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1068191,Huntington Bancshares Incorporated,2016,2,Supervisory Adverse,1
+capital_depletion,FALSE,1068191,Huntington Bancshares Incorporated,2016,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1068191,Huntington Bancshares Incorporated,2017,2,Supervisory Adverse,1
+capital_depletion,FALSE,1068191,Huntington Bancshares Incorporated,2017,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1068191,Huntington Bancshares Incorporated,2019,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1068191,Huntington Bancshares Incorporated,2020,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1068191,Huntington Bancshares Incorporated,2020,30,Supervisory Alternative Severe,1
+capital_depletion,FALSE,1068191,Huntington Bancshares Incorporated,2021,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1068191,Huntington Bancshares Incorporated,2023,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1068191,Huntington Bancshares Incorporated,2025,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1069778,"The PNC Financial Services Group, Inc.",2015,2,Supervisory Adverse,1
+capital_depletion,FALSE,1069778,"The PNC Financial Services Group, Inc.",2015,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1069778,"The PNC Financial Services Group, Inc.",2016,2,Supervisory Adverse,1
+capital_depletion,FALSE,1069778,"The PNC Financial Services Group, Inc.",2016,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1069778,"The PNC Financial Services Group, Inc.",2017,2,Supervisory Adverse,1
+capital_depletion,FALSE,1069778,"The PNC Financial Services Group, Inc.",2017,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1069778,"The PNC Financial Services Group, Inc.",2018,2,Supervisory Adverse,1
+capital_depletion,FALSE,1069778,"The PNC Financial Services Group, Inc.",2018,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1069778,"The PNC Financial Services Group, Inc.",2019,3,Supervisory Severely Adverse,1
+capital_depletion,TRUE,1069778,"The PNC Financial Services Group, Inc.",2020,3,Supervisory Severely Adverse,2
+capital_depletion,FALSE,1069778,"The PNC Financial Services Group, Inc.",2020,30,Supervisory Alternative Severe,1
+capital_depletion,FALSE,1069778,"The PNC Financial Services Group, Inc.",2021,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1069778,"The PNC Financial Services Group, Inc.",2022,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1069778,"The PNC Financial Services Group, Inc.",2023,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1069778,"The PNC Financial Services Group, Inc.",2024,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1069778,"The PNC Financial Services Group, Inc.",2025,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1070345,Fifth Third Bancorp,2015,2,Supervisory Adverse,1
+capital_depletion,FALSE,1070345,Fifth Third Bancorp,2015,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1070345,Fifth Third Bancorp,2016,2,Supervisory Adverse,1
+capital_depletion,FALSE,1070345,Fifth Third Bancorp,2016,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1070345,Fifth Third Bancorp,2017,2,Supervisory Adverse,1
+capital_depletion,FALSE,1070345,Fifth Third Bancorp,2017,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1070345,Fifth Third Bancorp,2019,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1070345,Fifth Third Bancorp,2020,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1070345,Fifth Third Bancorp,2020,30,Supervisory Alternative Severe,1
+capital_depletion,FALSE,1070345,Fifth Third Bancorp,2021,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1070345,Fifth Third Bancorp,2023,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1070345,Fifth Third Bancorp,2025,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1073757,Bank of America Corporation,2015,2,Supervisory Adverse,1
+capital_depletion,FALSE,1073757,Bank of America Corporation,2015,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1073757,Bank of America Corporation,2016,2,Supervisory Adverse,1
+capital_depletion,FALSE,1073757,Bank of America Corporation,2016,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1073757,Bank of America Corporation,2017,2,Supervisory Adverse,1
+capital_depletion,FALSE,1073757,Bank of America Corporation,2017,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1073757,Bank of America Corporation,2018,2,Supervisory Adverse,1
+capital_depletion,FALSE,1073757,Bank of America Corporation,2018,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1073757,Bank of America Corporation,2019,3,Supervisory Severely Adverse,1
+capital_depletion,TRUE,1073757,Bank of America Corporation,2020,3,Supervisory Severely Adverse,2
+capital_depletion,FALSE,1073757,Bank of America Corporation,2020,30,Supervisory Alternative Severe,1
+capital_depletion,FALSE,1073757,Bank of America Corporation,2021,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1073757,Bank of America Corporation,2022,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1073757,Bank of America Corporation,2023,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1073757,Bank of America Corporation,2024,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1073757,Bank of America Corporation,2025,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1074156,BB&T Corporation,2015,2,Supervisory Adverse,1
+capital_depletion,FALSE,1074156,BB&T Corporation,2015,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1074156,BB&T Corporation,2016,2,Supervisory Adverse,1
+capital_depletion,FALSE,1074156,BB&T Corporation,2016,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1074156,BB&T Corporation,2017,2,Supervisory Adverse,1
+capital_depletion,FALSE,1074156,BB&T Corporation,2017,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1074156,Truist Financial Corporation,2019,3,Supervisory Severely Adverse,1
+capital_depletion,TRUE,1074156,Truist Financial Corporation,2020,3,Supervisory Severely Adverse,2
+capital_depletion,FALSE,1074156,Truist Financial Corporation,2020,30,Supervisory Alternative Severe,1
+capital_depletion,FALSE,1074156,Truist Financial Corporation,2021,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1074156,Truist Financial Corporation,2022,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1074156,Truist Financial Corporation,2023,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1074156,Truist Financial Corporation,2024,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1074156,Truist Financial Corporation,2025,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1075612,"First Citizens Bancshares, Inc.",2025,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1078529,"BBVA Compass Bancshares, Inc.",2015,2,Supervisory Adverse,1
+capital_depletion,FALSE,1078529,"BBVA Compass Bancshares, Inc.",2015,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1078529,"BBVA Compass Bancshares, Inc.",2016,2,Supervisory Adverse,1
+capital_depletion,FALSE,1078529,"BBVA Compass Bancshares, Inc.",2016,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1078529,"BBVA Compass Bancshares, Inc.",2017,2,Supervisory Adverse,1
+capital_depletion,FALSE,1078529,"BBVA Compass Bancshares, Inc.",2017,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1111435,State Street Corporation,2015,2,Supervisory Adverse,1
+capital_depletion,FALSE,1111435,State Street Corporation,2015,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1111435,State Street Corporation,2016,2,Supervisory Adverse,1
+capital_depletion,FALSE,1111435,State Street Corporation,2016,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1111435,State Street Corporation,2017,2,Supervisory Adverse,1
+capital_depletion,FALSE,1111435,State Street Corporation,2017,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1111435,State Street Corporation,2018,2,Supervisory Adverse,1
+capital_depletion,FALSE,1111435,State Street Corporation,2018,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1111435,State Street Corporation,2019,3,Supervisory Severely Adverse,1
+capital_depletion,TRUE,1111435,State Street Corporation,2020,3,Supervisory Severely Adverse,2
+capital_depletion,FALSE,1111435,State Street Corporation,2020,30,Supervisory Alternative Severe,1
+capital_depletion,FALSE,1111435,State Street Corporation,2021,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1111435,State Street Corporation,2022,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1111435,State Street Corporation,2023,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1111435,State Street Corporation,2024,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1111435,State Street Corporation,2025,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1119794,U.S. Bancorp,2015,2,Supervisory Adverse,1
+capital_depletion,FALSE,1119794,U.S. Bancorp,2015,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1119794,U.S. Bancorp,2016,2,Supervisory Adverse,1
+capital_depletion,FALSE,1119794,U.S. Bancorp,2016,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1119794,U.S. Bancorp,2017,2,Supervisory Adverse,1
+capital_depletion,FALSE,1119794,U.S. Bancorp,2017,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1119794,U.S. Bancorp,2018,2,Supervisory Adverse,1
+capital_depletion,FALSE,1119794,U.S. Bancorp,2018,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1119794,U.S. Bancorp,2019,3,Supervisory Severely Adverse,1
+capital_depletion,TRUE,1119794,U.S. Bancorp,2020,3,Supervisory Severely Adverse,2
+capital_depletion,FALSE,1119794,U.S. Bancorp,2020,30,Supervisory Alternative Severe,1
+capital_depletion,FALSE,1119794,U.S. Bancorp,2021,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1119794,U.S. Bancorp,2022,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1119794,U.S. Bancorp,2023,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1119794,U.S. Bancorp,2024,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1119794,U.S. Bancorp,2025,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1120754,Wells Fargo & Company,2015,2,Supervisory Adverse,1
+capital_depletion,FALSE,1120754,Wells Fargo & Company,2015,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1120754,Wells Fargo & Company,2016,2,Supervisory Adverse,1
+capital_depletion,FALSE,1120754,Wells Fargo & Company,2016,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1120754,Wells Fargo & Company,2017,2,Supervisory Adverse,1
+capital_depletion,FALSE,1120754,Wells Fargo & Company,2017,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1120754,Wells Fargo & Company,2018,2,Supervisory Adverse,1
+capital_depletion,FALSE,1120754,Wells Fargo & Company,2018,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1120754,Wells Fargo & Company,2019,3,Supervisory Severely Adverse,1
+capital_depletion,TRUE,1120754,Wells Fargo & Company,2020,3,Supervisory Severely Adverse,2
+capital_depletion,FALSE,1120754,Wells Fargo & Company,2020,30,Supervisory Alternative Severe,1
+capital_depletion,FALSE,1120754,Wells Fargo & Company,2021,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1120754,Wells Fargo & Company,2022,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1120754,Wells Fargo & Company,2023,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1120754,Wells Fargo & Company,2024,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1120754,Wells Fargo & Company,2025,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1131787,"SunTrust Banks, Inc.",2015,2,Supervisory Adverse,1
+capital_depletion,FALSE,1131787,"SunTrust Banks, Inc.",2015,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1131787,"SunTrust Banks, Inc.",2016,2,Supervisory Adverse,1
+capital_depletion,FALSE,1131787,"SunTrust Banks, Inc.",2016,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1131787,"SunTrust Banks, Inc.",2017,2,Supervisory Adverse,1
+capital_depletion,FALSE,1131787,"SunTrust Banks, Inc.",2017,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1132449,"Citizens Financial Group, Inc.",2015,2,Supervisory Adverse,1
+capital_depletion,FALSE,1132449,"Citizens Financial Group, Inc.",2015,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1132449,"Citizens Financial Group, Inc.",2016,2,Supervisory Adverse,1
+capital_depletion,FALSE,1132449,"Citizens Financial Group, Inc.",2016,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1132449,"Citizens Financial Group, Inc.",2017,2,Supervisory Adverse,1
+capital_depletion,FALSE,1132449,"Citizens Financial Group, Inc.",2017,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1132449,"Citizens Financial Group, Inc.",2019,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1132449,"Citizens Financial Group, Inc.",2020,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1132449,"Citizens Financial Group, Inc.",2020,30,Supervisory Alternative Severe,1
+capital_depletion,FALSE,1132449,"Citizens Financial Group, Inc.",2021,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1132449,"Citizens Financial Group, Inc.",2022,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1132449,"Citizens Financial Group, Inc.",2023,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1132449,"Citizens Financial Group, Inc.",2025,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1199611,Northern Trust Corporation,2015,2,Supervisory Adverse,1
+capital_depletion,FALSE,1199611,Northern Trust Corporation,2015,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1199611,Northern Trust Corporation,2016,2,Supervisory Adverse,1
+capital_depletion,FALSE,1199611,Northern Trust Corporation,2016,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1199611,Northern Trust Corporation,2017,2,Supervisory Adverse,1
+capital_depletion,FALSE,1199611,Northern Trust Corporation,2017,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1199611,Northern Trust Corporation,2018,2,Supervisory Adverse,1
+capital_depletion,FALSE,1199611,Northern Trust Corporation,2018,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1199611,Northern Trust Corporation,2019,3,Supervisory Severely Adverse,1
+capital_depletion,TRUE,1199611,Northern Trust Corporation,2020,3,Supervisory Severely Adverse,2
+capital_depletion,FALSE,1199611,Northern Trust Corporation,2020,30,Supervisory Alternative Severe,1
+capital_depletion,FALSE,1199611,Northern Trust Corporation,2021,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1199611,Northern Trust Corporation,2022,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1199611,Northern Trust Corporation,2023,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1199611,Northern Trust Corporation,2024,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1199611,Northern Trust Corporation,2025,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1199844,Comerica Incorporated,2015,2,Supervisory Adverse,1
+capital_depletion,FALSE,1199844,Comerica Incorporated,2015,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1199844,Comerica Incorporated,2016,2,Supervisory Adverse,1
+capital_depletion,FALSE,1199844,Comerica Incorporated,2016,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1245415,BMO Financial Corp.,2015,2,Supervisory Adverse,1
+capital_depletion,FALSE,1245415,BMO Financial Corp.,2015,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1245415,BMO Financial Corp.,2016,2,Supervisory Adverse,1
+capital_depletion,FALSE,1245415,BMO Financial Corp.,2016,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1245415,BMO Financial Corp.,2017,2,Supervisory Adverse,1
+capital_depletion,FALSE,1245415,BMO Financial Corp.,2017,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1245415,BMO Financial Corp.,2019,3,Supervisory Severely Adverse,1
+capital_depletion,TRUE,1245415,BMO Financial Corp.,2020,3,Supervisory Severely Adverse,2
+capital_depletion,FALSE,1245415,BMO Financial Corp.,2020,30,Supervisory Alternative Severe,1
+capital_depletion,FALSE,1245415,BMO Financial Corp.,2021,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1245415,BMO Financial Corp.,2022,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1245415,BMO Financial Corp.,2023,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1245415,BMO Financial Corp.,2024,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1245415,BMO Financial Corp.,2025,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1275216,American Express Company,2015,2,Supervisory Adverse,1
+capital_depletion,FALSE,1275216,American Express Company,2015,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1275216,American Express Company,2016,2,Supervisory Adverse,1
+capital_depletion,FALSE,1275216,American Express Company,2016,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1275216,American Express Company,2017,2,Supervisory Adverse,1
+capital_depletion,FALSE,1275216,American Express Company,2017,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1275216,American Express Company,2019,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1275216,American Express Company,2020,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1275216,American Express Company,2020,30,Supervisory Alternative Severe,1
+capital_depletion,FALSE,1275216,American Express Company,2021,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1275216,American Express Company,2023,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1275216,American Express Company,2024,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1275216,American Express Company,2025,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1378434,MUFG Americas Holdings Corporation,2015,2,Supervisory Adverse,1
+capital_depletion,FALSE,1378434,MUFG Americas Holdings Corporation,2015,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1378434,MUFG Americas Holdings Corporation,2016,2,Supervisory Adverse,1
+capital_depletion,FALSE,1378434,MUFG Americas Holdings Corporation,2016,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1378434,MUFG Americas Holdings Corporation,2017,2,Supervisory Adverse,1
+capital_depletion,FALSE,1378434,MUFG Americas Holdings Corporation,2017,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1378434,MUFG Americas Holdings Corporation,2019,3,Supervisory Severely Adverse,1
+capital_depletion,TRUE,1378434,MUFG Americas Holdings Corporation,2020,3,Supervisory Severely Adverse,2
+capital_depletion,FALSE,1378434,MUFG Americas Holdings Corporation,2020,30,Supervisory Alternative Severe,1
+capital_depletion,FALSE,1562859,Ally Financial Inc.,2015,2,Supervisory Adverse,1
+capital_depletion,FALSE,1562859,Ally Financial Inc.,2015,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1562859,Ally Financial Inc.,2016,2,Supervisory Adverse,1
+capital_depletion,FALSE,1562859,Ally Financial Inc.,2016,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1562859,Ally Financial Inc.,2017,2,Supervisory Adverse,1
+capital_depletion,FALSE,1562859,Ally Financial Inc.,2017,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1562859,Ally Financial Inc.,2019,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1562859,Ally Financial Inc.,2020,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1562859,Ally Financial Inc.,2020,30,Supervisory Alternative Severe,1
+capital_depletion,FALSE,1562859,Ally Financial Inc.,2021,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1562859,Ally Financial Inc.,2023,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1562859,Ally Financial Inc.,2025,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1574834,"Credit Suisse Holdings (USA), Inc.",2017,2,Supervisory Adverse,1
+capital_depletion,FALSE,1574834,"Credit Suisse Holdings (USA), Inc.",2017,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1574834,"Credit Suisse Holdings (USA), Inc.",2018,2,Supervisory Adverse,1
+capital_depletion,FALSE,1574834,"Credit Suisse Holdings (USA), Inc.",2018,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1574834,"Credit Suisse Holdings (USA), Inc.",2019,3,Supervisory Severely Adverse,1
+capital_depletion,TRUE,1574834,"Credit Suisse Holdings (USA), Inc.",2020,3,Supervisory Severely Adverse,2
+capital_depletion,FALSE,1574834,"Credit Suisse Holdings (USA), Inc.",2020,30,Supervisory Alternative Severe,1
+capital_depletion,FALSE,1574834,"Credit Suisse Holdings (USA), Inc.",2021,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1574834,"Credit Suisse Holdings (USA), Inc.",2022,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1575569,"BNP Paribas USA, Inc.",2017,2,Supervisory Adverse,1
+capital_depletion,FALSE,1575569,"BNP Paribas USA, Inc.",2017,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1575569,"BNP Paribas USA, Inc.",2019,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1575569,"BNP Paribas USA, Inc.",2020,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1575569,"BNP Paribas USA, Inc.",2020,30,Supervisory Alternative Severe,1
+capital_depletion,FALSE,1575569,"BNP Paribas USA, Inc.",2021,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1951350,Citigroup Inc.,2015,2,Supervisory Adverse,1
+capital_depletion,FALSE,1951350,Citigroup Inc.,2015,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1951350,Citigroup Inc.,2016,2,Supervisory Adverse,1
+capital_depletion,FALSE,1951350,Citigroup Inc.,2016,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1951350,Citigroup Inc.,2017,2,Supervisory Adverse,1
+capital_depletion,FALSE,1951350,Citigroup Inc.,2017,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1951350,Citigroup Inc.,2018,2,Supervisory Adverse,1
+capital_depletion,FALSE,1951350,Citigroup Inc.,2018,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1951350,Citigroup Inc.,2019,3,Supervisory Severely Adverse,1
+capital_depletion,TRUE,1951350,Citigroup Inc.,2020,3,Supervisory Severely Adverse,2
+capital_depletion,FALSE,1951350,Citigroup Inc.,2020,30,Supervisory Alternative Severe,1
+capital_depletion,FALSE,1951350,Citigroup Inc.,2021,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1951350,Citigroup Inc.,2022,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1951350,Citigroup Inc.,2023,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1951350,Citigroup Inc.,2024,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,1951350,Citigroup Inc.,2025,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,2162966,Morgan Stanley,2015,2,Supervisory Adverse,1
+capital_depletion,FALSE,2162966,Morgan Stanley,2015,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,2162966,Morgan Stanley,2016,2,Supervisory Adverse,1
+capital_depletion,FALSE,2162966,Morgan Stanley,2016,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,2162966,Morgan Stanley,2017,2,Supervisory Adverse,1
+capital_depletion,FALSE,2162966,Morgan Stanley,2017,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,2162966,Morgan Stanley,2018,2,Supervisory Adverse,1
+capital_depletion,FALSE,2162966,Morgan Stanley,2018,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,2162966,Morgan Stanley,2019,3,Supervisory Severely Adverse,1
+capital_depletion,TRUE,2162966,Morgan Stanley,2020,3,Supervisory Severely Adverse,2
+capital_depletion,FALSE,2162966,Morgan Stanley,2020,30,Supervisory Alternative Severe,1
+capital_depletion,FALSE,2162966,Morgan Stanley,2021,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,2162966,Morgan Stanley,2022,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,2162966,Morgan Stanley,2023,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,2162966,Morgan Stanley,2024,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,2162966,Morgan Stanley,2025,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,2277860,Capital One Financial Corporation,2015,2,Supervisory Adverse,1
+capital_depletion,FALSE,2277860,Capital One Financial Corporation,2015,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,2277860,Capital One Financial Corporation,2016,2,Supervisory Adverse,1
+capital_depletion,FALSE,2277860,Capital One Financial Corporation,2016,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,2277860,Capital One Financial Corporation,2017,2,Supervisory Adverse,1
+capital_depletion,FALSE,2277860,Capital One Financial Corporation,2017,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,2277860,Capital One Financial Corporation,2018,2,Supervisory Adverse,1
+capital_depletion,FALSE,2277860,Capital One Financial Corporation,2018,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,2277860,Capital One Financial Corporation,2019,3,Supervisory Severely Adverse,1
+capital_depletion,TRUE,2277860,Capital One Financial Corporation,2020,3,Supervisory Severely Adverse,2
+capital_depletion,FALSE,2277860,Capital One Financial Corporation,2020,30,Supervisory Alternative Severe,1
+capital_depletion,FALSE,2277860,Capital One Financial Corporation,2021,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,2277860,Capital One Financial Corporation,2022,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,2277860,Capital One Financial Corporation,2023,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,2277860,Capital One Financial Corporation,2024,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,2277860,Capital One Financial Corporation,2025,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,2380443,"The Goldman Sachs Group, Inc.",2015,2,Supervisory Adverse,1
+capital_depletion,FALSE,2380443,"The Goldman Sachs Group, Inc.",2015,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,2380443,"The Goldman Sachs Group, Inc.",2016,2,Supervisory Adverse,1
+capital_depletion,FALSE,2380443,"The Goldman Sachs Group, Inc.",2016,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,2380443,"The Goldman Sachs Group, Inc.",2017,2,Supervisory Adverse,1
+capital_depletion,FALSE,2380443,"The Goldman Sachs Group, Inc.",2017,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,2380443,"The Goldman Sachs Group, Inc.",2018,2,Supervisory Adverse,1
+capital_depletion,FALSE,2380443,"The Goldman Sachs Group, Inc.",2018,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,2380443,"The Goldman Sachs Group, Inc.",2019,3,Supervisory Severely Adverse,1
+capital_depletion,TRUE,2380443,"The Goldman Sachs Group, Inc.",2020,3,Supervisory Severely Adverse,2
+capital_depletion,FALSE,2380443,"The Goldman Sachs Group, Inc.",2020,30,Supervisory Alternative Severe,1
+capital_depletion,FALSE,2380443,"The Goldman Sachs Group, Inc.",2021,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,2380443,"The Goldman Sachs Group, Inc.",2022,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,2380443,"The Goldman Sachs Group, Inc.",2023,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,2380443,"The Goldman Sachs Group, Inc.",2024,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,2380443,"The Goldman Sachs Group, Inc.",2025,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,2816906,DB USA Corporation,2017,2,Supervisory Adverse,1
+capital_depletion,FALSE,2816906,DB USA Corporation,2017,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,2816906,DB USA Corporation,2018,2,Supervisory Adverse,1
+capital_depletion,FALSE,2816906,DB USA Corporation,2018,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,2816906,DB USA Corporation,2019,3,Supervisory Severely Adverse,1
+capital_depletion,TRUE,2816906,DB USA Corporation,2020,3,Supervisory Severely Adverse,2
+capital_depletion,FALSE,2816906,DB USA Corporation,2020,30,Supervisory Alternative Severe,1
+capital_depletion,FALSE,2816906,DB USA Corporation,2021,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,2816906,DB USA Corporation,2022,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,2816906,DB USA Corporation,2023,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,2816906,DB USA Corporation,2024,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,2816906,DB USA Corporation,2025,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,3226762,RBC USA Holdco Corporation,2017,2,Supervisory Adverse,1
+capital_depletion,FALSE,3226762,RBC USA Holdco Corporation,2017,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,3232316,HSBC North America Holdings Inc.,2015,2,Supervisory Adverse,1
+capital_depletion,FALSE,3232316,HSBC North America Holdings Inc.,2015,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,3232316,HSBC North America Holdings Inc.,2016,2,Supervisory Adverse,1
+capital_depletion,FALSE,3232316,HSBC North America Holdings Inc.,2016,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,3232316,HSBC North America Holdings Inc.,2017,2,Supervisory Adverse,1
+capital_depletion,FALSE,3232316,HSBC North America Holdings Inc.,2017,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,3232316,HSBC North America Holdings Inc.,2018,2,Supervisory Adverse,1
+capital_depletion,FALSE,3232316,HSBC North America Holdings Inc.,2018,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,3232316,HSBC North America Holdings Inc.,2019,3,Supervisory Severely Adverse,1
+capital_depletion,TRUE,3232316,HSBC North America Holdings Inc.,2020,3,Supervisory Severely Adverse,2
+capital_depletion,FALSE,3232316,HSBC North America Holdings Inc.,2020,30,Supervisory Alternative Severe,1
+capital_depletion,FALSE,3232316,HSBC North America Holdings Inc.,2021,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,3232316,HSBC North America Holdings Inc.,2023,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,3232316,HSBC North America Holdings Inc.,2025,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,3242838,Regions Financial Corporation,2015,2,Supervisory Adverse,1
+capital_depletion,FALSE,3242838,Regions Financial Corporation,2015,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,3242838,Regions Financial Corporation,2016,2,Supervisory Adverse,1
+capital_depletion,FALSE,3242838,Regions Financial Corporation,2016,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,3242838,Regions Financial Corporation,2017,2,Supervisory Adverse,1
+capital_depletion,FALSE,3242838,Regions Financial Corporation,2017,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,3242838,Regions Financial Corporation,2019,3,Supervisory Severely Adverse,1
+capital_depletion,TRUE,3242838,Regions Financial Corporation,2020,3,Supervisory Severely Adverse,2
+capital_depletion,FALSE,3242838,Regions Financial Corporation,2020,30,Supervisory Alternative Severe,1
+capital_depletion,FALSE,3242838,Regions Financial Corporation,2021,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,3242838,Regions Financial Corporation,2023,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,3242838,Regions Financial Corporation,2025,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,3587146,The Bank of New York Mellon Corporation,2015,2,Supervisory Adverse,1
+capital_depletion,FALSE,3587146,The Bank of New York Mellon Corporation,2015,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,3587146,The Bank of New York Mellon Corporation,2016,2,Supervisory Adverse,1
+capital_depletion,FALSE,3587146,The Bank of New York Mellon Corporation,2016,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,3587146,The Bank of New York Mellon Corporation,2017,2,Supervisory Adverse,1
+capital_depletion,FALSE,3587146,The Bank of New York Mellon Corporation,2017,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,3587146,The Bank of New York Mellon Corporation,2018,2,Supervisory Adverse,1
+capital_depletion,FALSE,3587146,The Bank of New York Mellon Corporation,2018,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,3587146,The Bank of New York Mellon Corporation,2019,3,Supervisory Severely Adverse,1
+capital_depletion,TRUE,3587146,The Bank of New York Mellon Corporation,2020,3,Supervisory Severely Adverse,2
+capital_depletion,FALSE,3587146,The Bank of New York Mellon Corporation,2020,30,Supervisory Alternative Severe,1
+capital_depletion,FALSE,3587146,The Bank of New York Mellon Corporation,2021,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,3587146,The Bank of New York Mellon Corporation,2022,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,3587146,The Bank of New York Mellon Corporation,2023,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,3587146,The Bank of New York Mellon Corporation,2024,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,3587146,The Bank of New York Mellon Corporation,2025,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,3606542,TD Group US Holdings LLC,2015,2,Supervisory Adverse,1
+capital_depletion,FALSE,3606542,TD Group US Holdings LLC,2015,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,3606542,TD Group US Holdings LLC,2016,2,Supervisory Adverse,1
+capital_depletion,FALSE,3606542,TD Group US Holdings LLC,2016,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,3606542,TD Group US Holdings LLC,2017,2,Supervisory Adverse,1
+capital_depletion,FALSE,3606542,TD Group US Holdings LLC,2017,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,3606542,TD Group US Holdings LLC,2018,2,Supervisory Adverse,1
+capital_depletion,FALSE,3606542,TD Group US Holdings LLC,2018,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,3606542,TD Group US Holdings LLC,2019,3,Supervisory Severely Adverse,1
+capital_depletion,TRUE,3606542,TD Group US Holdings LLC,2020,3,Supervisory Severely Adverse,2
+capital_depletion,FALSE,3606542,TD Group US Holdings LLC,2020,30,Supervisory Alternative Severe,1
+capital_depletion,FALSE,3606542,TD Group US Holdings LLC,2021,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,3606542,TD Group US Holdings LLC,2022,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,3606542,TD Group US Holdings LLC,2023,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,3606542,TD Group US Holdings LLC,2024,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,3606542,TD Group US Holdings LLC,2025,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,3846375,Discover Financial Services,2015,2,Supervisory Adverse,1
+capital_depletion,FALSE,3846375,Discover Financial Services,2015,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,3846375,Discover Financial Services,2016,2,Supervisory Adverse,1
+capital_depletion,FALSE,3846375,Discover Financial Services,2016,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,3846375,Discover Financial Services,2017,2,Supervisory Adverse,1
+capital_depletion,FALSE,3846375,Discover Financial Services,2017,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,3846375,Discover Financial Services,2019,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,3846375,Discover Financial Services,2020,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,3846375,Discover Financial Services,2020,30,Supervisory Alternative Severe,1
+capital_depletion,FALSE,3846375,Discover Financial Services,2021,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,3846375,Discover Financial Services,2023,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,3981856,"Santander Holdings USA, Inc.",2015,2,Supervisory Adverse,1
+capital_depletion,FALSE,3981856,"Santander Holdings USA, Inc.",2015,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,3981856,"Santander Holdings USA, Inc.",2016,2,Supervisory Adverse,1
+capital_depletion,FALSE,3981856,"Santander Holdings USA, Inc.",2016,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,3981856,"Santander Holdings USA, Inc.",2017,2,Supervisory Adverse,1
+capital_depletion,FALSE,3981856,"Santander Holdings USA, Inc.",2017,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,3981856,"Santander Holdings USA, Inc.",2019,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,3981856,"Santander Holdings USA, Inc.",2020,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,3981856,"Santander Holdings USA, Inc.",2020,30,Supervisory Alternative Severe,1
+capital_depletion,FALSE,3981856,"Santander Holdings USA, Inc.",2021,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,3981856,"Santander Holdings USA, Inc.",2023,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,3981856,"Santander Holdings USA, Inc.",2025,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,4504654,Synchrony Financial,2025,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,4846998,UBS Americas Holding LLC,2017,2,Supervisory Adverse,1
+capital_depletion,FALSE,4846998,UBS Americas Holding LLC,2017,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,4846998,UBS Americas Holding LLC,2018,2,Supervisory Adverse,1
+capital_depletion,FALSE,4846998,UBS Americas Holding LLC,2018,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,4846998,UBS Americas Holding LLC,2019,3,Supervisory Severely Adverse,1
+capital_depletion,TRUE,4846998,UBS Americas Holding LLC,2020,3,Supervisory Severely Adverse,2
+capital_depletion,FALSE,4846998,UBS Americas Holding LLC,2020,30,Supervisory Alternative Severe,1
+capital_depletion,FALSE,4846998,UBS Americas Holding LLC,2021,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,4846998,UBS Americas Holding LLC,2022,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,4846998,UBS Americas Holding LLC,2023,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,4846998,UBS Americas Holding LLC,2024,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,4846998,UBS Americas Holding LLC,2025,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,5005998,BancWest Corporation,2016,2,Supervisory Adverse,1
+capital_depletion,FALSE,5005998,BancWest Corporation,2016,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,5006575,Barclays US LLC,2017,2,Supervisory Adverse,1
+capital_depletion,FALSE,5006575,Barclays US LLC,2017,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,5006575,Barclays US LLC,2018,2,Supervisory Adverse,1
+capital_depletion,FALSE,5006575,Barclays US LLC,2018,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,5006575,Barclays US LLC,2019,3,Supervisory Severely Adverse,1
+capital_depletion,TRUE,5006575,Barclays US LLC,2020,3,Supervisory Severely Adverse,2
+capital_depletion,FALSE,5006575,Barclays US LLC,2020,30,Supervisory Alternative Severe,1
+capital_depletion,FALSE,5006575,Barclays US LLC,2021,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,5006575,Barclays US LLC,2022,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,5006575,Barclays US LLC,2023,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,5006575,Barclays US LLC,2024,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,5006575,Barclays US LLC,2025,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,5280254,RBC US Group Holdings LLC,2019,3,Supervisory Severely Adverse,1
+capital_depletion,TRUE,5280254,RBC US Group Holdings LLC,2020,3,Supervisory Severely Adverse,2
+capital_depletion,FALSE,5280254,RBC US Group Holdings LLC,2020,30,Supervisory Alternative Severe,1
+capital_depletion,FALSE,5280254,RBC US Group Holdings LLC,2021,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,5280254,RBC US Group Holdings LLC,2022,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,5280254,RBC US Group Holdings LLC,2023,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,5280254,RBC US Group Holdings LLC,2024,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,5280254,RBC US Group Holdings LLC,2025,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,NA,18 participating firms,2018,2,Supervisory Adverse,1
+capital_depletion,FALSE,NA,18 participating firms,2018,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,NA,22 participating banks,2024,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,NA,23 participating banks,2022,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,NA,23 participating firms,2020,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,NA,31 participating banks,2023,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,NA,32 participating banks,2025,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,NA,33 participating bank holding companies,2015,2,Supervisory Adverse,1
+capital_depletion,FALSE,NA,33 participating bank holding companies,2015,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,NA,33 participating banks,2021,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,NA,33 participating firms,2019,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,NA,33 participating firms,2020,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,NA,33 participating firms,2020,30,Supervisory Alternative Severe,1
+capital_depletion,FALSE,NA,34 participating bank holding companies,2016,2,Supervisory Adverse,1
+capital_depletion,FALSE,NA,34 participating bank holding companies,2016,3,Supervisory Severely Adverse,1
+capital_depletion,FALSE,NA,35 participating firms,2017,2,Supervisory Adverse,1
+capital_depletion,FALSE,NA,35 participating firms,2017,3,Supervisory Severely Adverse,1

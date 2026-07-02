@@ -1,0 +1,75 @@
+============================================================
+Script 09 - Estimate Credit Loss Model completed
+============================================================
+Project root: D:/GitHub/us-bank-stress-test-dfast-replication
+
+Started at: 2026-06-30 04:51:27.014885
+Completed at: 2026-06-30 04:51:40.630872
+
+Input rows: 665
+Estimation rows: 520
+Banks: 56
+Years: 11
+Scenarios: 3
+Models attempted: 6
+Models estimated: 6
+Best model by RMSE: M5_bank_year_fixed_effects
+Figures created: 5
+
+Model status:
+# A tibble: 11 × 4
+   model_name                           formula                                                         status   error_message
+   <chr>                                <chr>                                                           <chr>    <chr>        
+ 1 M1_scenario_only                     y_loss_ratio_model ~ scenario_factor                            estimat… <NA>         
+ 2 M2_pooled_controls                   y_loss_ratio_model ~ scenario_factor + x_initial_cet1_model +   estimat… <NA>         
+ 3 M2_pooled_controls                   log_rwa_actual                                                  estimat… <NA>         
+ 4 M3_year_fixed_effects                y_loss_ratio_model ~ scenario_factor + x_initial_cet1_model +   estimat… <NA>         
+ 5 M3_year_fixed_effects                log_rwa_actual + x_rwa_growth_model + year_factor               estimat… <NA>         
+ 6 M4_bank_fixed_effects                y_loss_ratio_model ~ scenario_factor + x_initial_cet1_model +   estimat… <NA>         
+ 7 M4_bank_fixed_effects                log_rwa_actual + x_rwa_growth_model + bank_factor               estimat… <NA>         
+ 8 M5_bank_year_fixed_effects           y_loss_ratio_model ~ scenario_factor + x_initial_cet1_model +   estimat… <NA>         
+ 9 M5_bank_year_fixed_effects           log_rwa_actual + x_rwa_growth_model + year_factor + bank_factor estimat… <NA>         
+10 M6_loss_rate_bank_year_fixed_effects y_loss_rate_model ~ scenario_factor + x_initial_cet1_model +    estimat… <NA>         
+11 M6_loss_rate_bank_year_fixed_effects log_rwa_actual + x_rwa_growth_model + year_factor + bank_factor estimat… <NA>         
+
+Prediction metrics:
+# A tibble: 6 × 7
+  model_name                           observations    rmse     mae r2_outcome_prediction mean_residual sd_residual
+  <chr>                                       <int>   <dbl>   <dbl>                 <dbl>         <dbl>       <dbl>
+1 M5_bank_year_fixed_effects                    520 0.00617 0.00445                0.953      -4.19e-17     0.00617
+2 M4_bank_fixed_effects                         520 0.00671 0.00479                0.944      -3.22e-17     0.00671
+3 M3_year_fixed_effects                         520 0.0254  0.0160                 0.196      -2.93e-18     0.0254 
+4 M2_pooled_controls                            520 0.0263  0.0164                 0.139      -8.12e-18     0.0263 
+5 M1_scenario_only                              520 0.0272  0.0172                 0.0766     -1.41e-17     0.0272 
+6 M6_loss_rate_bank_year_fixed_effects          520 6.57    5.89              -53915.         -5.89e+ 0     2.92   
+
+Execution summary:
+# A tibble: 1 × 14
+  script_id script_name project_root started_at completed_at input_rows estimation_rows banks years scenarios models_attempted
+  <chr>     <chr>       <chr>        <chr>      <chr>             <int>           <int> <int> <int>     <int>            <int>
+1 09        estimate_c… D:/GitHub/u… 2026-06-3… 2026-06-30 …        665             520    56    11         3                6
+# ℹ 3 more variables: models_estimated <int>, best_model_by_rmse <chr>, figures_created <int>
+
+Main outputs:
+ - data/processed/model/credit_loss_model_estimation_sample.csv
+ - data/processed/model/credit_loss_model_predictions.csv
+ - outputs/credit_loss_model/script09_estimation_sample_summary.csv
+ - outputs/credit_loss_model/script09_model_status.csv
+ - outputs/credit_loss_model/script09_coefficient_table.csv
+ - outputs/credit_loss_model/script09_fit_table.csv
+ - outputs/credit_loss_model/script09_prediction_metrics.csv
+ - outputs/credit_loss_model/script09_scenario_effects.csv
+ - outputs/credit_loss_model/script09_residual_diagnostics.csv
+ - outputs/credit_loss_model/script09_bank_residual_ranking.csv
+ - outputs/credit_loss_model/script09_figure_inventory.csv
+ - outputs/credit_loss_model/script09_execution_summary.csv
+ - outputs/credit_loss_model/script09_credit_loss_model_outputs.xlsx
+ - outputs/credit_loss_model/script09_credit_loss_model_report.docx
+ - outputs/credit_loss_model/script09_execution_log.txt
+
+Figures:
+ - outputs/credit_loss_model/figures/fig01_actual_vs_predicted_credit_loss_ratio.png
+ - outputs/credit_loss_model/figures/fig02_residual_distribution.png
+ - outputs/credit_loss_model/figures/fig03_model_rmse_comparison.png
+ - outputs/credit_loss_model/figures/fig04_rmse_by_scenario.png
+ - outputs/credit_loss_model/figures/fig05_top20_bank_residual_rmse.png

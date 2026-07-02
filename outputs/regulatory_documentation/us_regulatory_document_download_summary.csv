@@ -1,0 +1,6 @@
+regulator,document_type,number_of_documents,successful_downloads,failed_downloads,total_size_bytes
+FFIEC,HTML,1,1,0,27784
+Federal Reserve,HTML,2,2,0,505494
+Federal Reserve,PDF,10,7,3,14475790
+SEC,HTML,1,1,0,68391
+eCFR,HTML,1,1,0,10596

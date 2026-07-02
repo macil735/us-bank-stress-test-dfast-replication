@@ -1,0 +1,17 @@
+stage,script,output_role
+Data availability audit,Script 01,Defines the public data universe and feasibility of the project.
+Regulatory documentation and raw data ingestion,Script 02 / 02b / 02c,Downloads and records public regulatory and DFAST source documents.
+Federal Reserve DFAST data cleaning,Script 03,Cleans Federal Reserve public DFAST result files.
+Macro scenario structuring,Script 04,Structures baseline and severely adverse macroeconomic scenarios.
+DFAST benchmark dataset construction,Script 05,Creates bank-year-scenario public DFAST benchmark data.
+Capital and losses transmission layer,Script 06,"Builds the accounting link between PPNR, losses and CET1 depletion."
+Exploratory analysis,Script 07,"Describes distributions, outliers and empirical structure."
+Modelling sample and treatment rules,Script 08,Creates clean and winsorized modelling samples.
+Credit loss model,Script 09,Estimates credit loss intensity using public DFAST outcomes.
+PPNR model,Script 10,Estimates PPNR performance using public DFAST outcomes.
+Capital depletion model,Script 11,Estimates CET1 capital depletion.
+Integrated projection engine,Script 12,Combines component projections into an integrated stress test engine.
+Join-key correction,Script 12b,Corrects duplicated join keys and produces the valid integrated panel.
+Final results and vulnerability ranking,Script 13,Produces final bank vulnerability rankings.
+Benchmark validation,Script 14,Validates model outputs against Federal Reserve public benchmark results.
+Robustness and model risk assessment,Script 15,"Assesses robustness, sensitivity, tail errors and model risk."

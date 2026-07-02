@@ -1,0 +1,34 @@
+model_variable,source_column,source_available,variable_block
+cet1_actual_ratio,common_equity_tier1_actual_rat,TRUE,Capital and solvency
+cet1_end_ratio,common_equity_tier1_end_rat,TRUE,Capital and solvency
+cet1_min_ratio,common_equity_tier1_min_rat,TRUE,Capital and solvency
+tier1_actual_ratio,tier1_capital_actual_rat,TRUE,Capital and solvency
+tier1_end_ratio,tier1_capital_end_rat,TRUE,Capital and solvency
+tier1_min_ratio,tier1_capital_min_rat,TRUE,Capital and solvency
+total_capital_actual_ratio,total_capital_actual_rat,TRUE,Capital and solvency
+total_capital_end_ratio,total_capital_end_rat,TRUE,Capital and solvency
+total_capital_min_ratio,total_capital_min_rat,TRUE,Capital and solvency
+tier1_leverage_actual_ratio,tier1_leverage_actual_rat,TRUE,Capital and solvency
+tier1_leverage_end_ratio,tier1_leverage_end_rat,TRUE,Capital and solvency
+tier1_leverage_min_ratio,tier1_leverage_min_rat,TRUE,Capital and solvency
+supp_leverage_actual_ratio,supp_leverage_actual_rat,TRUE,Capital and solvency
+supp_leverage_end_ratio,supp_leverage_end_rat,TRUE,Capital and solvency
+supp_leverage_min_ratio,supp_leverage_min_rat,TRUE,Capital and solvency
+rwa_actual_amount,rwa_standardized_appr_actual_amt,TRUE,Risk-weighted assets
+rwa_end_amount,rwa_standardized_appr_end_amt,TRUE,Risk-weighted assets
+total_loan_losses_amount,loss_total_loan_amt,TRUE,Losses and provisions
+total_loan_losses_rate,loss_total_loan_rate,TRUE,Losses and provisions
+ppnr_amount,revenue_preprovision_net_amt,TRUE,Income and PPNR
+ppnr_rate,revenue_preprovision_net_rate,TRUE,Income and PPNR
+provision_amount,provision_amt,TRUE,Losses and provisions
+pretax_net_income_amount,income_pretax_net_amt,TRUE,Income and PPNR
+pretax_net_income_rate,income_pretax_net_rate,TRUE,Income and PPNR
+net_interest_income_amount,income_net_interest_amt,TRUE,Income and PPNR
+noninterest_income_amount,income_noninterest_amt,TRUE,Income and PPNR
+noninterest_expense_amount,expense_noninterest_amt,TRUE,Income and PPNR
+other_revenue_amount,revenue_other_amt,TRUE,Income and PPNR
+securities_losses_amount,loss_securities_amt,TRUE,Losses and provisions
+trading_counterparty_losses_amount,loss_trading_counterparty_amt,TRUE,Losses and provisions
+other_losses_amount,loss_other_amt,TRUE,Losses and provisions
+aoci_actual_amount,aoci_incl_capital_actual_amt,TRUE,Other
+aoci_end_amount,aoci_incl_capital_end_amt,TRUE,Other

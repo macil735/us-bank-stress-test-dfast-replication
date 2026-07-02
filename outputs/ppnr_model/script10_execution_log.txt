@@ -1,0 +1,70 @@
+============================================================
+Script 10 - Estimate PPNR Model completed
+============================================================
+Project root: D:/GitHub/us-bank-stress-test-dfast-replication
+
+Started at: 2026-06-30 05:01:45.409771
+Completed at: 2026-06-30 05:01:57.353058
+
+Input rows: 665
+Estimation rows: 520
+Banks: 56
+Years: 11
+Scenarios: 3
+Models attempted: 6
+Models estimated: 6
+Best model by RMSE: M5_bank_year_fixed_effects
+Figures created: 5
+
+Model status:
+# A tibble: 6 × 4
+  model_name                           formula                                                            status error_message
+  <chr>                                <chr>                                                              <chr>  <chr>        
+1 M1_scenario_only                     y_ppnr_ratio_model ~ scenario_factor                               estim… <NA>         
+2 M2_pooled_controls                   y_ppnr_ratio_model ~ scenario_factor + x_initial_cet1_model + log… estim… <NA>         
+3 M3_year_fixed_effects                y_ppnr_ratio_model ~ scenario_factor + x_initial_cet1_model + log… estim… <NA>         
+4 M4_bank_fixed_effects                y_ppnr_ratio_model ~ scenario_factor + x_initial_cet1_model + log… estim… <NA>         
+5 M5_bank_year_fixed_effects           y_ppnr_ratio_model ~ scenario_factor + x_initial_cet1_model + log… estim… <NA>         
+6 M6_ppnr_rate_bank_year_fixed_effects y_ppnr_rate_model ~ scenario_factor + x_initial_cet1_model + log_… estim… <NA>         
+
+Prediction metrics:
+# A tibble: 6 × 7
+  model_name                           observations    rmse     mae r2_outcome_prediction mean_residual sd_residual
+  <chr>                                       <int>   <dbl>   <dbl>                 <dbl>         <dbl>       <dbl>
+1 M5_bank_year_fixed_effects                    520 0.00946 0.00665               0.916       -2.47e-17     0.00947
+2 M4_bank_fixed_effects                         520 0.0102  0.00717               0.902       -7.97e-17     0.0102 
+3 M3_year_fixed_effects                         520 0.0311  0.0204                0.0924       1.05e-17     0.0311 
+4 M2_pooled_controls                            520 0.0324  0.0211                0.0151      -1.20e-18     0.0324 
+5 M1_scenario_only                              520 0.0325  0.0209                0.00899      8.60e-18     0.0325 
+6 M6_ppnr_rate_bank_year_fixed_effects          520 3.84    2.87             -13842.          -2.85e+ 0     2.57   
+
+Execution summary:
+# A tibble: 1 × 14
+  script_id script_name project_root started_at completed_at input_rows estimation_rows banks years scenarios models_attempted
+  <chr>     <chr>       <chr>        <chr>      <chr>             <int>           <int> <int> <int>     <int>            <int>
+1 10        estimate_p… D:/GitHub/u… 2026-06-3… 2026-06-30 …        665             520    56    11         3                6
+# ℹ 3 more variables: models_estimated <int>, best_model_by_rmse <chr>, figures_created <int>
+
+Main outputs:
+ - data/processed/model/ppnr_model_estimation_sample.csv
+ - data/processed/model/ppnr_model_predictions.csv
+ - outputs/ppnr_model/script10_estimation_sample_summary.csv
+ - outputs/ppnr_model/script10_model_status.csv
+ - outputs/ppnr_model/script10_coefficient_table.csv
+ - outputs/ppnr_model/script10_fit_table.csv
+ - outputs/ppnr_model/script10_prediction_metrics.csv
+ - outputs/ppnr_model/script10_scenario_effects.csv
+ - outputs/ppnr_model/script10_residual_diagnostics.csv
+ - outputs/ppnr_model/script10_bank_residual_ranking.csv
+ - outputs/ppnr_model/script10_figure_inventory.csv
+ - outputs/ppnr_model/script10_execution_summary.csv
+ - outputs/ppnr_model/script10_ppnr_model_outputs.xlsx
+ - outputs/ppnr_model/script10_ppnr_model_report.docx
+ - outputs/ppnr_model/script10_execution_log.txt
+
+Figures:
+ - outputs/ppnr_model/figures/fig01_actual_vs_predicted_ppnr_ratio.png
+ - outputs/ppnr_model/figures/fig02_residual_distribution.png
+ - outputs/ppnr_model/figures/fig03_model_rmse_comparison.png
+ - outputs/ppnr_model/figures/fig04_rmse_by_scenario.png
+ - outputs/ppnr_model/figures/fig05_top20_bank_residual_rmse.png

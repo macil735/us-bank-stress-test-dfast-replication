@@ -1,0 +1,8 @@
+metric_block,unit_type,number_of_metrics
+Capital and solvency,ratio_or_rate,18
+Income and PPNR,amount,6
+Income and PPNR,ratio_or_rate,4
+Losses and provisions,amount,13
+Losses and provisions,ratio_or_rate,9
+Other comprehensive income,amount,2
+Risk-weighted assets,amount,4

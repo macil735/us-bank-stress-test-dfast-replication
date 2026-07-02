@@ -1,0 +1,7 @@
+figure_path,exists,size_bytes
+outputs/exploratory_analysis/figures/fig01_cet1_depletion_distribution.png,TRUE,57301
+outputs/exploratory_analysis/figures/fig02_cet1_depletion_by_year_scenario.png,TRUE,143842
+outputs/exploratory_analysis/figures/fig03_ppnr_vs_loan_losses.png,TRUE,116268
+outputs/exploratory_analysis/figures/fig04_ppnr_loss_absorption_distribution.png,TRUE,63268
+outputs/exploratory_analysis/figures/fig05_top20_banks_cet1_depletion.png,TRUE,198856
+outputs/exploratory_analysis/figures/fig06_rwa_growth_distribution.png,TRUE,62208

@@ -1,0 +1,82 @@
+============================================================
+Script 12b - Fix Integrated Projection Join Keys completed
+============================================================
+Project root: D:/GitHub/us-bank-stress-test-dfast-replication
+
+Started at: 2026-06-30 07:14:18.718509
+Completed at: 2026-06-30 07:14:30.351685
+
+Selected model check:
+# A tibble: 3 × 3
+  selected_component selected_model             rows_selected
+  <chr>              <chr>                              <int>
+1 credit_loss        M5_bank_year_fixed_effects           520
+2 ppnr               M5_bank_year_fixed_effects           520
+3 capital_depletion  M6_bank_year_fixed_effects           520
+
+Join key summary:
+# A tibble: 3 × 5
+  component         rows_after_model_selection unique_keys duplicated_keys max_rows_per_key
+  <chr>                                  <int>       <int>           <int>            <int>
+1 capital_depletion                        520         497              23                2
+2 credit_loss                              520         497              23                2
+3 ppnr                                     520         497              23                2
+
+Post aggregation check:
+# A tibble: 3 × 4
+  component         rows_before rows_after_unique_key_aggregation duplicate_rows_collapsed
+  <chr>                   <int>                             <int>                    <int>
+1 credit_loss               520                               497                       23
+2 ppnr                      520                               497                       23
+3 capital_depletion         520                               497                       23
+
+Fixed integrated check:
+# A tibble: 1 × 5
+  dataset                 rows unique_keys duplicated_keys max_rows_per_key
+  <chr>                  <int>       <int>           <int>            <int>
+1 integrated_panel_fixed   497         497               0                1
+
+Fixed validation metrics:
+# A tibble: 4 × 5
+  component         observations    rmse     mae r2_outcome_prediction
+  <chr>                    <int>   <dbl>   <dbl>                 <dbl>
+1 credit_loss_ratio          497 0.00596 0.00428                 0.956
+2 ppnr_ratio                 497 0.00933 0.00654                 0.920
+3 capital_depletion          497 0.789   0.570                   0.838
+4 cet1_min_ratio             497 0.846   0.587                   0.969
+
+Execution summary:
+# A tibble: 1 × 19
+  script_id script_name     project_root started_at completed_at credit_rows_selected ppnr_rows_selected capital_rows_selected
+  <chr>     <chr>           <chr>        <chr>      <chr>                       <int>              <int>                 <int>
+1 12b       fix_integrated… D:/GitHub/u… 2026-06-3… 2026-06-30 …                  520                520                   520
+# ℹ 11 more variables: credit_unique_keys <int>, ppnr_unique_keys <int>, capital_unique_keys <int>,
+#   fixed_integrated_panel_rows <int>, fixed_integrated_long_rows <int>, fixed_integrated_unique_keys <int>,
+#   fixed_integrated_duplicated_keys <int>, banks <int>, years <int>, scenarios <int>, figures_created <int>
+
+Main outputs:
+ - data/processed/model/integrated_stress_test_projection_panel_fixed.csv
+ - data/processed/model/integrated_stress_test_projection_long_fixed.csv
+ - outputs/integrated_projection_fix/script12b_input_check.csv
+ - outputs/integrated_projection_fix/script12b_selected_model_check.csv
+ - outputs/integrated_projection_fix/script12b_join_key_audit.csv
+ - outputs/integrated_projection_fix/script12b_join_key_summary.csv
+ - outputs/integrated_projection_fix/script12b_duplicate_key_details.csv
+ - outputs/integrated_projection_fix/script12b_post_aggregation_check.csv
+ - outputs/integrated_projection_fix/script12b_fixed_integrated_check.csv
+ - outputs/integrated_projection_fix/script12b_integrated_validation_metrics_fixed.csv
+ - outputs/integrated_projection_fix/script12b_scenario_summary_fixed.csv
+ - outputs/integrated_projection_fix/script12b_bank_vulnerability_ranking_fixed.csv
+ - outputs/integrated_projection_fix/script12b_bank_model_error_ranking_fixed.csv
+ - outputs/integrated_projection_fix/script12b_projection_variable_map_fixed.csv
+ - outputs/integrated_projection_fix/script12b_figure_inventory.csv
+ - outputs/integrated_projection_fix/script12b_execution_summary.csv
+ - outputs/integrated_projection_fix/script12b_integrated_projection_fix_outputs.xlsx
+ - outputs/integrated_projection_fix/script12b_integrated_projection_fix_report.docx
+ - outputs/integrated_projection_fix/script12b_execution_log.txt
+
+Figures:
+ - outputs/integrated_projection_fix/figures/fig01_fixed_observed_vs_predicted_cet1_min_ratio.png
+ - outputs/integrated_projection_fix/figures/fig02_fixed_cet1_prediction_gap_distribution.png
+ - outputs/integrated_projection_fix/figures/fig03_fixed_integrated_rmse_by_component.png
+ - outputs/integrated_projection_fix/figures/fig04_fixed_top20_vulnerable_banks.png

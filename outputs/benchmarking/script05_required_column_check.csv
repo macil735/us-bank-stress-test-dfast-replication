@@ -1,0 +1,7 @@
+required_column,exists
+id_rssd,TRUE
+disclosure_legal_name,TRUE
+exercise_name,TRUE
+dt_exercise_quarter,TRUE
+scenario_id,TRUE
+scenario_name,TRUE

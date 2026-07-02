@@ -1,0 +1,41 @@
+variable_name,model_block,preferred_source,expected_frequency,stress_test_role,inclusion_status,likely_automation,expected_gap_risk,first_action
+total_assets,Balance sheet,FDIC/FFIEC/FR_Y9C,Quarterly,Scale variable for bank size.,Core,Automatable,Low,Map bank identifiers and download regulatory data.
+total_loans,Balance sheet,FDIC/FFIEC/FR_Y9C,Quarterly,Credit exposure base.,Core,Automatable,Low,Map bank identifiers and download regulatory data.
+commercial_loans,Balance sheet,FDIC/FFIEC/FR_Y9C,Quarterly,Commercial credit-loss channel.,Core,Automatable,Low,Map bank identifiers and download regulatory data.
+consumer_loans,Balance sheet,FDIC/FFIEC/FR_Y9C,Quarterly,Consumer credit-loss channel.,Core,Automatable,Low,Map bank identifiers and download regulatory data.
+credit_card_loans,Balance sheet,FDIC/FFIEC/FR_Y9C,Quarterly,Credit-card loss channel.,Core,Automatable,Low,Map bank identifiers and download regulatory data.
+residential_mortgages,Balance sheet,FDIC/FFIEC/FR_Y9C,Quarterly,Mortgage credit-loss channel.,Core,Automatable,Low,Map bank identifiers and download regulatory data.
+allowance_credit_losses,Balance sheet,FDIC/FFIEC/FR_Y9C,Quarterly,Loss absorption and credit-quality indicator.,Core,Automatable,Low,Map bank identifiers and download regulatory data.
+nonperforming_loans,Balance sheet,FDIC/FFIEC/FR_Y9C,Quarterly,Credit-quality deterioration indicator.,Core,Automatable,Low,Map bank identifiers and download regulatory data.
+net_charge_offs,Balance sheet,FDIC/FFIEC/FR_Y9C,Quarterly,Realized credit-loss flow.,Core,Automatable,Low,Map bank identifiers and download regulatory data.
+loan_loss_provisions,Income and losses,FDIC/FFIEC/FR_Y9C,Quarterly,Provisioning and expected-loss flow.,Core,Automatable,Low,Map bank identifiers and download regulatory data.
+net_interest_income,Income and losses,FDIC/FFIEC/FR_Y9C,Quarterly,Core earnings before provisions.,Core,Automatable,Low,Map bank identifiers and download regulatory data.
+noninterest_income,Income and losses,FDIC/FFIEC/FR_Y9C,Quarterly,Revenue diversification and PPNR component.,Core,Automatable,Low,Map bank identifiers and download regulatory data.
+noninterest_expense,Income and losses,FDIC/FFIEC/FR_Y9C,Quarterly,Operating-cost and efficiency channel.,Core,Automatable,Low,Map bank identifiers and download regulatory data.
+pre_provision_net_revenue,Income and losses,FDIC/FFIEC/FR_Y9C,Quarterly,Pre-provision earnings stress buffer.,Core,Automatable,Low,Map bank identifiers and download regulatory data.
+net_income,Income and losses,FDIC/FFIEC/FR_Y9C,Quarterly,Bottom-line profitability.,Core,Automatable,Low,Map bank identifiers and download regulatory data.
+cet1_capital,Capital and solvency,FDIC/FFIEC/FR_Y9C,Quarterly,Core regulatory capital stock.,Core,Automatable,Low,Map bank identifiers and download regulatory data.
+tier1_capital,Capital and solvency,FDIC/FFIEC/FR_Y9C,Quarterly,Tier 1 capital stock.,Core,Automatable,Low,Map bank identifiers and download regulatory data.
+total_risk_based_capital,Capital and solvency,FDIC/FFIEC/FR_Y9C,Quarterly,Total regulatory capital stock.,Core,Automatable,Low,Map bank identifiers and download regulatory data.
+risk_weighted_assets,Capital and solvency,FDIC/FFIEC/FR_Y9C,Quarterly,Capital denominator.,Core,Automatable,Low,Map bank identifiers and download regulatory data.
+cet1_ratio,Capital and solvency,FDIC/FFIEC/FR_Y9C,Quarterly,Primary solvency stress metric.,Core,Automatable,Low,Map bank identifiers and download regulatory data.
+tier1_ratio,Capital and solvency,FDIC/FFIEC/FR_Y9C,Quarterly,Secondary solvency metric.,Core,Automatable,Low,Map bank identifiers and download regulatory data.
+total_capital_ratio,Capital and solvency,FDIC/FFIEC/FR_Y9C,Quarterly,Total capital adequacy metric.,Core,Automatable,Low,Map bank identifiers and download regulatory data.
+leverage_ratio,Capital and solvency,FDIC/FFIEC/FR_Y9C,Quarterly,Balance-sheet leverage metric.,Core,Automatable,Low,Map bank identifiers and download regulatory data.
+deposits,Funding and liquidity,FDIC/FFIEC/FR_Y9C,Quarterly,Deposit funding base.,Core,Automatable,Low,Map bank identifiers and download regulatory data.
+wholesale_funding,Funding and liquidity,FDIC/FFIEC/FR_Y9C,Quarterly,Market funding sensitivity.,Core,Automatable,Low,Map bank identifiers and download regulatory data.
+liquid_assets,Funding and liquidity,FDIC/FFIEC/FR_Y9C,Quarterly,Liquidity buffer.,Core,Automatable,Low,Map bank identifiers and download regulatory data.
+treasury_securities,Funding and liquidity,FDIC/FFIEC/FR_Y9C,Quarterly,Sovereign securities exposure.,Core,Automatable,Low,Map bank identifiers and download regulatory data.
+agency_mbs,Funding and liquidity,FDIC/FFIEC/FR_Y9C,Quarterly,Agency mortgage-backed securities exposure.,Core,Automatable,Low,Map bank identifiers and download regulatory data.
+trading_assets,Funding and liquidity,FDIC/FFIEC/FR_Y9C,Quarterly,Trading and market-risk exposure.,Core,Automatable,Low,Map bank identifiers and download regulatory data.
+dFAST_projected_losses,DFAST benchmark,FED_DFAST,Annual,Supervisory benchmark for losses.,Core,Automatable,Low to moderate,Download DFAST result files and build benchmark dictionary.
+dFAST_projected_ppnr,DFAST benchmark,FED_DFAST,Annual,Supervisory benchmark for PPNR.,Core,Automatable,Low to moderate,Download DFAST result files and build benchmark dictionary.
+dFAST_minimum_cet1_ratio,DFAST benchmark,FED_DFAST,Annual,Supervisory benchmark for solvency.,Core,Automatable,Low to moderate,Download DFAST result files and build benchmark dictionary.
+gdp_growth,Macro scenario,FRED / Federal Reserve scenarios,Quarterly/Annual scenario path,Macro scenario driver.,Core,Automatable,Low,Download macro variables and scenario paths.
+unemployment_rate,Macro scenario,FRED / Federal Reserve scenarios,Quarterly/Annual scenario path,Credit-loss and household stress driver.,Core,Automatable,Low,Download macro variables and scenario paths.
+cpi_inflation,Macro scenario,FRED / Federal Reserve scenarios,Quarterly/Annual scenario path,Inflation and rate-stress driver.,Core,Automatable,Low,Download macro variables and scenario paths.
+fed_funds_rate,Macro scenario,FRED / Federal Reserve scenarios,Quarterly/Annual scenario path,Short-rate scenario driver.,Core,Automatable,Low,Download macro variables and scenario paths.
+treasury_10y_rate,Macro scenario,FRED / Federal Reserve scenarios,Quarterly/Annual scenario path,Long-rate and securities valuation driver.,Core,Automatable,Low,Download macro variables and scenario paths.
+house_price_index,Macro scenario,FRED / Federal Reserve scenarios,Quarterly/Annual scenario path,Mortgage and collateral-value driver.,Core,Automatable,Low,Download macro variables and scenario paths.
+corporate_bond_spread,Macro scenario,FRED / Federal Reserve scenarios,Quarterly/Annual scenario path,Credit-spread and market-stress driver.,Core,Automatable,Low,Download macro variables and scenario paths.
+stock_market_index,Macro scenario,FRED / Federal Reserve scenarios,Quarterly/Annual scenario path,Equity-market and market-risk driver.,Core,Automatable,Low,Download macro variables and scenario paths.

@@ -1,0 +1,74 @@
+============================================================
+Script 11 - Estimate Capital Depletion Model completed
+============================================================
+Project root: D:/GitHub/us-bank-stress-test-dfast-replication
+
+Started at: 2026-06-30 07:01:20.882419
+Completed at: 2026-06-30 07:01:36.813511
+
+Input rows: 665
+Estimation rows: 520
+Banks: 56
+Years: 11
+Scenarios: 3
+Models attempted: 7
+Models estimated: 7
+Best model by RMSE: M6_bank_year_fixed_effects
+Figures created: 6
+
+Model status:
+# A tibble: 7 × 4
+  model_name                             formula                                                          status error_message
+  <chr>                                  <chr>                                                            <chr>  <chr>        
+1 M1_scenario_only                       y_capital_depletion_model ~ scenario_factor                      estim… <NA>         
+2 M2_losses_ppnr                         y_capital_depletion_model ~ scenario_factor + x_credit_loss_rat… estim… <NA>         
+3 M3_structural_controls                 y_capital_depletion_model ~ scenario_factor + x_credit_loss_rat… estim… <NA>         
+4 M4_year_fixed_effects                  y_capital_depletion_model ~ scenario_factor + x_credit_loss_rat… estim… <NA>         
+5 M5_bank_fixed_effects                  y_capital_depletion_model ~ scenario_factor + x_credit_loss_rat… estim… <NA>         
+6 M6_bank_year_fixed_effects             y_capital_depletion_model ~ scenario_factor + x_credit_loss_rat… estim… <NA>         
+7 M7_log_amounts_bank_year_fixed_effects y_capital_depletion_model ~ scenario_factor + log_total_loan_lo… estim… <NA>         
+
+Prediction metrics:
+# A tibble: 7 × 7
+  model_name                             observations  rmse   mae r2_outcome_prediction mean_residual sd_residual
+  <chr>                                         <int> <dbl> <dbl>                 <dbl>         <dbl>       <dbl>
+1 M6_bank_year_fixed_effects                      520 0.791 0.572                0.839      -1.03e-15       0.792
+2 M7_log_amounts_bank_year_fixed_effects          520 0.794 0.581                0.837      -6.16e-15       0.795
+3 M5_bank_fixed_effects                           520 0.894 0.648                0.794       1.33e-15       0.895
+4 M4_year_fixed_effects                           520 1.38  1.03                 0.512      -3.45e-15       1.38 
+5 M3_structural_controls                          520 1.50  1.15                 0.419      -1.76e-15       1.50 
+6 M2_losses_ppnr                                  520 1.69  1.32                 0.266      -2.96e-15       1.69 
+7 M1_scenario_only                                520 1.87  1.42                 0.0935     -2.64e-15       1.88 
+
+Execution summary:
+# A tibble: 1 × 14
+  script_id script_name project_root started_at completed_at input_rows estimation_rows banks years scenarios models_attempted
+  <chr>     <chr>       <chr>        <chr>      <chr>             <int>           <int> <int> <int>     <int>            <int>
+1 11        estimate_c… D:/GitHub/u… 2026-06-3… 2026-06-30 …        665             520    56    11         3                7
+# ℹ 3 more variables: models_estimated <int>, best_model_by_rmse <chr>, figures_created <int>
+
+Main outputs:
+ - data/processed/model/capital_depletion_model_estimation_sample.csv
+ - data/processed/model/capital_depletion_model_predictions.csv
+ - outputs/capital_depletion_model/script11_estimation_sample_summary.csv
+ - outputs/capital_depletion_model/script11_model_status.csv
+ - outputs/capital_depletion_model/script11_coefficient_table.csv
+ - outputs/capital_depletion_model/script11_fit_table.csv
+ - outputs/capital_depletion_model/script11_prediction_metrics.csv
+ - outputs/capital_depletion_model/script11_scenario_effects.csv
+ - outputs/capital_depletion_model/script11_structural_coefficients.csv
+ - outputs/capital_depletion_model/script11_residual_diagnostics.csv
+ - outputs/capital_depletion_model/script11_bank_residual_ranking.csv
+ - outputs/capital_depletion_model/script11_figure_inventory.csv
+ - outputs/capital_depletion_model/script11_execution_summary.csv
+ - outputs/capital_depletion_model/script11_capital_depletion_model_outputs.xlsx
+ - outputs/capital_depletion_model/script11_capital_depletion_model_report.docx
+ - outputs/capital_depletion_model/script11_execution_log.txt
+
+Figures:
+ - outputs/capital_depletion_model/figures/fig01_actual_vs_predicted_capital_depletion.png
+ - outputs/capital_depletion_model/figures/fig02_residual_distribution.png
+ - outputs/capital_depletion_model/figures/fig03_model_rmse_comparison.png
+ - outputs/capital_depletion_model/figures/fig04_rmse_by_scenario.png
+ - outputs/capital_depletion_model/figures/fig05_top20_bank_residual_rmse.png
+ - outputs/capital_depletion_model/figures/fig06_observed_vs_implied_cet1_min_ratio.png

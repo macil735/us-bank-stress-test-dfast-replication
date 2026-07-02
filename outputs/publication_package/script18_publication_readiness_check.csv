@@ -1,0 +1,16 @@
+check_area,check_description,passed,status
+Final institutional report,The final institutional report exists and is non-empty.,TRUE,PASS
+Final technical and pedagogical manual,The final technical and pedagogical manual exists and is non-empty.,TRUE,PASS
+Final results workbook,The final results workbook exists and is non-empty.,TRUE,PASS
+Benchmark validation workbook,The benchmark validation workbook exists and is non-empty.,TRUE,PASS
+Model risk workbook,The model risk workbook exists and is non-empty.,TRUE,PASS
+Final processed datasets,Final CSV datasets exist and are non-empty.,TRUE,PASS
+Execution logs,Execution logs for final scripts exist.,TRUE,PASS
+Figures,Final figures are available.,TRUE,PASS
+R scripts,All expected R scripts are present.,TRUE,PASS
+Repository README,README.md exists.,TRUE,PASS
+License,LICENSE exists.,TRUE,PASS
+Citation file,CITATION.cff exists.,TRUE,PASS
+Public-data disclaimer,Disclaimer is included in final report and manual.,TRUE,PASS
+Duplicated key control,Final result panel has no duplicated keys.,TRUE,PASS
+Reproducibility outputs,Excel and CSV outputs are available for audit.,TRUE,PASS

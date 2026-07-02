@@ -1,0 +1,7 @@
+variable,outlier_count,banks_affected,years_affected
+ppnr_loss_absorption_ratio,14,6,10
+pretax_net_income_amount,14,11,10
+total_loan_losses_amount,14,6,9
+ppnr_amount,13,9,9
+cet1_depletion_min,12,6,7
+rwa_growth_rate,12,5,5

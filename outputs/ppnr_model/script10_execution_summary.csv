@@ -1,0 +1,2 @@
+script_id,script_name,project_root,started_at,completed_at,input_rows,estimation_rows,banks,years,scenarios,models_attempted,models_estimated,best_model_by_rmse,figures_created
+10,estimate_ppnr_model,D:/GitHub/us-bank-stress-test-dfast-replication,2026-06-30 05:01:45.409771,2026-06-30 05:01:52.455837,665,520,56,11,3,6,6,M5_bank_year_fixed_effects,5

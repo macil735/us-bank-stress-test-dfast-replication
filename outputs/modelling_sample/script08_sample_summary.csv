@@ -1,0 +1,6 @@
+sample_name,observations,share_of_raw_sample
+raw_transmission_panel,665,1
+credit_loss_model_sample,520,0.7819548872180451
+ppnr_model_sample,520,0.7819548872180451
+capital_model_sample,520,0.7819548872180451
+full_core_model_sample,520,0.7819548872180451

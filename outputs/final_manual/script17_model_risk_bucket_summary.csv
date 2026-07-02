@@ -1,0 +1,5 @@
+model_risk_bucket,observations,share
+Low model risk,302,0.607645875251509
+Watchlist,92,0.1851106639839034
+Moderate model risk,68,0.13682092555331993
+High model risk,35,0.07042253521126761

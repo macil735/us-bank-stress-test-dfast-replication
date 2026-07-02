@@ -1,0 +1,7 @@
+figure_path,exists,size_bytes
+outputs/integrated_projection/figures/fig01_observed_vs_predicted_cet1_min_ratio.png,TRUE,175171
+outputs/integrated_projection/figures/fig02_cet1_prediction_gap_distribution.png,TRUE,63149
+outputs/integrated_projection/figures/fig03_integrated_rmse_by_component.png,TRUE,63198
+outputs/integrated_projection/figures/fig04_top20_vulnerable_banks_predicted_cet1.png,TRUE,187428
+outputs/integrated_projection/figures/fig05_predicted_cet1_by_year_scenario.png,TRUE,163161
+outputs/integrated_projection/figures/fig06_predicted_ppnr_vs_credit_losses.png,TRUE,337347

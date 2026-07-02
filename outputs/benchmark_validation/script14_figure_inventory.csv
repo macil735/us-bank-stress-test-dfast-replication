@@ -1,0 +1,8 @@
+figure_path,exists,size_bytes
+outputs/benchmark_validation/figures/fig01_observed_vs_predicted_cet1_min_ratio.png,TRUE,175381
+outputs/benchmark_validation/figures/fig02_cet1_prediction_error_distribution.png,TRUE,65226
+outputs/benchmark_validation/figures/fig03_validation_rmse_by_component.png,TRUE,65752
+outputs/benchmark_validation/figures/fig04_cet1_validation_precision_buckets.png,TRUE,59974
+outputs/benchmark_validation/figures/fig05_top20_bank_cet1_validation_rmse.png,TRUE,205780
+outputs/benchmark_validation/figures/fig06_cet1_rmse_by_year_scenario.png,TRUE,165401
+outputs/benchmark_validation/figures/fig07_observed_vs_predicted_capital_depletion.png,TRUE,342261

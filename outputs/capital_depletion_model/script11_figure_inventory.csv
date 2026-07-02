@@ -1,0 +1,7 @@
+figure_path,exists,size_bytes
+outputs/capital_depletion_model/figures/fig01_actual_vs_predicted_capital_depletion.png,TRUE,382282
+outputs/capital_depletion_model/figures/fig02_residual_distribution.png,TRUE,59583
+outputs/capital_depletion_model/figures/fig03_model_rmse_comparison.png,TRUE,90921
+outputs/capital_depletion_model/figures/fig04_rmse_by_scenario.png,TRUE,58474
+outputs/capital_depletion_model/figures/fig05_top20_bank_residual_rmse.png,TRUE,200597
+outputs/capital_depletion_model/figures/fig06_observed_vs_implied_cet1_min_ratio.png,TRUE,176160

@@ -1,0 +1,111 @@
+============================================================
+Script 15 - Robustness, Sensitivity and Model Risk Assessment completed
+============================================================
+Project root: D:/GitHub/us-bank-stress-test-dfast-replication
+
+Started at: 2026-06-30 07:40:47.82592
+Completed at: 2026-06-30 07:41:03.06241
+
+Input rows: 497
+Model risk rows: 497
+Banks: 56
+Years: 11
+Scenarios: 3
+Duplicated keys: 0
+CET1 minimum RMSE: 0.846
+CET1 minimum MAE: 0.5873
+CET1 minimum bias: 0.0145
+CET1 minimum R-squared: 0.9688
+CET1 minimum correlation: 0.9843
+High model risk observations: 35
+Moderate model risk observations: 68
+Watchlist observations: 92
+Low model risk observations: 302
+Figures created: 7
+
+Executive model risk summary:
+# A tibble: 18 × 2
+   metric                             value 
+   <chr>                              <chr> 
+ 1 Model risk assessment observations 497   
+ 2 Banks                              56    
+ 3 Exercise years                     11    
+ 4 Scenarios                          3     
+ 5 Duplicated keys                    0     
+ 6 CET1 minimum ratio RMSE            0.846 
+ 7 CET1 minimum ratio MAE             0.5873
+ 8 CET1 minimum ratio bias            0.0145
+ 9 CET1 minimum ratio R-squared       0.9688
+10 CET1 minimum ratio correlation     0.9843
+11 Largest absolute CET1 error        5.0721
+12 High model risk observations       35    
+13 Moderate model risk observations   68    
+14 Watchlist observations             92    
+15 Low model risk observations        302   
+16 Tail error cutoff p95              1.6163
+17 Threshold misses                   22    
+18 Near-threshold observations        127   
+
+Overall robustness metrics:
+# A tibble: 4 × 14
+  component   observations actual_mean predicted_mean     bias    rmse     mae r2_outcome_prediction correlation abs_error_p50
+  <chr>              <int>       <dbl>          <dbl>    <dbl>   <dbl>   <dbl>                 <dbl>       <dbl>         <dbl>
+1 Credit los…          497      0.0420         0.0419 -7.21e-5 0.00596 0.00428                 0.956       0.978       0.00296
+2 PPNR ratio           497      0.0450         0.0450 -7.06e-6 0.00933 0.00654                 0.920       0.959       0.00472
+3 CET1 capit…          497      2.67           2.67    3.99e-4 0.789   0.570                   0.838       0.915       0.406  
+4 CET1 minim…          497     10.7           10.7     1.45e-2 0.846   0.587                   0.969       0.984       0.412  
+# ℹ 4 more variables: abs_error_p75 <dbl>, abs_error_p90 <dbl>, abs_error_p95 <dbl>, abs_error_max <dbl>
+
+Model risk conclusion:
+# A tibble: 7 × 2
+  item                       conclusion                                                                                       
+  <chr>                      <chr>                                                                                            
+1 Overall CET1 fit           The integrated model achieves CET1 R-squared of 0.9688 and correlation of 0.9843.                
+2 Average error              The CET1 minimum ratio RMSE is 0.846 and MAE is 0.5873 percentage points.                        
+3 Bias                       The average CET1 prediction bias is 0.0145, indicating limited systematic bias.                  
+4 Tail risk                  The largest absolute CET1 error is 5.0721 percentage points and is treated as tail model risk.   
+5 Threshold classification   The threshold sensitivity analysis confirms classification performance across CET1 cutoffs, with…
+6 Operational use            The model can be used as a public reduced-form benchmark and stress test replication engine.     
+7 Final model-risk judgement Model risk is assessed as manageable for public benchmarking, provided that limitations and tail…
+
+Execution summary:
+# A tibble: 1 × 21
+  script_id script_name  project_root started_at completed_at input_rows model_risk_rows banks years scenarios duplicated_keys
+  <chr>     <chr>        <chr>        <chr>      <chr>             <int>           <int> <int> <int>     <int>           <int>
+1 15        robustness_… D:/GitHub/u… 2026-06-3… 2026-06-30 …        497             497    56    11         3               0
+# ℹ 10 more variables: cet1_min_rmse <dbl>, cet1_min_mae <dbl>, cet1_min_bias <dbl>, cet1_min_r2 <dbl>,
+#   cet1_min_correlation <dbl>, high_model_risk_observations <int>, moderate_model_risk_observations <int>,
+#   watchlist_observations <int>, low_model_risk_observations <int>, figures_created <int>
+
+Main outputs:
+ - data/processed/model/model_risk_assessment_panel.csv
+ - data/processed/model/model_risk_tail_error_panel.csv
+ - data/processed/model/bank_model_risk_assessment.csv
+ - outputs/model_risk/script15_key_audit_summary.csv
+ - outputs/model_risk/script15_executive_model_risk_summary.csv
+ - outputs/model_risk/script15_overall_robustness_metrics.csv
+ - outputs/model_risk/script15_year_robustness.csv
+ - outputs/model_risk/script15_scenario_robustness.csv
+ - outputs/model_risk/script15_year_scenario_robustness.csv
+ - outputs/model_risk/script15_bank_model_risk.csv
+ - outputs/model_risk/script15_tail_error_summary.csv
+ - outputs/model_risk/script15_largest_model_risk_observations.csv
+ - outputs/model_risk/script15_threshold_sensitivity.csv
+ - outputs/model_risk/script15_bias_direction_summary.csv
+ - outputs/model_risk/script15_bias_by_scenario.csv
+ - outputs/model_risk/script15_model_risk_limits.csv
+ - outputs/model_risk/script15_model_risk_conclusion.csv
+ - outputs/model_risk/script15_figure_inventory.csv
+ - outputs/model_risk/script15_execution_summary.csv
+ - outputs/model_risk/script15_model_risk_assessment_outputs.xlsx
+ - outputs/model_risk/script15_model_risk_assessment_report.docx
+ - outputs/model_risk/script15_execution_log.txt
+
+Figures:
+ - outputs/model_risk/figures/fig01_abs_cet1_error_distribution.png
+ - outputs/model_risk/figures/fig02_model_risk_buckets.png
+ - outputs/model_risk/figures/fig03_top20_bank_model_risk_score.png
+ - outputs/model_risk/figures/fig04_threshold_classification_sensitivity.png
+ - outputs/model_risk/figures/fig05_cet1_rmse_by_year.png
+ - outputs/model_risk/figures/fig06_cet1_rmse_by_scenario.png
+ - outputs/model_risk/figures/fig07_observed_vs_predicted_cet1.png

@@ -1,0 +1,4 @@
+component,rows_after_model_selection,unique_keys,duplicated_keys,max_rows_per_key
+capital_depletion,520,497,23,2
+credit_loss,520,497,23,2
+ppnr,520,497,23,2

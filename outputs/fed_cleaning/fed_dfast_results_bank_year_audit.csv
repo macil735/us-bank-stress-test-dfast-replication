@@ -1,0 +1,6 @@
+dataset_name,rows,columns,detected_bank_column,detected_year_column,detected_scenario_column,number_of_banks_or_entities,min_year,max_year
+fed_dfast_results_clean,665,66,exercise_name,NA,scenario_type,15,NA,NA
+fed_dfast_nine_quarter_paths_clean,69,14,NA,NA,scenario_type,NA,NA,NA
+fed_macro_historic_domestic_clean,200,22,scenario_name,x5_year_treasury_yield,scenario_type,1,0.3,15
+fed_macro_baseline_domestic_clean,13,22,scenario_name,x5_year_treasury_yield,scenario_type,1,3.6,3.9
+fed_macro_severely_adverse_domestic_clean,13,22,scenario_name,x5_year_treasury_yield,scenario_type,1,1.3,2.4

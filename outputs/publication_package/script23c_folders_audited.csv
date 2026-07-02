@@ -1,0 +1,4 @@
+folder_role,folder_path,folder_exists
+REGULATORY_PUBLICATION_FEDERAL_RESERVE,D:/GitHub/us-bank-stress-test-dfast-replication/docs/regulatory_framework/source_documents/federal_reserve,TRUE
+RAW_FED_METHODOLOGY,D:/GitHub/us-bank-stress-test-dfast-replication/data/raw/fed/methodology,TRUE
+RAW_FED_RESULTS,D:/GitHub/us-bank-stress-test-dfast-replication/data/raw/fed/results,TRUE

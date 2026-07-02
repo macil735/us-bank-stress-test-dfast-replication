@@ -1,0 +1,4 @@
+scenario_code,scenario_label,observations,mean_prediction_error,median_prediction_error,optimistic_share,conservative_share,severe_optimistic_errors,severe_conservative_errors
+2,Supervisory Adverse,124,-0.0012016129032319813,-0.027861260977900315,0.47580645161290325,0.5241935483870968,2,2
+3,Supervisory Severely Adverse,339,0.01365229399741755,-0.05923736033039617,0.4365781710914454,0.5545722713864307,6,3
+30,Supervisory Alternative Severe,34,0.08085294117648054,0.08898438489220606,0.5588235294117647,0.4411764705882353,2,0

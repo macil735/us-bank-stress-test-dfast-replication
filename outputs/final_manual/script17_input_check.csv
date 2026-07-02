@@ -1,0 +1,9 @@
+input_name,input_path,exists,size_bytes
+final_results_panel,data/processed/model/final_stress_test_results_panel.csv,TRUE,462090
+final_bank_vulnerability_ranking,data/processed/model/final_bank_vulnerability_ranking.csv,TRUE,20305
+latest_exercise_bank_vulnerability_ranking,data/processed/model/latest_exercise_bank_vulnerability_ranking.csv,TRUE,6772
+benchmark_validation_panel,data/processed/model/benchmark_validation_panel.csv,TRUE,578605
+benchmark_validation_largest_errors,data/processed/model/benchmark_validation_largest_cet1_errors.csv,TRUE,128953
+model_risk_assessment_panel,data/processed/model/model_risk_assessment_panel.csv,TRUE,654043
+bank_model_risk_assessment,data/processed/model/bank_model_risk_assessment.csv,TRUE,13488
+model_risk_tail_error_panel,data/processed/model/model_risk_tail_error_panel.csv,TRUE,34719

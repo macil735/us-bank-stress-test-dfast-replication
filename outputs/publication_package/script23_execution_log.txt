@@ -1,0 +1,109 @@
+============================================================
+Script 23 - Validate Regulatory PDF Files completed
+============================================================
+Project root: D:/GitHub/us-bank-stress-test-dfast-replication
+
+Started at: 2026-06-30 11:09:13.384301
+Completed at: 2026-06-30 11:09:19.688487
+
+Search locations:
+# A tibble: 4 × 2
+  search_location           exists
+  <chr>                     <lgl> 
+1 docs/regulatory_framework TRUE  
+2 data/raw/fed              TRUE  
+3 data/raw/fed/results      TRUE  
+4 data/raw/fed/methodology  TRUE  
+
+PDF files searched: 27
+Valid PDF files: 12
+Invalid PDF files: 15
+Very small PDFs requiring review: 0
+Invalid PDFs in regulatory publication folder: 13
+Publication PDF status: PDF_PUBLICATION_NOT_READY
+
+Publication PDF readiness:
+# A tibble: 7 × 2
+  item                                          value                                                                         
+  <chr>                                         <chr>                                                                         
+1 PDF files searched                            27                                                                            
+2 Valid PDF files                               12                                                                            
+3 Invalid PDF files                             15                                                                            
+4 Very small PDFs requiring review              0                                                                             
+5 Invalid PDFs in regulatory publication folder 13                                                                            
+6 Publication PDF status                        PDF_PUBLICATION_NOT_READY                                                     
+7 Required action                               Move, remove or replace invalid PDFs in the regulatory publication folder bef…
+
+PDF validation summary:
+# A tibble: 2 × 3
+  validation_status     files total_size_bytes
+  <chr>                 <int>            <dbl>
+1 INVALID_PDF_SIGNATURE    15          1217940
+2 VALID_PDF                12         20046161
+
+PDF validation by location:
+# A tibble: 4 × 5
+  location_class                validation_status     files total_size_bytes blocking_issues
+  <chr>                         <chr>                 <int>            <dbl>           <int>
+1 RAW_FED_METHODOLOGY_FOLDER    VALID_PDF                 2          3162327               0
+2 RAW_FED_RESULTS_FOLDER        INVALID_PDF_SIGNATURE     2           162392               0
+3 REGULATORY_PUBLICATION_FOLDER INVALID_PDF_SIGNATURE    13          1055548              13
+4 REGULATORY_PUBLICATION_FOLDER VALID_PDF                10         16883834               0
+
+Invalid PDF files:
+# A tibble: 15 × 13
+   file_path            file_name relative_directory extension exists size_bytes modified_at pdf_header starts_with_pdf_sign…¹
+   <chr>                <chr>     <chr>              <chr>     <lgl>       <dbl> <chr>       <chr>      <lgl>                 
+ 1 data/raw/fed/result… fed_2026… data/raw/fed/resu… pdf       TRUE        81196 2026-06-29… <!doc      FALSE                 
+ 2 data/raw/fed/result… fed_publ… data/raw/fed/resu… pdf       TRUE        81196 2026-06-29… <!doc      FALSE                 
+ 3 docs/regulatory_fra… fed_2026… docs/regulatory_f… pdf       TRUE        81196 2026-06-29… <!doc      FALSE                 
+ 4 docs/regulatory_fra… fed_2026… docs/regulatory_f… pdf       TRUE        81196 2026-06-29… <!doc      FALSE                 
+ 5 docs/regulatory_fra… fed_2026… docs/regulatory_f… pdf       TRUE        81196 2026-06-29… <!doc      FALSE                 
+ 6 docs/regulatory_fra… fed_2026… docs/regulatory_f… pdf       TRUE        81196 2026-06-29… <!doc      FALSE                 
+ 7 docs/regulatory_fra… fed_2026… docs/regulatory_f… pdf       TRUE        81196 2026-06-29… <!doc      FALSE                 
+ 8 docs/regulatory_fra… fed_2026… docs/regulatory_f… pdf       TRUE        81196 2026-06-29… <!doc      FALSE                 
+ 9 docs/regulatory_fra… fed_deta… docs/regulatory_f… pdf       TRUE        81196 2026-06-29… <!doc      FALSE                 
+10 docs/regulatory_fra… fed_larg… docs/regulatory_f… pdf       TRUE        81196 2026-06-29… <!doc      FALSE                 
+11 docs/regulatory_fra… fed_larg… docs/regulatory_f… pdf       TRUE        81196 2026-06-29… <!doc      FALSE                 
+12 docs/regulatory_fra… fed_publ… docs/regulatory_f… pdf       TRUE        81196 2026-06-29… <!doc      FALSE                 
+13 docs/regulatory_fra… fed_publ… docs/regulatory_f… pdf       TRUE        81196 2026-06-29… <!doc      FALSE                 
+14 docs/regulatory_fra… fed_publ… docs/regulatory_f… pdf       TRUE        81196 2026-06-29… <!doc      FALSE                 
+15 docs/regulatory_fra… fed_stre… docs/regulatory_f… pdf       TRUE        81196 2026-06-29… <!doc      FALSE                 
+# ℹ abbreviated name: ¹​starts_with_pdf_signature
+# ℹ 4 more variables: validation_status <chr>, location_class <chr>, publication_action <chr>,
+#   publication_blocking_issue <lgl>
+
+Recommended cleanup:
+# A tibble: 15 × 10
+   file_path    file_name location_class validation_status size_bytes pdf_header recommended_action_t…¹ recommended_failed_f…²
+   <chr>        <chr>     <chr>          <chr>                  <dbl> <chr>      <chr>                  <chr>                 
+ 1 data/raw/fe… fed_2026… RAW_FED_RESUL… INVALID_PDF_SIGN…      81196 <!doc      MOVE_INVALID_SIGNATURE data/raw/fed/failed_d…
+ 2 data/raw/fe… fed_publ… RAW_FED_RESUL… INVALID_PDF_SIGN…      81196 <!doc      MOVE_INVALID_SIGNATURE data/raw/fed/failed_d…
+ 3 docs/regula… fed_2026… REGULATORY_PU… INVALID_PDF_SIGN…      81196 <!doc      MOVE_INVALID_SIGNATURE docs/regulatory_frame…
+ 4 docs/regula… fed_2026… REGULATORY_PU… INVALID_PDF_SIGN…      81196 <!doc      MOVE_INVALID_SIGNATURE docs/regulatory_frame…
+ 5 docs/regula… fed_2026… REGULATORY_PU… INVALID_PDF_SIGN…      81196 <!doc      MOVE_INVALID_SIGNATURE docs/regulatory_frame…
+ 6 docs/regula… fed_2026… REGULATORY_PU… INVALID_PDF_SIGN…      81196 <!doc      MOVE_INVALID_SIGNATURE docs/regulatory_frame…
+ 7 docs/regula… fed_2026… REGULATORY_PU… INVALID_PDF_SIGN…      81196 <!doc      MOVE_INVALID_SIGNATURE docs/regulatory_frame…
+ 8 docs/regula… fed_2026… REGULATORY_PU… INVALID_PDF_SIGN…      81196 <!doc      MOVE_INVALID_SIGNATURE docs/regulatory_frame…
+ 9 docs/regula… fed_deta… REGULATORY_PU… INVALID_PDF_SIGN…      81196 <!doc      MOVE_INVALID_SIGNATURE docs/regulatory_frame…
+10 docs/regula… fed_larg… REGULATORY_PU… INVALID_PDF_SIGN…      81196 <!doc      MOVE_INVALID_SIGNATURE docs/regulatory_frame…
+11 docs/regula… fed_larg… REGULATORY_PU… INVALID_PDF_SIGN…      81196 <!doc      MOVE_INVALID_SIGNATURE docs/regulatory_frame…
+12 docs/regula… fed_publ… REGULATORY_PU… INVALID_PDF_SIGN…      81196 <!doc      MOVE_INVALID_SIGNATURE docs/regulatory_frame…
+13 docs/regula… fed_publ… REGULATORY_PU… INVALID_PDF_SIGN…      81196 <!doc      MOVE_INVALID_SIGNATURE docs/regulatory_frame…
+14 docs/regula… fed_publ… REGULATORY_PU… INVALID_PDF_SIGN…      81196 <!doc      MOVE_INVALID_SIGNATURE docs/regulatory_frame…
+15 docs/regula… fed_stre… REGULATORY_PU… INVALID_PDF_SIGN…      81196 <!doc      MOVE_INVALID_SIGNATURE docs/regulatory_frame…
+# ℹ abbreviated names: ¹​recommended_action_type, ²​recommended_failed_folder
+# ℹ 2 more variables: recommended_target_path <chr>, publication_action <chr>
+
+Main outputs:
+ - outputs/publication_package/script23_pdf_validation_audit.csv
+ - outputs/publication_package/script23_pdf_validation_summary.csv
+ - outputs/publication_package/script23_pdf_validation_by_location.csv
+ - outputs/publication_package/script23_valid_pdf_files.csv
+ - outputs/publication_package/script23_invalid_pdf_files.csv
+ - outputs/publication_package/script23_blocking_invalid_pdfs.csv
+ - outputs/publication_package/script23_publication_pdf_readiness.csv
+ - outputs/publication_package/script23_recommended_pdf_cleanup.csv
+ - outputs/publication_package/script23_pdf_validation_audit.xlsx
+ - docs/regulatory_framework/pdf_validation_note.md
+ - outputs/publication_package/script23_execution_log.txt

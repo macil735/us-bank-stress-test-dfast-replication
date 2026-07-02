@@ -1,0 +1,59 @@
+exercise_year,scenario_code,scenario_label,cet1_min_validation_flag,observations,share
+2015,2,Supervisory Adverse,Acceptable precision,6,0.17647058823529413
+2015,2,Supervisory Adverse,High precision,21,0.6176470588235294
+2015,2,Supervisory Adverse,Large deviation,1,0.029411764705882353
+2015,2,Supervisory Adverse,Moderate deviation,6,0.17647058823529413
+2015,3,Supervisory Severely Adverse,Acceptable precision,9,0.2647058823529412
+2015,3,Supervisory Severely Adverse,High precision,19,0.5588235294117647
+2015,3,Supervisory Severely Adverse,Moderate deviation,6,0.17647058823529413
+2016,2,Supervisory Adverse,Acceptable precision,11,0.3142857142857143
+2016,2,Supervisory Adverse,High precision,17,0.4857142857142857
+2016,2,Supervisory Adverse,Large deviation,1,0.02857142857142857
+2016,2,Supervisory Adverse,Moderate deviation,6,0.17142857142857143
+2016,3,Supervisory Severely Adverse,Acceptable precision,9,0.2571428571428571
+2016,3,Supervisory Severely Adverse,High precision,21,0.6
+2016,3,Supervisory Severely Adverse,Large deviation,1,0.02857142857142857
+2016,3,Supervisory Severely Adverse,Moderate deviation,4,0.11428571428571428
+2017,2,Supervisory Adverse,Acceptable precision,7,0.19444444444444445
+2017,2,Supervisory Adverse,High precision,23,0.6388888888888888
+2017,2,Supervisory Adverse,Large deviation,1,0.027777777777777776
+2017,2,Supervisory Adverse,Moderate deviation,5,0.1388888888888889
+2017,3,Supervisory Severely Adverse,Acceptable precision,9,0.25
+2017,3,Supervisory Severely Adverse,High precision,18,0.5
+2017,3,Supervisory Severely Adverse,Large deviation,3,0.08333333333333333
+2017,3,Supervisory Severely Adverse,Moderate deviation,6,0.16666666666666666
+2018,2,Supervisory Adverse,Acceptable precision,3,0.15789473684210525
+2018,2,Supervisory Adverse,High precision,12,0.631578947368421
+2018,2,Supervisory Adverse,Large deviation,1,0.05263157894736842
+2018,2,Supervisory Adverse,Moderate deviation,3,0.15789473684210525
+2018,3,Supervisory Severely Adverse,Acceptable precision,9,0.47368421052631576
+2018,3,Supervisory Severely Adverse,High precision,5,0.2631578947368421
+2018,3,Supervisory Severely Adverse,Moderate deviation,5,0.2631578947368421
+2019,3,Supervisory Severely Adverse,Acceptable precision,13,0.38235294117647056
+2019,3,Supervisory Severely Adverse,High precision,12,0.35294117647058826
+2019,3,Supervisory Severely Adverse,Moderate deviation,9,0.2647058823529412
+2020,3,Supervisory Severely Adverse,Acceptable precision,7,0.2
+2020,3,Supervisory Severely Adverse,High precision,25,0.7142857142857143
+2020,3,Supervisory Severely Adverse,Moderate deviation,3,0.08571428571428572
+2020,30,Supervisory Alternative Severe,Acceptable precision,9,0.2647058823529412
+2020,30,Supervisory Alternative Severe,High precision,19,0.5588235294117647
+2020,30,Supervisory Alternative Severe,Large deviation,2,0.058823529411764705
+2020,30,Supervisory Alternative Severe,Moderate deviation,4,0.11764705882352941
+2021,3,Supervisory Severely Adverse,Acceptable precision,5,0.14705882352941177
+2021,3,Supervisory Severely Adverse,High precision,21,0.6176470588235294
+2021,3,Supervisory Severely Adverse,Large deviation,2,0.058823529411764705
+2021,3,Supervisory Severely Adverse,Moderate deviation,6,0.17647058823529413
+2022,3,Supervisory Severely Adverse,Acceptable precision,5,0.20833333333333334
+2022,3,Supervisory Severely Adverse,High precision,16,0.6666666666666666
+2022,3,Supervisory Severely Adverse,Moderate deviation,3,0.125
+2023,3,Supervisory Severely Adverse,Acceptable precision,4,0.125
+2023,3,Supervisory Severely Adverse,High precision,21,0.65625
+2023,3,Supervisory Severely Adverse,Large deviation,2,0.0625
+2023,3,Supervisory Severely Adverse,Moderate deviation,5,0.15625
+2024,3,Supervisory Severely Adverse,Acceptable precision,11,0.4782608695652174
+2024,3,Supervisory Severely Adverse,High precision,9,0.391304347826087
+2024,3,Supervisory Severely Adverse,Large deviation,1,0.043478260869565216
+2024,3,Supervisory Severely Adverse,Moderate deviation,2,0.08695652173913043
+2025,3,Supervisory Severely Adverse,Acceptable precision,8,0.24242424242424243
+2025,3,Supervisory Severely Adverse,High precision,23,0.696969696969697
+2025,3,Supervisory Severely Adverse,Moderate deviation,2,0.06060606060606061

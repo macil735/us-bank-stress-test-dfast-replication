@@ -1,0 +1,70 @@
+============================================================
+Script 18 - Final Publication Checklist and Repository Packaging completed
+============================================================
+Project root: D:/GitHub/us-bank-stress-test-dfast-replication
+
+Started at: 2026-07-02 05:18:04.832192
+Completed at: 2026-07-02 05:18:26.335906
+
+Critical files checked: 23
+Missing required files: 0
+Expected scripts: 21
+Missing expected scripts: 0
+Repository files inventoried: 639
+Publication checks: 15
+Publication checks passed: 15
+Publication checks failed: 0
+Publication status: READY_FOR_PUBLICATION
+
+Publication readiness summary:
+# A tibble: 1 × 5
+  total_checks passed_checks failed_checks readiness_rate publication_status   
+         <int>         <int>         <int>          <dbl> <chr>                
+1           15            15             0              1 READY_FOR_PUBLICATION
+
+Publication issues:
+# A tibble: 1 × 5
+  check_area check_description                       passed status recommended_action 
+  <chr>      <chr>                                   <lgl>  <chr>  <chr>              
+1 None       No failed publication readiness checks. TRUE   PASS   No action required.
+
+Critical file check summary:
+# A tibble: 5 × 3
+  category            status               n
+  <chr>               <chr>            <int>
+1 Execution logs      OK                   5
+2 Final documents     OK                   3
+3 Final workbooks     OK                   5
+4 Processed datasets  OK                   6
+5 Repository metadata OPTIONAL_PRESENT     4
+
+Script presence check:
+# A tibble: 21 × 3
+   expected_script                                      exists status
+   <chr>                                                <lgl>  <chr> 
+ 1 01_data_availability_audit.R                         TRUE   OK    
+ 2 02_regulatory_documentation_and_raw_data_ingestion.R TRUE   OK    
+ 3 02b_download_regulatory_documentation.R              TRUE   OK    
+ 4 02c_fix_missing_regulatory_documentation.R           TRUE   OK    
+ 5 03_clean_federal_reserve_dfast_results.R             TRUE   OK    
+ 6 04_structure_fed_macro_scenarios.R                   TRUE   OK    
+ 7 05_build_dfast_benchmark_dataset.R                   TRUE   OK    
+ 8 06_capital_losses_transmission_layer.R               TRUE   OK    
+ 9 07_exploratory_analysis_transmission_layer.R         TRUE   OK    
+10 08_build_modelling_sample.R                          TRUE   OK    
+# ℹ 11 more rows
+# ℹ Use `print(n = ...)` to see more rows
+
+Main outputs:
+ - outputs/publication_package/script18_critical_file_check.csv
+ - outputs/publication_package/script18_script_inventory.csv
+ - outputs/publication_package/script18_script_presence_check.csv
+ - outputs/publication_package/script18_repository_file_inventory.csv
+ - outputs/publication_package/script18_repository_file_summary.csv
+ - outputs/publication_package/script18_publication_readiness_check.csv
+ - outputs/publication_package/script18_publication_readiness_summary.csv
+ - outputs/publication_package/script18_final_outputs_list.csv
+ - outputs/publication_package/script18_readme_results_block.md
+ - outputs/publication_package/script18_release_notes_draft.md
+ - outputs/publication_package/script18_publication_checklist.xlsx
+ - outputs/publication_package/script18_execution_log.txt

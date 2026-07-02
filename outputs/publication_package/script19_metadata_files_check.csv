@@ -1,0 +1,7 @@
+description,file_path,required,exists,size_bytes,modified_at,status
+Repository README,README.md,TRUE,TRUE,7204,2026-06-30 09:16:20,OK
+Repository license,LICENSE,TRUE,TRUE,1474,2026-06-30 09:16:20,OK
+Citation metadata,CITATION.cff,TRUE,TRUE,905,2026-06-30 09:16:20,OK
+Public disclaimer,docs/public_disclaimer.md,TRUE,TRUE,1068,2026-06-30 09:16:20,OK
+Reproducibility notes,docs/reproducibility_notes.md,TRUE,TRUE,1521,2026-06-30 09:16:20,OK
+Project scope,docs/project_scope.md,TRUE,TRUE,1481,2026-06-30 09:16:20,OK

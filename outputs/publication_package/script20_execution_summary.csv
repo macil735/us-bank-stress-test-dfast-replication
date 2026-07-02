@@ -1,0 +1,2 @@
+script_id,script_name,project_root,started_at,completed_at,gitignore_created,git_publication_steps_created,final_publication_status_created,git_publication_status
+20,create_gitignore_and_final_git_publication_instructions,D:/GitHub/us-bank-stress-test-dfast-replication,2026-06-30 10:09:53.428045,2026-06-30 10:09:55.554706,TRUE,TRUE,TRUE,READY_FOR_GIT_COMMIT

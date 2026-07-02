@@ -1,0 +1,2 @@
+script_id,script_name,project_root,started_at,completed_at,input_rows,transmission_panel_rows,transmission_long_rows,banks,years,scenarios,source_variables_available,source_variables_expected,derived_variables
+06,capital_losses_transmission_layer,D:/GitHub/us-bank-stress-test-dfast-replication,2026-06-30 04:25:18.607028,2026-06-30 04:25:25.964753,665,665,33915,61,14,3,33,33,18

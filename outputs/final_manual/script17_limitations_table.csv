@@ -1,0 +1,9 @@
+limitation,consequence,recommended_response
+Public-data-only design,The model is reproducible but necessarily incomplete.,Document all sources and keep the workflow reproducible.
+Reduced-form specification,The model explains observed outcomes but is not a structural supervisory model.,"Explain the model as a benchmark, not as an official engine."
+No confidential supervisory assumptions,The project cannot reproduce Federal Reserve confidential modelling layers.,Use explicit disclaimer language.
+No internal bank portfolio data,"Detailed loan-level, trading, operational and management-action data are not observed.",Avoid overclaiming precision.
+Potential bank-specific idiosyncrasies,Some banks may have special features not captured by public variables.,Report largest errors and model risk rankings.
+Tail error concentration,A small number of observations can have large errors.,Discuss tail risk separately from average fit.
+Ranking sensitivity,Relative rankings may change under alternative specifications.,Use sensitivity checks and alternative thresholds.
+Pedagogical simplification,Some technical details are simplified for teaching and transparency.,Provide exercises and technical appendices.

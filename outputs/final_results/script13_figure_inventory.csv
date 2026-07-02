@@ -1,0 +1,8 @@
+figure_path,exists,size_bytes
+outputs/final_results/figures/fig01_latest_top20_min_predicted_cet1.png,TRUE,193900
+outputs/final_results/figures/fig02_top20_composite_vulnerability_score.png,TRUE,192759
+outputs/final_results/figures/fig03_distribution_predicted_cet1_min_ratio.png,TRUE,61807
+outputs/final_results/figures/fig04_observed_vs_predicted_cet1_min_ratio.png,TRUE,169640
+outputs/final_results/figures/fig05_mean_predicted_cet1_by_year_scenario.png,TRUE,158402
+outputs/final_results/figures/fig06_model_rmse_by_component.png,TRUE,62612
+outputs/final_results/figures/fig07_predicted_ppnr_vs_credit_loss_ratio.png,TRUE,335905

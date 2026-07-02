@@ -1,0 +1,80 @@
+bank_rssd_id,bank_name,exercise_year,scenario_code,scenario_label,variable,value,is_outlier
+2816906,DB USA Corporation,2023,3,Supervisory Severely Adverse,cet1_depletion_min,13.3,TRUE
+2816906,DB USA Corporation,2020,30,Supervisory Alternative Severe,cet1_depletion_min,12,TRUE
+2816906,DB USA Corporation,2020,3,Supervisory Severely Adverse,cet1_depletion_min,11.7,TRUE
+2816906,DB USA Corporation,2024,3,Supervisory Severely Adverse,cet1_depletion_min,11,TRUE
+2380443,"The Goldman Sachs Group, Inc.",2014,3,Supervisory Severely Adverse,cet1_depletion_min,9.3,TRUE
+4846998,UBS Americas Holding LLC,2023,3,Supervisory Severely Adverse,cet1_depletion_min,9.3,TRUE
+1026632,The Charles Schwab Corporation,2025,3,Supervisory Severely Adverse,cet1_depletion_min,-1.8000000000000045,TRUE
+1026632,The Charles Schwab Corporation,2024,3,Supervisory Severely Adverse,cet1_depletion_min,-1.0000000000000036,TRUE
+1026632,The Charles Schwab Corporation,2022,3,Supervisory Severely Adverse,cet1_depletion_min,-0.9000000000000021,TRUE
+3587146,The Bank of New York Mellon Corporation,2017,2,Supervisory Adverse,cet1_depletion_min,-0.6999999999999993,TRUE
+1026632,The Charles Schwab Corporation,2023,3,Supervisory Severely Adverse,cet1_depletion_min,-0.6999999999999993,TRUE
+1199611,Northern Trust Corporation,2022,3,Supervisory Severely Adverse,cet1_depletion_min,-0.5999999999999996,TRUE
+NA,32 participating banks,2025,3,Supervisory Severely Adverse,ppnr_amount,719,TRUE
+NA,34 participating bank holding companies,2016,2,Supervisory Adverse,ppnr_amount,540.9,TRUE
+NA,31 participating bank holding companies,2014,2,Supervisory Adverse,ppnr_amount,501.3,TRUE
+NA,35 participating firms,2017,3,Supervisory Severely Adverse,ppnr_amount,492.3,TRUE
+NA,33 participating bank holding companies,2015,2,Supervisory Adverse,ppnr_amount,474.8,TRUE
+NA,22 participating banks,2024,3,Supervisory Severely Adverse,ppnr_amount,469.3,TRUE
+NA,35 participating firms,2017,2,Supervisory Adverse,ppnr_amount,466.7,TRUE
+1562859,Ally Financial Inc.,2012,3,Supervisory Severely Adverse,ppnr_amount,-3.7,TRUE
+2816906,DB USA Corporation,2023,3,Supervisory Severely Adverse,ppnr_amount,-1.7,TRUE
+3232316,HSBC North America Holdings Inc.,2016,3,Supervisory Severely Adverse,ppnr_amount,-1.4,TRUE
+3232316,HSBC North America Holdings Inc.,2015,3,Supervisory Severely Adverse,ppnr_amount,-1.2,TRUE
+3232316,HSBC North America Holdings Inc.,2013,3,Supervisory Severely Adverse,ppnr_amount,-1.1,TRUE
+2816906,DB USA Corporation,2024,3,Supervisory Severely Adverse,ppnr_amount,-1,TRUE
+1026632,The Charles Schwab Corporation,2025,3,Supervisory Severely Adverse,ppnr_loss_absorption_ratio,17.4,TRUE
+3587146,The Bank of New York Mellon Corporation,2016,2,Supervisory Adverse,ppnr_loss_absorption_ratio,10,TRUE
+1026632,The Charles Schwab Corporation,2022,3,Supervisory Severely Adverse,ppnr_loss_absorption_ratio,9.833333333333334,TRUE
+1026632,The Charles Schwab Corporation,2024,3,Supervisory Severely Adverse,ppnr_loss_absorption_ratio,7.928571428571428,TRUE
+3587146,The Bank of New York Mellon Corporation,2013,2,Supervisory Adverse,ppnr_loss_absorption_ratio,7.533333333333334,TRUE
+3587146,The Bank of New York Mellon Corporation,2014,2,Supervisory Adverse,ppnr_loss_absorption_ratio,7.461538461538461,TRUE
+1026632,The Charles Schwab Corporation,2021,3,Supervisory Severely Adverse,ppnr_loss_absorption_ratio,7.25,TRUE
+2816906,DB USA Corporation,2023,3,Supervisory Severely Adverse,ppnr_loss_absorption_ratio,-0.85,TRUE
+1562859,Ally Financial Inc.,2012,3,Supervisory Severely Adverse,ppnr_loss_absorption_ratio,-0.7115384615384616,TRUE
+2816906,DB USA Corporation,2024,3,Supervisory Severely Adverse,ppnr_loss_absorption_ratio,-0.4347826086956521,TRUE
+2816906,DB USA Corporation,2020,30,Supervisory Alternative Severe,ppnr_loss_absorption_ratio,-0.41176470588235287,TRUE
+2816906,DB USA Corporation,2020,3,Supervisory Severely Adverse,ppnr_loss_absorption_ratio,-0.3888888888888888,TRUE
+3232316,HSBC North America Holdings Inc.,2016,3,Supervisory Severely Adverse,ppnr_loss_absorption_ratio,-0.3111111111111111,TRUE
+1574834,"Credit Suisse Holdings (USA), Inc.",2022,3,Supervisory Severely Adverse,ppnr_loss_absorption_ratio,-0.3076923076923077,TRUE
+NA,31 participating banks,2023,3,Supervisory Severely Adverse,pretax_net_income_amount,-270.3,TRUE
+NA,31 participating bank holding companies,2014,3,Supervisory Severely Adverse,pretax_net_income_amount,-222.2,TRUE
+NA,30 participating bank holding companies,2013,3,Supervisory Severely Adverse,pretax_net_income_amount,-217.1,TRUE
+NA,34 participating bank holding companies,2016,2,Supervisory Adverse,pretax_net_income_amount,214.3,TRUE
+NA,33 participating firms,2020,30,Supervisory Alternative Severe,pretax_net_income_amount,-198.4,TRUE
+NA,33 participating banks,2021,3,Supervisory Severely Adverse,pretax_net_income_amount,-197.6,TRUE
+NA,33 participating bank holding companies,2015,3,Supervisory Severely Adverse,pretax_net_income_amount,-195,TRUE
+NA,18 participating bank holding companies,2012,3,Supervisory Severely Adverse,pretax_net_income_amount,-194.1,TRUE
+NA,31 participating bank holding companies,2014,2,Supervisory Adverse,pretax_net_income_amount,177.8,TRUE
+NA,33 participating bank holding companies,2015,2,Supervisory Adverse,pretax_net_income_amount,141.6,TRUE
+NA,18 participating firms,2018,2,Supervisory Adverse,pretax_net_income_amount,127.7,TRUE
+NA,35 participating firms,2017,2,Supervisory Adverse,pretax_net_income_amount,125,TRUE
+NA,30 participating bank holding companies,2013,2,Supervisory Adverse,pretax_net_income_amount,92.4,TRUE
+1120754,Wells Fargo & Company,2016,2,Supervisory Adverse,pretax_net_income_amount,53.8,TRUE
+1068191,Huntington Bancshares Incorporated,2015,2,Supervisory Adverse,rwa_growth_rate,0.4195205479452056,TRUE
+1068025,KeyCorp,2015,2,Supervisory Adverse,rwa_growth_rate,0.41222222222222216,TRUE
+1068191,Huntington Bancshares Incorporated,2015,3,Supervisory Severely Adverse,rwa_growth_rate,0.3955479452054795,TRUE
+1068025,KeyCorp,2015,3,Supervisory Severely Adverse,rwa_growth_rate,0.38777777777777783,TRUE
+3606542,TD Group US Holdings LLC,2015,2,Supervisory Adverse,rwa_growth_rate,0.2593769866497138,TRUE
+1036967,CIT Group Inc.,2016,3,Supervisory Severely Adverse,rwa_growth_rate,-0.24613003095975225,TRUE
+3606542,TD Group US Holdings LLC,2015,3,Supervisory Severely Adverse,rwa_growth_rate,0.2174189446916719,TRUE
+1036967,CIT Group Inc.,2016,2,Supervisory Adverse,rwa_growth_rate,-0.21517027863777077,TRUE
+4846998,UBS Americas Holding LLC,2023,3,Supervisory Severely Adverse,rwa_growth_rate,-0.13406292749658,TRUE
+4846998,UBS Americas Holding LLC,2024,3,Supervisory Severely Adverse,rwa_growth_rate,-0.13231552162849863,TRUE
+4846998,UBS Americas Holding LLC,2020,3,Supervisory Severely Adverse,rwa_growth_rate,-0.11645962732919264,TRUE
+4846998,UBS Americas Holding LLC,2020,30,Supervisory Alternative Severe,rwa_growth_rate,-0.11645962732919264,TRUE
+NA,32 participating banks,2025,3,Supervisory Severely Adverse,total_loan_losses_amount,624.9,TRUE
+NA,31 participating banks,2023,3,Supervisory Severely Adverse,total_loan_losses_amount,569.5,TRUE
+NA,33 participating firms,2020,3,Supervisory Severely Adverse,total_loan_losses_amount,514.3,TRUE
+NA,33 participating firms,2020,30,Supervisory Alternative Severe,total_loan_losses_amount,491.2,TRUE
+NA,22 participating banks,2024,3,Supervisory Severely Adverse,total_loan_losses_amount,471.9,TRUE
+NA,33 participating banks,2021,3,Supervisory Severely Adverse,total_loan_losses_amount,463.3,TRUE
+NA,33 participating firms,2019,3,Supervisory Severely Adverse,total_loan_losses_amount,432.5,TRUE
+1574834,"Credit Suisse Holdings (USA), Inc.",2017,2,Supervisory Adverse,total_loan_losses_amount,0.1,TRUE
+1574834,"Credit Suisse Holdings (USA), Inc.",2017,3,Supervisory Severely Adverse,total_loan_losses_amount,0.1,TRUE
+1574834,"Credit Suisse Holdings (USA), Inc.",2018,2,Supervisory Adverse,total_loan_losses_amount,0.1,TRUE
+1574834,"Credit Suisse Holdings (USA), Inc.",2018,3,Supervisory Severely Adverse,total_loan_losses_amount,0.1,TRUE
+1574834,"Credit Suisse Holdings (USA), Inc.",2019,3,Supervisory Severely Adverse,total_loan_losses_amount,0.1,TRUE
+1574834,"Credit Suisse Holdings (USA), Inc.",2021,3,Supervisory Severely Adverse,total_loan_losses_amount,0.1,TRUE
+1574834,"Credit Suisse Holdings (USA), Inc.",2022,3,Supervisory Severely Adverse,total_loan_losses_amount,0,TRUE

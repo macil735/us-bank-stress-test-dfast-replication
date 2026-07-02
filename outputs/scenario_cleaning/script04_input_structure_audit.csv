@@ -1,0 +1,4 @@
+input_dataset,input_path,detected_time_column,rows,columns
+historic,data/processed/fed/fed_macro_historic_domestic_clean.csv,date,200,23
+baseline,data/processed/fed/fed_macro_baseline_domestic_clean.csv,date,13,23
+severely_adverse,data/processed/fed/fed_macro_severely_adverse_domestic_clean.csv,date,13,23

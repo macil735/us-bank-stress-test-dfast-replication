@@ -1,0 +1,14 @@
+script_number,script_name,real_file_name,purpose,expected_dependency
+01,Data Availability Audit,R/01_data_availability_audit.R,"Audit sources, variables and project feasibility.",None
+02,DFAST Results Download and Dictionary,R/02_dfast_results_download_dictionary.R,Download and standardize Federal Reserve DFAST results.,Script 01
+03,FDIC / FFIEC Bank Data Layer,R/03_fdic_ffiec_bank_data_layer.R,Download institution-level FDIC/FFIEC data.,Script 01
+04,FR Y-9C Holding Company Data Layer,R/04_fr_y9c_holding_company_data_layer.R,Download holding-company FR Y-9C data.,Script 01
+05,Bank Identifier Crosswalk,R/05_bank_identifier_crosswalk.R,"Map bank names, RSSD IDs, certificates and holding-company identifiers.",Scripts 02–04
+06,Build Regulatory Panel Dataset,R/06_build_regulatory_panel_dataset.R,Construct a clean quarterly panel dataset.,Scripts 02–05
+07,Capital Ratio Module,R/07_capital_ratio_module.R,Compute capital ratios and capital depletion paths.,Script 06
+08,Credit Loss Module,R/08_credit_loss_module.R,Estimate and benchmark credit losses.,Script 06
+09,PPNR Module,R/09_ppnr_module.R,Estimate pre-provision net revenue under stress.,Script 06
+10,Scenario and Shock Construction,R/10_scenario_shock_construction.R,"Build baseline, adverse and severe scenario paths.",Scripts 02 and 06
+11,DFAST Benchmark Comparison,R/11_dfast_benchmark_comparison.R,Compare model outputs against DFAST benchmarks.,Scripts 07–10
+12,Multi-Bank Stress Dashboard,R/12_multi_bank_stress_dashboard.R,Produce tables and figures for multi-bank comparison.,Script 11
+13,Final Technical Report,R/13_final_technical_report.R,Generate final institutional report.,Script 12

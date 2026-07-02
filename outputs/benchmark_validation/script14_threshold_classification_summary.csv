@@ -1,0 +1,3 @@
+threshold,observations,observed_below_threshold,predicted_below_threshold,correctly_classified,classification_accuracy
+CET1 4.5 percent,497,0,0,497,1
+CET1 7.0 percent,497,39,31,475,0.9557344064386318

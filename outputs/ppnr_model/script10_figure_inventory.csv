@@ -1,0 +1,6 @@
+figure_path,exists,size_bytes
+outputs/ppnr_model/figures/fig01_actual_vs_predicted_ppnr_ratio.png,TRUE,315464
+outputs/ppnr_model/figures/fig02_residual_distribution.png,TRUE,61330
+outputs/ppnr_model/figures/fig03_model_rmse_comparison.png,TRUE,86634
+outputs/ppnr_model/figures/fig04_rmse_by_scenario.png,TRUE,59653
+outputs/ppnr_model/figures/fig05_top20_bank_residual_rmse.png,TRUE,196769

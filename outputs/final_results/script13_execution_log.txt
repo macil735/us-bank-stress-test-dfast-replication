@@ -1,0 +1,107 @@
+============================================================
+Script 13 - Stress Test Results and Bank Vulnerability Ranking completed
+============================================================
+Project root: D:/GitHub/us-bank-stress-test-dfast-replication
+
+Started at: 2026-06-30 07:20:49.089504
+Completed at: 2026-06-30 07:21:03.84275
+
+Input rows: 497
+Final result rows: 497
+Banks: 56
+Years: 11
+Scenarios: 3
+Latest exercise year: 2025
+Duplicated keys: 0
+Figures created: 7
+
+Executive summary:
+# A tibble: 15 × 2
+   metric                                         value               
+   <chr>                                          <chr>               
+ 1 Panel observations                             497                 
+ 2 Banks                                          56                  
+ 3 Exercise years                                 11                  
+ 4 Scenarios                                      3                   
+ 5 Latest exercise year                           2025                
+ 6 Minimum predicted CET1 ratio                   5.5573              
+ 7 Mean predicted CET1 ratio                      10.6961             
+ 8 Maximum predicted capital depletion            8.5976              
+ 9 Mean predicted capital depletion               2.6675              
+10 Observations below 4.5 percent CET1            0                   
+11 Observations below 7.0 percent CET1            31                  
+12 CET1 minimum ratio RMSE                        0.846               
+13 CET1 minimum ratio R-squared                   0.9688              
+14 Most vulnerable bank by composite score        BMO Financial Corp. 
+15 Most vulnerable bank by minimum predicted CET1 M&T Bank Corporation
+
+Model accuracy summary:
+# A tibble: 4 × 5
+  component         observations    rmse     mae r2_outcome_prediction
+  <chr>                    <int>   <dbl>   <dbl>                 <dbl>
+1 credit_loss_ratio          497 0.00596 0.00428                 0.956
+2 ppnr_ratio                 497 0.00933 0.00654                 0.920
+3 capital_depletion          497 0.789   0.570                   0.838
+4 cet1_min_ratio             497 0.846   0.587                   0.969
+
+Top 20 latest exercise ranking:
+# A tibble: 20 × 8
+   latest_year_rank_composite bank_name                   min_predicted_cet1_m…¹ min_observed_cet1_mi…² max_predicted_capita…³
+                        <int> <chr>                                        <dbl>                  <dbl>                  <dbl>
+ 1                          1 First Citizens Bancshares,…                   6.7                     6.7                  4.50 
+ 2                          2 HSBC North America Holding…                   7.41                    8.1                  3.89 
+ 3                          3 BMO Financial Corp.                          10.1                    10.1                  3.94 
+ 4                          4 Ally Financial Inc.                           8.14                    7.8                  2.06 
+ 5                          5 Citizens Financial Group, …                   8.57                    8.6                  2.03 
+ 6                          6 Capital One Financial Corp…                   9.99                   11                    4.31 
+ 7                          7 M&T Bank Corporation                          9.01                    9.2                  1.79 
+ 8                          8 KeyCorp                                       9.65                    9.9                  2.15 
+ 9                          9 Wells Fargo & Company                         8.62                    9.2                  1.98 
+10                         10 Huntington Bancshares Inco…                   8.94                    9.3                  1.46 
+11                         11 Fifth Third Bancorp                           9.56                    9.7                  1.24 
+12                         12 RBC US Group Holdings LLC                    13.5                    13.7                  3.70 
+13                         13 Truist Financial Corporati…                   9.36                    9.7                  1.44 
+14                         14 Citigroup Inc.                               10.4                    10.3                  2.79 
+15                         15 DB USA Corporation                           15.7                    14.4                  6.85 
+16                         16 Regions Financial Corporat…                  10.1                    10.3                  0.800
+17                         17 U.S. Bancorp                                  9.91                    9.8                  0.893
+18                         18 Bank of America Corporation                   9.99                    9.9                  1.41 
+19                         19 The PNC Financial Services…                   9.71                   10.3                  0.887
+20                         20 TD Group US Holdings LLC                     14.4                    14                    2.11 
+# ℹ abbreviated names: ¹​min_predicted_cet1_min_ratio, ²​min_observed_cet1_min_ratio, ³​max_predicted_capital_depletion
+# ℹ 3 more variables: max_predicted_credit_loss_ratio <dbl>, min_predicted_ppnr_ratio <dbl>,
+#   worst_scenario_by_predicted_cet1 <chr>
+
+Execution summary:
+# A tibble: 1 × 15
+  script_id script_name               project_root started_at completed_at input_rows final_results_rows banks years scenarios
+  <chr>     <chr>                     <chr>        <chr>      <chr>             <int>              <int> <int> <int>     <int>
+1 13        stress_test_results_bank… D:/GitHub/u… 2026-06-3… 2026-06-30 …        497                497    56    11         3
+# ℹ 5 more variables: latest_exercise_year <dbl>, duplicated_keys <int>, figures_created <int>,
+#   most_vulnerable_bank_composite <chr>, most_vulnerable_bank_min_cet1 <chr>
+
+Main outputs:
+ - data/processed/model/final_stress_test_results_panel.csv
+ - data/processed/model/final_bank_vulnerability_ranking.csv
+ - data/processed/model/latest_exercise_bank_vulnerability_ranking.csv
+ - outputs/final_results/script13_key_audit_summary.csv
+ - outputs/final_results/script13_executive_summary_table.csv
+ - outputs/final_results/script13_scenario_result_summary.csv
+ - outputs/final_results/script13_final_bank_vulnerability_ranking.csv
+ - outputs/final_results/script13_latest_bank_vulnerability_ranking.csv
+ - outputs/final_results/script13_model_accuracy_summary.csv
+ - outputs/final_results/script13_bank_accuracy_ranking.csv
+ - outputs/final_results/script13_figure_inventory.csv
+ - outputs/final_results/script13_execution_summary.csv
+ - outputs/final_results/script13_final_results_outputs.xlsx
+ - outputs/final_results/script13_final_stress_test_results_report.docx
+ - outputs/final_results/script13_execution_log.txt
+
+Figures:
+ - outputs/final_results/figures/fig01_latest_top20_min_predicted_cet1.png
+ - outputs/final_results/figures/fig02_top20_composite_vulnerability_score.png
+ - outputs/final_results/figures/fig03_distribution_predicted_cet1_min_ratio.png
+ - outputs/final_results/figures/fig04_observed_vs_predicted_cet1_min_ratio.png
+ - outputs/final_results/figures/fig05_mean_predicted_cet1_by_year_scenario.png
+ - outputs/final_results/figures/fig06_model_rmse_by_component.png
+ - outputs/final_results/figures/fig07_predicted_ppnr_vs_credit_loss_ratio.png

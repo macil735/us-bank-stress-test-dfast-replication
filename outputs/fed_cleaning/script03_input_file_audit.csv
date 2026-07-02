@@ -1,0 +1,6 @@
+file_role,path,exists,size_bytes,modified_time
+Fed public DFAST results,D:/GitHub/us-bank-stress-test-dfast-replication/data/raw/fed/results/fed_public_results_DFAST_2026.csv,TRUE,189591,2026-06-29 17:09:20
+Fed detailed nine-quarter paths,D:/GitHub/us-bank-stress-test-dfast-replication/data/raw/fed/results/fed_2026_Detailed_Nine_Quarter_Paths.csv,TRUE,5619,2026-06-29 17:09:22
+Fed historic domestic macro scenario,D:/GitHub/us-bank-stress-test-dfast-replication/data/raw/fed/scenarios/fed_2026_Final_Historic_Domestic.csv,TRUE,16936,2026-06-29 17:09:22
+Fed supervisory baseline domestic scenario,D:/GitHub/us-bank-stress-test-dfast-replication/data/raw/fed/scenarios/fed_2026_Final_Supervisory_Baseline_Domestic.csv,TRUE,1692,2026-06-29 17:09:24
+Fed supervisory severely adverse domestic scenario,D:/GitHub/us-bank-stress-test-dfast-replication/data/raw/fed/scenarios/fed_2026_Final_Supervisory_Severely_Adverse_Domestic.csv,TRUE,1824,2026-06-29 17:09:24

@@ -1,0 +1,9 @@
+document_group,document_type,validation_status,attempts,successful_validated_attempts,failed_or_invalid_attempts,total_size_bytes
+Detailed Nine Quarter Paths Dictionary,HTML,VALID_HTML,1,1,0,85726
+Detailed Nine Quarter Paths Dictionary,PDF,DOWNLOAD_ERROR,2,0,2,0
+Detailed Nine Quarter Paths Dictionary,PDF,VALID_PDF,1,1,0,193564
+Large Bank Capital Requirements,HTML,VALID_HTML,1,1,0,80538
+Large Bank Capital Requirements,PDF,DOWNLOAD_ERROR,2,0,2,0
+Large Bank Capital Requirements,PDF,VALID_PDF,2,2,0,2214480
+Public Results Data Dictionary,HTML,VALID_HTML,1,1,0,85726
+Public Results Data Dictionary,PDF,DOWNLOAD_ERROR,3,0,3,0

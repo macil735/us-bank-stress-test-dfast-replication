@@ -1,0 +1,9 @@
+limitation,implication
+Public data only,The engine relies only on public DFAST outputs and public regulatory material.
+No confidential supervisory models,The model does not reproduce Federal Reserve confidential supervisory models.
+No bank internal capital planning information,"Internal bank assumptions, management actions and portfolio details are not observed."
+Reduced-form econometric specification,"The model is designed for replication and benchmarking, not for official capital decisions."
+Bank-specific idiosyncrasies,Some banks have structural features that may not be fully captured by public variables.
+Tail errors,Large deviations are concentrated in specific bank-year-scenario observations.
+Ranking interpretation,"Vulnerability rankings are analytical and relative, not official supervisory rankings."
+Threshold interpretation,The 4.5 percent and 7.0 percent thresholds are used as analytical reference points.

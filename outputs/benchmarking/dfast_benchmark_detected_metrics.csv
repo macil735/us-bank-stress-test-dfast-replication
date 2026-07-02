@@ -1,0 +1,57 @@
+metric,metric_block,unit_type
+common_equity_tier1_actual_rat,Capital and solvency,ratio_or_rate
+common_equity_tier1_end_rat,Capital and solvency,ratio_or_rate
+common_equity_tier1_min_rat,Capital and solvency,ratio_or_rate
+supp_leverage_actual_rat,Capital and solvency,ratio_or_rate
+supp_leverage_end_rat,Capital and solvency,ratio_or_rate
+supp_leverage_min_rat,Capital and solvency,ratio_or_rate
+tier1_capital_actual_rat,Capital and solvency,ratio_or_rate
+tier1_capital_end_rat,Capital and solvency,ratio_or_rate
+tier1_capital_min_rat,Capital and solvency,ratio_or_rate
+tier1_common_actual_rat,Capital and solvency,ratio_or_rate
+tier1_common_end_rat,Capital and solvency,ratio_or_rate
+tier1_common_min_rat,Capital and solvency,ratio_or_rate
+tier1_leverage_actual_rat,Capital and solvency,ratio_or_rate
+tier1_leverage_end_rat,Capital and solvency,ratio_or_rate
+tier1_leverage_min_rat,Capital and solvency,ratio_or_rate
+total_capital_actual_rat,Capital and solvency,ratio_or_rate
+total_capital_end_rat,Capital and solvency,ratio_or_rate
+total_capital_min_rat,Capital and solvency,ratio_or_rate
+expense_noninterest_amt,Income and PPNR,amount
+income_net_interest_amt,Income and PPNR,amount
+income_noninterest_amt,Income and PPNR,amount
+income_other_comprehensive_amt,Income and PPNR,amount
+income_pretax_net_amt,Income and PPNR,amount
+revenue_other_amt,Income and PPNR,amount
+expense_noninterest_rate,Income and PPNR,ratio_or_rate
+income_net_interest_rate,Income and PPNR,ratio_or_rate
+income_noninterest_rate,Income and PPNR,ratio_or_rate
+income_pretax_net_rate,Income and PPNR,ratio_or_rate
+loss_comml_ind_loan_amt,Losses and provisions,amount
+loss_credit_card_loan_amt,Losses and provisions,amount
+loss_dom_cre_loan_amt,Losses and provisions,amount
+loss_dom_first_mtg_amt,Losses and provisions,amount
+loss_dom_jr_lien_heloc_amt,Losses and provisions,amount
+loss_other_amt,Losses and provisions,amount
+loss_other_consumer_loan_amt,Losses and provisions,amount
+loss_other_loan_amt,Losses and provisions,amount
+loss_securities_amt,Losses and provisions,amount
+loss_total_loan_amt,Losses and provisions,amount
+loss_trading_counterparty_amt,Losses and provisions,amount
+provision_amt,Losses and provisions,amount
+revenue_preprovision_net_amt,Losses and provisions,amount
+loss_comml_ind_loan_rate,Losses and provisions,ratio_or_rate
+loss_credit_card_loan_rate,Losses and provisions,ratio_or_rate
+loss_dom_cre_loan_rate,Losses and provisions,ratio_or_rate
+loss_dom_first_mtg_rate,Losses and provisions,ratio_or_rate
+loss_dom_jr_lien_heloc_rate,Losses and provisions,ratio_or_rate
+loss_other_consumer_loan_rate,Losses and provisions,ratio_or_rate
+loss_other_loan_rate,Losses and provisions,ratio_or_rate
+loss_total_loan_rate,Losses and provisions,ratio_or_rate
+revenue_preprovision_net_rate,Losses and provisions,ratio_or_rate
+aoci_incl_capital_actual_amt,Other comprehensive income,amount
+aoci_incl_capital_end_amt,Other comprehensive income,amount
+rwa_general_appr_actual_amt,Risk-weighted assets,amount
+rwa_general_appr_end_amt,Risk-weighted assets,amount
+rwa_standardized_appr_actual_amt,Risk-weighted assets,amount
+rwa_standardized_appr_end_amt,Risk-weighted assets,amount

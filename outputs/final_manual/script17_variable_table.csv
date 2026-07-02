@@ -1,0 +1,13 @@
+variable,interpretation
+actual_credit_loss_ratio,Observed credit loss intensity from public benchmark data.
+predicted_credit_loss_ratio,Model-predicted credit loss intensity.
+actual_ppnr_ratio,Observed PPNR ratio from public benchmark data.
+predicted_ppnr_ratio,Model-predicted PPNR ratio.
+actual_capital_depletion,Observed CET1 capital depletion.
+predicted_capital_depletion,Model-predicted CET1 capital depletion.
+observed_cet1_min_ratio,Observed public DFAST stressed minimum CET1 ratio.
+integrated_predicted_cet1_min_ratio,Integrated model-predicted stressed minimum CET1 ratio.
+cet1_min_prediction_error,Predicted CET1 minimum ratio minus observed CET1 minimum ratio.
+abs_cet1_min_prediction_error,Absolute value of the CET1 prediction error.
+model_risk_score,Composite score measuring potential model risk at observation level.
+model_risk_bucket,Categorical classification of model risk.

@@ -1,0 +1,46 @@
+============================================================
+Script 02b - Download Regulatory Documentation completed
+============================================================
+Project root: D:/GitHub/us-bank-stress-test-dfast-replication
+
+Started at: 2026-06-29 18:35:56.263914
+Completed at: 2026-06-29 18:37:28.817549
+
+Documentation targets: 15
+Successful downloads: 12
+Failed downloads: 3
+Documents inventoried: 19
+
+Download summary:
+# A tibble: 5 × 6
+  regulator       document_type number_of_documents successful_downloads failed_downloads total_size_bytes
+  <chr>           <chr>                       <int>                <int>            <int>            <dbl>
+1 FFIEC           HTML                            1                    1                0            27784
+2 Federal Reserve HTML                            2                    2                0           505494
+3 Federal Reserve PDF                            10                    7                3         14475790
+4 SEC             HTML                            1                    1                0            68391
+5 eCFR            HTML                            1                    1                0            10596
+
+Failed downloads:
+# A tibble: 3 × 7
+  document_id                             regulator       document_title         document_type url   http_status error_message
+  <chr>                                   <chr>           <chr>                  <chr>         <chr>       <int> <chr>        
+1 FED_PUBLIC_RESULTS_DICTIONARY_PDF       Federal Reserve Public Results DFAST … PDF           http…          NA [38;5;232mHT…
+2 FED_9Q_PATHS_DICTIONARY_PDF             Federal Reserve 2026 Detailed Nine Qu… PDF           http…          NA [38;5;232mHT…
+3 FED_LARGE_BANK_CAPITAL_REQUIREMENTS_PDF Federal Reserve Large Bank Capital Re… PDF           http…          NA [38;5;232mHT…
+
+Main documentation folder:
+ - D:/GitHub/us-bank-stress-test-dfast-replication/docs/regulatory_framework/source_documents
+
+Main outputs:
+ - D:/GitHub/us-bank-stress-test-dfast-replication/outputs/regulatory_documentation/us_regulatory_document_targets.csv
+ - D:/GitHub/us-bank-stress-test-dfast-replication/outputs/regulatory_documentation/us_regulatory_document_download_log.csv
+ - D:/GitHub/us-bank-stress-test-dfast-replication/outputs/regulatory_documentation/us_regulatory_document_inventory.csv
+ - D:/GitHub/us-bank-stress-test-dfast-replication/outputs/regulatory_documentation/us_regulatory_document_download_summary.csv
+ - D:/GitHub/us-bank-stress-test-dfast-replication/outputs/regulatory_documentation/us_regulatory_document_failed_downloads.csv
+ - D:/GitHub/us-bank-stress-test-dfast-replication/outputs/regulatory_documentation/script02b_execution_summary.csv
+ - D:/GitHub/us-bank-stress-test-dfast-replication/outputs/regulatory_documentation/script02b_regulatory_documentation_outputs.xlsx
+ - D:/GitHub/us-bank-stress-test-dfast-replication/outputs/regulatory_documentation/script02b_regulatory_documentation_report.docx
+
+Additional outputs:
+ - D:/GitHub/us-bank-stress-test-dfast-replication/outputs/regulatory_documentation/script02b_execution_log.txt

@@ -1,0 +1,8 @@
+item,conclusion
+Overall CET1 fit,The integrated model achieves CET1 R-squared of 0.9688 and correlation of 0.9843.
+Average error,The CET1 minimum ratio RMSE is 0.846 and MAE is 0.5873 percentage points.
+Bias,"The average CET1 prediction bias is 0.0145, indicating limited systematic bias."
+Tail risk,The largest absolute CET1 error is 5.0721 percentage points and is treated as tail model risk.
+Threshold classification,"The threshold sensitivity analysis confirms classification performance across CET1 cutoffs, with special attention to the 7.0 percent reference level."
+Operational use,The model can be used as a public reduced-form benchmark and stress test replication engine.
+Final model-risk judgement,"Model risk is assessed as manageable for public benchmarking, provided that limitations and tail deviations are explicitly reported."

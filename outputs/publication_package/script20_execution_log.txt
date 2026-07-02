@@ -1,0 +1,47 @@
+============================================================
+Script 20 - Create Gitignore and Final Git Publication Instructions completed
+============================================================
+Project root: D:/GitHub/us-bank-stress-test-dfast-replication
+
+Started at: 2026-06-30 10:09:53.428045
+Completed at: 2026-06-30 10:09:58.189474
+
+Git publication summary:
+# A tibble: 1 × 4
+  files_checked files_ok files_missing_or_empty git_publication_status
+          <int>    <int>                  <int> <chr>                 
+1            12       12                      0 READY_FOR_GIT_COMMIT  
+
+Git publication check:
+# A tibble: 12 × 7
+   description                            file_path                              required exists size_bytes modified_at status
+   <chr>                                  <chr>                                  <lgl>    <lgl>       <dbl> <chr>       <chr> 
+ 1 Git ignore file                        .gitignore                             TRUE     TRUE         1302 2026-06-30… OK    
+ 2 Git publication instructions           docs/git_publication_steps.md          TRUE     TRUE         2006 2026-06-30… OK    
+ 3 Final publication status               docs/final_publication_status.md       TRUE     TRUE         1556 2026-06-30… OK    
+ 4 Repository README                      README.md                              TRUE     TRUE         7204 2026-06-30… OK    
+ 5 Repository license                     LICENSE                                TRUE     TRUE         1474 2026-06-30… OK    
+ 6 Citation metadata                      CITATION.cff                           TRUE     TRUE          905 2026-06-30… OK    
+ 7 Public disclaimer                      docs/public_disclaimer.md              TRUE     TRUE         1068 2026-06-30… OK    
+ 8 Reproducibility notes                  docs/reproducibility_notes.md          TRUE     TRUE         1521 2026-06-30… OK    
+ 9 Project scope                          docs/project_scope.md                  TRUE     TRUE         1481 2026-06-30… OK    
+10 Final institutional report             report/final_institutional_report_dfa… TRUE     TRUE       853601 2026-06-30… OK    
+11 Final technical and pedagogical manual manual/final_technical_pedagogical_ma… TRUE     TRUE       658547 2026-06-30… OK    
+12 Final publication checklist workbook   outputs/publication_package/script18_… TRUE     TRUE        35027 2026-06-30… OK    
+
+Execution summary:
+# A tibble: 1 × 9
+  script_id script_name   project_root started_at completed_at gitignore_created git_publication_step…¹ final_publication_st…²
+  <chr>     <chr>         <chr>        <chr>      <chr>        <lgl>             <lgl>                  <lgl>                 
+1 20        create_gitig… D:/GitHub/u… 2026-06-3… 2026-06-30 … TRUE              TRUE                   TRUE                  
+# ℹ abbreviated names: ¹​git_publication_steps_created, ²​final_publication_status_created
+# ℹ 1 more variable: git_publication_status <chr>
+
+Main outputs:
+ - .gitignore
+ - docs/git_publication_steps.md
+ - docs/final_publication_status.md
+ - outputs/publication_package/script20_git_publication_check.csv
+ - outputs/publication_package/script20_git_publication_summary.csv
+ - outputs/publication_package/script20_git_publication_check.xlsx
+ - outputs/publication_package/script20_execution_log.txt

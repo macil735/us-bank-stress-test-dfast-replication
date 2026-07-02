@@ -1,0 +1,21 @@
+script,title,student_learning_point
+Script 01,Data Availability Audit,How to verify whether a project is feasible before modelling.
+Script 02,Regulatory Documentation and Raw Data Ingestion,How to document source provenance and regulatory basis.
+Script 02b,Download Regulatory Documentation,How public documentation supports reproducibility.
+Script 02c,Fix Missing Regulatory Documentation Downloads,How to handle missing public source links transparently.
+Script 03,Clean Federal Reserve DFAST Results,How to clean raw public supervisory data.
+Script 04,Structure Federal Reserve Macro Scenarios,How macro scenarios are structured for stress testing.
+Script 05,Build DFAST Benchmark Dataset,How to build a bank-year-scenario benchmark panel.
+Script 06,Capital and Losses Transmission Layer,"How accounting logic links PPNR, losses and capital."
+Script 07,Exploratory Analysis,"How to inspect distributions, outliers and empirical structure."
+Script 08,Build Modelling Sample and Treatment Rules,How to create a clean econometric modelling sample.
+Script 09,Estimate Credit Loss Model,How to estimate stress-period credit loss intensity.
+Script 10,Estimate PPNR Model,How to estimate revenue capacity under stress.
+Script 11,Estimate Capital Depletion Model,How to estimate capital depletion under stress.
+Script 12,Integrated Stress Test Projection Engine,How to combine component models into one engine.
+Script 12b,Fix Integrated Projection Join Keys,Why unique join keys are essential in panel data.
+Script 13,Stress Test Results and Bank Vulnerability Ranking,How to rank banks under model-based vulnerability metrics.
+Script 14,Benchmark Validation Against Federal Reserve Public Results,How to validate a model against a public benchmark.
+Script 15,"Robustness, Sensitivity and Model Risk Assessment","How to assess tail error, threshold sensitivity and model risk."
+Script 16,Create Final Institutional Report,How to communicate institutional results.
+Script 17,Create Final Technical and Pedagogical Manual,How to convert the project into a teaching manual.

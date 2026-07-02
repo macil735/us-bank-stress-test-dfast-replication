@@ -1,0 +1,52 @@
+============================================================
+Script 03 — Clean Federal Reserve DFAST Results completed
+============================================================
+Project root: D:/GitHub/us-bank-stress-test-dfast-replication
+
+Started at: 2026-06-29 18:30:18.339628
+Completed at: 2026-06-29 18:30:27.574876
+
+Input files checked: 5
+Input files available: 5
+Datasets cleaned: 5
+Processed files created: 5
+Total variables audited: 146
+
+Dataset structure summary:
+# A tibble: 5 × 6
+  dataset_name                               rows columns source_file                            empty_dataset cleaning_status
+  <chr>                                     <int>   <int> <chr>                                  <lgl>         <chr>          
+1 fed_dfast_results_clean                     665      66 fed_public_results_DFAST_2026.csv      FALSE         Cleaned        
+2 fed_dfast_nine_quarter_paths_clean           69      14 fed_2026_Detailed_Nine_Quarter_Paths.… FALSE         Cleaned        
+3 fed_macro_historic_domestic_clean           200      22 fed_2026_Final_Historic_Domestic.csv   FALSE         Cleaned        
+4 fed_macro_baseline_domestic_clean            13      22 fed_2026_Final_Supervisory_Baseline_D… FALSE         Cleaned        
+5 fed_macro_severely_adverse_domestic_clean    13      22 fed_2026_Final_Supervisory_Severely_A… FALSE         Cleaned        
+
+Processed outputs:
+# A tibble: 5 × 3
+  output_path                                                                                                exists size_bytes
+  <chr>                                                                                                      <lgl>       <dbl>
+1 D:/GitHub/us-bank-stress-test-dfast-replication/data/processed/fed/fed_dfast_results_clean.csv             TRUE       284293
+2 D:/GitHub/us-bank-stress-test-dfast-replication/data/processed/fed/fed_dfast_nine_quarter_paths_clean.csv  TRUE        14707
+3 D:/GitHub/us-bank-stress-test-dfast-replication/data/processed/fed/fed_macro_historic_domestic_clean.csv   TRUE        39282
+4 D:/GitHub/us-bank-stress-test-dfast-replication/data/processed/fed/fed_macro_baseline_domestic_clean.csv   TRUE         3452
+5 D:/GitHub/us-bank-stress-test-dfast-replication/data/processed/fed/fed_macro_severely_adverse_domestic_cl… TRUE         3896
+
+Main outputs:
+ - D:/GitHub/us-bank-stress-test-dfast-replication/data/processed/fed/fed_dfast_results_clean.csv
+ - D:/GitHub/us-bank-stress-test-dfast-replication/data/processed/fed/fed_dfast_nine_quarter_paths_clean.csv
+ - D:/GitHub/us-bank-stress-test-dfast-replication/data/processed/fed/fed_macro_historic_domestic_clean.csv
+ - D:/GitHub/us-bank-stress-test-dfast-replication/data/processed/fed/fed_macro_baseline_domestic_clean.csv
+ - D:/GitHub/us-bank-stress-test-dfast-replication/data/processed/fed/fed_macro_severely_adverse_domestic_clean.csv
+
+Audit outputs:
+ - D:/GitHub/us-bank-stress-test-dfast-replication/outputs/fed_cleaning/script03_input_file_audit.csv
+ - D:/GitHub/us-bank-stress-test-dfast-replication/outputs/fed_cleaning/fed_dfast_results_variable_audit.csv
+ - D:/GitHub/us-bank-stress-test-dfast-replication/outputs/fed_cleaning/fed_dfast_results_bank_year_audit.csv
+ - D:/GitHub/us-bank-stress-test-dfast-replication/outputs/fed_cleaning/fed_dfast_id_column_audit.csv
+ - D:/GitHub/us-bank-stress-test-dfast-replication/outputs/fed_cleaning/fed_dfast_dataset_structure_summary.csv
+ - D:/GitHub/us-bank-stress-test-dfast-replication/outputs/fed_cleaning/script03_processed_outputs.csv
+ - D:/GitHub/us-bank-stress-test-dfast-replication/outputs/fed_cleaning/script03_dataset_preview.csv
+ - D:/GitHub/us-bank-stress-test-dfast-replication/outputs/fed_cleaning/script03_fed_dfast_cleaning_outputs.xlsx
+ - D:/GitHub/us-bank-stress-test-dfast-replication/outputs/fed_cleaning/script03_fed_dfast_cleaning_report.docx
+ - D:/GitHub/us-bank-stress-test-dfast-replication/outputs/fed_cleaning/script03_execution_log.txt

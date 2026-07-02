@@ -1,0 +1,6 @@
+summary_file,file_path,exists
+script13_executive_summary_table.csv,outputs/final_results/script13_executive_summary_table.csv,TRUE
+script14_executive_validation_summary.csv,outputs/benchmark_validation/script14_executive_validation_summary.csv,TRUE
+script15_executive_model_risk_summary.csv,outputs/model_risk/script15_executive_model_risk_summary.csv,TRUE
+script16_executive_summary.csv,outputs/final_report/script16_executive_summary.csv,TRUE
+script17_executive_summary.csv,outputs/final_manual/script17_executive_summary.csv,TRUE

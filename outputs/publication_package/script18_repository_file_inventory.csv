@@ -1,0 +1,640 @@
+file_path,file_name,extension,directory,exists,size_bytes,modified_at,file_type_group
+./.RData,.RData,,.,TRUE,3480415,2026-06-30 04:42:16,No extension
+./.Rhistory,.Rhistory,,.,TRUE,5864,2026-07-01 19:35:04,No extension
+./.gitignore,.gitignore,,.,TRUE,1302,2026-06-30 10:09:56,No extension
+./CITATION.cff,CITATION.cff,cff,.,TRUE,905,2026-06-30 09:16:20,Documentation/text
+./LICENSE,LICENSE,,.,TRUE,1474,2026-06-30 09:16:20,No extension
+./README.md,README.md,md,.,TRUE,8167,2026-06-30 10:31:40,Documentation/text
+./us-bank-stress-test-dfast-replication.Rproj,us-bank-stress-test-dfast-replication.Rproj,rproj,.,TRUE,218,2026-07-02 04:59:48,Other
+./.Rproj.user/27DAAFF9/persistent-state,persistent-state,,./.Rproj.user/27DAAFF9,TRUE,635,2026-06-30 04:40:52,No extension
+./.Rproj.user/27DAAFF9/rmd-outputs,rmd-outputs,,./.Rproj.user/27DAAFF9,TRUE,5,2026-06-30 04:42:18,No extension
+./.Rproj.user/27DAAFF9/saved_source_markers,saved_source_markers,,./.Rproj.user/27DAAFF9,TRUE,27,2026-06-30 04:42:18,No extension
+./.Rproj.user/27DAAFF9/pcs/files-pane.pper,files-pane.pper,pper,./.Rproj.user/27DAAFF9/pcs,TRUE,171,2026-07-02 05:17:00,Other
+./.Rproj.user/27DAAFF9/pcs/packages-pane.pper,packages-pane.pper,pper,./.Rproj.user/27DAAFF9/pcs,TRUE,182,2026-07-02 05:17:00,Other
+./.Rproj.user/27DAAFF9/pcs/source-pane.pper,source-pane.pper,pper,./.Rproj.user/27DAAFF9/pcs,TRUE,23,2026-07-02 05:17:00,Other
+./.Rproj.user/27DAAFF9/pcs/windowlayoutstate.pper,windowlayoutstate.pper,pper,./.Rproj.user/27DAAFF9/pcs,TRUE,283,2026-07-02 05:16:58,Other
+./.Rproj.user/27DAAFF9/pcs/workbench-pane.pper,workbench-pane.pper,pper,./.Rproj.user/27DAAFF9/pcs,TRUE,75,2026-07-02 05:16:58,Other
+./.Rproj.user/27DAAFF9/sources/prop/0CC67EC2,0CC67EC2,,./.Rproj.user/27DAAFF9/sources/prop,TRUE,111,2026-06-29 17:07:48,No extension
+./.Rproj.user/27DAAFF9/sources/prop/29265922,29265922,,./.Rproj.user/27DAAFF9/sources/prop,TRUE,54,2026-06-30 10:31:18,No extension
+./.Rproj.user/27DAAFF9/sources/prop/3D22CB9C,3D22CB9C,,./.Rproj.user/27DAAFF9/sources/prop,TRUE,111,2026-06-29 17:00:10,No extension
+./.Rproj.user/27DAAFF9/sources/prop/77FE9B69,77FE9B69,,./.Rproj.user/27DAAFF9/sources/prop,TRUE,111,2026-06-30 04:46:26,No extension
+./.Rproj.user/27DAAFF9/sources/prop/8670DB21,8670DB21,,./.Rproj.user/27DAAFF9/sources/prop,TRUE,110,2026-06-30 07:54:58,No extension
+./.Rproj.user/27DAAFF9/sources/prop/C5A201C2,C5A201C2,,./.Rproj.user/27DAAFF9/sources/prop,TRUE,110,2026-06-30 09:11:12,No extension
+./.Rproj.user/27DAAFF9/sources/prop/CFD7A2AB,CFD7A2AB,,./.Rproj.user/27DAAFF9/sources/prop,TRUE,112,2026-07-02 05:00:06,No extension
+./.Rproj.user/27DAAFF9/sources/prop/D86F4A8E,D86F4A8E,,./.Rproj.user/27DAAFF9/sources/prop,TRUE,113,2026-06-30 11:41:36,No extension
+./.Rproj.user/27DAAFF9/sources/prop/INDEX,INDEX,,./.Rproj.user/27DAAFF9/sources/prop,TRUE,900,2026-06-30 12:00:56,No extension
+./.Rproj.user/27DAAFF9/sources/session-9083e19d/0A6B9ACF-contents,0A6B9ACF-contents,,./.Rproj.user/27DAAFF9/sources/session-9083e19d,TRUE,36386,2026-06-30 09:11:10,No extension
+./.Rproj.user/27DAAFF9/sources/session-9083e19d/0A860E59-contents,0A860E59-contents,,./.Rproj.user/27DAAFF9/sources/session-9083e19d,TRUE,52799,2026-06-30 07:54:58,No extension
+./.Rproj.user/27DAAFF9/sources/session-9083e19d/11C9E57C-contents,11C9E57C-contents,,./.Rproj.user/27DAAFF9/sources/session-9083e19d,TRUE,22491,2026-06-30 04:46:24,No extension
+./.Rproj.user/27DAAFF9/sources/session-9083e19d/4455B328-contents,4455B328-contents,,./.Rproj.user/27DAAFF9/sources/session-9083e19d,TRUE,34842,2026-06-30 11:40:38,No extension
+./.Rproj.user/27DAAFF9/sources/session-9083e19d/5236C987-contents,5236C987-contents,,./.Rproj.user/27DAAFF9/sources/session-9083e19d,TRUE,38997,2026-06-30 12:10:04,No extension
+./.Rproj.user/27DAAFF9/sources/session-9083e19d/A9516A88-contents,A9516A88-contents,,./.Rproj.user/27DAAFF9/sources/session-9083e19d,TRUE,3655,2026-06-30 10:31:16,No extension
+./.Rproj.user/27DAAFF9/sources/session-9083e19d/lock_file,lock_file,,./.Rproj.user/27DAAFF9/sources/session-9083e19d,TRUE,0,2026-06-30 04:42:30,No extension
+./.Rproj.user/shared/notebooks/patch-chunk-names,patch-chunk-names,,./.Rproj.user/shared/notebooks,TRUE,0,2026-06-29 16:39:14,No extension
+./.Rproj.user/shared/notebooks/paths,paths,,./.Rproj.user/shared/notebooks,TRUE,820,2026-07-02 05:00:20,No extension
+./R/01_data_availability_audit.R,01_data_availability_audit.R,r,./R,TRUE,25439,2026-06-29 17:00:10,R script
+./R/02_regulatory_documentation_and_raw_data_ingestion.R,02_regulatory_documentation_and_raw_data_ingestion.R,r,./R,TRUE,31986,2026-06-29 17:07:44,R script
+./R/02b_download_regulatory_documentation.R,02b_download_regulatory_documentation.R,r,./R,TRUE,24079,2026-06-29 18:35:10,R script
+./R/02b_download_regulatory_documentation_v2.R,02b_download_regulatory_documentation_v2.R,r,./R,TRUE,39667,2026-06-30 11:45:24,R script
+./R/02c_fix_missing_regulatory_documentation.R,02c_fix_missing_regulatory_documentation.R,r,./R,TRUE,19600,2026-06-29 18:41:10,R script
+./R/02c_fix_missing_regulatory_documentation_v2.R,02c_fix_missing_regulatory_documentation_v2.R,r,./R,TRUE,40256,2026-06-30 12:10:04,R script
+./R/03_clean_federal_reserve_dfast_results.R,03_clean_federal_reserve_dfast_results.R,r,./R,TRUE,26498,2026-06-29 17:17:04,R script
+./R/04_structure_fed_macro_scenarios.R,04_structure_fed_macro_scenarios.R,r,./R,TRUE,20189,2026-06-29 18:58:26,R script
+./R/05_build_dfast_benchmark_dataset.R,05_build_dfast_benchmark_dataset.R,r,./R,TRUE,20029,2026-06-29 19:10:02,R script
+./R/06_capital_losses_transmission_layer.R,06_capital_losses_transmission_layer.R,r,./R,TRUE,27725,2026-06-30 04:24:32,R script
+./R/07_exploratory_analysis_transmission_layer.R,07_exploratory_analysis_transmission_layer.R,r,./R,TRUE,26498,2026-06-30 04:28:42,R script
+./R/08_build_modelling_sample.R,08_build_modelling_sample.R,r,./R,TRUE,23247,2026-06-30 04:46:26,R script
+./R/09_estimate_credit_loss_model.R,09_estimate_credit_loss_model.R,r,./R,TRUE,31861,2026-06-30 04:50:12,R script
+./R/10_estimate_ppnr_model.R,10_estimate_ppnr_model.R,r,./R,TRUE,31896,2026-06-30 05:00:06,R script
+./R/11_estimate_capital_depletion_model.R,11_estimate_capital_depletion_model.R,r,./R,TRUE,35743,2026-06-30 06:59:28,R script
+./R/12_integrated_stress_test_projection_engine.R,12_integrated_stress_test_projection_engine.R,r,./R,TRUE,35911,2026-06-30 07:05:50,R script
+./R/12b_fix_integrated_projection_join_keys.R,12b_fix_integrated_projection_join_keys.R,r,./R,TRUE,40420,2026-06-30 07:12:28,R script
+./R/13_stress_test_results_bank_vulnerability_ranking.R,13_stress_test_results_bank_vulnerability_ranking.R,r,./R,TRUE,39341,2026-06-30 07:18:46,R script
+./R/14_benchmark_validation_against_fed_results.R,14_benchmark_validation_against_fed_results.R,r,./R,TRUE,41928,2026-06-30 07:28:32,R script
+./R/15_robustness_sensitivity_model_risk_assessment.R,15_robustness_sensitivity_model_risk_assessment.R,r,./R,TRUE,49942,2026-06-30 07:38:00,R script
+./R/16_create_final_institutional_report.R,16_create_final_institutional_report.R,r,./R,TRUE,54294,2026-06-30 07:54:58,R script
+./R/17_create_final_technical_pedagogical_manual.R,17_create_final_technical_pedagogical_manual.R,r,./R,TRUE,61925,2026-06-30 08:13:18,R script
+./R/18_final_publication_checklist_repository_packaging.R,18_final_publication_checklist_repository_packaging.R,r,./R,TRUE,37434,2026-06-30 09:11:12,R script
+./R/19_create_readme_license_citation_files.R,19_create_readme_license_citation_files.R,r,./R,TRUE,26964,2026-06-30 09:15:34,R script
+./R/20_create_gitignore_and_final_git_publication_instructions.R,20_create_gitignore_and_final_git_publication_instructions.R,r,./R,TRUE,16711,2026-06-30 10:09:08,R script
+./R/21_regulatory_documentation_final_audit.R,21_regulatory_documentation_final_audit.R,r,./R,TRUE,36021,2026-06-30 10:23:38,R script
+./R/22_insert_regulatory_note_into_readme.R,22_insert_regulatory_note_into_readme.R,r,./R,TRUE,3767,2026-06-30 10:30:02,R script
+./R/23_validate_regulatory_pdf_files.R,23_validate_regulatory_pdf_files.R,r,./R,TRUE,22452,2026-06-30 11:08:38,R script
+./R/23_validate_regulatory_pdf_files_v2.R,23_validate_regulatory_pdf_files_v2.R,r,./R,TRUE,18959,2026-07-02 05:16:44,R script
+./R/23b_audit_federal_reserve_pdf_folder.R,23b_audit_federal_reserve_pdf_folder.R,r,./R,TRUE,5287,2026-06-30 12:22:32,R script
+./R/23c_audit_all_regulatory_pdfs_manual_openability.R,23c_audit_all_regulatory_pdfs_manual_openability.R,r,./R,TRUE,21038,2026-07-02 04:58:00,R script
+./R/24_clean_regulatory_documentation_after_pdf_audit.R,24_clean_regulatory_documentation_after_pdf_audit.R,r,./R,TRUE,25617,2026-07-02 05:02:56,R script
+./data/processed/fed/fed_dfast_benchmark_long.csv,fed_dfast_benchmark_long.csv,csv,./data/processed/fed,TRUE,5645725,2026-06-29 19:11:02,CSV
+./data/processed/fed/fed_dfast_benchmark_wide.csv,fed_dfast_benchmark_wide.csv,csv,./data/processed/fed,TRUE,205119,2026-06-29 19:11:02,CSV
+./data/processed/fed/fed_dfast_nine_quarter_paths_clean.csv,fed_dfast_nine_quarter_paths_clean.csv,csv,./data/processed/fed,TRUE,14707,2026-06-29 18:30:22,CSV
+./data/processed/fed/fed_dfast_results_clean.csv,fed_dfast_results_clean.csv,csv,./data/processed/fed,TRUE,284293,2026-06-29 18:30:22,CSV
+./data/processed/fed/fed_macro_baseline_domestic_clean.csv,fed_macro_baseline_domestic_clean.csv,csv,./data/processed/fed,TRUE,3452,2026-06-29 18:30:22,CSV
+./data/processed/fed/fed_macro_historic_domestic_clean.csv,fed_macro_historic_domestic_clean.csv,csv,./data/processed/fed,TRUE,39282,2026-06-29 18:30:22,CSV
+./data/processed/fed/fed_macro_scenario_shocks.csv,fed_macro_scenario_shocks.csv,csv,./data/processed/fed,TRUE,10460,2026-06-29 18:59:34,CSV
+./data/processed/fed/fed_macro_scenarios_long.csv,fed_macro_scenarios_long.csv,csv,./data/processed/fed,TRUE,450766,2026-06-29 18:59:34,CSV
+./data/processed/fed/fed_macro_scenarios_wide.csv,fed_macro_scenarios_wide.csv,csv,./data/processed/fed,TRUE,14121,2026-06-29 18:59:34,CSV
+./data/processed/fed/fed_macro_severely_adverse_domestic_clean.csv,fed_macro_severely_adverse_domestic_clean.csv,csv,./data/processed/fed,TRUE,3896,2026-06-29 18:30:22,CSV
+./data/processed/model/bank_model_risk_assessment.csv,bank_model_risk_assessment.csv,csv,./data/processed/model,TRUE,13488,2026-06-30 07:40:58,CSV
+./data/processed/model/benchmark_validation_largest_cet1_errors.csv,benchmark_validation_largest_cet1_errors.csv,csv,./data/processed/model,TRUE,128953,2026-06-30 07:30:58,CSV
+./data/processed/model/benchmark_validation_panel.csv,benchmark_validation_panel.csv,csv,./data/processed/model,TRUE,578605,2026-06-30 07:30:58,CSV
+./data/processed/model/capital_depletion_model_estimation_sample.csv,capital_depletion_model_estimation_sample.csv,csv,./data/processed/model,TRUE,584829,2026-06-30 07:01:32,CSV
+./data/processed/model/capital_depletion_model_predictions.csv,capital_depletion_model_predictions.csv,csv,./data/processed/model,TRUE,930101,2026-06-30 07:01:32,CSV
+./data/processed/model/credit_loss_model_estimation_sample.csv,credit_loss_model_estimation_sample.csv,csv,./data/processed/model,TRUE,568002,2026-06-30 04:51:36,CSV
+./data/processed/model/credit_loss_model_predictions.csv,credit_loss_model_predictions.csv,csv,./data/processed/model,TRUE,533698,2026-06-30 04:51:36,CSV
+./data/processed/model/dfast_capital_losses_transmission_long.csv,dfast_capital_losses_transmission_long.csv,csv,./data/processed/model,TRUE,4790475,2026-06-30 04:25:26,CSV
+./data/processed/model/dfast_capital_losses_transmission_panel.csv,dfast_capital_losses_transmission_panel.csv,csv,./data/processed/model,TRUE,316933,2026-06-30 04:25:26,CSV
+./data/processed/model/final_bank_vulnerability_ranking.csv,final_bank_vulnerability_ranking.csv,csv,./data/processed/model,TRUE,20305,2026-06-30 07:20:58,CSV
+./data/processed/model/final_stress_test_results_panel.csv,final_stress_test_results_panel.csv,csv,./data/processed/model,TRUE,462090,2026-06-30 07:20:58,CSV
+./data/processed/model/integrated_stress_test_projection_long.csv,integrated_stress_test_projection_long.csv,csv,./data/processed/model,TRUE,2220558,2026-06-30 07:07:54,CSV
+./data/processed/model/integrated_stress_test_projection_long_fixed.csv,integrated_stress_test_projection_long_fixed.csv,csv,./data/processed/model,TRUE,1671363,2026-06-30 07:14:26,CSV
+./data/processed/model/integrated_stress_test_projection_panel.csv,integrated_stress_test_projection_panel.csv,csv,./data/processed/model,TRUE,428354,2026-06-30 07:07:54,CSV
+./data/processed/model/integrated_stress_test_projection_panel_fixed.csv,integrated_stress_test_projection_panel_fixed.csv,csv,./data/processed/model,TRUE,327511,2026-06-30 07:14:26,CSV
+./data/processed/model/latest_exercise_bank_vulnerability_ranking.csv,latest_exercise_bank_vulnerability_ranking.csv,csv,./data/processed/model,TRUE,6772,2026-06-30 07:20:58,CSV
+./data/processed/model/model_risk_assessment_panel.csv,model_risk_assessment_panel.csv,csv,./data/processed/model,TRUE,654043,2026-06-30 07:40:58,CSV
+./data/processed/model/model_risk_tail_error_panel.csv,model_risk_tail_error_panel.csv,csv,./data/processed/model,TRUE,34719,2026-06-30 07:40:58,CSV
+./data/processed/model/modelling_sample_clean.csv,modelling_sample_clean.csv,csv,./data/processed/model,TRUE,439742,2026-06-30 04:46:48,CSV
+./data/processed/model/modelling_sample_outlier_flags.csv,modelling_sample_outlier_flags.csv,csv,./data/processed/model,TRUE,16738,2026-06-30 04:46:48,CSV
+./data/processed/model/modelling_sample_winsorized.csv,modelling_sample_winsorized.csv,csv,./data/processed/model,TRUE,554181,2026-06-30 04:46:48,CSV
+./data/processed/model/ppnr_model_estimation_sample.csv,ppnr_model_estimation_sample.csv,csv,./data/processed/model,TRUE,568207,2026-06-30 05:01:54,CSV
+./data/processed/model/ppnr_model_predictions.csv,ppnr_model_predictions.csv,csv,./data/processed/model,TRUE,547902,2026-06-30 05:01:54,CSV
+./data/raw/fed/methodology/fed_2026_dfast_results_report.pdf,fed_2026_dfast_results_report.pdf,pdf,./data/raw/fed/methodology,TRUE,2099540,2026-06-29 17:09:38,PDF
+./data/raw/fed/methodology/fed_2026_supervisory_stress_test_methodology.pdf,fed_2026_supervisory_stress_test_methodology.pdf,pdf,./data/raw/fed/methodology,TRUE,1062787,2026-06-29 17:09:30,PDF
+./data/raw/fed/results/fed_2026_Detailed_Nine_Quarter_Paths.csv,fed_2026_Detailed_Nine_Quarter_Paths.csv,csv,./data/raw/fed/results,TRUE,5619,2026-06-29 17:09:22,CSV
+./data/raw/fed/results/fed_public_results_DFAST_2026.csv,fed_public_results_DFAST_2026.csv,csv,./data/raw/fed/results,TRUE,189591,2026-06-29 17:09:20,CSV
+./data/raw/fed/scenarios/fed_2026_Final_Historic_Domestic.csv,fed_2026_Final_Historic_Domestic.csv,csv,./data/raw/fed/scenarios,TRUE,16936,2026-06-29 17:09:22,CSV
+./data/raw/fed/scenarios/fed_2026_Final_Historic_International.csv,fed_2026_Final_Historic_International.csv,csv,./data/raw/fed/scenarios,TRUE,13050,2026-06-29 17:09:24,CSV
+./data/raw/fed/scenarios/fed_2026_Final_Supervisory_Baseline_Domestic.csv,fed_2026_Final_Supervisory_Baseline_Domestic.csv,csv,./data/raw/fed/scenarios,TRUE,1692,2026-06-29 17:09:24,CSV
+./data/raw/fed/scenarios/fed_2026_Final_Supervisory_Baseline_International.csv,fed_2026_Final_Supervisory_Baseline_International.csv,csv,./data/raw/fed/scenarios,TRUE,1496,2026-06-29 17:09:24,CSV
+./data/raw/fed/scenarios/fed_2026_Final_Supervisory_Severely_Adverse_Domestic.csv,fed_2026_Final_Supervisory_Severely_Adverse_Domestic.csv,csv,./data/raw/fed/scenarios,TRUE,1824,2026-06-29 17:09:24,CSV
+./data/raw/fed/scenarios/fed_2026_Final_Supervisory_Severely_Adverse_International.csv,fed_2026_Final_Supervisory_Severely_Adverse_International.csv,csv,./data/raw/fed/scenarios,TRUE,1645,2026-06-29 17:09:24,CSV
+./data/raw/fred/fred_CSUSHPINSA.csv,fred_CSUSHPINSA.csv,csv,./data/raw/fred,TRUE,8821,2026-06-29 17:09:46,CSV
+./data/raw/fred/fred_GDPC1.csv,fred_GDPC1.csv,csv,./data/raw/fred,TRUE,6506,2026-06-29 17:09:46,CSV
+./data/raw/fred/fred_UNRATE.csv,fred_UNRATE.csv,csv,./data/raw/fred,TRUE,14151,2026-06-29 17:09:46,CSV
+./data/raw/sec/sec_JPM_CIK0000019617_companyfacts.json,sec_JPM_CIK0000019617_companyfacts.json,json,./data/raw/sec,TRUE,7694182,2026-06-29 17:09:44,Other
+./data/raw/sec/sec_JPM_CIK0000019617_submissions.json,sec_JPM_CIK0000019617_submissions.json,json,./data/raw/sec,TRUE,4514852,2026-06-29 17:09:40,Other
+./docs/final_publication_status.md,final_publication_status.md,md,./docs,TRUE,1556,2026-06-30 10:09:56,Documentation/text
+./docs/git_publication_steps.md,git_publication_steps.md,md,./docs,TRUE,2006,2026-06-30 10:09:56,Documentation/text
+./docs/project_scope.md,project_scope.md,md,./docs,TRUE,1481,2026-06-30 09:16:20,Documentation/text
+./docs/public_disclaimer.md,public_disclaimer.md,md,./docs,TRUE,1068,2026-06-30 09:16:20,Documentation/text
+./docs/reproducibility_notes.md,reproducibility_notes.md,md,./docs,TRUE,1521,2026-06-30 09:16:20,Documentation/text
+./docs/regulatory_framework/01_fed_dfast_framework.md,01_fed_dfast_framework.md,md,./docs/regulatory_framework,TRUE,361,2026-06-29 17:09:48,Documentation/text
+./docs/regulatory_framework/02_regulation_yy_12_cfr_252.md,02_regulation_yy_12_cfr_252.md,md,./docs/regulatory_framework,TRUE,391,2026-06-29 17:09:48,Documentation/text
+./docs/regulatory_framework/03_capital_plan_rule_scb.md,03_capital_plan_rule_scb.md,md,./docs/regulatory_framework,TRUE,354,2026-06-29 17:09:48,Documentation/text
+./docs/regulatory_framework/04_data_sources_and_reporting_forms.md,04_data_sources_and_reporting_forms.md,md,./docs/regulatory_framework,TRUE,396,2026-06-29 17:09:48,Documentation/text
+./docs/regulatory_framework/05_public_replication_limitations.md,05_public_replication_limitations.md,md,./docs/regulatory_framework,TRUE,503,2026-06-29 17:09:48,Documentation/text
+./docs/regulatory_framework/README_regulatory_framework.md,README_regulatory_framework.md,md,./docs/regulatory_framework,TRUE,879,2026-06-30 11:47:48,Documentation/text
+./docs/regulatory_framework/pdf_validation_note.md,pdf_validation_note.md,md,./docs/regulatory_framework,TRUE,1266,2026-06-30 11:09:18,Documentation/text
+./docs/regulatory_framework/pdf_validation_note_v2.md,pdf_validation_note_v2.md,md,./docs/regulatory_framework,TRUE,1001,2026-07-02 05:16:54,Documentation/text
+./docs/regulatory_framework/public_replication_disclaimer.md,public_replication_disclaimer.md,md,./docs/regulatory_framework,TRUE,517,2026-06-30 11:47:48,Documentation/text
+./docs/regulatory_framework/regulatory_documentation_note.md,regulatory_documentation_note.md,md,./docs/regulatory_framework,TRUE,2403,2026-06-30 10:24:38,Documentation/text
+./docs/regulatory_framework/regulatory_pdf_cleanup_note.md,regulatory_pdf_cleanup_note.md,md,./docs/regulatory_framework,TRUE,1583,2026-07-02 05:03:44,Documentation/text
+./docs/regulatory_framework/failed_downloads/.download_tmp_FED_9Q_PATHS_DICTIONARY_PDF_20260630_114659_fed_2026_detailed_nine_quarter_paths_dictionary_FED_9Q_PATHS_DICTIONARY_PDF_download_error_20260630_114700.pdf,.download_tmp_FED_9Q_PATHS_DICTIONARY_PDF_20260630_114659_fed_2026_detailed_nine_quarter_paths_dictionary_FED_9Q_PATHS_DICTIONARY_PDF_download_error_20260630_114700.pdf,pdf,./docs/regulatory_framework/failed_downloads,FALSE,NA,NA,PDF
+./docs/regulatory_framework/failed_downloads/fed_2026_detailed_nine_quarter_paths_dictionary_FED_9Q_PATHS_DICTIONARY_PDF_failed_20260630_112733.pdf,fed_2026_detailed_nine_quarter_paths_dictionary_FED_9Q_PATHS_DICTIONARY_PDF_failed_20260630_112733.pdf,pdf,./docs/regulatory_framework/failed_downloads,TRUE,81196,2026-06-30 11:27:34,PDF
+./docs/regulatory_framework/failed_downloads/fed_2026_detailed_nine_quarter_paths_dictionary_attempt_01_FED_9Q_PATHS_DICTIONARY_ATTEMPT_01_legacy_invalid_20260630_115513.pdf,fed_2026_detailed_nine_quarter_paths_dictionary_attempt_01_FED_9Q_PATHS_DICTIONARY_ATTEMPT_01_legacy_invalid_20260630_115513.pdf,pdf,./docs/regulatory_framework/failed_downloads,TRUE,81196,2026-06-29 18:41:56,PDF
+./docs/regulatory_framework/failed_downloads/fed_detailed_nine_quarter_path_data_dictionary_attempt_03_FED_9Q_PATHS_DICTIONARY_ATTEMPT_03_legacy_invalid_20260630_115519.pdf,fed_detailed_nine_quarter_path_data_dictionary_attempt_03_FED_9Q_PATHS_DICTIONARY_ATTEMPT_03_legacy_invalid_20260630_115519.pdf,pdf,./docs/regulatory_framework/failed_downloads,TRUE,81196,2026-06-29 18:41:58,PDF
+./docs/regulatory_framework/failed_downloads/fed_large_bank_capital_requirements_20250627_FED_LARGE_BANK_CAPITAL_REQUIREMENTS_PDF_failed_20260630_112914.pdf,fed_large_bank_capital_requirements_20250627_FED_LARGE_BANK_CAPITAL_REQUIREMENTS_PDF_failed_20260630_112914.pdf,pdf,./docs/regulatory_framework/failed_downloads,TRUE,81196,2026-06-30 11:29:16,PDF
+./docs/regulatory_framework/failed_downloads/fed_large_bank_capital_requirements_20250930_FED_LARGE_BANK_CAPITAL_REQUIREMENTS_ATTEMPT_04_legacy_invalid_20260630_115539.pdf,fed_large_bank_capital_requirements_20250930_FED_LARGE_BANK_CAPITAL_REQUIREMENTS_ATTEMPT_04_legacy_invalid_20260630_115539.pdf,pdf,./docs/regulatory_framework/failed_downloads,TRUE,81196,2026-06-29 18:42:04,PDF
+./docs/regulatory_framework/failed_downloads/fed_public_results_DFAST_2026_dictionary_FED_PUBLIC_RESULTS_DICTIONARY_PDF_failed_20260630_112731.pdf,fed_public_results_DFAST_2026_dictionary_FED_PUBLIC_RESULTS_DICTIONARY_PDF_failed_20260630_112731.pdf,pdf,./docs/regulatory_framework/failed_downloads,TRUE,81196,2026-06-30 11:27:32,PDF
+./docs/regulatory_framework/failed_downloads/fed_public_results_DFAST_2026_dictionary_attempt_01_FED_PUBLIC_RESULTS_DICTIONARY_ATTEMPT_01_legacy_invalid_20260630_115502.pdf,fed_public_results_DFAST_2026_dictionary_attempt_01_FED_PUBLIC_RESULTS_DICTIONARY_ATTEMPT_01_legacy_invalid_20260630_115502.pdf,pdf,./docs/regulatory_framework/failed_downloads,TRUE,81196,2026-06-29 18:41:54,PDF
+./docs/regulatory_framework/failed_downloads/fed_public_results_DFAST_2026_dictionary_attempt_02_FED_PUBLIC_RESULTS_DICTIONARY_ATTEMPT_02_legacy_invalid_20260630_115507.pdf,fed_public_results_DFAST_2026_dictionary_attempt_02_FED_PUBLIC_RESULTS_DICTIONARY_ATTEMPT_02_legacy_invalid_20260630_115507.pdf,pdf,./docs/regulatory_framework/failed_downloads,TRUE,81196,2026-06-29 18:41:54,PDF
+./docs/regulatory_framework/failed_downloads/fed_stress_test_results_data_dictionary_attempt_03_FED_PUBLIC_RESULTS_DICTIONARY_ATTEMPT_03_legacy_invalid_20260630_115510.pdf,fed_stress_test_results_data_dictionary_attempt_03_FED_PUBLIC_RESULTS_DICTIONARY_ATTEMPT_03_legacy_invalid_20260630_115510.pdf,pdf,./docs/regulatory_framework/failed_downloads,TRUE,81196,2026-06-29 18:41:54,PDF
+./docs/regulatory_framework/failed_downloads/invalid_or_unopenable_pdf/RAW_FED_RESULTS__fed_2026_Detailed_Nine_Quarter_Paths_dictionary__quarantined_20260702_050341.pdf,RAW_FED_RESULTS__fed_2026_Detailed_Nine_Quarter_Paths_dictionary__quarantined_20260702_050341.pdf,pdf,./docs/regulatory_framework/failed_downloads/invalid_or_unopenable_pdf,TRUE,81196,2026-06-29 17:09:22,PDF
+./docs/regulatory_framework/failed_downloads/invalid_or_unopenable_pdf/RAW_FED_RESULTS__fed_public_results_DFAST_2026_dictionary__quarantined_20260702_050342.pdf,RAW_FED_RESULTS__fed_public_results_DFAST_2026_dictionary__quarantined_20260702_050342.pdf,pdf,./docs/regulatory_framework/failed_downloads/invalid_or_unopenable_pdf,TRUE,81196,2026-06-29 17:09:20,PDF
+./docs/regulatory_framework/failed_downloads/invalid_or_unopenable_pdf/REGULATORY_PUBLICATION_FEDERAL_RESERVE__fed_2026_Detailed_Nine_Quarter_Paths_dictionary__quarantined_20260702_050342.pdf,REGULATORY_PUBLICATION_FEDERAL_RESERVE__fed_2026_Detailed_Nine_Quarter_Paths_dictionary__quarantined_20260702_050342.pdf,pdf,./docs/regulatory_framework/failed_downloads/invalid_or_unopenable_pdf,TRUE,81196,2026-06-29 18:36:22,PDF
+./docs/regulatory_framework/failed_downloads/invalid_or_unopenable_pdf/REGULATORY_PUBLICATION_FEDERAL_RESERVE__fed_2026_aggregation_models__quarantined_20260702_050342.pdf,REGULATORY_PUBLICATION_FEDERAL_RESERVE__fed_2026_aggregation_models__quarantined_20260702_050342.pdf,pdf,./docs/regulatory_framework/failed_downloads/invalid_or_unopenable_pdf,TRUE,81196,2026-06-29 18:23:44,PDF
+./docs/regulatory_framework/failed_downloads/invalid_or_unopenable_pdf/REGULATORY_PUBLICATION_FEDERAL_RESERVE__fed_2026_detailed_nine_quarter_paths_dictionary_attempt_01__quarantined_20260702_050342.pdf,REGULATORY_PUBLICATION_FEDERAL_RESERVE__fed_2026_detailed_nine_quarter_paths_dictionary_attempt_01__quarantined_20260702_050342.pdf,pdf,./docs/regulatory_framework/failed_downloads/invalid_or_unopenable_pdf,TRUE,81196,2026-06-29 18:41:56,PDF
+./docs/regulatory_framework/failed_downloads/invalid_or_unopenable_pdf/REGULATORY_PUBLICATION_FEDERAL_RESERVE__fed_2026_operational_risk_model__quarantined_20260702_050342.pdf,REGULATORY_PUBLICATION_FEDERAL_RESERVE__fed_2026_operational_risk_model__quarantined_20260702_050342.pdf,pdf,./docs/regulatory_framework/failed_downloads/invalid_or_unopenable_pdf,TRUE,81196,2026-06-29 18:23:42,PDF
+./docs/regulatory_framework/failed_downloads/invalid_or_unopenable_pdf/REGULATORY_PUBLICATION_FEDERAL_RESERVE__fed_2026_ppnr_models__quarantined_20260702_050342.pdf,REGULATORY_PUBLICATION_FEDERAL_RESERVE__fed_2026_ppnr_models__quarantined_20260702_050342.pdf,pdf,./docs/regulatory_framework/failed_downloads/invalid_or_unopenable_pdf,TRUE,81196,2026-06-29 18:23:44,PDF
+./docs/regulatory_framework/failed_downloads/invalid_or_unopenable_pdf/REGULATORY_PUBLICATION_FEDERAL_RESERVE__fed_2026_supervisory_stress_test_models_glossary__quarantined_20260702_050342.pdf,REGULATORY_PUBLICATION_FEDERAL_RESERVE__fed_2026_supervisory_stress_test_models_glossary__quarantined_20260702_050342.pdf,pdf,./docs/regulatory_framework/failed_downloads/invalid_or_unopenable_pdf,TRUE,81196,2026-06-29 18:23:44,PDF
+./docs/regulatory_framework/failed_downloads/invalid_or_unopenable_pdf/REGULATORY_PUBLICATION_FEDERAL_RESERVE__fed_detailed_nine_quarter_path_data_dictionary_attempt_03__quarantined_20260702_050343.pdf,REGULATORY_PUBLICATION_FEDERAL_RESERVE__fed_detailed_nine_quarter_path_data_dictionary_attempt_03__quarantined_20260702_050343.pdf,pdf,./docs/regulatory_framework/failed_downloads/invalid_or_unopenable_pdf,TRUE,81196,2026-06-29 18:41:58,PDF
+./docs/regulatory_framework/failed_downloads/invalid_or_unopenable_pdf/REGULATORY_PUBLICATION_FEDERAL_RESERVE__fed_large_bank_capital_requirements_20250627__quarantined_20260702_050343.pdf,REGULATORY_PUBLICATION_FEDERAL_RESERVE__fed_large_bank_capital_requirements_20250627__quarantined_20260702_050343.pdf,pdf,./docs/regulatory_framework/failed_downloads/invalid_or_unopenable_pdf,TRUE,81196,2026-06-29 18:37:14,PDF
+./docs/regulatory_framework/failed_downloads/invalid_or_unopenable_pdf/REGULATORY_PUBLICATION_FEDERAL_RESERVE__fed_large_bank_capital_requirements_20250930__quarantined_20260702_050343.pdf,REGULATORY_PUBLICATION_FEDERAL_RESERVE__fed_large_bank_capital_requirements_20250930__quarantined_20260702_050343.pdf,pdf,./docs/regulatory_framework/failed_downloads/invalid_or_unopenable_pdf,TRUE,81196,2026-06-29 18:42:04,PDF
+./docs/regulatory_framework/failed_downloads/invalid_or_unopenable_pdf/REGULATORY_PUBLICATION_FEDERAL_RESERVE__fed_public_results_DFAST_2026_dictionary__quarantined_20260702_050343.pdf,REGULATORY_PUBLICATION_FEDERAL_RESERVE__fed_public_results_DFAST_2026_dictionary__quarantined_20260702_050343.pdf,pdf,./docs/regulatory_framework/failed_downloads/invalid_or_unopenable_pdf,TRUE,81196,2026-06-29 18:36:22,PDF
+./docs/regulatory_framework/failed_downloads/invalid_or_unopenable_pdf/REGULATORY_PUBLICATION_FEDERAL_RESERVE__fed_public_results_DFAST_2026_dictionary_attempt_01__quarantined_20260702_050343.pdf,REGULATORY_PUBLICATION_FEDERAL_RESERVE__fed_public_results_DFAST_2026_dictionary_attempt_01__quarantined_20260702_050343.pdf,pdf,./docs/regulatory_framework/failed_downloads/invalid_or_unopenable_pdf,TRUE,81196,2026-06-29 18:41:54,PDF
+./docs/regulatory_framework/failed_downloads/invalid_or_unopenable_pdf/REGULATORY_PUBLICATION_FEDERAL_RESERVE__fed_public_results_DFAST_2026_dictionary_attempt_02__quarantined_20260702_050343.pdf,REGULATORY_PUBLICATION_FEDERAL_RESERVE__fed_public_results_DFAST_2026_dictionary_attempt_02__quarantined_20260702_050343.pdf,pdf,./docs/regulatory_framework/failed_downloads/invalid_or_unopenable_pdf,TRUE,81196,2026-06-29 18:41:54,PDF
+./docs/regulatory_framework/failed_downloads/invalid_or_unopenable_pdf/REGULATORY_PUBLICATION_FEDERAL_RESERVE__fed_stress_test_results_data_dictionary_attempt_03__quarantined_20260702_050343.pdf,REGULATORY_PUBLICATION_FEDERAL_RESERVE__fed_stress_test_results_data_dictionary_attempt_03__quarantined_20260702_050343.pdf,pdf,./docs/regulatory_framework/failed_downloads/invalid_or_unopenable_pdf,TRUE,81196,2026-06-29 18:41:54,PDF
+./docs/regulatory_framework/source_documents/ecfr/ecfr_12_cfr_part_252_regulation_yy.html,ecfr_12_cfr_part_252_regulation_yy.html,html,./docs/regulatory_framework/source_documents/ecfr,TRUE,10596,2026-06-30 11:47:42,Other
+./docs/regulatory_framework/source_documents/federal_reserve/fed_2026_credit_risk_models.pdf,fed_2026_credit_risk_models.pdf,pdf,./docs/regulatory_framework/source_documents/federal_reserve,TRUE,3274121,2026-06-29 18:36:32,PDF
+./docs/regulatory_framework/source_documents/federal_reserve/fed_2026_dfast_results.pdf,fed_2026_dfast_results.pdf,pdf,./docs/regulatory_framework/source_documents/federal_reserve,TRUE,2099540,2026-06-29 18:36:22,PDF
+./docs/regulatory_framework/source_documents/federal_reserve/fed_2026_dfast_results_report.pdf,fed_2026_dfast_results_report.pdf,pdf,./docs/regulatory_framework/source_documents/federal_reserve,TRUE,2099540,2026-06-29 17:09:38,PDF
+./docs/regulatory_framework/source_documents/federal_reserve/fed_2026_final_supervisory_stress_test_scenarios.pdf,fed_2026_final_supervisory_stress_test_scenarios.pdf,pdf,./docs/regulatory_framework/source_documents/federal_reserve,TRUE,1862605,2026-06-29 18:36:06,PDF
+./docs/regulatory_framework/source_documents/federal_reserve/fed_2026_global_market_shock_model.pdf,fed_2026_global_market_shock_model.pdf,pdf,./docs/regulatory_framework/source_documents/federal_reserve,TRUE,938697,2026-06-29 18:36:54,PDF
+./docs/regulatory_framework/source_documents/federal_reserve/fed_2026_macroeconomic_model_guide.pdf,fed_2026_macroeconomic_model_guide.pdf,pdf,./docs/regulatory_framework/source_documents/federal_reserve,TRUE,2957856,2026-06-29 18:37:14,PDF
+./docs/regulatory_framework/source_documents/federal_reserve/fed_2026_market_risk_models.pdf,fed_2026_market_risk_models.pdf,pdf,./docs/regulatory_framework/source_documents/federal_reserve,TRUE,2280184,2026-06-29 18:36:46,PDF
+./docs/regulatory_framework/source_documents/federal_reserve/fed_2026_stress_test_scenarios.html,fed_2026_stress_test_scenarios.html,html,./docs/regulatory_framework/source_documents/federal_reserve,TRUE,419768,2026-06-30 11:46:38,Other
+./docs/regulatory_framework/source_documents/federal_reserve/fed_2026_supervisory_stress_test_methodology.pdf,fed_2026_supervisory_stress_test_methodology.pdf,pdf,./docs/regulatory_framework/source_documents/federal_reserve,TRUE,1062787,2026-06-29 18:36:12,PDF
+./docs/regulatory_framework/source_documents/federal_reserve/fed_9q_paths_dictionary_fallback_dfast_2026_page.html,fed_9q_paths_dictionary_fallback_dfast_2026_page.html,html,./docs/regulatory_framework/source_documents/federal_reserve,TRUE,85726,2026-06-30 12:10:48,Other
+./docs/regulatory_framework/source_documents/federal_reserve/fed_annual_large_bank_capital_requirements_page.html,fed_annual_large_bank_capital_requirements_page.html,html,./docs/regulatory_framework/source_documents/federal_reserve,TRUE,80538,2026-06-29 18:41:58,Other
+./docs/regulatory_framework/source_documents/federal_reserve/fed_detailed_nine_quarter_path_data_dictionary_december_2025.pdf,fed_detailed_nine_quarter_path_data_dictionary_december_2025.pdf,pdf,./docs/regulatory_framework/source_documents/federal_reserve,TRUE,193564,2026-06-29 18:41:56,PDF
+./docs/regulatory_framework/source_documents/federal_reserve/fed_dfast_2026_page.html,fed_dfast_2026_page.html,html,./docs/regulatory_framework/source_documents/federal_reserve,TRUE,85726,2026-06-30 11:46:36,Other
+./docs/regulatory_framework/source_documents/federal_reserve/fed_large_bank_capital_requirements_20250829.pdf,fed_large_bank_capital_requirements_20250829.pdf,pdf,./docs/regulatory_framework/source_documents/federal_reserve,TRUE,1114610,2026-06-29 18:42:00,PDF
+./docs/regulatory_framework/source_documents/federal_reserve/fed_large_bank_capital_requirements_20260624.pdf,fed_large_bank_capital_requirements_20260624.pdf,pdf,./docs/regulatory_framework/source_documents/federal_reserve,TRUE,1099870,2026-06-29 18:42:04,PDF
+./docs/regulatory_framework/source_documents/federal_reserve/fed_public_results_dictionary_fallback_dfast_2026_page.html,fed_public_results_dictionary_fallback_dfast_2026_page.html,html,./docs/regulatory_framework/source_documents/federal_reserve,TRUE,85726,2026-06-30 12:10:38,Other
+./docs/regulatory_framework/source_documents/ffiec/ffiec_bulk_call_reports.html,ffiec_bulk_call_reports.html,html,./docs/regulatory_framework/source_documents/ffiec,TRUE,27784,2026-06-30 11:47:48,Other
+./docs/regulatory_framework/source_documents/sec/sec_edgar_application_programming_interfaces.html,sec_edgar_application_programming_interfaces.html,html,./docs/regulatory_framework/source_documents/sec,TRUE,68391,2026-06-30 11:47:44,Other
+./manual/final_technical_pedagogical_manual_dfast_replication.docx,final_technical_pedagogical_manual_dfast_replication.docx,docx,./manual,TRUE,658547,2026-06-30 08:49:20,Word document
+./outputs/benchmark_validation/script14_bank_validation_metrics.csv,script14_bank_validation_metrics.csv,csv,./outputs/benchmark_validation,TRUE,14403,2026-06-30 07:30:58,CSV
+./outputs/benchmark_validation/script14_benchmark_validation_outputs.xlsx,script14_benchmark_validation_outputs.xlsx,xlsx,./outputs/benchmark_validation,TRUE,107730,2026-06-30 07:30:58,Excel workbook
+./outputs/benchmark_validation/script14_benchmark_validation_report.docx,script14_benchmark_validation_report.docx,docx,./outputs/benchmark_validation,TRUE,27775,2026-06-30 07:31:02,Word document
+./outputs/benchmark_validation/script14_error_bucket_summary.csv,script14_error_bucket_summary.csv,csv,./outputs/benchmark_validation,TRUE,317,2026-06-30 07:30:58,CSV
+./outputs/benchmark_validation/script14_execution_log.txt,script14_execution_log.txt,txt,./outputs/benchmark_validation,TRUE,5766,2026-06-30 07:31:02,Documentation/text
+./outputs/benchmark_validation/script14_execution_summary.csv,script14_execution_summary.csv,csv,./outputs/benchmark_validation,TRUE,503,2026-06-30 07:30:58,CSV
+./outputs/benchmark_validation/script14_executive_validation_summary.csv,script14_executive_validation_summary.csv,csv,./outputs/benchmark_validation,TRUE,483,2026-06-30 07:30:58,CSV
+./outputs/benchmark_validation/script14_figure_inventory.csv,script14_figure_inventory.csv,csv,./outputs/benchmark_validation,TRUE,674,2026-06-30 07:30:58,CSV
+./outputs/benchmark_validation/script14_key_audit_summary.csv,script14_key_audit_summary.csv,csv,./outputs/benchmark_validation,TRUE,62,2026-06-30 07:30:58,CSV
+./outputs/benchmark_validation/script14_largest_cet1_errors.csv,script14_largest_cet1_errors.csv,csv,./outputs/benchmark_validation,TRUE,128953,2026-06-30 07:30:58,CSV
+./outputs/benchmark_validation/script14_latest_largest_errors.csv,script14_latest_largest_errors.csv,csv,./outputs/benchmark_validation,TRUE,2867,2026-06-30 07:30:58,CSV
+./outputs/benchmark_validation/script14_latest_validation_metrics.csv,script14_latest_validation_metrics.csv,csv,./outputs/benchmark_validation,TRUE,1508,2026-06-30 07:30:58,CSV
+./outputs/benchmark_validation/script14_overall_validation_metrics.csv,script14_overall_validation_metrics.csv,csv,./outputs/benchmark_validation,TRUE,1466,2026-06-30 07:30:58,CSV
+./outputs/benchmark_validation/script14_required_column_check.csv,script14_required_column_check.csv,csv,./outputs/benchmark_validation,TRUE,504,2026-06-30 07:30:52,CSV
+./outputs/benchmark_validation/script14_scenario_validation_metrics.csv,script14_scenario_validation_metrics.csv,csv,./outputs/benchmark_validation,TRUE,5206,2026-06-30 07:30:58,CSV
+./outputs/benchmark_validation/script14_threshold_classification_summary.csv,script14_threshold_classification_summary.csv,csv,./outputs/benchmark_validation,TRUE,200,2026-06-30 07:30:58,CSV
+./outputs/benchmark_validation/script14_validation_flag_by_scenario.csv,script14_validation_flag_by_scenario.csv,csv,./outputs/benchmark_validation,TRUE,4230,2026-06-30 07:30:58,CSV
+./outputs/benchmark_validation/figures/fig01_observed_vs_predicted_cet1_min_ratio.png,fig01_observed_vs_predicted_cet1_min_ratio.png,png,./outputs/benchmark_validation/figures,TRUE,175381,2026-06-30 07:30:52,Figure
+./outputs/benchmark_validation/figures/fig02_cet1_prediction_error_distribution.png,fig02_cet1_prediction_error_distribution.png,png,./outputs/benchmark_validation/figures,TRUE,65226,2026-06-30 07:30:54,Figure
+./outputs/benchmark_validation/figures/fig03_validation_rmse_by_component.png,fig03_validation_rmse_by_component.png,png,./outputs/benchmark_validation/figures,TRUE,65752,2026-06-30 07:30:54,Figure
+./outputs/benchmark_validation/figures/fig04_cet1_validation_precision_buckets.png,fig04_cet1_validation_precision_buckets.png,png,./outputs/benchmark_validation/figures,TRUE,59974,2026-06-30 07:30:54,Figure
+./outputs/benchmark_validation/figures/fig05_top20_bank_cet1_validation_rmse.png,fig05_top20_bank_cet1_validation_rmse.png,png,./outputs/benchmark_validation/figures,TRUE,205780,2026-06-30 07:30:56,Figure
+./outputs/benchmark_validation/figures/fig06_cet1_rmse_by_year_scenario.png,fig06_cet1_rmse_by_year_scenario.png,png,./outputs/benchmark_validation/figures,TRUE,165401,2026-06-30 07:30:56,Figure
+./outputs/benchmark_validation/figures/fig07_observed_vs_predicted_capital_depletion.png,fig07_observed_vs_predicted_capital_depletion.png,png,./outputs/benchmark_validation/figures,TRUE,342261,2026-06-30 07:30:56,Figure
+./outputs/benchmarking/dfast_benchmark_bank_summary.csv,dfast_benchmark_bank_summary.csv,csv,./outputs/benchmarking,TRUE,59440,2026-06-29 19:11:02,CSV
+./outputs/benchmarking/dfast_benchmark_column_audit.csv,dfast_benchmark_column_audit.csv,csv,./outputs/benchmarking,TRUE,5536,2026-06-29 19:10:56,CSV
+./outputs/benchmarking/dfast_benchmark_detected_metrics.csv,dfast_benchmark_detected_metrics.csv,csv,./outputs/benchmarking,TRUE,3169,2026-06-29 19:11:02,CSV
+./outputs/benchmarking/dfast_benchmark_metric_block_summary.csv,dfast_benchmark_metric_block_summary.csv,csv,./outputs/benchmarking,TRUE,272,2026-06-29 19:11:02,CSV
+./outputs/benchmarking/dfast_benchmark_variable_map.csv,dfast_benchmark_variable_map.csv,csv,./outputs/benchmarking,TRUE,7134,2026-06-29 19:11:02,CSV
+./outputs/benchmarking/dfast_benchmark_year_summary.csv,dfast_benchmark_year_summary.csv,csv,./outputs/benchmarking,TRUE,7524,2026-06-29 19:11:02,CSV
+./outputs/benchmarking/script05_benchmark_outputs.xlsx,script05_benchmark_outputs.xlsx,xlsx,./outputs/benchmarking,TRUE,55347,2026-06-29 19:11:04,Excel workbook
+./outputs/benchmarking/script05_benchmark_report.docx,script05_benchmark_report.docx,docx,./outputs/benchmarking,TRUE,34331,2026-06-29 19:11:08,Word document
+./outputs/benchmarking/script05_execution_log.txt,script05_execution_log.txt,txt,./outputs/benchmarking,TRUE,1857,2026-06-29 19:11:08,Documentation/text
+./outputs/benchmarking/script05_execution_summary.csv,script05_execution_summary.csv,csv,./outputs/benchmarking,TRUE,324,2026-06-29 19:11:02,CSV
+./outputs/benchmarking/script05_identifier_detection.csv,script05_identifier_detection.csv,csv,./outputs/benchmarking,TRUE,130,2026-06-29 19:06:36,CSV
+./outputs/benchmarking/script05_identifier_error.txt,script05_identifier_error.txt,txt,./outputs/benchmarking,TRUE,1800,2026-06-29 19:06:36,Documentation/text
+./outputs/benchmarking/script05_required_column_check.csv,script05_required_column_check.csv,csv,./outputs/benchmarking,TRUE,143,2026-06-29 19:10:56,CSV
+./outputs/capital_depletion_model/script11_bank_distribution.csv,script11_bank_distribution.csv,csv,./outputs/capital_depletion_model,TRUE,6404,2026-06-30 07:01:32,CSV
+./outputs/capital_depletion_model/script11_bank_residual_ranking.csv,script11_bank_residual_ranking.csv,csv,./outputs/capital_depletion_model,TRUE,6521,2026-06-30 07:01:32,CSV
+./outputs/capital_depletion_model/script11_capital_depletion_model_outputs.xlsx,script11_capital_depletion_model_outputs.xlsx,xlsx,./outputs/capital_depletion_model,TRUE,58359,2026-06-30 07:01:32,Excel workbook
+./outputs/capital_depletion_model/script11_capital_depletion_model_report.docx,script11_capital_depletion_model_report.docx,docx,./outputs/capital_depletion_model,TRUE,32344,2026-06-30 07:01:38,Word document
+./outputs/capital_depletion_model/script11_coefficient_table.csv,script11_coefficient_table.csv,csv,./outputs/capital_depletion_model,TRUE,37147,2026-06-30 07:01:32,CSV
+./outputs/capital_depletion_model/script11_estimation_sample_summary.csv,script11_estimation_sample_summary.csv,csv,./outputs/capital_depletion_model,TRUE,260,2026-06-30 07:01:32,CSV
+./outputs/capital_depletion_model/script11_execution_log.txt,script11_execution_log.txt,txt,./outputs/capital_depletion_model,TRUE,4957,2026-06-30 07:01:38,Documentation/text
+./outputs/capital_depletion_model/script11_execution_summary.csv,script11_execution_summary.csv,csv,./outputs/capital_depletion_model,TRUE,363,2026-06-30 07:01:32,CSV
+./outputs/capital_depletion_model/script11_figure_inventory.csv,script11_figure_inventory.csv,csv,./outputs/capital_depletion_model,TRUE,558,2026-06-30 07:01:32,CSV
+./outputs/capital_depletion_model/script11_fit_table.csv,script11_fit_table.csv,csv,./outputs/capital_depletion_model,TRUE,1557,2026-06-30 07:01:32,CSV
+./outputs/capital_depletion_model/script11_model_status.csv,script11_model_status.csv,csv,./outputs/capital_depletion_model,TRUE,1195,2026-06-30 07:01:32,CSV
+./outputs/capital_depletion_model/script11_prediction_metrics.csv,script11_prediction_metrics.csv,csv,./outputs/capital_depletion_model,TRUE,965,2026-06-30 07:01:32,CSV
+./outputs/capital_depletion_model/script11_required_column_check.csv,script11_required_column_check.csv,csv,./outputs/capital_depletion_model,TRUE,713,2026-06-30 07:01:26,CSV
+./outputs/capital_depletion_model/script11_residual_diagnostics.csv,script11_residual_diagnostics.csv,csv,./outputs/capital_depletion_model,TRUE,3261,2026-06-30 07:01:32,CSV
+./outputs/capital_depletion_model/script11_scenario_distribution.csv,script11_scenario_distribution.csv,csv,./outputs/capital_depletion_model,TRUE,600,2026-06-30 07:01:32,CSV
+./outputs/capital_depletion_model/script11_scenario_effects.csv,script11_scenario_effects.csv,csv,./outputs/capital_depletion_model,TRUE,2179,2026-06-30 07:01:32,CSV
+./outputs/capital_depletion_model/script11_structural_coefficients.csv,script11_structural_coefficients.csv,csv,./outputs/capital_depletion_model,TRUE,3208,2026-06-30 07:01:32,CSV
+./outputs/capital_depletion_model/figures/fig01_actual_vs_predicted_capital_depletion.png,fig01_actual_vs_predicted_capital_depletion.png,png,./outputs/capital_depletion_model/figures,TRUE,382282,2026-06-30 07:01:26,Figure
+./outputs/capital_depletion_model/figures/fig02_residual_distribution.png,fig02_residual_distribution.png,png,./outputs/capital_depletion_model/figures,TRUE,59583,2026-06-30 07:01:28,Figure
+./outputs/capital_depletion_model/figures/fig03_model_rmse_comparison.png,fig03_model_rmse_comparison.png,png,./outputs/capital_depletion_model/figures,TRUE,90921,2026-06-30 07:01:30,Figure
+./outputs/capital_depletion_model/figures/fig04_rmse_by_scenario.png,fig04_rmse_by_scenario.png,png,./outputs/capital_depletion_model/figures,TRUE,58474,2026-06-30 07:01:30,Figure
+./outputs/capital_depletion_model/figures/fig05_top20_bank_residual_rmse.png,fig05_top20_bank_residual_rmse.png,png,./outputs/capital_depletion_model/figures,TRUE,200597,2026-06-30 07:01:30,Figure
+./outputs/capital_depletion_model/figures/fig06_observed_vs_implied_cet1_min_ratio.png,fig06_observed_vs_implied_cet1_min_ratio.png,png,./outputs/capital_depletion_model/figures,TRUE,176160,2026-06-30 07:01:32,Figure
+./outputs/credit_loss_model/script09_bank_distribution.csv,script09_bank_distribution.csv,csv,./outputs/credit_loss_model,TRUE,4606,2026-06-30 04:51:36,CSV
+./outputs/credit_loss_model/script09_bank_residual_ranking.csv,script09_bank_residual_ranking.csv,csv,./outputs/credit_loss_model,TRUE,6924,2026-06-30 04:51:36,CSV
+./outputs/credit_loss_model/script09_coefficient_table.csv,script09_coefficient_table.csv,csv,./outputs/credit_loss_model,TRUE,35800,2026-06-30 04:51:36,CSV
+./outputs/credit_loss_model/script09_credit_loss_model_outputs.xlsx,script09_credit_loss_model_outputs.xlsx,xlsx,./outputs/credit_loss_model,TRUE,53420,2026-06-30 04:51:38,Excel workbook
+./outputs/credit_loss_model/script09_credit_loss_model_report.docx,script09_credit_loss_model_report.docx,docx,./outputs/credit_loss_model,TRUE,29841,2026-06-30 04:57:50,Word document
+./outputs/credit_loss_model/script09_estimation_sample_summary.csv,script09_estimation_sample_summary.csv,csv,./outputs/credit_loss_model,TRUE,248,2026-06-30 04:51:36,CSV
+./outputs/credit_loss_model/script09_execution_log.txt,script09_execution_log.txt,txt,./outputs/credit_loss_model,TRUE,5067,2026-06-30 04:51:42,Documentation/text
+./outputs/credit_loss_model/script09_execution_summary.csv,script09_execution_summary.csv,csv,./outputs/credit_loss_model,TRUE,357,2026-06-30 04:51:36,CSV
+./outputs/credit_loss_model/script09_figure_inventory.csv,script09_figure_inventory.csv,csv,./outputs/credit_loss_model,TRUE,431,2026-06-30 04:51:36,CSV
+./outputs/credit_loss_model/script09_fit_table.csv,script09_fit_table.csv,csv,./outputs/credit_loss_model,TRUE,1375,2026-06-30 04:51:36,CSV
+./outputs/credit_loss_model/script09_model_status.csv,script09_model_status.csv,csv,./outputs/credit_loss_model,TRUE,1043,2026-06-30 04:51:36,CSV
+./outputs/credit_loss_model/script09_prediction_metrics.csv,script09_prediction_metrics.csv,csv,./outputs/credit_loss_model,TRUE,871,2026-06-30 04:51:36,CSV
+./outputs/credit_loss_model/script09_required_column_check.csv,script09_required_column_check.csv,csv,./outputs/credit_loss_model,TRUE,565,2026-06-30 04:51:30,CSV
+./outputs/credit_loss_model/script09_residual_diagnostics.csv,script09_residual_diagnostics.csv,csv,./outputs/credit_loss_model,TRUE,2934,2026-06-30 04:51:36,CSV
+./outputs/credit_loss_model/script09_scenario_distribution.csv,script09_scenario_distribution.csv,csv,./outputs/credit_loss_model,TRUE,600,2026-06-30 04:51:36,CSV
+./outputs/credit_loss_model/script09_scenario_effects.csv,script09_scenario_effects.csv,csv,./outputs/credit_loss_model,TRUE,1925,2026-06-30 04:51:36,CSV
+./outputs/credit_loss_model/figures/fig01_actual_vs_predicted_credit_loss_ratio.png,fig01_actual_vs_predicted_credit_loss_ratio.png,png,./outputs/credit_loss_model/figures,TRUE,295352,2026-06-30 04:51:32,Figure
+./outputs/credit_loss_model/figures/fig02_residual_distribution.png,fig02_residual_distribution.png,png,./outputs/credit_loss_model/figures,TRUE,60308,2026-06-30 04:51:32,Figure
+./outputs/credit_loss_model/figures/fig03_model_rmse_comparison.png,fig03_model_rmse_comparison.png,png,./outputs/credit_loss_model/figures,TRUE,85570,2026-06-30 04:51:34,Figure
+./outputs/credit_loss_model/figures/fig04_rmse_by_scenario.png,fig04_rmse_by_scenario.png,png,./outputs/credit_loss_model/figures,TRUE,56545,2026-06-30 04:51:34,Figure
+./outputs/credit_loss_model/figures/fig05_top20_bank_residual_rmse.png,fig05_top20_bank_residual_rmse.png,png,./outputs/credit_loss_model/figures,TRUE,197048,2026-06-30 04:51:34,Figure
+./outputs/data_audit/script01_data_availability_audit_report.docx,script01_data_availability_audit_report.docx,docx,./outputs/data_audit,TRUE,41077,2026-06-29 17:00:24,Word document
+./outputs/data_audit/script01_execution_log.txt,script01_execution_log.txt,txt,./outputs/data_audit,TRUE,1197,2026-06-29 17:00:24,Documentation/text
+./outputs/data_audit/us_data_availability_assessment.csv,us_data_availability_assessment.csv,csv,./outputs/data_audit,TRUE,453,2026-06-29 17:00:16,CSV
+./outputs/data_audit/us_initial_bank_universe.csv,us_initial_bank_universe.csv,csv,./outputs/data_audit,TRUE,1165,2026-06-29 17:00:16,CSV
+./outputs/data_audit/us_project_metadata.csv,us_project_metadata.csv,csv,./outputs/data_audit,TRUE,482,2026-06-29 17:00:16,CSV
+./outputs/data_audit/us_project_structure.csv,us_project_structure.csv,csv,./outputs/data_audit,TRUE,632,2026-06-29 17:00:16,CSV
+./outputs/data_audit/us_script_roadmap.csv,us_script_roadmap.csv,csv,./outputs/data_audit,TRUE,1668,2026-06-29 17:00:16,CSV
+./outputs/data_audit/us_source_catalog.csv,us_source_catalog.csv,csv,./outputs/data_audit,TRUE,2133,2026-06-29 17:00:16,CSV
+./outputs/data_audit/us_source_variable_map.csv,us_source_variable_map.csv,csv,./outputs/data_audit,TRUE,7105,2026-06-29 17:00:16,CSV
+./outputs/data_audit/us_variable_inventory.csv,us_variable_inventory.csv,csv,./outputs/data_audit,TRUE,4361,2026-06-29 17:00:16,CSV
+./outputs/data_ingestion/script02_data_ingestion_outputs.xlsx,script02_data_ingestion_outputs.xlsx,xlsx,./outputs/data_ingestion,TRUE,26230,2026-06-29 17:09:48,Excel workbook
+./outputs/data_ingestion/script02_execution_log.txt,script02_execution_log.txt,txt,./outputs/data_ingestion,TRUE,2237,2026-06-29 17:09:52,Documentation/text
+./outputs/data_ingestion/script02_execution_summary.csv,script02_execution_summary.csv,csv,./outputs/data_ingestion,TRUE,403,2026-06-29 17:09:48,CSV
+./outputs/data_ingestion/script02_raw_data_ingestion_report.docx,script02_raw_data_ingestion_report.docx,docx,./outputs/data_ingestion,TRUE,22386,2026-06-29 17:09:52,Word document
+./outputs/data_ingestion/us_download_targets.csv,us_download_targets.csv,csv,./outputs/data_ingestion,TRUE,6968,2026-06-29 17:09:48,CSV
+./outputs/data_ingestion/us_raw_data_download_log.csv,us_raw_data_download_log.csv,csv,./outputs/data_ingestion,TRUE,5624,2026-06-29 17:09:48,CSV
+./outputs/data_ingestion/us_raw_data_download_summary.csv,us_raw_data_download_summary.csv,csv,./outputs/data_ingestion,TRUE,227,2026-06-29 17:09:48,CSV
+./outputs/data_ingestion/us_raw_data_file_inventory.csv,us_raw_data_file_inventory.csv,csv,./outputs/data_ingestion,TRUE,4170,2026-06-29 17:09:48,CSV
+./outputs/data_ingestion/us_raw_data_validation_preview.csv,us_raw_data_validation_preview.csv,csv,./outputs/data_ingestion,TRUE,7045,2026-06-29 17:09:48,CSV
+./outputs/data_ingestion/us_regulatory_documentation_catalog.csv,us_regulatory_documentation_catalog.csv,csv,./outputs/data_ingestion,TRUE,4553,2026-06-29 17:09:48,CSV
+./outputs/exploratory_analysis/script07_bank_summary_all_years.csv,script07_bank_summary_all_years.csv,csv,./outputs/exploratory_analysis,TRUE,11121,2026-06-30 04:29:42,CSV
+./outputs/exploratory_analysis/script07_bank_year_stress_ranking.csv,script07_bank_year_stress_ranking.csv,csv,./outputs/exploratory_analysis,TRUE,89342,2026-06-30 04:29:42,CSV
+./outputs/exploratory_analysis/script07_core_descriptive_statistics.csv,script07_core_descriptive_statistics.csv,csv,./outputs/exploratory_analysis,TRUE,3242,2026-06-30 04:29:42,CSV
+./outputs/exploratory_analysis/script07_correlation_long.csv,script07_correlation_long.csv,csv,./outputs/exploratory_analysis,TRUE,5868,2026-06-30 04:29:42,CSV
+./outputs/exploratory_analysis/script07_correlation_matrix.csv,script07_correlation_matrix.csv,csv,./outputs/exploratory_analysis,TRUE,2263,2026-06-30 04:29:42,CSV
+./outputs/exploratory_analysis/script07_execution_log.txt,script07_execution_log.txt,txt,./outputs/exploratory_analysis,TRUE,3140,2026-06-30 04:29:48,Documentation/text
+./outputs/exploratory_analysis/script07_execution_summary.csv,script07_execution_summary.csv,csv,./outputs/exploratory_analysis,TRUE,360,2026-06-30 04:29:42,CSV
+./outputs/exploratory_analysis/script07_exploratory_analysis_outputs.xlsx,script07_exploratory_analysis_outputs.xlsx,xlsx,./outputs/exploratory_analysis,TRUE,88521,2026-06-30 04:29:42,Excel workbook
+./outputs/exploratory_analysis/script07_exploratory_analysis_report.docx,script07_exploratory_analysis_report.docx,docx,./outputs/exploratory_analysis,TRUE,40362,2026-06-30 04:29:48,Word document
+./outputs/exploratory_analysis/script07_figure_inventory.csv,script07_figure_inventory.csv,csv,./outputs/exploratory_analysis,TRUE,546,2026-06-30 04:29:42,CSV
+./outputs/exploratory_analysis/script07_missing_values_audit.csv,script07_missing_values_audit.csv,csv,./outputs/exploratory_analysis,TRUE,2413,2026-06-30 04:29:42,CSV
+./outputs/exploratory_analysis/script07_outlier_summary.csv,script07_outlier_summary.csv,csv,./outputs/exploratory_analysis,TRUE,222,2026-06-30 04:29:42,CSV
+./outputs/exploratory_analysis/script07_outlier_table.csv,script07_outlier_table.csv,csv,./outputs/exploratory_analysis,TRUE,8370,2026-06-30 04:29:42,CSV
+./outputs/exploratory_analysis/script07_required_column_check.csv,script07_required_column_check.csv,csv,./outputs/exploratory_analysis,TRUE,376,2026-06-30 04:29:40,CSV
+./outputs/exploratory_analysis/script07_scenario_summary.csv,script07_scenario_summary.csv,csv,./outputs/exploratory_analysis,TRUE,4375,2026-06-30 04:29:42,CSV
+./outputs/exploratory_analysis/script07_structure_audit.csv,script07_structure_audit.csv,csv,./outputs/exploratory_analysis,TRUE,166,2026-06-30 04:29:40,CSV
+./outputs/exploratory_analysis/figures/fig01_cet1_depletion_distribution.png,fig01_cet1_depletion_distribution.png,png,./outputs/exploratory_analysis/figures,TRUE,57301,2026-06-30 04:29:38,Figure
+./outputs/exploratory_analysis/figures/fig02_cet1_depletion_by_year_scenario.png,fig02_cet1_depletion_by_year_scenario.png,png,./outputs/exploratory_analysis/figures,TRUE,143842,2026-06-30 04:29:38,Figure
+./outputs/exploratory_analysis/figures/fig03_ppnr_vs_loan_losses.png,fig03_ppnr_vs_loan_losses.png,png,./outputs/exploratory_analysis/figures,TRUE,116268,2026-06-30 04:29:40,Figure
+./outputs/exploratory_analysis/figures/fig04_ppnr_loss_absorption_distribution.png,fig04_ppnr_loss_absorption_distribution.png,png,./outputs/exploratory_analysis/figures,TRUE,63268,2026-06-30 04:29:40,Figure
+./outputs/exploratory_analysis/figures/fig05_top20_banks_cet1_depletion.png,fig05_top20_banks_cet1_depletion.png,png,./outputs/exploratory_analysis/figures,TRUE,198856,2026-06-30 04:29:40,Figure
+./outputs/exploratory_analysis/figures/fig06_rwa_growth_distribution.png,fig06_rwa_growth_distribution.png,png,./outputs/exploratory_analysis/figures,TRUE,62208,2026-06-30 04:29:40,Figure
+./outputs/fed_cleaning/fed_dfast_dataset_structure_summary.csv,fed_dfast_dataset_structure_summary.csv,csv,./outputs/fed_cleaning,TRUE,557,2026-06-29 18:30:22,CSV
+./outputs/fed_cleaning/fed_dfast_id_column_audit.csv,fed_dfast_id_column_audit.csv,csv,./outputs/fed_cleaning,TRUE,699,2026-06-29 18:30:22,CSV
+./outputs/fed_cleaning/fed_dfast_results_bank_year_audit.csv,fed_dfast_results_bank_year_audit.csv,csv,./outputs/fed_cleaning,TRUE,591,2026-06-29 18:30:22,CSV
+./outputs/fed_cleaning/fed_dfast_results_variable_audit.csv,fed_dfast_results_variable_audit.csv,csv,./outputs/fed_cleaning,TRUE,11038,2026-06-29 18:30:22,CSV
+./outputs/fed_cleaning/script03_dataset_preview.csv,script03_dataset_preview.csv,csv,./outputs/fed_cleaning,TRUE,14179,2026-06-29 18:30:22,CSV
+./outputs/fed_cleaning/script03_execution_log.txt,script03_execution_log.txt,txt,./outputs/fed_cleaning,TRUE,4007,2026-06-29 18:30:28,Documentation/text
+./outputs/fed_cleaning/script03_fed_dfast_cleaning_outputs.xlsx,script03_fed_dfast_cleaning_outputs.xlsx,xlsx,./outputs/fed_cleaning,TRUE,33485,2026-06-29 18:30:22,Excel workbook
+./outputs/fed_cleaning/script03_fed_dfast_cleaning_report.docx,script03_fed_dfast_cleaning_report.docx,docx,./outputs/fed_cleaning,TRUE,20719,2026-06-29 18:30:28,Word document
+./outputs/fed_cleaning/script03_input_file_audit.csv,script03_input_file_audit.csv,csv,./outputs/fed_cleaning,TRUE,957,2026-06-29 18:30:22,CSV
+./outputs/fed_cleaning/script03_processed_outputs.csv,script03_processed_outputs.csv,csv,./outputs/fed_cleaning,TRUE,608,2026-06-29 18:30:22,CSV
+./outputs/final_manual/final_technical_pedagogical_manual_dfast_replication.docx,final_technical_pedagogical_manual_dfast_replication.docx,docx,./outputs/final_manual,TRUE,527304,2026-06-30 08:14:32,Word document
+./outputs/final_manual/script17_bank_model_risk.csv,script17_bank_model_risk.csv,csv,./outputs/final_manual,TRUE,2378,2026-06-30 08:14:20,CSV
+./outputs/final_manual/script17_concept_table.csv,script17_concept_table.csv,csv,./outputs/final_manual,TRUE,1501,2026-06-30 08:14:20,CSV
+./outputs/final_manual/script17_core_accuracy.csv,script17_core_accuracy.csv,csv,./outputs/final_manual,TRUE,541,2026-06-30 08:14:20,CSV
+./outputs/final_manual/script17_execution_log.txt,script17_execution_log.txt,txt,./outputs/final_manual,TRUE,4360,2026-06-30 08:14:32,Documentation/text
+./outputs/final_manual/script17_execution_summary.csv,script17_execution_summary.csv,csv,./outputs/final_manual,TRUE,488,2026-06-30 08:14:20,CSV
+./outputs/final_manual/script17_executive_summary.csv,script17_executive_summary.csv,csv,./outputs/final_manual,TRUE,577,2026-06-30 08:14:20,CSV
+./outputs/final_manual/script17_figure_inventory.csv,script17_figure_inventory.csv,csv,./outputs/final_manual,TRUE,1487,2026-06-30 08:14:20,CSV
+./outputs/final_manual/script17_final_manual_outputs.xlsx,script17_final_manual_outputs.xlsx,xlsx,./outputs/final_manual,TRUE,51501,2026-06-30 08:14:22,Excel workbook
+./outputs/final_manual/script17_input_check.csv,script17_input_check.csv,csv,./outputs/final_manual,TRUE,832,2026-06-30 08:14:20,CSV
+./outputs/final_manual/script17_key_audit_summary.csv,script17_key_audit_summary.csv,csv,./outputs/final_manual,TRUE,90,2026-06-30 08:14:20,CSV
+./outputs/final_manual/script17_largest_cet1_errors.csv,script17_largest_cet1_errors.csv,csv,./outputs/final_manual,TRUE,2847,2026-06-30 08:14:20,CSV
+./outputs/final_manual/script17_limitations_table.csv,script17_limitations_table.csv,csv,./outputs/final_manual,TRUE,1207,2026-06-30 08:14:20,CSV
+./outputs/final_manual/script17_model_equation_table.csv,script17_model_equation_table.csv,csv,./outputs/final_manual,TRUE,816,2026-06-30 08:14:20,CSV
+./outputs/final_manual/script17_model_risk_bucket_summary.csv,script17_model_risk_bucket_summary.csv,csv,./outputs/final_manual,TRUE,188,2026-06-30 08:14:20,CSV
+./outputs/final_manual/script17_pipeline_table.csv,script17_pipeline_table.csv,csv,./outputs/final_manual,TRUE,2066,2026-06-30 08:14:20,CSV
+./outputs/final_manual/script17_required_column_check.csv,script17_required_column_check.csv,csv,./outputs/final_manual,TRUE,1341,2026-06-30 08:14:20,CSV
+./outputs/final_manual/script17_student_exercises.csv,script17_student_exercises.csv,csv,./outputs/final_manual,TRUE,1537,2026-06-30 08:14:20,CSV
+./outputs/final_manual/script17_threshold_summary.csv,script17_threshold_summary.csv,csv,./outputs/final_manual,TRUE,139,2026-06-30 08:14:20,CSV
+./outputs/final_manual/script17_top_latest_ranking.csv,script17_top_latest_ranking.csv,csv,./outputs/final_manual,TRUE,2962,2026-06-30 08:14:20,CSV
+./outputs/final_manual/script17_validation_metrics_table.csv,script17_validation_metrics_table.csv,csv,./outputs/final_manual,TRUE,812,2026-06-30 08:14:20,CSV
+./outputs/final_manual/script17_variable_table.csv,script17_variable_table.csv,csv,./outputs/final_manual,TRUE,894,2026-06-30 08:14:20,CSV
+./outputs/final_manual/figures/fig01_latest_top20_min_predicted_cet1.png,fig01_latest_top20_min_predicted_cet1.png,png,./outputs/final_manual/figures,TRUE,193900,2026-06-30 08:14:20,Figure
+./outputs/final_manual/figures/fig02_composite_vulnerability_score.png,fig02_composite_vulnerability_score.png,png,./outputs/final_manual/figures,TRUE,192759,2026-06-30 08:14:20,Figure
+./outputs/final_manual/figures/fig03_observed_vs_predicted_cet1.png,fig03_observed_vs_predicted_cet1.png,png,./outputs/final_manual/figures,TRUE,169640,2026-06-30 08:14:20,Figure
+./outputs/final_manual/figures/fig04_cet1_error_distribution.png,fig04_cet1_error_distribution.png,png,./outputs/final_manual/figures,TRUE,65226,2026-06-30 08:14:20,Figure
+./outputs/final_manual/figures/fig05_validation_precision_buckets.png,fig05_validation_precision_buckets.png,png,./outputs/final_manual/figures,TRUE,59974,2026-06-30 08:14:20,Figure
+./outputs/final_manual/figures/fig06_model_risk_buckets.png,fig06_model_risk_buckets.png,png,./outputs/final_manual/figures,TRUE,56786,2026-06-30 08:14:20,Figure
+./outputs/final_manual/figures/fig07_threshold_sensitivity.png,fig07_threshold_sensitivity.png,png,./outputs/final_manual/figures,TRUE,115947,2026-06-30 08:14:20,Figure
+./outputs/final_manual/figures/fig08_bank_model_risk.png,fig08_bank_model_risk.png,png,./outputs/final_manual/figures,TRUE,197625,2026-06-30 08:14:20,Figure
+./outputs/final_report/script16_bank_model_risk.csv,script16_bank_model_risk.csv,csv,./outputs/final_report,TRUE,2378,2026-06-30 07:55:24,CSV
+./outputs/final_report/script16_core_accuracy.csv,script16_core_accuracy.csv,csv,./outputs/final_report,TRUE,541,2026-06-30 07:55:24,CSV
+./outputs/final_report/script16_execution_log.txt,script16_execution_log.txt,txt,./outputs/final_report,TRUE,4562,2026-06-30 07:55:34,Documentation/text
+./outputs/final_report/script16_execution_summary.csv,script16_execution_summary.csv,csv,./outputs/final_report,TRUE,430,2026-06-30 07:55:24,CSV
+./outputs/final_report/script16_executive_summary.csv,script16_executive_summary.csv,csv,./outputs/final_report,TRUE,577,2026-06-30 07:55:24,CSV
+./outputs/final_report/script16_figure_inventory.csv,script16_figure_inventory.csv,csv,./outputs/final_report,TRUE,1504,2026-06-30 07:55:24,CSV
+./outputs/final_report/script16_final_report_outputs.xlsx,script16_final_report_outputs.xlsx,xlsx,./outputs/final_report,TRUE,46432,2026-06-30 07:55:24,Excel workbook
+./outputs/final_report/script16_input_check.csv,script16_input_check.csv,csv,./outputs/final_report,TRUE,832,2026-06-30 07:55:24,CSV
+./outputs/final_report/script16_key_audit_summary.csv,script16_key_audit_summary.csv,csv,./outputs/final_report,TRUE,90,2026-06-30 07:55:24,CSV
+./outputs/final_report/script16_largest_cet1_errors.csv,script16_largest_cet1_errors.csv,csv,./outputs/final_report,TRUE,2847,2026-06-30 07:55:24,CSV
+./outputs/final_report/script16_limitations.csv,script16_limitations.csv,csv,./outputs/final_report,TRUE,928,2026-06-30 07:55:24,CSV
+./outputs/final_report/script16_model_architecture.csv,script16_model_architecture.csv,csv,./outputs/final_report,TRUE,577,2026-06-30 07:55:24,CSV
+./outputs/final_report/script16_model_risk_bucket_summary.csv,script16_model_risk_bucket_summary.csv,csv,./outputs/final_report,TRUE,188,2026-06-30 07:55:24,CSV
+./outputs/final_report/script16_pedagogical_use.csv,script16_pedagogical_use.csv,csv,./outputs/final_report,TRUE,729,2026-06-30 07:55:24,CSV
+./outputs/final_report/script16_pipeline_map.csv,script16_pipeline_map.csv,csv,./outputs/final_report,TRUE,1624,2026-06-30 07:55:24,CSV
+./outputs/final_report/script16_required_column_check.csv,script16_required_column_check.csv,csv,./outputs/final_report,TRUE,1341,2026-06-30 07:55:24,CSV
+./outputs/final_report/script16_threshold_summary.csv,script16_threshold_summary.csv,csv,./outputs/final_report,TRUE,139,2026-06-30 07:55:24,CSV
+./outputs/final_report/script16_top_full_sample_ranking.csv,script16_top_full_sample_ranking.csv,csv,./outputs/final_report,TRUE,2737,2026-06-30 07:55:24,CSV
+./outputs/final_report/script16_top_latest_ranking.csv,script16_top_latest_ranking.csv,csv,./outputs/final_report,TRUE,2962,2026-06-30 07:55:24,CSV
+./outputs/final_report/figures/fig01_latest_top20_min_predicted_cet1.png,fig01_latest_top20_min_predicted_cet1.png,png,./outputs/final_report/figures,TRUE,193900,2026-06-30 07:55:22,Figure
+./outputs/final_report/figures/fig02_composite_vulnerability_score.png,fig02_composite_vulnerability_score.png,png,./outputs/final_report/figures,TRUE,192759,2026-06-30 07:55:22,Figure
+./outputs/final_report/figures/fig03_observed_vs_predicted_cet1.png,fig03_observed_vs_predicted_cet1.png,png,./outputs/final_report/figures,TRUE,169640,2026-06-30 07:55:22,Figure
+./outputs/final_report/figures/fig04_cet1_error_distribution.png,fig04_cet1_error_distribution.png,png,./outputs/final_report/figures,TRUE,65226,2026-06-30 07:55:22,Figure
+./outputs/final_report/figures/fig05_validation_precision_buckets.png,fig05_validation_precision_buckets.png,png,./outputs/final_report/figures,TRUE,59974,2026-06-30 07:55:22,Figure
+./outputs/final_report/figures/fig06_model_risk_buckets.png,fig06_model_risk_buckets.png,png,./outputs/final_report/figures,TRUE,56786,2026-06-30 07:55:22,Figure
+./outputs/final_report/figures/fig07_threshold_sensitivity.png,fig07_threshold_sensitivity.png,png,./outputs/final_report/figures,TRUE,115947,2026-06-30 07:55:24,Figure
+./outputs/final_report/figures/fig08_bank_model_risk.png,fig08_bank_model_risk.png,png,./outputs/final_report/figures,TRUE,197625,2026-06-30 07:55:24,Figure
+./outputs/final_results/script13_bank_accuracy_ranking.csv,script13_bank_accuracy_ranking.csv,csv,./outputs/final_results,TRUE,6731,2026-06-30 07:20:58,CSV
+./outputs/final_results/script13_execution_log.txt,script13_execution_log.txt,txt,./outputs/final_results,TRUE,7543,2026-06-30 07:21:04,Documentation/text
+./outputs/final_results/script13_execution_summary.csv,script13_execution_summary.csv,csv,./outputs/final_results,TRUE,443,2026-06-30 07:20:58,CSV
+./outputs/final_results/script13_executive_summary_table.csv,script13_executive_summary_table.csv,csv,./outputs/final_results,TRUE,525,2026-06-30 07:20:58,CSV
+./outputs/final_results/script13_figure_inventory.csv,script13_figure_inventory.csv,csv,./outputs/final_results,TRUE,632,2026-06-30 07:20:58,CSV
+./outputs/final_results/script13_final_bank_vulnerability_ranking.csv,script13_final_bank_vulnerability_ranking.csv,csv,./outputs/final_results,TRUE,20305,2026-06-30 07:20:58,CSV
+./outputs/final_results/script13_final_results_outputs.xlsx,script13_final_results_outputs.xlsx,xlsx,./outputs/final_results,TRUE,50431,2026-06-30 07:21:00,Excel workbook
+./outputs/final_results/script13_final_stress_test_results_report.docx,script13_final_stress_test_results_report.docx,docx,./outputs/final_results,TRUE,34062,2026-06-30 07:21:04,Word document
+./outputs/final_results/script13_key_audit_summary.csv,script13_key_audit_summary.csv,csv,./outputs/final_results,TRUE,62,2026-06-30 07:20:58,CSV
+./outputs/final_results/script13_latest_bank_vulnerability_ranking.csv,script13_latest_bank_vulnerability_ranking.csv,csv,./outputs/final_results,TRUE,6772,2026-06-30 07:20:58,CSV
+./outputs/final_results/script13_model_accuracy_summary.csv,script13_model_accuracy_summary.csv,csv,./outputs/final_results,TRUE,365,2026-06-30 07:20:58,CSV
+./outputs/final_results/script13_required_column_check.csv,script13_required_column_check.csv,csv,./outputs/final_results,TRUE,480,2026-06-30 07:20:52,CSV
+./outputs/final_results/script13_scenario_result_summary.csv,script13_scenario_result_summary.csv,csv,./outputs/final_results,TRUE,4902,2026-06-30 07:20:58,CSV
+./outputs/final_results/figures/fig01_latest_top20_min_predicted_cet1.png,fig01_latest_top20_min_predicted_cet1.png,png,./outputs/final_results/figures,TRUE,193900,2026-06-30 07:20:52,Figure
+./outputs/final_results/figures/fig02_top20_composite_vulnerability_score.png,fig02_top20_composite_vulnerability_score.png,png,./outputs/final_results/figures,TRUE,192759,2026-06-30 07:20:54,Figure
+./outputs/final_results/figures/fig03_distribution_predicted_cet1_min_ratio.png,fig03_distribution_predicted_cet1_min_ratio.png,png,./outputs/final_results/figures,TRUE,61807,2026-06-30 07:20:54,Figure
+./outputs/final_results/figures/fig04_observed_vs_predicted_cet1_min_ratio.png,fig04_observed_vs_predicted_cet1_min_ratio.png,png,./outputs/final_results/figures,TRUE,169640,2026-06-30 07:20:56,Figure
+./outputs/final_results/figures/fig05_mean_predicted_cet1_by_year_scenario.png,fig05_mean_predicted_cet1_by_year_scenario.png,png,./outputs/final_results/figures,TRUE,158402,2026-06-30 07:20:56,Figure
+./outputs/final_results/figures/fig06_model_rmse_by_component.png,fig06_model_rmse_by_component.png,png,./outputs/final_results/figures,TRUE,62612,2026-06-30 07:20:56,Figure
+./outputs/final_results/figures/fig07_predicted_ppnr_vs_credit_loss_ratio.png,fig07_predicted_ppnr_vs_credit_loss_ratio.png,png,./outputs/final_results/figures,TRUE,335905,2026-06-30 07:20:58,Figure
+./outputs/integrated_projection/script12_bank_model_error_ranking.csv,script12_bank_model_error_ranking.csv,csv,./outputs/integrated_projection,TRUE,6796,2026-06-30 07:07:54,CSV
+./outputs/integrated_projection/script12_bank_vulnerability_ranking.csv,script12_bank_vulnerability_ranking.csv,csv,./outputs/integrated_projection,TRUE,11438,2026-06-30 07:07:54,CSV
+./outputs/integrated_projection/script12_execution_log.txt,script12_execution_log.txt,txt,./outputs/integrated_projection,TRUE,3548,2026-06-30 07:08:00,Documentation/text
+./outputs/integrated_projection/script12_execution_summary.csv,script12_execution_summary.csv,csv,./outputs/integrated_projection,TRUE,461,2026-06-30 07:07:54,CSV
+./outputs/integrated_projection/script12_figure_inventory.csv,script12_figure_inventory.csv,csv,./outputs/integrated_projection,TRUE,589,2026-06-30 07:07:54,CSV
+./outputs/integrated_projection/script12_input_check.csv,script12_input_check.csv,csv,./outputs/integrated_projection,TRUE,297,2026-06-30 07:07:54,CSV
+./outputs/integrated_projection/script12_integrated_projection_outputs.xlsx,script12_integrated_projection_outputs.xlsx,xlsx,./outputs/integrated_projection,TRUE,41459,2026-06-30 07:07:56,Excel workbook
+./outputs/integrated_projection/script12_integrated_projection_report.docx,script12_integrated_projection_report.docx,docx,./outputs/integrated_projection,TRUE,28364,2026-06-30 07:08:00,Word document
+./outputs/integrated_projection/script12_integrated_validation_metrics.csv,script12_integrated_validation_metrics.csv,csv,./outputs/integrated_projection,TRUE,368,2026-06-30 07:07:54,CSV
+./outputs/integrated_projection/script12_projection_variable_map.csv,script12_projection_variable_map.csv,csv,./outputs/integrated_projection,TRUE,2132,2026-06-30 07:07:54,CSV
+./outputs/integrated_projection/script12_scenario_summary.csv,script12_scenario_summary.csv,csv,./outputs/integrated_projection,TRUE,4464,2026-06-30 07:07:54,CSV
+./outputs/integrated_projection/script12_selected_model_check.csv,script12_selected_model_check.csv,csv,./outputs/integrated_projection,TRUE,176,2026-06-30 07:07:54,CSV
+./outputs/integrated_projection/figures/fig01_observed_vs_predicted_cet1_min_ratio.png,fig01_observed_vs_predicted_cet1_min_ratio.png,png,./outputs/integrated_projection/figures,TRUE,175171,2026-06-30 07:07:50,Figure
+./outputs/integrated_projection/figures/fig02_cet1_prediction_gap_distribution.png,fig02_cet1_prediction_gap_distribution.png,png,./outputs/integrated_projection/figures,TRUE,63149,2026-06-30 07:07:52,Figure
+./outputs/integrated_projection/figures/fig03_integrated_rmse_by_component.png,fig03_integrated_rmse_by_component.png,png,./outputs/integrated_projection/figures,TRUE,63198,2026-06-30 07:07:52,Figure
+./outputs/integrated_projection/figures/fig04_top20_vulnerable_banks_predicted_cet1.png,fig04_top20_vulnerable_banks_predicted_cet1.png,png,./outputs/integrated_projection/figures,TRUE,187428,2026-06-30 07:07:52,Figure
+./outputs/integrated_projection/figures/fig05_predicted_cet1_by_year_scenario.png,fig05_predicted_cet1_by_year_scenario.png,png,./outputs/integrated_projection/figures,TRUE,163161,2026-06-30 07:07:52,Figure
+./outputs/integrated_projection/figures/fig06_predicted_ppnr_vs_credit_losses.png,fig06_predicted_ppnr_vs_credit_losses.png,png,./outputs/integrated_projection/figures,TRUE,337347,2026-06-30 07:07:54,Figure
+./outputs/integrated_projection_fix/script12b_bank_model_error_ranking_fixed.csv,script12b_bank_model_error_ranking_fixed.csv,csv,./outputs/integrated_projection_fix,TRUE,6794,2026-06-30 07:14:28,CSV
+./outputs/integrated_projection_fix/script12b_bank_vulnerability_ranking_fixed.csv,script12b_bank_vulnerability_ranking_fixed.csv,csv,./outputs/integrated_projection_fix,TRUE,11307,2026-06-30 07:14:28,CSV
+./outputs/integrated_projection_fix/script12b_duplicate_key_details.csv,script12b_duplicate_key_details.csv,csv,./outputs/integrated_projection_fix,TRUE,6249,2026-06-30 07:14:28,CSV
+./outputs/integrated_projection_fix/script12b_execution_log.txt,script12b_execution_log.txt,txt,./outputs/integrated_projection_fix,TRUE,5057,2026-06-30 07:14:32,Documentation/text
+./outputs/integrated_projection_fix/script12b_execution_summary.csv,script12b_execution_summary.csv,csv,./outputs/integrated_projection_fix,TRUE,522,2026-06-30 07:14:28,CSV
+./outputs/integrated_projection_fix/script12b_figure_inventory.csv,script12b_figure_inventory.csv,csv,./outputs/integrated_projection_fix,TRUE,430,2026-06-30 07:14:28,CSV
+./outputs/integrated_projection_fix/script12b_fixed_integrated_check.csv,script12b_fixed_integrated_check.csv,csv,./outputs/integrated_projection_fix,TRUE,93,2026-06-30 07:14:28,CSV
+./outputs/integrated_projection_fix/script12b_input_check.csv,script12b_input_check.csv,csv,./outputs/integrated_projection_fix,TRUE,297,2026-06-30 07:14:26,CSV
+./outputs/integrated_projection_fix/script12b_integrated_projection_fix_outputs.xlsx,script12b_integrated_projection_fix_outputs.xlsx,xlsx,./outputs/integrated_projection_fix,TRUE,50124,2026-06-30 07:14:28,Excel workbook
+./outputs/integrated_projection_fix/script12b_integrated_projection_fix_report.docx,script12b_integrated_projection_fix_report.docx,docx,./outputs/integrated_projection_fix,TRUE,22717,2026-06-30 07:14:32,Word document
+./outputs/integrated_projection_fix/script12b_integrated_validation_metrics_fixed.csv,script12b_integrated_validation_metrics_fixed.csv,csv,./outputs/integrated_projection_fix,TRUE,365,2026-06-30 07:14:28,CSV
+./outputs/integrated_projection_fix/script12b_join_key_audit.csv,script12b_join_key_audit.csv,csv,./outputs/integrated_projection_fix,TRUE,129924,2026-06-30 07:14:28,CSV
+./outputs/integrated_projection_fix/script12b_join_key_summary.csv,script12b_join_key_summary.csv,csv,./outputs/integrated_projection_fix,TRUE,156,2026-06-30 07:14:28,CSV
+./outputs/integrated_projection_fix/script12b_post_aggregation_check.csv,script12b_post_aggregation_check.csv,csv,./outputs/integrated_projection_fix,TRUE,149,2026-06-30 07:14:28,CSV
+./outputs/integrated_projection_fix/script12b_projection_variable_map_fixed.csv,script12b_projection_variable_map_fixed.csv,csv,./outputs/integrated_projection_fix,TRUE,2132,2026-06-30 07:14:28,CSV
+./outputs/integrated_projection_fix/script12b_scenario_summary_fixed.csv,script12b_scenario_summary_fixed.csv,csv,./outputs/integrated_projection_fix,TRUE,3713,2026-06-30 07:14:28,CSV
+./outputs/integrated_projection_fix/script12b_selected_model_check.csv,script12b_selected_model_check.csv,csv,./outputs/integrated_projection_fix,TRUE,176,2026-06-30 07:14:26,CSV
+./outputs/integrated_projection_fix/figures/fig01_fixed_observed_vs_predicted_cet1_min_ratio.png,fig01_fixed_observed_vs_predicted_cet1_min_ratio.png,png,./outputs/integrated_projection_fix/figures,TRUE,181065,2026-06-30 07:14:24,Figure
+./outputs/integrated_projection_fix/figures/fig02_fixed_cet1_prediction_gap_distribution.png,fig02_fixed_cet1_prediction_gap_distribution.png,png,./outputs/integrated_projection_fix/figures,TRUE,66814,2026-06-30 07:14:24,Figure
+./outputs/integrated_projection_fix/figures/fig03_fixed_integrated_rmse_by_component.png,fig03_fixed_integrated_rmse_by_component.png,png,./outputs/integrated_projection_fix/figures,TRUE,64429,2026-06-30 07:14:26,Figure
+./outputs/integrated_projection_fix/figures/fig04_fixed_top20_vulnerable_banks.png,fig04_fixed_top20_vulnerable_banks.png,png,./outputs/integrated_projection_fix/figures,TRUE,186920,2026-06-30 07:14:26,Figure
+./outputs/model_risk/script15_bank_model_risk.csv,script15_bank_model_risk.csv,csv,./outputs/model_risk,TRUE,13488,2026-06-30 07:40:58,CSV
+./outputs/model_risk/script15_bias_by_scenario.csv,script15_bias_by_scenario.csv,csv,./outputs/model_risk,TRUE,527,2026-06-30 07:40:58,CSV
+./outputs/model_risk/script15_bias_direction_summary.csv,script15_bias_direction_summary.csv,csv,./outputs/model_risk,TRUE,329,2026-06-30 07:40:58,CSV
+./outputs/model_risk/script15_execution_log.txt,script15_execution_log.txt,txt,./outputs/model_risk,TRUE,6354,2026-06-30 07:41:04,Documentation/text
+./outputs/model_risk/script15_execution_summary.csv,script15_execution_summary.csv,csv,./outputs/model_risk,TRUE,606,2026-06-30 07:40:58,CSV
+./outputs/model_risk/script15_executive_model_risk_summary.csv,script15_executive_model_risk_summary.csv,csv,./outputs/model_risk,TRUE,516,2026-06-30 07:40:58,CSV
+./outputs/model_risk/script15_figure_inventory.csv,script15_figure_inventory.csv,csv,./outputs/model_risk,TRUE,549,2026-06-30 07:40:58,CSV
+./outputs/model_risk/script15_key_audit_summary.csv,script15_key_audit_summary.csv,csv,./outputs/model_risk,TRUE,62,2026-06-30 07:40:58,CSV
+./outputs/model_risk/script15_largest_model_risk_observations.csv,script15_largest_model_risk_observations.csv,csv,./outputs/model_risk,TRUE,154578,2026-06-30 07:40:58,CSV
+./outputs/model_risk/script15_model_risk_assessment_outputs.xlsx,script15_model_risk_assessment_outputs.xlsx,xlsx,./outputs/model_risk,TRUE,125466,2026-06-30 07:40:58,Excel workbook
+./outputs/model_risk/script15_model_risk_assessment_report.docx,script15_model_risk_assessment_report.docx,docx,./outputs/model_risk,TRUE,32814,2026-06-30 07:41:04,Word document
+./outputs/model_risk/script15_model_risk_conclusion.csv,script15_model_risk_conclusion.csv,csv,./outputs/model_risk,TRUE,844,2026-06-30 07:40:58,CSV
+./outputs/model_risk/script15_model_risk_limits.csv,script15_model_risk_limits.csv,csv,./outputs/model_risk,TRUE,1645,2026-06-30 07:40:58,CSV
+./outputs/model_risk/script15_overall_robustness_metrics.csv,script15_overall_robustness_metrics.csv,csv,./outputs/model_risk,TRUE,1204,2026-06-30 07:40:58,CSV
+./outputs/model_risk/script15_required_column_check.csv,script15_required_column_check.csv,csv,./outputs/model_risk,TRUE,815,2026-06-30 07:40:52,CSV
+./outputs/model_risk/script15_scenario_robustness.csv,script15_scenario_robustness.csv,csv,./outputs/model_risk,TRUE,938,2026-06-30 07:40:58,CSV
+./outputs/model_risk/script15_tail_error_summary.csv,script15_tail_error_summary.csv,csv,./outputs/model_risk,TRUE,399,2026-06-30 07:40:58,CSV
+./outputs/model_risk/script15_threshold_sensitivity.csv,script15_threshold_sensitivity.csv,csv,./outputs/model_risk,TRUE,608,2026-06-30 07:40:58,CSV
+./outputs/model_risk/script15_year_robustness.csv,script15_year_robustness.csv,csv,./outputs/model_risk,TRUE,2411,2026-06-30 07:40:58,CSV
+./outputs/model_risk/script15_year_scenario_robustness.csv,script15_year_scenario_robustness.csv,csv,./outputs/model_risk,TRUE,2749,2026-06-30 07:40:58,CSV
+./outputs/model_risk/figures/fig01_abs_cet1_error_distribution.png,fig01_abs_cet1_error_distribution.png,png,./outputs/model_risk/figures,TRUE,70735,2026-06-30 07:40:52,Figure
+./outputs/model_risk/figures/fig02_model_risk_buckets.png,fig02_model_risk_buckets.png,png,./outputs/model_risk/figures,TRUE,56786,2026-06-30 07:40:52,Figure
+./outputs/model_risk/figures/fig03_top20_bank_model_risk_score.png,fig03_top20_bank_model_risk_score.png,png,./outputs/model_risk/figures,TRUE,197625,2026-06-30 07:40:54,Figure
+./outputs/model_risk/figures/fig04_threshold_classification_sensitivity.png,fig04_threshold_classification_sensitivity.png,png,./outputs/model_risk/figures,TRUE,115947,2026-06-30 07:40:54,Figure
+./outputs/model_risk/figures/fig05_cet1_rmse_by_year.png,fig05_cet1_rmse_by_year.png,png,./outputs/model_risk/figures,TRUE,120245,2026-06-30 07:40:56,Figure
+./outputs/model_risk/figures/fig06_cet1_rmse_by_scenario.png,fig06_cet1_rmse_by_scenario.png,png,./outputs/model_risk/figures,TRUE,55945,2026-06-30 07:40:56,Figure
+./outputs/model_risk/figures/fig07_observed_vs_predicted_cet1.png,fig07_observed_vs_predicted_cet1.png,png,./outputs/model_risk/figures,TRUE,169640,2026-06-30 07:40:56,Figure
+./outputs/modelling_sample/script08_execution_log.txt,script08_execution_log.txt,txt,./outputs/modelling_sample,TRUE,2780,2026-06-30 04:46:54,Documentation/text
+./outputs/modelling_sample/script08_execution_summary.csv,script08_execution_summary.csv,csv,./outputs/modelling_sample,TRUE,420,2026-06-30 04:46:50,CSV
+./outputs/modelling_sample/script08_modelling_sample_outputs.xlsx,script08_modelling_sample_outputs.xlsx,xlsx,./outputs/modelling_sample,TRUE,20381,2026-06-30 04:46:50,Excel workbook
+./outputs/modelling_sample/script08_modelling_sample_report.docx,script08_modelling_sample_report.docx,docx,./outputs/modelling_sample,TRUE,20924,2026-06-30 04:46:54,Word document
+./outputs/modelling_sample/script08_outlier_flags.csv,script08_outlier_flags.csv,csv,./outputs/modelling_sample,TRUE,16738,2026-06-30 04:46:48,CSV
+./outputs/modelling_sample/script08_outlier_summary.csv,script08_outlier_summary.csv,csv,./outputs/modelling_sample,TRUE,347,2026-06-30 04:46:48,CSV
+./outputs/modelling_sample/script08_required_column_check.csv,script08_required_column_check.csv,csv,./outputs/modelling_sample,TRUE,505,2026-06-30 04:46:46,CSV
+./outputs/modelling_sample/script08_sample_summary.csv,script08_sample_summary.csv,csv,./outputs/modelling_sample,TRUE,253,2026-06-30 04:46:48,CSV
+./outputs/modelling_sample/script08_scenario_sample_summary.csv,script08_scenario_sample_summary.csv,csv,./outputs/modelling_sample,TRUE,1143,2026-06-30 04:46:48,CSV
+./outputs/modelling_sample/script08_variable_treatment_summary.csv,script08_variable_treatment_summary.csv,csv,./outputs/modelling_sample,TRUE,1655,2026-06-30 04:46:48,CSV
+./outputs/ppnr_model/script10_bank_distribution.csv,script10_bank_distribution.csv,csv,./outputs/ppnr_model,TRUE,5771,2026-06-30 05:01:54,CSV
+./outputs/ppnr_model/script10_bank_residual_ranking.csv,script10_bank_residual_ranking.csv,csv,./outputs/ppnr_model,TRUE,6910,2026-06-30 05:01:54,CSV
+./outputs/ppnr_model/script10_coefficient_table.csv,script10_coefficient_table.csv,csv,./outputs/ppnr_model,TRUE,35608,2026-06-30 05:01:54,CSV
+./outputs/ppnr_model/script10_estimation_sample_summary.csv,script10_estimation_sample_summary.csv,csv,./outputs/ppnr_model,TRUE,241,2026-06-30 05:01:54,CSV
+./outputs/ppnr_model/script10_execution_log.txt,script10_execution_log.txt,txt,./outputs/ppnr_model,TRUE,4258,2026-06-30 05:01:58,Documentation/text
+./outputs/ppnr_model/script10_execution_summary.csv,script10_execution_summary.csv,csv,./outputs/ppnr_model,TRUE,351,2026-06-30 05:01:54,CSV
+./outputs/ppnr_model/script10_figure_inventory.csv,script10_figure_inventory.csv,csv,./outputs/ppnr_model,TRUE,389,2026-06-30 05:01:54,CSV
+./outputs/ppnr_model/script10_fit_table.csv,script10_fit_table.csv,csv,./outputs/ppnr_model,TRUE,1371,2026-06-30 05:01:54,CSV
+./outputs/ppnr_model/script10_model_status.csv,script10_model_status.csv,csv,./outputs/ppnr_model,TRUE,851,2026-06-30 05:01:54,CSV
+./outputs/ppnr_model/script10_ppnr_model_outputs.xlsx,script10_ppnr_model_outputs.xlsx,xlsx,./outputs/ppnr_model,TRUE,53384,2026-06-30 05:01:54,Excel workbook
+./outputs/ppnr_model/script10_ppnr_model_report.docx,script10_ppnr_model_report.docx,docx,./outputs/ppnr_model,TRUE,29913,2026-06-30 05:05:02,Word document
+./outputs/ppnr_model/script10_prediction_metrics.csv,script10_prediction_metrics.csv,csv,./outputs/ppnr_model,TRUE,873,2026-06-30 05:01:54,CSV
+./outputs/ppnr_model/script10_required_column_check.csv,script10_required_column_check.csv,csv,./outputs/ppnr_model,TRUE,627,2026-06-30 05:01:48,CSV
+./outputs/ppnr_model/script10_residual_diagnostics.csv,script10_residual_diagnostics.csv,csv,./outputs/ppnr_model,TRUE,2915,2026-06-30 05:01:54,CSV
+./outputs/ppnr_model/script10_scenario_distribution.csv,script10_scenario_distribution.csv,csv,./outputs/ppnr_model,TRUE,600,2026-06-30 05:01:54,CSV
+./outputs/ppnr_model/script10_scenario_effects.csv,script10_scenario_effects.csv,csv,./outputs/ppnr_model,TRUE,1957,2026-06-30 05:01:54,CSV
+./outputs/ppnr_model/figures/fig01_actual_vs_predicted_ppnr_ratio.png,fig01_actual_vs_predicted_ppnr_ratio.png,png,./outputs/ppnr_model/figures,TRUE,315464,2026-06-30 05:01:50,Figure
+./outputs/ppnr_model/figures/fig02_residual_distribution.png,fig02_residual_distribution.png,png,./outputs/ppnr_model/figures,TRUE,61330,2026-06-30 05:01:50,Figure
+./outputs/ppnr_model/figures/fig03_model_rmse_comparison.png,fig03_model_rmse_comparison.png,png,./outputs/ppnr_model/figures,TRUE,86634,2026-06-30 05:01:52,Figure
+./outputs/ppnr_model/figures/fig04_rmse_by_scenario.png,fig04_rmse_by_scenario.png,png,./outputs/ppnr_model/figures,TRUE,59653,2026-06-30 05:01:52,Figure
+./outputs/ppnr_model/figures/fig05_top20_bank_residual_rmse.png,fig05_top20_bank_residual_rmse.png,png,./outputs/ppnr_model/figures,TRUE,196769,2026-06-30 05:01:52,Figure
+./outputs/publication_package/script18_critical_file_check.csv,script18_critical_file_check.csv,csv,./outputs/publication_package,TRUE,3207,2026-06-30 10:31:58,CSV
+./outputs/publication_package/script18_execution_log.txt,script18_execution_log.txt,txt,./outputs/publication_package,TRUE,3379,2026-06-30 10:32:00,Documentation/text
+./outputs/publication_package/script18_execution_summary.csv,script18_execution_summary.csv,csv,./outputs/publication_package,TRUE,612,2026-06-30 10:32:00,CSV
+./outputs/publication_package/script18_final_outputs_list.csv,script18_final_outputs_list.csv,csv,./outputs/publication_package,TRUE,1538,2026-06-30 10:32:00,CSV
+./outputs/publication_package/script18_publication_checklist.xlsx,script18_publication_checklist.xlsx,xlsx,./outputs/publication_package,TRUE,35198,2026-06-30 10:32:00,Excel workbook
+./outputs/publication_package/script18_publication_issues.csv,script18_publication_issues.csv,csv,./outputs/publication_package,TRUE,137,2026-06-30 10:32:00,CSV
+./outputs/publication_package/script18_publication_readiness_check.csv,script18_publication_readiness_check.csv,csv,./outputs/publication_package,TRUE,1129,2026-06-30 10:31:58,CSV
+./outputs/publication_package/script18_publication_readiness_summary.csv,script18_publication_readiness_summary.csv,csv,./outputs/publication_package,TRUE,107,2026-06-30 10:31:58,CSV
+./outputs/publication_package/script18_readme_results_block.md,script18_readme_results_block.md,md,./outputs/publication_package,TRUE,1728,2026-06-30 10:31:58,Documentation/text
+./outputs/publication_package/script18_release_notes_draft.md,script18_release_notes_draft.md,md,./outputs/publication_package,TRUE,1740,2026-06-30 10:31:58,Documentation/text
+./outputs/publication_package/script18_repository_file_inventory.csv,script18_repository_file_inventory.csv,csv,./outputs/publication_package,TRUE,91276,2026-06-30 10:31:58,CSV
+./outputs/publication_package/script18_repository_file_summary.csv,script18_repository_file_summary.csv,csv,./outputs/publication_package,TRUE,388,2026-06-30 10:31:58,CSV
+./outputs/publication_package/script18_repository_structure_recommendation.csv,script18_repository_structure_recommendation.csv,csv,./outputs/publication_package,TRUE,1480,2026-06-30 10:32:00,CSV
+./outputs/publication_package/script18_script_inventory.csv,script18_script_inventory.csv,csv,./outputs/publication_package,TRUE,2966,2026-06-30 10:31:58,CSV
+./outputs/publication_package/script18_script_presence_check.csv,script18_script_presence_check.csv,csv,./outputs/publication_package,TRUE,1057,2026-06-30 10:31:58,CSV
+./outputs/publication_package/script18_summary_sources.csv,script18_summary_sources.csv,csv,./outputs/publication_package,TRUE,533,2026-06-30 10:31:58,CSV
+./outputs/publication_package/script19_execution_log.txt,script19_execution_log.txt,txt,./outputs/publication_package,TRUE,3535,2026-06-30 09:16:22,Documentation/text
+./outputs/publication_package/script19_execution_summary.csv,script19_execution_summary.csv,csv,./outputs/publication_package,TRUE,388,2026-06-30 09:16:20,CSV
+./outputs/publication_package/script19_metadata_files_check.csv,script19_metadata_files_check.csv,csv,./outputs/publication_package,TRUE,513,2026-06-30 09:16:20,CSV
+./outputs/publication_package/script19_metadata_summary.csv,script19_metadata_summary.csv,csv,./outputs/publication_package,TRUE,110,2026-06-30 09:16:20,CSV
+./outputs/publication_package/script19_publication_metadata_check.xlsx,script19_publication_metadata_check.xlsx,xlsx,./outputs/publication_package,TRUE,14577,2026-06-30 09:16:22,Excel workbook
+./outputs/publication_package/script19_repository_metadata.csv,script19_repository_metadata.csv,csv,./outputs/publication_package,TRUE,322,2026-06-30 09:16:20,CSV
+./outputs/publication_package/script20_execution_log.txt,script20_execution_log.txt,txt,./outputs/publication_package,TRUE,3442,2026-06-30 10:10:00,Documentation/text
+./outputs/publication_package/script20_execution_summary.csv,script20_execution_summary.csv,csv,./outputs/publication_package,TRUE,360,2026-06-30 10:09:58,CSV
+./outputs/publication_package/script20_git_publication_check.csv,script20_git_publication_check.csv,csv,./outputs/publication_package,TRUE,1179,2026-06-30 10:09:58,CSV
+./outputs/publication_package/script20_git_publication_check.xlsx,script20_git_publication_check.xlsx,xlsx,./outputs/publication_package,TRUE,12506,2026-06-30 10:10:00,Excel workbook
+./outputs/publication_package/script20_git_publication_summary.csv,script20_git_publication_summary.csv,csv,./outputs/publication_package,TRUE,98,2026-06-30 10:09:58,CSV
+./outputs/publication_package/script21_all_candidate_file_audit.csv,script21_all_candidate_file_audit.csv,csv,./outputs/publication_package,TRUE,30382,2026-06-30 10:24:38,CSV
+./outputs/publication_package/script21_execution_log.txt,script21_execution_log.txt,txt,./outputs/publication_package,TRUE,8858,2026-06-30 10:24:40,Documentation/text
+./outputs/publication_package/script21_execution_summary.csv,script21_execution_summary.csv,csv,./outputs/publication_package,TRUE,790,2026-06-30 10:24:40,CSV
+./outputs/publication_package/script21_extension_summary_all_regulatory_relevant.csv,script21_extension_summary_all_regulatory_relevant.csv,csv,./outputs/publication_package,TRUE,141,2026-06-30 10:24:40,CSV
+./outputs/publication_package/script21_extension_summary_primary_folder.csv,script21_extension_summary_primary_folder.csv,csv,./outputs/publication_package,TRUE,96,2026-06-30 10:24:40,CSV
+./outputs/publication_package/script21_inventory_files_all_locations.csv,script21_inventory_files_all_locations.csv,csv,./outputs/publication_package,TRUE,6895,2026-06-30 10:24:40,CSV
+./outputs/publication_package/script21_markdown_files_all_locations.csv,script21_markdown_files_all_locations.csv,csv,./outputs/publication_package,TRUE,1965,2026-06-30 10:24:40,CSV
+./outputs/publication_package/script21_pdf_files_all_locations.csv,script21_pdf_files_all_locations.csv,csv,./outputs/publication_package,TRUE,9150,2026-06-30 10:24:40,CSV
+./outputs/publication_package/script21_pdf_files_primary_folder.csv,script21_pdf_files_primary_folder.csv,csv,./outputs/publication_package,TRUE,8146,2026-06-30 10:24:40,CSV
+./outputs/publication_package/script21_pdf_relocation_recommendation.csv,script21_pdf_relocation_recommendation.csv,csv,./outputs/publication_package,TRUE,65,2026-06-30 10:24:40,CSV
+./outputs/publication_package/script21_primary_regulatory_folder_audit.csv,script21_primary_regulatory_folder_audit.csv,csv,./outputs/publication_package,TRUE,11826,2026-06-30 10:24:40,CSV
+./outputs/publication_package/script21_readme_regulatory_documentation_block.md,script21_readme_regulatory_documentation_block.md,md,./outputs/publication_package,TRUE,865,2026-06-30 10:24:38,Documentation/text
+./outputs/publication_package/script21_regulatory_documentation_audit.csv,script21_regulatory_documentation_audit.csv,csv,./outputs/publication_package,TRUE,20013,2026-06-30 10:24:38,CSV
+./outputs/publication_package/script21_regulatory_documentation_audit.xlsx,script21_regulatory_documentation_audit.xlsx,xlsx,./outputs/publication_package,TRUE,56070,2026-06-30 10:24:40,Excel workbook
+./outputs/publication_package/script21_regulatory_documentation_publication_interpretation.csv,script21_regulatory_documentation_publication_interpretation.csv,csv,./outputs/publication_package,TRUE,757,2026-06-30 10:24:40,CSV
+./outputs/publication_package/script21_regulatory_documentation_type_summary.csv,script21_regulatory_documentation_type_summary.csv,csv,./outputs/publication_package,TRUE,456,2026-06-30 10:24:40,CSV
+./outputs/publication_package/script21_regulatory_files_outside_primary_folder.csv,script21_regulatory_files_outside_primary_folder.csv,csv,./outputs/publication_package,TRUE,8385,2026-06-30 10:24:40,CSV
+./outputs/publication_package/script21_role_summary_all_regulatory_relevant.csv,script21_role_summary_all_regulatory_relevant.csv,csv,./outputs/publication_package,TRUE,436,2026-06-30 10:24:40,CSV
+./outputs/publication_package/script21_search_zone_summary.csv,script21_search_zone_summary.csv,csv,./outputs/publication_package,TRUE,335,2026-06-30 10:24:40,CSV
+./outputs/publication_package/script22_execution_log.txt,script22_execution_log.txt,txt,./outputs/publication_package,TRUE,958,2026-06-30 10:31:40,Documentation/text
+./outputs/publication_package/script23_blocking_invalid_pdfs.csv,script23_blocking_invalid_pdfs.csv,csv,./outputs/publication_package,TRUE,5555,2026-06-30 11:09:20,CSV
+./outputs/publication_package/script23_execution_log.txt,script23_execution_log.txt,txt,./outputs/publication_package,TRUE,8662,2026-06-30 11:09:20,Documentation/text
+./outputs/publication_package/script23_execution_summary.csv,script23_execution_summary.csv,csv,./outputs/publication_package,TRUE,417,2026-06-30 11:09:20,CSV
+./outputs/publication_package/script23_invalid_pdf_files.csv,script23_invalid_pdf_files.csv,csv,./outputs/publication_package,TRUE,6225,2026-06-30 11:09:20,CSV
+./outputs/publication_package/script23_pdf_validation_audit.csv,script23_pdf_validation_audit.csv,csv,./outputs/publication_package,TRUE,10387,2026-06-30 11:09:20,CSV
+./outputs/publication_package/script23_pdf_validation_audit.xlsx,script23_pdf_validation_audit.xlsx,xlsx,./outputs/publication_package,TRUE,35435,2026-06-30 11:09:20,Excel workbook
+./outputs/publication_package/script23_pdf_validation_by_location.csv,script23_pdf_validation_by_location.csv,csv,./outputs/publication_package,TRUE,297,2026-06-30 11:09:20,CSV
+./outputs/publication_package/script23_pdf_validation_summary.csv,script23_pdf_validation_summary.csv,csv,./outputs/publication_package,TRUE,96,2026-06-30 11:09:20,CSV
+./outputs/publication_package/script23_publication_pdf_readiness.csv,script23_publication_pdf_readiness.csv,csv,./outputs/publication_package,TRUE,325,2026-06-30 11:09:20,CSV
+./outputs/publication_package/script23_recommended_pdf_cleanup.csv,script23_recommended_pdf_cleanup.csv,csv,./outputs/publication_package,TRUE,7100,2026-06-30 11:09:20,CSV
+./outputs/publication_package/script23_small_pdf_review_files.csv,script23_small_pdf_review_files.csv,csv,./outputs/publication_package,TRUE,195,2026-06-30 11:09:20,CSV
+./outputs/publication_package/script23_v2_candidate_pdf_files.csv,script23_v2_candidate_pdf_files.csv,csv,./outputs/publication_package,TRUE,22471,2026-07-02 05:16:54,CSV
+./outputs/publication_package/script23_v2_excluded_folders.csv,script23_v2_excluded_folders.csv,csv,./outputs/publication_package,TRUE,173,2026-07-02 05:16:54,CSV
+./outputs/publication_package/script23_v2_excluded_quarantine_pdf_files.csv,script23_v2_excluded_quarantine_pdf_files.csv,csv,./outputs/publication_package,TRUE,16949,2026-07-02 05:16:54,CSV
+./outputs/publication_package/script23_v2_execution_log.txt,script23_v2_execution_log.txt,txt,./outputs/publication_package,TRUE,5173,2026-07-02 05:16:56,Documentation/text
+./outputs/publication_package/script23_v2_invalid_pdf_files.csv,script23_v2_invalid_pdf_files.csv,csv,./outputs/publication_package,TRUE,254,2026-07-02 05:16:54,CSV
+./outputs/publication_package/script23_v2_pdf_validation_audit.csv,script23_v2_pdf_validation_audit.csv,csv,./outputs/publication_package,TRUE,7024,2026-07-02 05:16:54,CSV
+./outputs/publication_package/script23_v2_pdf_validation_audit.xlsx,script23_v2_pdf_validation_audit.xlsx,xlsx,./outputs/publication_package,TRUE,31731,2026-07-02 05:16:56,Excel workbook
+./outputs/publication_package/script23_v2_pdf_validation_summary.csv,script23_v2_pdf_validation_summary.csv,csv,./outputs/publication_package,TRUE,203,2026-07-02 05:16:54,CSV
+./outputs/publication_package/script23_v2_publication_pdf_readiness.csv,script23_v2_publication_pdf_readiness.csv,csv,./outputs/publication_package,TRUE,675,2026-07-02 05:16:54,CSV
+./outputs/publication_package/script23_v2_search_folders.csv,script23_v2_search_folders.csv,csv,./outputs/publication_package,TRUE,340,2026-07-02 05:16:54,CSV
+./outputs/publication_package/script23_v2_valid_pdf_files.csv,script23_v2_valid_pdf_files.csv,csv,./outputs/publication_package,TRUE,7024,2026-07-02 05:16:54,CSV
+./outputs/publication_package/script23_valid_pdf_files.csv,script23_valid_pdf_files.csv,csv,./outputs/publication_package,TRUE,4357,2026-06-30 11:09:20,CSV
+./outputs/publication_package/script23b_federal_reserve_pdf_folder_audit.csv,script23b_federal_reserve_pdf_folder_audit.csv,csv,./outputs/publication_package,TRUE,4072,2026-06-30 12:22:52,CSV
+./outputs/publication_package/script23b_federal_reserve_pdf_folder_audit.xlsx,script23b_federal_reserve_pdf_folder_audit.xlsx,xlsx,./outputs/publication_package,TRUE,15428,2026-06-30 12:22:54,Excel workbook
+./outputs/publication_package/script23b_federal_reserve_pdf_folder_summary.csv,script23b_federal_reserve_pdf_folder_summary.csv,csv,./outputs/publication_package,TRUE,112,2026-06-30 12:22:52,CSV
+./outputs/publication_package/script23b_invalid_federal_reserve_pdfs.csv,script23b_invalid_federal_reserve_pdfs.csv,csv,./outputs/publication_package,TRUE,1192,2026-06-30 12:22:52,CSV
+./outputs/publication_package/script23b_valid_federal_reserve_pdfs.csv,script23b_valid_federal_reserve_pdfs.csv,csv,./outputs/publication_package,TRUE,2976,2026-06-30 12:22:52,CSV
+./outputs/publication_package/script23c_all_regulatory_pdf_audit.csv,script23c_all_regulatory_pdf_audit.csv,csv,./outputs/publication_package,TRUE,8612,2026-07-02 05:05:06,CSV
+./outputs/publication_package/script23c_all_regulatory_pdf_audit.xlsx,script23c_all_regulatory_pdf_audit.xlsx,xlsx,./outputs/publication_package,TRUE,29094,2026-07-02 05:05:08,Excel workbook
+./outputs/publication_package/script23c_all_regulatory_pdf_summary.csv,script23c_all_regulatory_pdf_summary.csv,csv,./outputs/publication_package,TRUE,269,2026-07-02 05:05:06,CSV
+./outputs/publication_package/script23c_execution_log.txt,script23c_execution_log.txt,txt,./outputs/publication_package,TRUE,5180,2026-07-02 05:05:08,Documentation/text
+./outputs/publication_package/script23c_folders_audited.csv,script23c_folders_audited.csv,csv,./outputs/publication_package,TRUE,377,2026-07-02 05:05:06,CSV
+./outputs/publication_package/script23c_global_summary.csv,script23c_global_summary.csv,csv,./outputs/publication_package,TRUE,327,2026-07-02 05:05:06,CSV
+./outputs/publication_package/script23c_manual_openability_list.csv,script23c_manual_openability_list.csv,csv,./outputs/publication_package,TRUE,2862,2026-07-02 05:05:06,CSV
+./outputs/publication_package/script23c_manual_unmatched_entries.csv,script23c_manual_unmatched_entries.csv,csv,./outputs/publication_package,TRUE,1608,2026-07-02 05:05:06,CSV
+./outputs/publication_package/script23c_pdfs_to_keep.csv,script23c_pdfs_to_keep.csv,csv,./outputs/publication_package,TRUE,8612,2026-07-02 05:05:06,CSV
+./outputs/publication_package/script23c_pdfs_to_quarantine.csv,script23c_pdfs_to_quarantine.csv,csv,./outputs/publication_package,TRUE,254,2026-07-02 05:05:06,CSV
+./outputs/publication_package/script23c_pdfs_to_review.csv,script23c_pdfs_to_review.csv,csv,./outputs/publication_package,TRUE,254,2026-07-02 05:05:06,CSV
+./outputs/publication_package/script24_cleaning_outputs.xlsx,script24_cleaning_outputs.xlsx,xlsx,./outputs/publication_package,TRUE,28333,2026-07-02 05:03:46,Excel workbook
+./outputs/publication_package/script24_cleaning_summary.csv,script24_cleaning_summary.csv,csv,./outputs/publication_package,TRUE,392,2026-07-02 05:03:44,CSV
+./outputs/publication_package/script24_execution_log.txt,script24_execution_log.txt,txt,./outputs/publication_package,TRUE,8259,2026-07-02 05:03:46,Documentation/text
+./outputs/publication_package/script24_post_cleaning_pdf_inventory.csv,script24_post_cleaning_pdf_inventory.csv,csv,./outputs/publication_package,TRUE,7028,2026-07-02 05:03:44,CSV
+./outputs/publication_package/script24_post_cleaning_pdf_summary.csv,script24_post_cleaning_pdf_summary.csv,csv,./outputs/publication_package,TRUE,206,2026-07-02 05:03:44,CSV
+./outputs/publication_package/script24_pre_cleaning_pdf_inventory.csv,script24_pre_cleaning_pdf_inventory.csv,csv,./outputs/publication_package,TRUE,15244,2026-07-02 05:03:44,CSV
+./outputs/publication_package/script24_pre_cleaning_pdf_summary.csv,script24_pre_cleaning_pdf_summary.csv,csv,./outputs/publication_package,TRUE,338,2026-07-02 05:03:44,CSV
+./outputs/publication_package/script24_quarantine_inventory.csv,script24_quarantine_inventory.csv,csv,./outputs/publication_package,TRUE,6189,2026-07-02 05:03:44,CSV
+./outputs/publication_package/script24_quarantine_move_log.csv,script24_quarantine_move_log.csv,csv,./outputs/publication_package,TRUE,11157,2026-07-02 05:03:44,CSV
+./outputs/publication_package/script24_remaining_invalid_pdfs.csv,script24_remaining_invalid_pdfs.csv,csv,./outputs/publication_package,TRUE,152,2026-07-02 05:03:44,CSV
+./outputs/regulatory_documentation/script02b_execution_log.txt,script02b_execution_log.txt,txt,./outputs/regulatory_documentation,TRUE,3213,2026-06-29 18:37:30,Documentation/text
+./outputs/regulatory_documentation/script02b_execution_summary.csv,script02b_execution_summary.csv,csv,./outputs/regulatory_documentation,TRUE,292,2026-06-29 18:37:26,CSV
+./outputs/regulatory_documentation/script02b_regulatory_documentation_outputs.xlsx,script02b_regulatory_documentation_outputs.xlsx,xlsx,./outputs/regulatory_documentation,TRUE,22995,2026-06-29 18:37:28,Excel workbook
+./outputs/regulatory_documentation/script02b_regulatory_documentation_report.docx,script02b_regulatory_documentation_report.docx,docx,./outputs/regulatory_documentation,TRUE,20341,2026-06-29 18:37:30,Word document
+./outputs/regulatory_documentation/script02b_v2_execution_log.txt,script02b_v2_execution_log.txt,txt,./outputs/regulatory_documentation,TRUE,5610,2026-06-30 11:47:52,Documentation/text
+./outputs/regulatory_documentation/script02b_v2_execution_summary.csv,script02b_v2_execution_summary.csv,csv,./outputs/regulatory_documentation,TRUE,534,2026-06-30 11:47:48,CSV
+./outputs/regulatory_documentation/script02b_v2_regulatory_documentation_outputs.xlsx,script02b_v2_regulatory_documentation_outputs.xlsx,xlsx,./outputs/regulatory_documentation,TRUE,30805,2026-06-30 11:47:50,Excel workbook
+./outputs/regulatory_documentation/script02b_v2_regulatory_documentation_report.docx,script02b_v2_regulatory_documentation_report.docx,docx,./outputs/regulatory_documentation,TRUE,18924,2026-06-30 11:47:52,Word document
+./outputs/regulatory_documentation/script02c_best_available_documents.csv,script02c_best_available_documents.csv,csv,./outputs/regulatory_documentation,TRUE,900,2026-06-29 18:42:04,CSV
+./outputs/regulatory_documentation/script02c_document_inventory.csv,script02c_document_inventory.csv,csv,./outputs/regulatory_documentation,TRUE,9616,2026-06-29 18:42:04,CSV
+./outputs/regulatory_documentation/script02c_download_log.csv,script02c_download_log.csv,csv,./outputs/regulatory_documentation,TRUE,4579,2026-06-29 18:42:04,CSV
+./outputs/regulatory_documentation/script02c_download_summary.csv,script02c_download_summary.csv,csv,./outputs/regulatory_documentation,TRUE,214,2026-06-29 18:42:04,CSV
+./outputs/regulatory_documentation/script02c_execution_log.txt,script02c_execution_log.txt,txt,./outputs/regulatory_documentation,TRUE,3514,2026-06-29 18:42:06,Documentation/text
+./outputs/regulatory_documentation/script02c_execution_summary.csv,script02c_execution_summary.csv,csv,./outputs/regulatory_documentation,TRUE,327,2026-06-29 18:42:04,CSV
+./outputs/regulatory_documentation/script02c_fix_missing_regulatory_documentation_outputs.xlsx,script02c_fix_missing_regulatory_documentation_outputs.xlsx,xlsx,./outputs/regulatory_documentation,TRUE,23279,2026-06-29 18:42:04,Excel workbook
+./outputs/regulatory_documentation/script02c_fix_missing_regulatory_documentation_report.docx,script02c_fix_missing_regulatory_documentation_report.docx,docx,./outputs/regulatory_documentation,TRUE,17434,2026-06-29 18:42:06,Word document
+./outputs/regulatory_documentation/script02c_fix_targets.csv,script02c_fix_targets.csv,csv,./outputs/regulatory_documentation,TRUE,4463,2026-06-29 18:42:04,CSV
+./outputs/regulatory_documentation/script02c_group_status.csv,script02c_group_status.csv,csv,./outputs/regulatory_documentation,TRUE,278,2026-06-29 18:42:04,CSV
+./outputs/regulatory_documentation/script02c_v2_best_available_documents.csv,script02c_v2_best_available_documents.csv,csv,./outputs/regulatory_documentation,TRUE,1363,2026-06-30 12:11:06,CSV
+./outputs/regulatory_documentation/script02c_v2_document_inventory.csv,script02c_v2_document_inventory.csv,csv,./outputs/regulatory_documentation,TRUE,7245,2026-06-30 12:11:06,CSV
+./outputs/regulatory_documentation/script02c_v2_download_log.csv,script02c_v2_download_log.csv,csv,./outputs/regulatory_documentation,TRUE,10302,2026-06-30 12:11:06,CSV
+./outputs/regulatory_documentation/script02c_v2_download_summary.csv,script02c_v2_download_summary.csv,csv,./outputs/regulatory_documentation,TRUE,625,2026-06-30 12:11:06,CSV
+./outputs/regulatory_documentation/script02c_v2_execution_summary.csv,script02c_v2_execution_summary.csv,csv,./outputs/regulatory_documentation,TRUE,632,2026-06-30 12:11:06,CSV
+./outputs/regulatory_documentation/script02c_v2_failed_or_invalid_downloads.csv,script02c_v2_failed_or_invalid_downloads.csv,csv,./outputs/regulatory_documentation,TRUE,2324,2026-06-30 12:11:06,CSV
+./outputs/regulatory_documentation/script02c_v2_fix_missing_regulatory_documentation_outputs.xlsx,script02c_v2_fix_missing_regulatory_documentation_outputs.xlsx,xlsx,./outputs/regulatory_documentation,TRUE,33405,2026-06-30 12:11:08,Excel workbook
+./outputs/regulatory_documentation/script02c_v2_fix_missing_regulatory_documentation_report.docx,script02c_v2_fix_missing_regulatory_documentation_report.docx,docx,./outputs/regulatory_documentation,TRUE,18589,2026-06-30 12:11:10,Word document
+./outputs/regulatory_documentation/script02c_v2_fix_targets.csv,script02c_v2_fix_targets.csv,csv,./outputs/regulatory_documentation,TRUE,5831,2026-06-30 12:11:06,CSV
+./outputs/regulatory_documentation/script02c_v2_group_status.csv,script02c_v2_group_status.csv,csv,./outputs/regulatory_documentation,TRUE,476,2026-06-30 12:11:06,CSV
+./outputs/regulatory_documentation/script02c_v2_pdf_validation_summary.csv,script02c_v2_pdf_validation_summary.csv,csv,./outputs/regulatory_documentation,TRUE,145,2026-06-30 12:11:06,CSV
+./outputs/regulatory_documentation/script02c_v2_validated_downloads.csv,script02c_v2_validated_downloads.csv,csv,./outputs/regulatory_documentation,TRUE,2669,2026-06-30 12:11:06,CSV
+./outputs/regulatory_documentation/us_regulatory_document_download_log.csv,us_regulatory_document_download_log.csv,csv,./outputs/regulatory_documentation,TRUE,7512,2026-06-29 18:37:26,CSV
+./outputs/regulatory_documentation/us_regulatory_document_download_log_v2.csv,us_regulatory_document_download_log_v2.csv,csv,./outputs/regulatory_documentation,TRUE,12729,2026-06-30 11:47:48,CSV
+./outputs/regulatory_documentation/us_regulatory_document_download_summary.csv,us_regulatory_document_download_summary.csv,csv,./outputs/regulatory_documentation,TRUE,235,2026-06-29 18:37:26,CSV
+./outputs/regulatory_documentation/us_regulatory_document_download_summary_v2.csv,us_regulatory_document_download_summary_v2.csv,csv,./outputs/regulatory_documentation,TRUE,370,2026-06-30 11:47:48,CSV
+./outputs/regulatory_documentation/us_regulatory_document_failed_downloads.csv,us_regulatory_document_failed_downloads.csv,csv,./outputs/regulatory_documentation,TRUE,770,2026-06-29 18:37:26,CSV
+./outputs/regulatory_documentation/us_regulatory_document_failed_downloads_v2.csv,us_regulatory_document_failed_downloads_v2.csv,csv,./outputs/regulatory_documentation,TRUE,1289,2026-06-30 11:47:48,CSV
+./outputs/regulatory_documentation/us_regulatory_document_inventory.csv,us_regulatory_document_inventory.csv,csv,./outputs/regulatory_documentation,TRUE,5979,2026-06-29 18:37:26,CSV
+./outputs/regulatory_documentation/us_regulatory_document_inventory_v2.csv,us_regulatory_document_inventory_v2.csv,csv,./outputs/regulatory_documentation,TRUE,8738,2026-06-30 11:47:48,CSV
+./outputs/regulatory_documentation/us_regulatory_document_pdf_validation_summary_v2.csv,us_regulatory_document_pdf_validation_summary_v2.csv,csv,./outputs/regulatory_documentation,TRUE,148,2026-06-30 11:47:48,CSV
+./outputs/regulatory_documentation/us_regulatory_document_targets.csv,us_regulatory_document_targets.csv,csv,./outputs/regulatory_documentation,TRUE,9100,2026-06-29 18:37:26,CSV
+./outputs/regulatory_documentation/us_regulatory_document_targets_v2.csv,us_regulatory_document_targets_v2.csv,csv,./outputs/regulatory_documentation,TRUE,9100,2026-06-30 11:47:48,CSV
+./outputs/regulatory_documentation/us_regulatory_document_validated_downloads_v2.csv,us_regulatory_document_validated_downloads_v2.csv,csv,./outputs/regulatory_documentation,TRUE,4373,2026-06-30 11:47:48,CSV
+./outputs/scenario_cleaning/fed_macro_scenario_shock_summary.csv,fed_macro_scenario_shock_summary.csv,csv,./outputs/scenario_cleaning,TRUE,1144,2026-06-29 18:59:36,CSV
+./outputs/scenario_cleaning/fed_macro_scenario_structure_audit.csv,fed_macro_scenario_structure_audit.csv,csv,./outputs/scenario_cleaning,TRUE,168,2026-06-29 18:59:36,CSV
+./outputs/scenario_cleaning/fed_macro_scenario_variable_map.csv,fed_macro_scenario_variable_map.csv,csv,./outputs/scenario_cleaning,TRUE,2202,2026-06-29 18:59:34,CSV
+./outputs/scenario_cleaning/script04_detected_macro_variables.csv,script04_detected_macro_variables.csv,csv,./outputs/scenario_cleaning,TRUE,218,2026-06-29 18:59:36,CSV
+./outputs/scenario_cleaning/script04_execution_log.txt,script04_execution_log.txt,txt,./outputs/scenario_cleaning,TRUE,2416,2026-06-29 18:59:40,Documentation/text
+./outputs/scenario_cleaning/script04_execution_summary.csv,script04_execution_summary.csv,csv,./outputs/scenario_cleaning,TRUE,302,2026-06-29 18:59:36,CSV
+./outputs/scenario_cleaning/script04_input_structure_audit.csv,script04_input_structure_audit.csv,csv,./outputs/scenario_cleaning,TRUE,307,2026-06-29 18:59:36,CSV
+./outputs/scenario_cleaning/script04_macro_scenario_cleaning_report.docx,script04_macro_scenario_cleaning_report.docx,docx,./outputs/scenario_cleaning,TRUE,19053,2026-06-29 18:59:40,Word document
+./outputs/scenario_cleaning/script04_macro_scenario_outputs.xlsx,script04_macro_scenario_outputs.xlsx,xlsx,./outputs/scenario_cleaning,TRUE,27331,2026-06-29 18:59:36,Excel workbook
+./outputs/transmission_layer/script06_execution_log.txt,script06_execution_log.txt,txt,./outputs/transmission_layer,TRUE,1600,2026-06-30 04:25:38,Documentation/text
+./outputs/transmission_layer/script06_execution_summary.csv,script06_execution_summary.csv,csv,./outputs/transmission_layer,TRUE,380,2026-06-30 04:25:28,CSV
+./outputs/transmission_layer/script06_transmission_layer_outputs.xlsx,script06_transmission_layer_outputs.xlsx,xlsx,./outputs/transmission_layer,TRUE,70130,2026-06-30 04:25:28,Excel workbook
+./outputs/transmission_layer/script06_transmission_layer_report.docx,script06_transmission_layer_report.docx,docx,./outputs/transmission_layer,TRUE,25268,2026-06-30 04:25:38,Word document
+./outputs/transmission_layer/transmission_bank_summary.csv,transmission_bank_summary.csv,csv,./outputs/transmission_layer,TRUE,87425,2026-06-30 04:25:28,CSV
+./outputs/transmission_layer/transmission_identity_audit.csv,transmission_identity_audit.csv,csv,./outputs/transmission_layer,TRUE,87981,2026-06-30 04:25:28,CSV
+./outputs/transmission_layer/transmission_identity_audit_summary.csv,transmission_identity_audit_summary.csv,csv,./outputs/transmission_layer,TRUE,119,2026-06-30 04:25:28,CSV
+./outputs/transmission_layer/transmission_scenario_summary.csv,transmission_scenario_summary.csv,csv,./outputs/transmission_layer,TRUE,3219,2026-06-30 04:25:28,CSV
+./outputs/transmission_layer/transmission_source_map.csv,transmission_source_map.csv,csv,./outputs/transmission_layer,TRUE,2363,2026-06-30 04:25:28,CSV
+./outputs/transmission_layer/transmission_variable_map.csv,transmission_variable_map.csv,csv,./outputs/transmission_layer,TRUE,6033,2026-06-30 04:25:28,CSV
+./report/final_institutional_report_dfast_replication.docx,final_institutional_report_dfast_replication.docx,docx,./report,TRUE,853601,2026-06-30 08:06:42,Word document

@@ -1,0 +1,9 @@
+teaching_dimension,learning_objective
+Data governance,"Understand how public supervisory data are collected, audited and transformed."
+Regulatory interpretation,"Connect DFAST outputs with capital regulation, scenarios and bank disclosure."
+Financial accounting logic,"Translate PPNR, losses and RWAs into capital depletion."
+Econometric modelling,"Estimate reduced-form models and interpret fit, residuals and limitations."
+Stress testing mechanics,Build a complete stress test engine from components.
+Validation,Compare model outputs with public benchmark outcomes.
+Model risk,"Identify tail errors, threshold sensitivity and ranking instability."
+Communication,"Prepare reproducible reports, tables, figures and disclaimers."

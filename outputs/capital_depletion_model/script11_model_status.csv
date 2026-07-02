@@ -1,0 +1,8 @@
+model_name,formula,status,error_message
+M1_scenario_only,y_capital_depletion_model ~ scenario_factor,estimated,NA
+M2_losses_ppnr,y_capital_depletion_model ~ scenario_factor + x_credit_loss_ratio_model + x_ppnr_ratio_model,estimated,NA
+M3_structural_controls,y_capital_depletion_model ~ scenario_factor + x_credit_loss_ratio_model + x_ppnr_ratio_model + x_initial_cet1_model + x_rwa_growth_model,estimated,NA
+M4_year_fixed_effects,y_capital_depletion_model ~ scenario_factor + x_credit_loss_ratio_model + x_ppnr_ratio_model + x_initial_cet1_model + x_rwa_growth_model + year_factor,estimated,NA
+M5_bank_fixed_effects,y_capital_depletion_model ~ scenario_factor + x_credit_loss_ratio_model + x_ppnr_ratio_model + x_initial_cet1_model + x_rwa_growth_model + bank_factor,estimated,NA
+M6_bank_year_fixed_effects,y_capital_depletion_model ~ scenario_factor + x_credit_loss_ratio_model + x_ppnr_ratio_model + x_initial_cet1_model + x_rwa_growth_model + year_factor + bank_factor,estimated,NA
+M7_log_amounts_bank_year_fixed_effects,y_capital_depletion_model ~ scenario_factor + log_total_loan_losses + log_ppnr_amount + x_initial_cet1_model + x_rwa_growth_model + year_factor + bank_factor,estimated,NA

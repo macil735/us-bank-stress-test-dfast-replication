@@ -1,0 +1,22 @@
+exercise_year,scenario_code,scenario_label,observations,credit_loss_model_sample,ppnr_model_sample,capital_model_sample,full_core_model_sample
+2012,3,Supervisory Severely Adverse,19,0,0,0,0
+2013,2,Supervisory Adverse,31,0,0,0,0
+2013,3,Supervisory Severely Adverse,31,0,0,0,0
+2014,2,Supervisory Adverse,32,0,0,0,0
+2014,3,Supervisory Severely Adverse,32,0,0,0,0
+2015,2,Supervisory Adverse,34,34,34,34,34
+2015,3,Supervisory Severely Adverse,34,34,34,34,34
+2016,2,Supervisory Adverse,35,35,35,35,35
+2016,3,Supervisory Severely Adverse,35,35,35,35,35
+2017,2,Supervisory Adverse,36,36,36,36,36
+2017,3,Supervisory Severely Adverse,36,36,36,36,36
+2018,2,Supervisory Adverse,19,19,19,19,19
+2018,3,Supervisory Severely Adverse,19,19,19,19,19
+2019,3,Supervisory Severely Adverse,34,34,34,34,34
+2020,3,Supervisory Severely Adverse,58,58,58,58,58
+2020,30,Supervisory Alternative Severe,34,34,34,34,34
+2021,3,Supervisory Severely Adverse,34,34,34,34,34
+2022,3,Supervisory Severely Adverse,24,24,24,24,24
+2023,3,Supervisory Severely Adverse,32,32,32,32,32
+2024,3,Supervisory Severely Adverse,23,23,23,23,23
+2025,3,Supervisory Severely Adverse,33,33,33,33,33

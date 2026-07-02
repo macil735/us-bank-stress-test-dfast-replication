@@ -1,0 +1,4 @@
+input_name,input_path,exists
+credit_loss_model_predictions,data/processed/model/credit_loss_model_predictions.csv,TRUE
+ppnr_model_predictions,data/processed/model/ppnr_model_predictions.csv,TRUE
+capital_depletion_model_predictions,data/processed/model/capital_depletion_model_predictions.csv,TRUE

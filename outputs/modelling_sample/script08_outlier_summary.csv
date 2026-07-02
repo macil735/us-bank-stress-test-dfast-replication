@@ -1,0 +1,13 @@
+variable,outlier_count,banks_affected,years_affected
+x_loan_loss_burden,14,4,7
+x_observed_loss_burden,14,5,8
+x_ppnr_absorption,14,6,10
+x_ppnr_to_losses,14,5,10
+x_provision_ratio,14,8,8
+y_credit_loss_rate,14,5,7
+y_ppnr_rate,13,7,9
+x_rwa_growth,12,5,5
+y_capital_depletion,12,6,7
+y_credit_loss_ratio,12,3,8
+y_ppnr_ratio,12,4,9
+y_pretax_margin,12,7,7

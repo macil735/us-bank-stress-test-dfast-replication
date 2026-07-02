@@ -1,0 +1,2 @@
+script_id,script_name,project_root,started_at,completed_at,corrective_targets,successful_attempts,failed_attempts,groups_fixed,groups_still_missing,documents_inventoried
+02c,fix_missing_regulatory_documentation,D:/GitHub/us-bank-stress-test-dfast-replication,2026-06-29 18:41:51.257176,2026-06-29 18:42:02.946046,10,4,6,2,1,29

@@ -1,0 +1,36 @@
+============================================================
+Script 02 — Regulatory Documentation and Raw Data Ingestion completed
+============================================================
+Project root: D:/GitHub/us-bank-stress-test-dfast-replication
+
+Started at: 2026-06-29 17:09:16.191422
+Completed at: 2026-06-29 17:09:51.265181
+
+Regulatory documents catalogued: 12
+Download targets: 17
+Successful downloads: 15
+Failed downloads: 2
+Raw files inventoried: 17
+
+Download summary:
+# A tibble: 4 × 6
+  source_family   priority  number_of_files successful_downloads failed_downloads total_size_bytes
+  <chr>           <chr>               <int>                <int>            <int>            <dbl>
+1 FRED            Support                 3                    3                0            29478
+2 Federal Reserve Important               3                    3                0            16191
+3 Federal Reserve Core                    9                    7                2          3377989
+4 SEC EDGAR       Important               2                    2                0         12209034
+
+Main outputs:
+ - D:/GitHub/us-bank-stress-test-dfast-replication/outputs/data_ingestion/us_regulatory_documentation_catalog.csv
+ - D:/GitHub/us-bank-stress-test-dfast-replication/outputs/data_ingestion/us_download_targets.csv
+ - D:/GitHub/us-bank-stress-test-dfast-replication/outputs/data_ingestion/us_raw_data_download_log.csv
+ - D:/GitHub/us-bank-stress-test-dfast-replication/outputs/data_ingestion/us_raw_data_file_inventory.csv
+ - D:/GitHub/us-bank-stress-test-dfast-replication/outputs/data_ingestion/us_raw_data_validation_preview.csv
+ - D:/GitHub/us-bank-stress-test-dfast-replication/outputs/data_ingestion/us_raw_data_download_summary.csv
+ - D:/GitHub/us-bank-stress-test-dfast-replication/outputs/data_ingestion/script02_execution_summary.csv
+ - D:/GitHub/us-bank-stress-test-dfast-replication/outputs/data_ingestion/script02_data_ingestion_outputs.xlsx
+ - D:/GitHub/us-bank-stress-test-dfast-replication/outputs/data_ingestion/script02_raw_data_ingestion_report.docx
+
+Additional outputs:
+ - D:/GitHub/us-bank-stress-test-dfast-replication/outputs/data_ingestion/script02_execution_log.txt

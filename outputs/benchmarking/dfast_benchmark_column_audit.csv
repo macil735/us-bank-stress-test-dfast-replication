@@ -1,0 +1,67 @@
+column_name,column_class,n_obs,n_missing,missing_share,n_unique,sample_values
+source_file,character,665,0,0,1,fed_public_results_DFAST_2026.csv
+dataset_role,character,665,0,0,1,DFAST public results benchmark
+scenario_type,character,665,0,0,1,supervisory stress test results
+cleaned_at,POSIXct|POSIXt,665,0,0,1,2026-06-29 18:30:19.161708
+exercise_name,character,665,0,0,15,DFAST 2013 | DFAST 2014 | DFAST 2015 | DFAST 2016 | DFAST 2017
+dt_exercise_quarter,character,665,0,0,15,9/30/2012 | 9/30/2013 | 9/30/2014 | 12/31/2015 | 12/31/2016
+id_rssd,numeric,665,22,0.03308270676691729,45,1562859 | 1275216 | 1073757 | 1074156 | 2277860
+disclosure_legal_name,character,665,0,0,61,18 participating bank holding companies | Ally Financial Inc. | American Express Company | Bank of America Corporation | BB&T Corporation
+scenario_id,numeric,665,0,0,3,3 | 2 | 30
+scenario_name,character,665,0,0,3,Supervisory Severely Adverse | Supervisory Adverse | Supervisory Alternative Severe
+tier1_common_actual_rat,numeric,665,520,0.7819548872180451,47,11.1 | 7.3 | 12.7 | 11.4 | 9.5
+tier1_common_end_rat,numeric,665,520,0.7819548872180451,80,7.7 | 1.5 | 11.3 | 6.9 | 9.4
+tier1_common_min_rat,numeric,665,520,0.7819548872180451,73,7.4 | 1.5 | 11.1 | 6.8 | 9.4
+common_equity_tier1_actual_rat,numeric,665,115,0.17293233082706766,115,13.6 | 12 | 12.7 | 15.1 | 16.3
+common_equity_tier1_end_rat,numeric,665,19,0.02857142857142857,153,10 | 9.4 | 16.2 | 9.6 | 9.9
+common_equity_tier1_min_rat,numeric,665,19,0.02857142857142857,138,9.3 | 8.8 | 13.9 | 8.5 | 10.8
+tier1_capital_actual_rat,numeric,665,0,0,121,12.9 | 13.6 | 12.7 | 10.9 | 13.9
+tier1_capital_end_rat,numeric,665,0,0,165,9.1 | 11 | 11.3 | 8.5 | 11.2
+tier1_capital_min_rat,numeric,665,0,0,143,8.9 | 11 | 11.1 | 8.5 | 11.2
+total_capital_actual_rat,numeric,665,0,0,123,15.7 | 14.6 | 14.7 | 17.2 | 14
+total_capital_end_rat,numeric,665,0,0,155,11.7 | 12.6 | 13.4 | 11.6 | 10.1
+total_capital_min_rat,numeric,665,0,0,141,11.6 | 12.6 | 13.2 | 13.4 | 10.1
+tier1_leverage_actual_rat,numeric,665,0,0,82,8 | 11.3 | 10.7 | 7.8 | 7.9
+tier1_leverage_end_rat,numeric,665,0,0,102,5.9 | 9.4 | 9.5 | 5.4 | 8.3
+tier1_leverage_min_rat,numeric,665,0,0,94,5.9 | 9.4 | 8.9 | 5.4 | 7.9
+supp_leverage_actual_rat,numeric,665,446,0.6706766917293233,60,6.9 | 6.8 | 7.3 | 9 | 6.4
+supp_leverage_end_rat,numeric,665,376,0.5654135338345865,74,6.3 | 10.2 | 6.5 | 7.7 | 6.7
+supp_leverage_min_rat,numeric,665,376,0.5654135338345865,67,6.1 | 9.8 | 6.3 | 7.5 | 5.5
+rwa_general_appr_actual_amt,numeric,665,539,0.8105263157894737,63,8374.5 | 127.3 | 123.2 | 1289.4 | 138.3
+rwa_general_appr_end_amt,numeric,665,539,0.8105263157894737,123,8917.6 | 134.1 | 128.1 | 1371.7 | 144.3
+rwa_standardized_appr_actual_amt,numeric,665,145,0.21804511278195488,347,9595.1 | 135.8 | 135.2 | 72.6 | 1403.3
+rwa_standardized_appr_end_amt,numeric,665,19,0.02857142857142857,586,9638.8 | 140.7 | 132.9 | 1436.2 | 151.2
+loss_total_loan_amt,numeric,665,0,0,284,316.6 | 4.5 | 10.7 | 57.5 | 5.9
+loss_total_loan_rate,numeric,665,0,0,131,7.5 | 5.2 | 11.2 | 6.9 | 5.5
+loss_dom_first_mtg_amt,numeric,665,0,0,83,60.1 | 0.3 | 0 | 15.3 | 0.9
+loss_dom_first_mtg_rate,numeric,665,0,0,83,6.6 | 6 | 0 | 5.9 | 2.8
+loss_dom_jr_lien_heloc_amt,numeric,665,0,0,62,37.2 | 0.2 | 0 | 9.4 | 0.4
+loss_dom_jr_lien_heloc_rate,numeric,665,0,0,123,9.6 | 9.3 | 0 | 10 | 6.1
+loss_comml_ind_loan_amt,numeric,665,0,0,154,60.5 | 1.4 | 2.6 | 8.5 | 1.1
+loss_comml_ind_loan_rate,numeric,665,0,0,148,6.8 | 5.2 | 9.4 | 5.1 | 7.2
+loss_dom_cre_loan_amt,numeric,665,0,0,106,32.9 | 0.1 | 0 | 4.7 | 2.1
+loss_dom_cre_loan_rate,numeric,665,0,0,165,8 | 6.5 | 0 | 8.6 | 7.1
+loss_credit_card_loan_amt,numeric,665,0,0,171,87.1 | 0 | 8 | 15.3 | 0.3
+loss_credit_card_loan_rate,numeric,665,0,0,159,16.7 | 0 | 12 | 16.2 | 16.6
+loss_other_consumer_loan_amt,numeric,665,0,0,89,26.8 | 2.4 | 0 | 3 | 0.9
+loss_other_consumer_loan_rate,numeric,665,0,0,160,6.1 | 4.9 | 0 | 4.3 | 7
+loss_other_loan_amt,numeric,665,0,0,111,11.9 | 0 | 1.3 | 0.3 | 0.1
+loss_other_loan_rate,numeric,665,0,0,89,1.8 | 4.5 | 1.3 | 3 | 2.4
+revenue_preprovision_net_amt,numeric,665,0,0,322,267.8 | -3.7 | 15.4 | 24.1 | 7.1
+revenue_preprovision_net_rate,numeric,665,0,0,106,2.4 | -2.8 | 11 | 1.3 | 4.1
+income_net_interest_amt,numeric,665,355,0.5338345864661654,226,613.7 | 100.3 | 8 | 52 | 112.1
+income_net_interest_rate,numeric,665,355,0.5338345864661654,92,4.4 | 4.2 | 5 | 13.7 | 5.7
+income_noninterest_amt,numeric,665,355,0.5338345864661654,221,646.9 | 92.3 | 12.5 | 11.2 | 56
+income_noninterest_rate,numeric,665,355,0.5338345864661654,101,4.6 | 3.8 | 7.9 | 3 | 2.9
+expense_noninterest_amt,numeric,665,355,0.5338345864661654,224,873.8 | 138.3 | 15.2 | 31.5 | 104
+expense_noninterest_rate,numeric,665,355,0.5338345864661654,79,6.2 | 5.8 | 9.6 | 8.3 | 5.3
+revenue_other_amt,numeric,665,33,0.04962406015037594,9,1.2 | 0.3 | 0 | 1 | -0.1
+provision_amt,numeric,665,0,0,293,317.2 | 5.1 | 14.2 | 49.7 | 6.4
+loss_securities_amt,numeric,665,0,0,50,12.9 | 0.7 | 0 | 0.5 | 0.1
+loss_trading_counterparty_amt,numeric,665,0,0,140,97 | 0 | 14.1 | 15.9 | 23.5
+loss_other_amt,numeric,665,0,0,87,36 | 0 | 0.4 | 12.5 | 0.1
+income_pretax_net_amt,numeric,665,0,0,286,-194.1 | -9.3 | 0.8 | -51.8 | 0.6
+income_pretax_net_rate,numeric,665,0,0,91,-1.7 | -7.1 | 0.6 | -2.7 | 0.3
+income_other_comprehensive_amt,numeric,665,19,0.02857142857142857,118,-103.1 | 0 | -0.6 | -20.2 | -2.7
+aoci_incl_capital_actual_amt,numeric,665,53,0.07969924812030076,95,-32.3 | 0 | -0.4 | -6.4 | -0.9
+aoci_incl_capital_end_amt,numeric,665,19,0.02857142857142857,122,-53.5 | 0 | -0.8 | -10.8 | -1.4

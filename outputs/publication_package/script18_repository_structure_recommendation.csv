@@ -1,0 +1,14 @@
+directory,role,publication_note
+R/,R scripts for the complete reproducible pipeline.,Include all scripts needed to reproduce the project.
+data/raw/,Raw public data downloaded or ingested by the pipeline.,Include only public raw data if file sizes are acceptable.
+data/processed/,Cleaned and processed analytical datasets.,Include final processed public datasets needed for reproducibility.
+docs/,Regulatory documentation and methodological notes.,Include public regulatory documentation inventory and disclaimers.
+report/,Final institutional report.,Include the final report.
+manual/,Final technical and pedagogical manual.,Include the final manual.
+outputs/,"All analytical outputs, logs, figures and workbooks.",Include selected outputs; avoid unnecessary temporary files.
+outputs/final_results/,Final stress test results and vulnerability rankings.,Include final tables and workbook.
+outputs/benchmark_validation/,Validation outputs against public Federal Reserve results.,Include validation tables and workbook.
+outputs/model_risk/,"Robustness, sensitivity and model risk outputs.",Include model risk tables and workbook.
+outputs/final_report/,Final institutional report supporting files.,Include report workbook and figure inventory.
+outputs/final_manual/,Final manual supporting files.,Include manual workbook and figure inventory.
+outputs/publication_package/,"Publication checklist, release notes and README blocks.",Include publication checklist and release notes draft.

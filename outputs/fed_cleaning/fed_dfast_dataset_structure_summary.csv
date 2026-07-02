@@ -1,0 +1,6 @@
+dataset_name,rows,columns,source_file,empty_dataset,cleaning_status
+fed_dfast_results_clean,665,66,fed_public_results_DFAST_2026.csv,FALSE,Cleaned
+fed_dfast_nine_quarter_paths_clean,69,14,fed_2026_Detailed_Nine_Quarter_Paths.csv,FALSE,Cleaned
+fed_macro_historic_domestic_clean,200,22,fed_2026_Final_Historic_Domestic.csv,FALSE,Cleaned
+fed_macro_baseline_domestic_clean,13,22,fed_2026_Final_Supervisory_Baseline_Domestic.csv,FALSE,Cleaned
+fed_macro_severely_adverse_domestic_clean,13,22,fed_2026_Final_Supervisory_Severely_Adverse_Domestic.csv,FALSE,Cleaned

@@ -1,0 +1,7 @@
+model_name,formula,status,error_message
+M1_scenario_only,y_ppnr_ratio_model ~ scenario_factor,estimated,NA
+M2_pooled_controls,y_ppnr_ratio_model ~ scenario_factor + x_initial_cet1_model + log_rwa_actual,estimated,NA
+M3_year_fixed_effects,y_ppnr_ratio_model ~ scenario_factor + x_initial_cet1_model + log_rwa_actual + x_rwa_growth_model + year_factor,estimated,NA
+M4_bank_fixed_effects,y_ppnr_ratio_model ~ scenario_factor + x_initial_cet1_model + log_rwa_actual + x_rwa_growth_model + bank_factor,estimated,NA
+M5_bank_year_fixed_effects,y_ppnr_ratio_model ~ scenario_factor + x_initial_cet1_model + log_rwa_actual + x_rwa_growth_model + year_factor + bank_factor,estimated,NA
+M6_ppnr_rate_bank_year_fixed_effects,y_ppnr_rate_model ~ scenario_factor + x_initial_cet1_model + log_rwa_actual + x_rwa_growth_model + year_factor + bank_factor,estimated,NA

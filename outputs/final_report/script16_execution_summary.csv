@@ -1,0 +1,2 @@
+script_id,script_name,project_root,started_at,completed_at,final_results_rows,validation_rows,model_risk_rows,banks,years,scenarios,latest_exercise_year,duplicated_keys,figures_available,final_report_path
+16,create_final_institutional_report,D:/GitHub/us-bank-stress-test-dfast-replication,2026-06-30 07:55:17.822258,2026-06-30 07:55:22.450945,497,497,497,56,11,3,2025,0,8,report/final_institutional_report_dfast_replication.docx

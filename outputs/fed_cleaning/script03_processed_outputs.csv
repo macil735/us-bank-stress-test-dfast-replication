@@ -1,0 +1,6 @@
+output_path,exists,size_bytes
+D:/GitHub/us-bank-stress-test-dfast-replication/data/processed/fed/fed_dfast_results_clean.csv,TRUE,284293
+D:/GitHub/us-bank-stress-test-dfast-replication/data/processed/fed/fed_dfast_nine_quarter_paths_clean.csv,TRUE,14707
+D:/GitHub/us-bank-stress-test-dfast-replication/data/processed/fed/fed_macro_historic_domestic_clean.csv,TRUE,39282
+D:/GitHub/us-bank-stress-test-dfast-replication/data/processed/fed/fed_macro_baseline_domestic_clean.csv,TRUE,3452
+D:/GitHub/us-bank-stress-test-dfast-replication/data/processed/fed/fed_macro_severely_adverse_domestic_clean.csv,TRUE,3896

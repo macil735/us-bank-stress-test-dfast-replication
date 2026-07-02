@@ -1,0 +1,2 @@
+script_id,script_name,project_root,started_at,completed_at,input_rows,final_results_rows,banks,years,scenarios,latest_exercise_year,duplicated_keys,figures_created,most_vulnerable_bank_composite,most_vulnerable_bank_min_cet1
+13,stress_test_results_bank_vulnerability_ranking,D:/GitHub/us-bank-stress-test-dfast-replication,2026-06-30 07:20:49.089504,2026-06-30 07:20:57.474401,497,497,56,11,3,2025,0,7,BMO Financial Corp.,M&T Bank Corporation

@@ -1,0 +1,5 @@
+model_block,dependent_variable,operational_model,role_in_engine
+Credit losses,Credit loss ratio,Bank and year fixed effects,Captures stress-period credit loss intensity.
+PPNR,PPNR ratio,Bank and year fixed effects,Captures pre-provision earnings capacity under stress.
+Capital depletion,CET1 capital depletion,Bank and year fixed effects,"Maps losses, earnings and risk-weighted asset effects into CET1 depletion."
+Integrated CET1 projection,Predicted CET1 minimum ratio,CET1 actual ratio minus predicted capital depletion,Produces the final stressed capital adequacy measure.

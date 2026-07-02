@@ -1,0 +1,9 @@
+risk_area,risk_description,mitigation
+Public-data limitation,The engine uses public DFAST outputs and does not observe confidential supervisory model inputs.,Document the public-data scope and cite Federal Reserve public DFAST sources in the final report.
+Bank-specific supervisory adjustments,"Some large errors are concentrated in specific bank-year-scenario observations, reflecting idiosyncratic bank structures or supervisory adjustments.",Report largest errors and bank-level model risk rankings.
+Tail error concentration,Tail errors are assessed separately because average performance can hide localized deviations.,Use tail error tables and high-risk observation flags.
+Threshold sensitivity,Capital threshold classification is robust at 4.5 percent but should also be monitored around the 7.0 percent reference level.,Report threshold sensitivity across a grid of CET1 cutoffs.
+Scenario heterogeneity,Model performance can vary across exercise years and supervisory scenarios.,Report validation by year and scenario.
+Model component interaction,"Credit loss, PPNR and capital depletion errors can interact when translated into CET1 minimum projections.",Validate components separately and in integrated form.
+Ranking interpretation,"Vulnerability rankings are relative outputs of the public reduced-form model, not official supervisory assessments.",State clearly that rankings are analytical benchmarks.
+Use restriction,"The project is suitable for public benchmarking, educational replication and model-risk discussion, not for official capital planning decisions.","Include formal disclaimer in README, report and technical manual."

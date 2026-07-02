@@ -1,0 +1,131 @@
+============================================================
+Script 21 - Regulatory Documentation Final Audit, version 2 completed
+============================================================
+Project root: D:/GitHub/us-bank-stress-test-dfast-replication
+
+Started at: 2026-06-30 10:24:31.907507
+Completed at: 2026-06-30 10:24:38.830853
+
+Search locations:
+# A tibble: 6 × 2
+  search_location                  exists
+  <chr>                            <lgl> 
+1 docs/regulatory_framework        TRUE  
+2 docs                             TRUE  
+3 data/raw                         TRUE  
+4 outputs/regulatory_documentation TRUE  
+5 outputs/data_audit               TRUE  
+6 outputs/publication_package      TRUE  
+
+Candidate files searched: 114
+Regulatory-relevant files found: 68
+Primary folder files: 36
+PDF files across searched locations: 27
+PDF files in primary regulatory folder: 23
+Markdown files across searched locations: 7
+Markdown files in primary regulatory folder: 7
+Inventory files across searched locations: 26
+Regulatory-relevant files outside primary folder: 32
+Documentation publication status: PRIMARY_FOLDER_MIXED_PDF_AND_MARKDOWN
+Publication risk: Low: publication is acceptable if documentation wording is accurate.
+Required action: No blocking action required; retain accurate repository wording.
+
+Publication interpretation:
+# A tibble: 10 × 2
+   item                                             value                                                                     
+   <chr>                                            <chr>                                                                     
+ 1 Documentation publication status                 PRIMARY_FOLDER_MIXED_PDF_AND_MARKDOWN                                     
+ 2 PDF count across searched locations              27                                                                        
+ 3 PDF count in primary regulatory folder           23                                                                        
+ 4 Markdown count across searched locations         7                                                                         
+ 5 Markdown count in primary regulatory folder      7                                                                         
+ 6 Inventory count across searched locations        26                                                                        
+ 7 Regulatory-relevant files outside primary folder 32                                                                        
+ 8 Recommended repository language                  The repository contains a mixed regulatory documentation folder, includin…
+ 9 Publication risk                                 Low: publication is acceptable if documentation wording is accurate.      
+10 Required action before GitHub publication        No blocking action required; retain accurate repository wording.          
+
+Documentation type summary:
+# A tibble: 11 × 2
+   item                                             value
+   <chr>                                            <int>
+ 1 Total candidate files searched                     114
+ 2 Regulatory-relevant files found                     68
+ 3 Primary folder files                                36
+ 4 PDF files found across searched locations           27
+ 5 PDF files in primary regulatory folder              23
+ 6 Markdown files across searched locations             7
+ 7 Markdown files in primary regulatory folder          7
+ 8 Inventory files across searched locations           26
+ 9 HTML files across searched locations                 6
+10 Non-empty regulatory-relevant files                 68
+11 Regulatory-relevant files outside primary folder    32
+
+Search zone summary:
+# A tibble: 5 × 8
+  search_zone                       files pdf_files markdown_files inventory_files html_files non_empty_files total_size_bytes
+  <chr>                             <int>     <int>          <int>           <int>      <int>           <int>            <dbl>
+1 Data audit outputs                    2         0              0               2          0               2             9238
+2 Primary regulatory framework fol…    36        23              7               0          6              36         18635347
+3 Publication package outputs           1         0              0               1          0               1              533
+4 Raw data folder                      12         4              0               8          0              12          3556572
+5 Regulatory documentation outputs     17         0              0              15          0              17            97266
+
+Extension summary all:
+# A tibble: 6 × 4
+  extension files total_size_bytes non_empty_files
+  <chr>     <int>            <dbl>           <int>
+1 pdf          27         21264101              27
+2 csv          24           285889              24
+3 md            7             3162               7
+4 html          6           692803               6
+5 txt           2             6727               2
+6 xlsx          2            46274               2
+
+Extension summary primary:
+# A tibble: 3 × 4
+  extension files total_size_bytes non_empty_files
+  <chr>     <int>            <dbl>           <int>
+1 pdf          23         17939382              23
+2 md            7             3162               7
+3 html          6           692803               6
+
+PDF files all locations:
+# A tibble: 27 × 14
+   file_path                    file_name relative_directory extension exists size_bytes modified_at search_zone document_role
+   <chr>                        <chr>     <chr>              <chr>     <lgl>       <dbl> <chr>       <chr>       <chr>        
+ 1 docs/regulatory_framework/s… fed_2026… docs/regulatory_f… pdf       TRUE        81196 2026-06-29… Primary re… Official or …
+ 2 docs/regulatory_framework/s… fed_2026… docs/regulatory_f… pdf       TRUE        81196 2026-06-29… Primary re… Official or …
+ 3 docs/regulatory_framework/s… fed_2026… docs/regulatory_f… pdf       TRUE      3274121 2026-06-29… Primary re… Official or …
+ 4 docs/regulatory_framework/s… fed_2026… docs/regulatory_f… pdf       TRUE        81196 2026-06-29… Primary re… Official or …
+ 5 docs/regulatory_framework/s… fed_2026… docs/regulatory_f… pdf       TRUE      2099540 2026-06-29… Primary re… Official or …
+ 6 docs/regulatory_framework/s… fed_2026… docs/regulatory_f… pdf       TRUE      1862605 2026-06-29… Primary re… Official or …
+ 7 docs/regulatory_framework/s… fed_2026… docs/regulatory_f… pdf       TRUE       938697 2026-06-29… Primary re… Official or …
+ 8 docs/regulatory_framework/s… fed_2026… docs/regulatory_f… pdf       TRUE      2957856 2026-06-29… Primary re… Official or …
+ 9 docs/regulatory_framework/s… fed_2026… docs/regulatory_f… pdf       TRUE      2280184 2026-06-29… Primary re… Official or …
+10 docs/regulatory_framework/s… fed_2026… docs/regulatory_f… pdf       TRUE        81196 2026-06-29… Primary re… Official or …
+# ℹ 17 more rows
+# ℹ 5 more variables: regulatory_relevant <lgl>, non_empty <lgl>, likely_official_download <lgl>, likely_internal_note <lgl>,
+#   likely_inventory <lgl>
+# ℹ Use `print(n = ...)` to see more rows
+
+Main outputs:
+ - outputs/publication_package/script21_all_candidate_file_audit.csv
+ - outputs/publication_package/script21_regulatory_documentation_audit.csv
+ - outputs/publication_package/script21_primary_regulatory_folder_audit.csv
+ - outputs/publication_package/script21_extension_summary_all_regulatory_relevant.csv
+ - outputs/publication_package/script21_extension_summary_primary_folder.csv
+ - outputs/publication_package/script21_role_summary_all_regulatory_relevant.csv
+ - outputs/publication_package/script21_search_zone_summary.csv
+ - outputs/publication_package/script21_regulatory_documentation_type_summary.csv
+ - outputs/publication_package/script21_regulatory_documentation_publication_interpretation.csv
+ - outputs/publication_package/script21_pdf_files_all_locations.csv
+ - outputs/publication_package/script21_pdf_files_primary_folder.csv
+ - outputs/publication_package/script21_markdown_files_all_locations.csv
+ - outputs/publication_package/script21_inventory_files_all_locations.csv
+ - outputs/publication_package/script21_regulatory_files_outside_primary_folder.csv
+ - outputs/publication_package/script21_pdf_relocation_recommendation.csv
+ - outputs/publication_package/script21_regulatory_documentation_audit.xlsx
+ - docs/regulatory_framework/regulatory_documentation_note.md
+ - outputs/publication_package/script21_readme_regulatory_documentation_block.md
+ - outputs/publication_package/script21_execution_log.txt

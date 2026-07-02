@@ -1,0 +1,5 @@
+cet1_min_error_bucket,cet1_min_validation_flag,observations,share
+0.50 pp < error <= 1.00 pp,Acceptable precision,125,0.2515090543259557
+1.00 pp < error <= 2.00 pp,Moderate deviation,75,0.15090543259557343
+Error <= 0.50 pp,High precision,282,0.5674044265593562
+Error > 2.00 pp,Large deviation,15,0.030181086519114688

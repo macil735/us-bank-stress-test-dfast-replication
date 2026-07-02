@@ -1,0 +1,2 @@
+script_id,script_name,project_root,started_at,completed_at,documentation_targets,successful_validated_downloads,failed_or_invalid_downloads,pdf_targets,valid_pdf_downloads,invalid_pdf_signature_downloads,documents_inventoried,failed_downloads_moved,legacy_invalid_files_moved,publication_pdf_rule
+02b_v2,download_regulatory_documentation_with_signature_validation,D:/GitHub/us-bank-stress-test-dfast-replication,2026-06-30 11:46:32.708735,2026-06-30 11:47:47.551472,15,12,3,10,7,0,26,1,0,PDF success requires internal %PDF signature.

@@ -1,0 +1,643 @@
+bank_rssd_id,bank_name,exercise_year,scenario_code,scenario_label,n_metrics,n_non_missing_values,n_missing_values,missing_share
+NA,18 participating bank holding companies,2012,3,Supervisory Severely Adverse,56,37,19,0.3392857142857143
+1562859,Ally Financial Inc.,2012,3,Supervisory Severely Adverse,56,37,19,0.3392857142857143
+1275216,American Express Company,2012,3,Supervisory Severely Adverse,56,37,19,0.3392857142857143
+1074156,BB&T Corporation,2012,3,Supervisory Severely Adverse,56,37,19,0.3392857142857143
+1073757,Bank of America Corporation,2012,3,Supervisory Severely Adverse,56,37,19,0.3392857142857143
+2277860,Capital One Financial Corporation,2012,3,Supervisory Severely Adverse,56,37,19,0.3392857142857143
+1951350,Citigroup Inc.,2012,3,Supervisory Severely Adverse,56,37,19,0.3392857142857143
+1070345,Fifth Third Bancorp,2012,3,Supervisory Severely Adverse,56,37,19,0.3392857142857143
+1039502,JPMorgan Chase & Co.,2012,3,Supervisory Severely Adverse,56,37,19,0.3392857142857143
+1068025,KeyCorp,2012,3,Supervisory Severely Adverse,56,37,19,0.3392857142857143
+2162966,Morgan Stanley,2012,3,Supervisory Severely Adverse,56,37,19,0.3392857142857143
+3242838,Regions Financial Corporation,2012,3,Supervisory Severely Adverse,56,37,19,0.3392857142857143
+1111435,State Street Corporation,2012,3,Supervisory Severely Adverse,56,37,19,0.3392857142857143
+1131787,"SunTrust Banks, Inc.",2012,3,Supervisory Severely Adverse,56,37,19,0.3392857142857143
+3587146,The Bank of New York Mellon Corporation,2012,3,Supervisory Severely Adverse,56,37,19,0.3392857142857143
+2380443,"The Goldman Sachs Group, Inc.",2012,3,Supervisory Severely Adverse,56,37,19,0.3392857142857143
+1069778,"The PNC Financial Services Group, Inc.",2012,3,Supervisory Severely Adverse,56,37,19,0.3392857142857143
+1119794,U.S. Bancorp,2012,3,Supervisory Severely Adverse,56,37,19,0.3392857142857143
+1120754,Wells Fargo & Company,2012,3,Supervisory Severely Adverse,56,37,19,0.3392857142857143
+NA,30 participating bank holding companies,2013,2,Supervisory Adverse,56,45,11,0.19642857142857142
+NA,30 participating bank holding companies,2013,3,Supervisory Severely Adverse,56,45,11,0.19642857142857142
+1562859,Ally Financial Inc.,2013,2,Supervisory Adverse,56,45,11,0.19642857142857142
+1562859,Ally Financial Inc.,2013,3,Supervisory Severely Adverse,56,45,11,0.19642857142857142
+1275216,American Express Company,2013,2,Supervisory Adverse,56,45,11,0.19642857142857142
+1275216,American Express Company,2013,3,Supervisory Severely Adverse,56,45,11,0.19642857142857142
+1074156,BB&T Corporation,2013,2,Supervisory Adverse,56,45,11,0.19642857142857142
+1074156,BB&T Corporation,2013,3,Supervisory Severely Adverse,56,45,11,0.19642857142857142
+1078529,"BBVA Compass Bancshares, Inc.",2013,2,Supervisory Adverse,56,45,11,0.19642857142857142
+1078529,"BBVA Compass Bancshares, Inc.",2013,3,Supervisory Severely Adverse,56,45,11,0.19642857142857142
+1245415,BMO Financial Corp.,2013,2,Supervisory Adverse,56,45,11,0.19642857142857142
+1245415,BMO Financial Corp.,2013,3,Supervisory Severely Adverse,56,45,11,0.19642857142857142
+1073757,Bank of America Corporation,2013,2,Supervisory Adverse,56,45,11,0.19642857142857142
+1073757,Bank of America Corporation,2013,3,Supervisory Severely Adverse,56,45,11,0.19642857142857142
+2277860,Capital One Financial Corporation,2013,2,Supervisory Adverse,56,45,11,0.19642857142857142
+2277860,Capital One Financial Corporation,2013,3,Supervisory Severely Adverse,56,45,11,0.19642857142857142
+1951350,Citigroup Inc.,2013,2,Supervisory Adverse,56,45,11,0.19642857142857142
+1951350,Citigroup Inc.,2013,3,Supervisory Severely Adverse,56,45,11,0.19642857142857142
+1199844,Comerica Incorporated,2013,2,Supervisory Adverse,56,45,11,0.19642857142857142
+1199844,Comerica Incorporated,2013,3,Supervisory Severely Adverse,56,45,11,0.19642857142857142
+3846375,Discover Financial Services,2013,2,Supervisory Adverse,56,45,11,0.19642857142857142
+3846375,Discover Financial Services,2013,3,Supervisory Severely Adverse,56,45,11,0.19642857142857142
+1070345,Fifth Third Bancorp,2013,2,Supervisory Adverse,56,45,11,0.19642857142857142
+1070345,Fifth Third Bancorp,2013,3,Supervisory Severely Adverse,56,45,11,0.19642857142857142
+3232316,HSBC North America Holdings Inc.,2013,2,Supervisory Adverse,56,45,11,0.19642857142857142
+3232316,HSBC North America Holdings Inc.,2013,3,Supervisory Severely Adverse,56,45,11,0.19642857142857142
+1068191,Huntington Bancshares Incorporated,2013,2,Supervisory Adverse,56,45,11,0.19642857142857142
+1068191,Huntington Bancshares Incorporated,2013,3,Supervisory Severely Adverse,56,45,11,0.19642857142857142
+1039502,JPMorgan Chase & Co.,2013,2,Supervisory Adverse,56,45,11,0.19642857142857142
+1039502,JPMorgan Chase & Co.,2013,3,Supervisory Severely Adverse,56,45,11,0.19642857142857142
+1068025,KeyCorp,2013,2,Supervisory Adverse,56,45,11,0.19642857142857142
+1068025,KeyCorp,2013,3,Supervisory Severely Adverse,56,45,11,0.19642857142857142
+1037003,M&T Bank Corporation,2013,2,Supervisory Adverse,56,45,11,0.19642857142857142
+1037003,M&T Bank Corporation,2013,3,Supervisory Severely Adverse,56,45,11,0.19642857142857142
+2162966,Morgan Stanley,2013,2,Supervisory Adverse,56,45,11,0.19642857142857142
+2162966,Morgan Stanley,2013,3,Supervisory Severely Adverse,56,45,11,0.19642857142857142
+1199611,Northern Trust Corporation,2013,2,Supervisory Adverse,56,45,11,0.19642857142857142
+1199611,Northern Trust Corporation,2013,3,Supervisory Severely Adverse,56,45,11,0.19642857142857142
+1132449,"RBS Citizens Financial Group, Inc.",2013,2,Supervisory Adverse,56,45,11,0.19642857142857142
+1132449,"RBS Citizens Financial Group, Inc.",2013,3,Supervisory Severely Adverse,56,45,11,0.19642857142857142
+3242838,Regions Financial Corporation,2013,2,Supervisory Adverse,56,45,11,0.19642857142857142
+3242838,Regions Financial Corporation,2013,3,Supervisory Severely Adverse,56,45,11,0.19642857142857142
+3981856,"Santander Holdings USA, Inc.",2013,2,Supervisory Adverse,56,45,11,0.19642857142857142
+3981856,"Santander Holdings USA, Inc.",2013,3,Supervisory Severely Adverse,56,45,11,0.19642857142857142
+1111435,State Street Corporation,2013,2,Supervisory Adverse,56,45,11,0.19642857142857142
+1111435,State Street Corporation,2013,3,Supervisory Severely Adverse,56,45,11,0.19642857142857142
+1131787,"SunTrust Banks, Inc.",2013,2,Supervisory Adverse,56,45,11,0.19642857142857142
+1131787,"SunTrust Banks, Inc.",2013,3,Supervisory Severely Adverse,56,45,11,0.19642857142857142
+3587146,The Bank of New York Mellon Corporation,2013,2,Supervisory Adverse,56,45,11,0.19642857142857142
+3587146,The Bank of New York Mellon Corporation,2013,3,Supervisory Severely Adverse,56,45,11,0.19642857142857142
+2380443,"The Goldman Sachs Group, Inc.",2013,2,Supervisory Adverse,56,45,11,0.19642857142857142
+2380443,"The Goldman Sachs Group, Inc.",2013,3,Supervisory Severely Adverse,56,45,11,0.19642857142857142
+1069778,"The PNC Financial Services Group, Inc.",2013,2,Supervisory Adverse,56,45,11,0.19642857142857142
+1069778,"The PNC Financial Services Group, Inc.",2013,3,Supervisory Severely Adverse,56,45,11,0.19642857142857142
+1119794,U.S. Bancorp,2013,2,Supervisory Adverse,56,45,11,0.19642857142857142
+1119794,U.S. Bancorp,2013,3,Supervisory Severely Adverse,56,45,11,0.19642857142857142
+1378434,UnionBanCal Corporation,2013,2,Supervisory Adverse,56,45,11,0.19642857142857142
+1378434,UnionBanCal Corporation,2013,3,Supervisory Severely Adverse,56,45,11,0.19642857142857142
+1120754,Wells Fargo & Company,2013,2,Supervisory Adverse,56,45,11,0.19642857142857142
+1120754,Wells Fargo & Company,2013,3,Supervisory Severely Adverse,56,45,11,0.19642857142857142
+1027004,Zions Bancorporation,2013,2,Supervisory Adverse,56,45,11,0.19642857142857142
+1027004,Zions Bancorporation,2013,3,Supervisory Severely Adverse,56,45,11,0.19642857142857142
+NA,31 participating bank holding companies,2014,2,Supervisory Adverse,56,44,12,0.21428571428571427
+NA,31 participating bank holding companies,2014,3,Supervisory Severely Adverse,56,44,12,0.21428571428571427
+1562859,Ally Financial Inc.,2014,2,Supervisory Adverse,56,44,12,0.21428571428571427
+1562859,Ally Financial Inc.,2014,3,Supervisory Severely Adverse,56,44,12,0.21428571428571427
+1275216,American Express Company,2014,2,Supervisory Adverse,56,46,10,0.17857142857142858
+1275216,American Express Company,2014,3,Supervisory Severely Adverse,56,46,10,0.17857142857142858
+1074156,BB&T Corporation,2014,2,Supervisory Adverse,56,44,12,0.21428571428571427
+1074156,BB&T Corporation,2014,3,Supervisory Severely Adverse,56,44,12,0.21428571428571427
+1078529,"BBVA Compass Bancshares, Inc.",2014,2,Supervisory Adverse,56,44,12,0.21428571428571427
+1078529,"BBVA Compass Bancshares, Inc.",2014,3,Supervisory Severely Adverse,56,44,12,0.21428571428571427
+1245415,BMO Financial Corp.,2014,2,Supervisory Adverse,56,44,12,0.21428571428571427
+1245415,BMO Financial Corp.,2014,3,Supervisory Severely Adverse,56,44,12,0.21428571428571427
+1073757,Bank of America Corporation,2014,2,Supervisory Adverse,56,46,10,0.17857142857142858
+1073757,Bank of America Corporation,2014,3,Supervisory Severely Adverse,56,46,10,0.17857142857142858
+2277860,Capital One Financial Corporation,2014,2,Supervisory Adverse,56,46,10,0.17857142857142858
+2277860,Capital One Financial Corporation,2014,3,Supervisory Severely Adverse,56,46,10,0.17857142857142858
+1951350,Citigroup Inc.,2014,2,Supervisory Adverse,56,46,10,0.17857142857142858
+1951350,Citigroup Inc.,2014,3,Supervisory Severely Adverse,56,46,10,0.17857142857142858
+1132449,"Citizens Financial Group, Inc.",2014,2,Supervisory Adverse,56,44,12,0.21428571428571427
+1132449,"Citizens Financial Group, Inc.",2014,3,Supervisory Severely Adverse,56,44,12,0.21428571428571427
+1199844,Comerica Incorporated,2014,2,Supervisory Adverse,56,44,12,0.21428571428571427
+1199844,Comerica Incorporated,2014,3,Supervisory Severely Adverse,56,44,12,0.21428571428571427
+1032473,Deutsche Bank Trust Corporation,2014,2,Supervisory Adverse,56,44,12,0.21428571428571427
+1032473,Deutsche Bank Trust Corporation,2014,3,Supervisory Severely Adverse,56,44,12,0.21428571428571427
+3846375,Discover Financial Services,2014,2,Supervisory Adverse,56,44,12,0.21428571428571427
+3846375,Discover Financial Services,2014,3,Supervisory Severely Adverse,56,44,12,0.21428571428571427
+1070345,Fifth Third Bancorp,2014,2,Supervisory Adverse,56,44,12,0.21428571428571427
+1070345,Fifth Third Bancorp,2014,3,Supervisory Severely Adverse,56,44,12,0.21428571428571427
+3232316,HSBC North America Holdings Inc.,2014,2,Supervisory Adverse,56,46,10,0.17857142857142858
+3232316,HSBC North America Holdings Inc.,2014,3,Supervisory Severely Adverse,56,46,10,0.17857142857142858
+1068191,Huntington Bancshares Incorporated,2014,2,Supervisory Adverse,56,44,12,0.21428571428571427
+1068191,Huntington Bancshares Incorporated,2014,3,Supervisory Severely Adverse,56,44,12,0.21428571428571427
+1039502,JPMorgan Chase & Co.,2014,2,Supervisory Adverse,56,46,10,0.17857142857142858
+1039502,JPMorgan Chase & Co.,2014,3,Supervisory Severely Adverse,56,46,10,0.17857142857142858
+1068025,KeyCorp,2014,2,Supervisory Adverse,56,44,12,0.21428571428571427
+1068025,KeyCorp,2014,3,Supervisory Severely Adverse,56,44,12,0.21428571428571427
+1037003,M&T Bank Corporation,2014,2,Supervisory Adverse,56,44,12,0.21428571428571427
+1037003,M&T Bank Corporation,2014,3,Supervisory Severely Adverse,56,44,12,0.21428571428571427
+1378434,MUFG Americas Holdings Corporation,2014,2,Supervisory Adverse,56,46,10,0.17857142857142858
+1378434,MUFG Americas Holdings Corporation,2014,3,Supervisory Severely Adverse,56,46,10,0.17857142857142858
+2162966,Morgan Stanley,2014,2,Supervisory Adverse,56,46,10,0.17857142857142858
+2162966,Morgan Stanley,2014,3,Supervisory Severely Adverse,56,46,10,0.17857142857142858
+1199611,Northern Trust Corporation,2014,2,Supervisory Adverse,56,46,10,0.17857142857142858
+1199611,Northern Trust Corporation,2014,3,Supervisory Severely Adverse,56,46,10,0.17857142857142858
+3242838,Regions Financial Corporation,2014,2,Supervisory Adverse,56,44,12,0.21428571428571427
+3242838,Regions Financial Corporation,2014,3,Supervisory Severely Adverse,56,44,12,0.21428571428571427
+3981856,"Santander Holdings USA, Inc.",2014,2,Supervisory Adverse,56,44,12,0.21428571428571427
+3981856,"Santander Holdings USA, Inc.",2014,3,Supervisory Severely Adverse,56,44,12,0.21428571428571427
+1111435,State Street Corporation,2014,2,Supervisory Adverse,56,46,10,0.17857142857142858
+1111435,State Street Corporation,2014,3,Supervisory Severely Adverse,56,46,10,0.17857142857142858
+1131787,"SunTrust Banks, Inc.",2014,2,Supervisory Adverse,56,44,12,0.21428571428571427
+1131787,"SunTrust Banks, Inc.",2014,3,Supervisory Severely Adverse,56,44,12,0.21428571428571427
+3587146,The Bank of New York Mellon Corporation,2014,2,Supervisory Adverse,56,46,10,0.17857142857142858
+3587146,The Bank of New York Mellon Corporation,2014,3,Supervisory Severely Adverse,56,46,10,0.17857142857142858
+2380443,"The Goldman Sachs Group, Inc.",2014,2,Supervisory Adverse,56,46,10,0.17857142857142858
+2380443,"The Goldman Sachs Group, Inc.",2014,3,Supervisory Severely Adverse,56,46,10,0.17857142857142858
+1069778,"The PNC Financial Services Group, Inc.",2014,2,Supervisory Adverse,56,46,10,0.17857142857142858
+1069778,"The PNC Financial Services Group, Inc.",2014,3,Supervisory Severely Adverse,56,46,10,0.17857142857142858
+1119794,U.S. Bancorp,2014,2,Supervisory Adverse,56,46,10,0.17857142857142858
+1119794,U.S. Bancorp,2014,3,Supervisory Severely Adverse,56,46,10,0.17857142857142858
+1120754,Wells Fargo & Company,2014,2,Supervisory Adverse,56,46,10,0.17857142857142858
+1120754,Wells Fargo & Company,2014,3,Supervisory Severely Adverse,56,46,10,0.17857142857142858
+1027004,Zions Bancorporation,2014,2,Supervisory Adverse,56,44,12,0.21428571428571427
+1027004,Zions Bancorporation,2014,3,Supervisory Severely Adverse,56,44,12,0.21428571428571427
+NA,33 participating bank holding companies,2015,2,Supervisory Adverse,56,42,14,0.25
+NA,33 participating bank holding companies,2015,3,Supervisory Severely Adverse,56,42,14,0.25
+1562859,Ally Financial Inc.,2015,2,Supervisory Adverse,56,42,14,0.25
+1562859,Ally Financial Inc.,2015,3,Supervisory Severely Adverse,56,42,14,0.25
+1275216,American Express Company,2015,2,Supervisory Adverse,56,42,14,0.25
+1275216,American Express Company,2015,3,Supervisory Severely Adverse,56,42,14,0.25
+1074156,BB&T Corporation,2015,2,Supervisory Adverse,56,42,14,0.25
+1074156,BB&T Corporation,2015,3,Supervisory Severely Adverse,56,42,14,0.25
+1078529,"BBVA Compass Bancshares, Inc.",2015,2,Supervisory Adverse,56,42,14,0.25
+1078529,"BBVA Compass Bancshares, Inc.",2015,3,Supervisory Severely Adverse,56,42,14,0.25
+1245415,BMO Financial Corp.,2015,2,Supervisory Adverse,56,42,14,0.25
+1245415,BMO Financial Corp.,2015,3,Supervisory Severely Adverse,56,42,14,0.25
+1025608,BancWest Corporation,2015,2,Supervisory Adverse,56,42,14,0.25
+1025608,BancWest Corporation,2015,3,Supervisory Severely Adverse,56,42,14,0.25
+1073757,Bank of America Corporation,2015,2,Supervisory Adverse,56,42,14,0.25
+1073757,Bank of America Corporation,2015,3,Supervisory Severely Adverse,56,42,14,0.25
+2277860,Capital One Financial Corporation,2015,2,Supervisory Adverse,56,42,14,0.25
+2277860,Capital One Financial Corporation,2015,3,Supervisory Severely Adverse,56,42,14,0.25
+1951350,Citigroup Inc.,2015,2,Supervisory Adverse,56,42,14,0.25
+1951350,Citigroup Inc.,2015,3,Supervisory Severely Adverse,56,42,14,0.25
+1132449,"Citizens Financial Group, Inc.",2015,2,Supervisory Adverse,56,42,14,0.25
+1132449,"Citizens Financial Group, Inc.",2015,3,Supervisory Severely Adverse,56,42,14,0.25
+1199844,Comerica Incorporated,2015,2,Supervisory Adverse,56,42,14,0.25
+1199844,Comerica Incorporated,2015,3,Supervisory Severely Adverse,56,42,14,0.25
+1032473,Deutsche Bank Trust Corporation,2015,2,Supervisory Adverse,56,42,14,0.25
+1032473,Deutsche Bank Trust Corporation,2015,3,Supervisory Severely Adverse,56,42,14,0.25
+3846375,Discover Financial Services,2015,2,Supervisory Adverse,56,42,14,0.25
+3846375,Discover Financial Services,2015,3,Supervisory Severely Adverse,56,42,14,0.25
+1070345,Fifth Third Bancorp,2015,2,Supervisory Adverse,56,42,14,0.25
+1070345,Fifth Third Bancorp,2015,3,Supervisory Severely Adverse,56,42,14,0.25
+3232316,HSBC North America Holdings Inc.,2015,2,Supervisory Adverse,56,42,14,0.25
+3232316,HSBC North America Holdings Inc.,2015,3,Supervisory Severely Adverse,56,42,14,0.25
+1068191,Huntington Bancshares Incorporated,2015,2,Supervisory Adverse,56,42,14,0.25
+1068191,Huntington Bancshares Incorporated,2015,3,Supervisory Severely Adverse,56,42,14,0.25
+1039502,JPMorgan Chase & Co.,2015,2,Supervisory Adverse,56,42,14,0.25
+1039502,JPMorgan Chase & Co.,2015,3,Supervisory Severely Adverse,56,42,14,0.25
+1068025,KeyCorp,2015,2,Supervisory Adverse,56,42,14,0.25
+1068025,KeyCorp,2015,3,Supervisory Severely Adverse,56,42,14,0.25
+1037003,M&T Bank Corporation,2015,2,Supervisory Adverse,56,42,14,0.25
+1037003,M&T Bank Corporation,2015,3,Supervisory Severely Adverse,56,42,14,0.25
+1378434,MUFG Americas Holdings Corporation,2015,2,Supervisory Adverse,56,42,14,0.25
+1378434,MUFG Americas Holdings Corporation,2015,3,Supervisory Severely Adverse,56,42,14,0.25
+2162966,Morgan Stanley,2015,2,Supervisory Adverse,56,42,14,0.25
+2162966,Morgan Stanley,2015,3,Supervisory Severely Adverse,56,42,14,0.25
+1199611,Northern Trust Corporation,2015,2,Supervisory Adverse,56,42,14,0.25
+1199611,Northern Trust Corporation,2015,3,Supervisory Severely Adverse,56,42,14,0.25
+3242838,Regions Financial Corporation,2015,2,Supervisory Adverse,56,42,14,0.25
+3242838,Regions Financial Corporation,2015,3,Supervisory Severely Adverse,56,42,14,0.25
+3981856,"Santander Holdings USA, Inc.",2015,2,Supervisory Adverse,56,42,14,0.25
+3981856,"Santander Holdings USA, Inc.",2015,3,Supervisory Severely Adverse,56,42,14,0.25
+1111435,State Street Corporation,2015,2,Supervisory Adverse,56,42,14,0.25
+1111435,State Street Corporation,2015,3,Supervisory Severely Adverse,56,42,14,0.25
+1131787,"SunTrust Banks, Inc.",2015,2,Supervisory Adverse,56,42,14,0.25
+1131787,"SunTrust Banks, Inc.",2015,3,Supervisory Severely Adverse,56,42,14,0.25
+3606542,TD Group US Holdings LLC,2015,2,Supervisory Adverse,56,42,14,0.25
+3606542,TD Group US Holdings LLC,2015,3,Supervisory Severely Adverse,56,42,14,0.25
+3587146,The Bank of New York Mellon Corporation,2015,2,Supervisory Adverse,56,42,14,0.25
+3587146,The Bank of New York Mellon Corporation,2015,3,Supervisory Severely Adverse,56,42,14,0.25
+2380443,"The Goldman Sachs Group, Inc.",2015,2,Supervisory Adverse,56,42,14,0.25
+2380443,"The Goldman Sachs Group, Inc.",2015,3,Supervisory Severely Adverse,56,42,14,0.25
+1069778,"The PNC Financial Services Group, Inc.",2015,2,Supervisory Adverse,56,42,14,0.25
+1069778,"The PNC Financial Services Group, Inc.",2015,3,Supervisory Severely Adverse,56,42,14,0.25
+1119794,U.S. Bancorp,2015,2,Supervisory Adverse,56,42,14,0.25
+1119794,U.S. Bancorp,2015,3,Supervisory Severely Adverse,56,42,14,0.25
+1120754,Wells Fargo & Company,2015,2,Supervisory Adverse,56,42,14,0.25
+1120754,Wells Fargo & Company,2015,3,Supervisory Severely Adverse,56,42,14,0.25
+1027004,Zions Bancorporation,2015,2,Supervisory Adverse,56,42,14,0.25
+1027004,Zions Bancorporation,2015,3,Supervisory Severely Adverse,56,42,14,0.25
+NA,34 participating bank holding companies,2016,2,Supervisory Adverse,56,44,12,0.21428571428571427
+NA,34 participating bank holding companies,2016,3,Supervisory Severely Adverse,56,44,12,0.21428571428571427
+1562859,Ally Financial Inc.,2016,2,Supervisory Adverse,56,42,14,0.25
+1562859,Ally Financial Inc.,2016,3,Supervisory Severely Adverse,56,42,14,0.25
+1275216,American Express Company,2016,2,Supervisory Adverse,56,44,12,0.21428571428571427
+1275216,American Express Company,2016,3,Supervisory Severely Adverse,56,44,12,0.21428571428571427
+1074156,BB&T Corporation,2016,2,Supervisory Adverse,56,42,14,0.25
+1074156,BB&T Corporation,2016,3,Supervisory Severely Adverse,56,42,14,0.25
+1078529,"BBVA Compass Bancshares, Inc.",2016,2,Supervisory Adverse,56,42,14,0.25
+1078529,"BBVA Compass Bancshares, Inc.",2016,3,Supervisory Severely Adverse,56,42,14,0.25
+1245415,BMO Financial Corp.,2016,2,Supervisory Adverse,56,42,14,0.25
+1245415,BMO Financial Corp.,2016,3,Supervisory Severely Adverse,56,42,14,0.25
+5005998,BancWest Corporation,2016,2,Supervisory Adverse,56,42,14,0.25
+5005998,BancWest Corporation,2016,3,Supervisory Severely Adverse,56,42,14,0.25
+1073757,Bank of America Corporation,2016,2,Supervisory Adverse,56,44,12,0.21428571428571427
+1073757,Bank of America Corporation,2016,3,Supervisory Severely Adverse,56,44,12,0.21428571428571427
+1036967,CIT Group Inc.,2016,2,Supervisory Adverse,56,42,14,0.25
+1036967,CIT Group Inc.,2016,3,Supervisory Severely Adverse,56,42,14,0.25
+2277860,Capital One Financial Corporation,2016,2,Supervisory Adverse,56,44,12,0.21428571428571427
+2277860,Capital One Financial Corporation,2016,3,Supervisory Severely Adverse,56,44,12,0.21428571428571427
+1951350,Citigroup Inc.,2016,2,Supervisory Adverse,56,44,12,0.21428571428571427
+1951350,Citigroup Inc.,2016,3,Supervisory Severely Adverse,56,44,12,0.21428571428571427
+1132449,"Citizens Financial Group, Inc.",2016,2,Supervisory Adverse,56,42,14,0.25
+1132449,"Citizens Financial Group, Inc.",2016,3,Supervisory Severely Adverse,56,42,14,0.25
+1199844,Comerica Incorporated,2016,2,Supervisory Adverse,56,42,14,0.25
+1199844,Comerica Incorporated,2016,3,Supervisory Severely Adverse,56,42,14,0.25
+1032473,Deutsche Bank Trust Corporation,2016,2,Supervisory Adverse,56,42,14,0.25
+1032473,Deutsche Bank Trust Corporation,2016,3,Supervisory Severely Adverse,56,42,14,0.25
+3846375,Discover Financial Services,2016,2,Supervisory Adverse,56,42,14,0.25
+3846375,Discover Financial Services,2016,3,Supervisory Severely Adverse,56,42,14,0.25
+1070345,Fifth Third Bancorp,2016,2,Supervisory Adverse,56,42,14,0.25
+1070345,Fifth Third Bancorp,2016,3,Supervisory Severely Adverse,56,42,14,0.25
+3232316,HSBC North America Holdings Inc.,2016,2,Supervisory Adverse,56,44,12,0.21428571428571427
+3232316,HSBC North America Holdings Inc.,2016,3,Supervisory Severely Adverse,56,44,12,0.21428571428571427
+1068191,Huntington Bancshares Incorporated,2016,2,Supervisory Adverse,56,42,14,0.25
+1068191,Huntington Bancshares Incorporated,2016,3,Supervisory Severely Adverse,56,42,14,0.25
+1039502,JPMorgan Chase & Co.,2016,2,Supervisory Adverse,56,44,12,0.21428571428571427
+1039502,JPMorgan Chase & Co.,2016,3,Supervisory Severely Adverse,56,44,12,0.21428571428571427
+1068025,KeyCorp,2016,2,Supervisory Adverse,56,42,14,0.25
+1068025,KeyCorp,2016,3,Supervisory Severely Adverse,56,42,14,0.25
+1037003,M&T Bank Corporation,2016,2,Supervisory Adverse,56,42,14,0.25
+1037003,M&T Bank Corporation,2016,3,Supervisory Severely Adverse,56,42,14,0.25
+1378434,MUFG Americas Holdings Corporation,2016,2,Supervisory Adverse,56,42,14,0.25
+1378434,MUFG Americas Holdings Corporation,2016,3,Supervisory Severely Adverse,56,42,14,0.25
+2162966,Morgan Stanley,2016,2,Supervisory Adverse,56,44,12,0.21428571428571427
+2162966,Morgan Stanley,2016,3,Supervisory Severely Adverse,56,44,12,0.21428571428571427
+1199611,Northern Trust Corporation,2016,2,Supervisory Adverse,56,44,12,0.21428571428571427
+1199611,Northern Trust Corporation,2016,3,Supervisory Severely Adverse,56,44,12,0.21428571428571427
+3242838,Regions Financial Corporation,2016,2,Supervisory Adverse,56,42,14,0.25
+3242838,Regions Financial Corporation,2016,3,Supervisory Severely Adverse,56,42,14,0.25
+3981856,"Santander Holdings USA, Inc.",2016,2,Supervisory Adverse,56,42,14,0.25
+3981856,"Santander Holdings USA, Inc.",2016,3,Supervisory Severely Adverse,56,42,14,0.25
+1111435,State Street Corporation,2016,2,Supervisory Adverse,56,44,12,0.21428571428571427
+1111435,State Street Corporation,2016,3,Supervisory Severely Adverse,56,44,12,0.21428571428571427
+1131787,"SunTrust Banks, Inc.",2016,2,Supervisory Adverse,56,42,14,0.25
+1131787,"SunTrust Banks, Inc.",2016,3,Supervisory Severely Adverse,56,42,14,0.25
+3606542,TD Group US Holdings LLC,2016,2,Supervisory Adverse,56,44,12,0.21428571428571427
+3606542,TD Group US Holdings LLC,2016,3,Supervisory Severely Adverse,56,44,12,0.21428571428571427
+3587146,The Bank of New York Mellon Corporation,2016,2,Supervisory Adverse,56,44,12,0.21428571428571427
+3587146,The Bank of New York Mellon Corporation,2016,3,Supervisory Severely Adverse,56,44,12,0.21428571428571427
+2380443,"The Goldman Sachs Group, Inc.",2016,2,Supervisory Adverse,56,44,12,0.21428571428571427
+2380443,"The Goldman Sachs Group, Inc.",2016,3,Supervisory Severely Adverse,56,44,12,0.21428571428571427
+1069778,"The PNC Financial Services Group, Inc.",2016,2,Supervisory Adverse,56,44,12,0.21428571428571427
+1069778,"The PNC Financial Services Group, Inc.",2016,3,Supervisory Severely Adverse,56,44,12,0.21428571428571427
+1119794,U.S. Bancorp,2016,2,Supervisory Adverse,56,44,12,0.21428571428571427
+1119794,U.S. Bancorp,2016,3,Supervisory Severely Adverse,56,44,12,0.21428571428571427
+1120754,Wells Fargo & Company,2016,2,Supervisory Adverse,56,44,12,0.21428571428571427
+1120754,Wells Fargo & Company,2016,3,Supervisory Severely Adverse,56,44,12,0.21428571428571427
+1027004,Zions Bancorporation,2016,2,Supervisory Adverse,56,42,14,0.25
+1027004,Zions Bancorporation,2016,3,Supervisory Severely Adverse,56,42,14,0.25
+NA,35 participating firms,2017,2,Supervisory Adverse,56,44,12,0.21428571428571427
+NA,35 participating firms,2017,3,Supervisory Severely Adverse,56,44,12,0.21428571428571427
+1562859,Ally Financial Inc.,2017,2,Supervisory Adverse,56,42,14,0.25
+1562859,Ally Financial Inc.,2017,3,Supervisory Severely Adverse,56,42,14,0.25
+1275216,American Express Company,2017,2,Supervisory Adverse,56,44,12,0.21428571428571427
+1275216,American Express Company,2017,3,Supervisory Severely Adverse,56,44,12,0.21428571428571427
+1074156,BB&T Corporation,2017,2,Supervisory Adverse,56,42,14,0.25
+1074156,BB&T Corporation,2017,3,Supervisory Severely Adverse,56,42,14,0.25
+1078529,"BBVA Compass Bancshares, Inc.",2017,2,Supervisory Adverse,56,42,14,0.25
+1078529,"BBVA Compass Bancshares, Inc.",2017,3,Supervisory Severely Adverse,56,42,14,0.25
+1245415,BMO Financial Corp.,2017,2,Supervisory Adverse,56,42,14,0.25
+1245415,BMO Financial Corp.,2017,3,Supervisory Severely Adverse,56,42,14,0.25
+1575569,"BNP Paribas USA, Inc.",2017,2,Supervisory Adverse,56,42,14,0.25
+1575569,"BNP Paribas USA, Inc.",2017,3,Supervisory Severely Adverse,56,42,14,0.25
+1073757,Bank of America Corporation,2017,2,Supervisory Adverse,56,44,12,0.21428571428571427
+1073757,Bank of America Corporation,2017,3,Supervisory Severely Adverse,56,44,12,0.21428571428571427
+5006575,Barclays US LLC,2017,2,Supervisory Adverse,56,44,12,0.21428571428571427
+5006575,Barclays US LLC,2017,3,Supervisory Severely Adverse,56,44,12,0.21428571428571427
+2277860,Capital One Financial Corporation,2017,2,Supervisory Adverse,56,44,12,0.21428571428571427
+2277860,Capital One Financial Corporation,2017,3,Supervisory Severely Adverse,56,44,12,0.21428571428571427
+1951350,Citigroup Inc.,2017,2,Supervisory Adverse,56,44,12,0.21428571428571427
+1951350,Citigroup Inc.,2017,3,Supervisory Severely Adverse,56,44,12,0.21428571428571427
+1132449,"Citizens Financial Group, Inc.",2017,2,Supervisory Adverse,56,42,14,0.25
+1132449,"Citizens Financial Group, Inc.",2017,3,Supervisory Severely Adverse,56,42,14,0.25
+1574834,"Credit Suisse Holdings (USA), Inc.",2017,2,Supervisory Adverse,56,44,12,0.21428571428571427
+1574834,"Credit Suisse Holdings (USA), Inc.",2017,3,Supervisory Severely Adverse,56,44,12,0.21428571428571427
+2816906,DB USA Corporation,2017,2,Supervisory Adverse,56,44,12,0.21428571428571427
+2816906,DB USA Corporation,2017,3,Supervisory Severely Adverse,56,44,12,0.21428571428571427
+3846375,Discover Financial Services,2017,2,Supervisory Adverse,56,42,14,0.25
+3846375,Discover Financial Services,2017,3,Supervisory Severely Adverse,56,42,14,0.25
+1070345,Fifth Third Bancorp,2017,2,Supervisory Adverse,56,42,14,0.25
+1070345,Fifth Third Bancorp,2017,3,Supervisory Severely Adverse,56,42,14,0.25
+3232316,HSBC North America Holdings Inc.,2017,2,Supervisory Adverse,56,44,12,0.21428571428571427
+3232316,HSBC North America Holdings Inc.,2017,3,Supervisory Severely Adverse,56,44,12,0.21428571428571427
+1068191,Huntington Bancshares Incorporated,2017,2,Supervisory Adverse,56,42,14,0.25
+1068191,Huntington Bancshares Incorporated,2017,3,Supervisory Severely Adverse,56,42,14,0.25
+1039502,JPMorgan Chase & Co.,2017,2,Supervisory Adverse,56,44,12,0.21428571428571427
+1039502,JPMorgan Chase & Co.,2017,3,Supervisory Severely Adverse,56,44,12,0.21428571428571427
+1068025,KeyCorp,2017,2,Supervisory Adverse,56,42,14,0.25
+1068025,KeyCorp,2017,3,Supervisory Severely Adverse,56,42,14,0.25
+1037003,M&T Bank Corporation,2017,2,Supervisory Adverse,56,42,14,0.25
+1037003,M&T Bank Corporation,2017,3,Supervisory Severely Adverse,56,42,14,0.25
+1378434,MUFG Americas Holdings Corporation,2017,2,Supervisory Adverse,56,42,14,0.25
+1378434,MUFG Americas Holdings Corporation,2017,3,Supervisory Severely Adverse,56,42,14,0.25
+2162966,Morgan Stanley,2017,2,Supervisory Adverse,56,44,12,0.21428571428571427
+2162966,Morgan Stanley,2017,3,Supervisory Severely Adverse,56,44,12,0.21428571428571427
+1199611,Northern Trust Corporation,2017,2,Supervisory Adverse,56,44,12,0.21428571428571427
+1199611,Northern Trust Corporation,2017,3,Supervisory Severely Adverse,56,44,12,0.21428571428571427
+3226762,RBC USA Holdco Corporation,2017,2,Supervisory Adverse,56,42,14,0.25
+3226762,RBC USA Holdco Corporation,2017,3,Supervisory Severely Adverse,56,42,14,0.25
+3242838,Regions Financial Corporation,2017,2,Supervisory Adverse,56,42,14,0.25
+3242838,Regions Financial Corporation,2017,3,Supervisory Severely Adverse,56,42,14,0.25
+3981856,"Santander Holdings USA, Inc.",2017,2,Supervisory Adverse,56,42,14,0.25
+3981856,"Santander Holdings USA, Inc.",2017,3,Supervisory Severely Adverse,56,42,14,0.25
+1111435,State Street Corporation,2017,2,Supervisory Adverse,56,44,12,0.21428571428571427
+1111435,State Street Corporation,2017,3,Supervisory Severely Adverse,56,44,12,0.21428571428571427
+1131787,"SunTrust Banks, Inc.",2017,2,Supervisory Adverse,56,42,14,0.25
+1131787,"SunTrust Banks, Inc.",2017,3,Supervisory Severely Adverse,56,42,14,0.25
+3606542,TD Group US Holdings LLC,2017,2,Supervisory Adverse,56,44,12,0.21428571428571427
+3606542,TD Group US Holdings LLC,2017,3,Supervisory Severely Adverse,56,44,12,0.21428571428571427
+3587146,The Bank of New York Mellon Corporation,2017,2,Supervisory Adverse,56,44,12,0.21428571428571427
+3587146,The Bank of New York Mellon Corporation,2017,3,Supervisory Severely Adverse,56,44,12,0.21428571428571427
+2380443,"The Goldman Sachs Group, Inc.",2017,2,Supervisory Adverse,56,44,12,0.21428571428571427
+2380443,"The Goldman Sachs Group, Inc.",2017,3,Supervisory Severely Adverse,56,44,12,0.21428571428571427
+1069778,"The PNC Financial Services Group, Inc.",2017,2,Supervisory Adverse,56,44,12,0.21428571428571427
+1069778,"The PNC Financial Services Group, Inc.",2017,3,Supervisory Severely Adverse,56,44,12,0.21428571428571427
+1119794,U.S. Bancorp,2017,2,Supervisory Adverse,56,44,12,0.21428571428571427
+1119794,U.S. Bancorp,2017,3,Supervisory Severely Adverse,56,44,12,0.21428571428571427
+4846998,UBS Americas Holding LLC,2017,2,Supervisory Adverse,56,42,14,0.25
+4846998,UBS Americas Holding LLC,2017,3,Supervisory Severely Adverse,56,42,14,0.25
+1120754,Wells Fargo & Company,2017,2,Supervisory Adverse,56,44,12,0.21428571428571427
+1120754,Wells Fargo & Company,2017,3,Supervisory Severely Adverse,56,44,12,0.21428571428571427
+NA,18 participating firms,2018,2,Supervisory Adverse,56,51,5,0.08928571428571429
+NA,18 participating firms,2018,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+1073757,Bank of America Corporation,2018,2,Supervisory Adverse,56,51,5,0.08928571428571429
+1073757,Bank of America Corporation,2018,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+5006575,Barclays US LLC,2018,2,Supervisory Adverse,56,51,5,0.08928571428571429
+5006575,Barclays US LLC,2018,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+2277860,Capital One Financial Corporation,2018,2,Supervisory Adverse,56,51,5,0.08928571428571429
+2277860,Capital One Financial Corporation,2018,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+1951350,Citigroup Inc.,2018,2,Supervisory Adverse,56,51,5,0.08928571428571429
+1951350,Citigroup Inc.,2018,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+1574834,"Credit Suisse Holdings (USA), Inc.",2018,2,Supervisory Adverse,56,51,5,0.08928571428571429
+1574834,"Credit Suisse Holdings (USA), Inc.",2018,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+2816906,DB USA Corporation,2018,2,Supervisory Adverse,56,51,5,0.08928571428571429
+2816906,DB USA Corporation,2018,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+3232316,HSBC North America Holdings Inc.,2018,2,Supervisory Adverse,56,51,5,0.08928571428571429
+3232316,HSBC North America Holdings Inc.,2018,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+1039502,JPMorgan Chase & Co.,2018,2,Supervisory Adverse,56,51,5,0.08928571428571429
+1039502,JPMorgan Chase & Co.,2018,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+2162966,Morgan Stanley,2018,2,Supervisory Adverse,56,51,5,0.08928571428571429
+2162966,Morgan Stanley,2018,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+1199611,Northern Trust Corporation,2018,2,Supervisory Adverse,56,51,5,0.08928571428571429
+1199611,Northern Trust Corporation,2018,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+1111435,State Street Corporation,2018,2,Supervisory Adverse,56,51,5,0.08928571428571429
+1111435,State Street Corporation,2018,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+3606542,TD Group US Holdings LLC,2018,2,Supervisory Adverse,56,51,5,0.08928571428571429
+3606542,TD Group US Holdings LLC,2018,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+3587146,The Bank of New York Mellon Corporation,2018,2,Supervisory Adverse,56,51,5,0.08928571428571429
+3587146,The Bank of New York Mellon Corporation,2018,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+2380443,"The Goldman Sachs Group, Inc.",2018,2,Supervisory Adverse,56,51,5,0.08928571428571429
+2380443,"The Goldman Sachs Group, Inc.",2018,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+1069778,"The PNC Financial Services Group, Inc.",2018,2,Supervisory Adverse,56,51,5,0.08928571428571429
+1069778,"The PNC Financial Services Group, Inc.",2018,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+1119794,U.S. Bancorp,2018,2,Supervisory Adverse,56,51,5,0.08928571428571429
+1119794,U.S. Bancorp,2018,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+4846998,UBS Americas Holding LLC,2018,2,Supervisory Adverse,56,48,8,0.14285714285714285
+4846998,UBS Americas Holding LLC,2018,3,Supervisory Severely Adverse,56,48,8,0.14285714285714285
+1120754,Wells Fargo & Company,2018,2,Supervisory Adverse,56,51,5,0.08928571428571429
+1120754,Wells Fargo & Company,2018,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+NA,33 participating firms,2019,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+1562859,Ally Financial Inc.,2019,3,Supervisory Severely Adverse,56,48,8,0.14285714285714285
+1275216,American Express Company,2019,3,Supervisory Severely Adverse,56,48,8,0.14285714285714285
+1245415,BMO Financial Corp.,2019,3,Supervisory Severely Adverse,56,48,8,0.14285714285714285
+1575569,"BNP Paribas USA, Inc.",2019,3,Supervisory Severely Adverse,56,48,8,0.14285714285714285
+1073757,Bank of America Corporation,2019,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+5006575,Barclays US LLC,2019,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+2277860,Capital One Financial Corporation,2019,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+1951350,Citigroup Inc.,2019,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+1132449,"Citizens Financial Group, Inc.",2019,3,Supervisory Severely Adverse,56,48,8,0.14285714285714285
+1574834,"Credit Suisse Holdings (USA), Inc.",2019,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+2816906,DB USA Corporation,2019,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+3846375,Discover Financial Services,2019,3,Supervisory Severely Adverse,56,48,8,0.14285714285714285
+1070345,Fifth Third Bancorp,2019,3,Supervisory Severely Adverse,56,48,8,0.14285714285714285
+3232316,HSBC North America Holdings Inc.,2019,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+1068191,Huntington Bancshares Incorporated,2019,3,Supervisory Severely Adverse,56,48,8,0.14285714285714285
+1039502,JPMorgan Chase & Co.,2019,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+1068025,KeyCorp,2019,3,Supervisory Severely Adverse,56,48,8,0.14285714285714285
+1037003,M&T Bank Corporation,2019,3,Supervisory Severely Adverse,56,48,8,0.14285714285714285
+1378434,MUFG Americas Holdings Corporation,2019,3,Supervisory Severely Adverse,56,48,8,0.14285714285714285
+2162966,Morgan Stanley,2019,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+1199611,Northern Trust Corporation,2019,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+5280254,RBC US Group Holdings LLC,2019,3,Supervisory Severely Adverse,56,48,8,0.14285714285714285
+3242838,Regions Financial Corporation,2019,3,Supervisory Severely Adverse,56,48,8,0.14285714285714285
+3981856,"Santander Holdings USA, Inc.",2019,3,Supervisory Severely Adverse,56,48,8,0.14285714285714285
+1111435,State Street Corporation,2019,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+3606542,TD Group US Holdings LLC,2019,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+3587146,The Bank of New York Mellon Corporation,2019,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+2380443,"The Goldman Sachs Group, Inc.",2019,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+1069778,"The PNC Financial Services Group, Inc.",2019,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+1074156,Truist Financial Corporation,2019,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+1119794,U.S. Bancorp,2019,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+4846998,UBS Americas Holding LLC,2019,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+1120754,Wells Fargo & Company,2019,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+NA,23 participating firms,2020,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+NA,33 participating firms,2020,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+NA,33 participating firms,2020,30,Supervisory Alternative Severe,56,51,5,0.08928571428571429
+1562859,Ally Financial Inc.,2020,3,Supervisory Severely Adverse,56,48,8,0.14285714285714285
+1562859,Ally Financial Inc.,2020,30,Supervisory Alternative Severe,56,48,8,0.14285714285714285
+1275216,American Express Company,2020,3,Supervisory Severely Adverse,56,48,8,0.14285714285714285
+1275216,American Express Company,2020,30,Supervisory Alternative Severe,56,48,8,0.14285714285714285
+1245415,BMO Financial Corp.,2020,3,Supervisory Severely Adverse,56,96,16,0.14285714285714285
+1245415,BMO Financial Corp.,2020,30,Supervisory Alternative Severe,56,48,8,0.14285714285714285
+1575569,"BNP Paribas USA, Inc.",2020,3,Supervisory Severely Adverse,56,48,8,0.14285714285714285
+1575569,"BNP Paribas USA, Inc.",2020,30,Supervisory Alternative Severe,56,48,8,0.14285714285714285
+1073757,Bank of America Corporation,2020,3,Supervisory Severely Adverse,56,102,10,0.08928571428571429
+1073757,Bank of America Corporation,2020,30,Supervisory Alternative Severe,56,51,5,0.08928571428571429
+5006575,Barclays US LLC,2020,3,Supervisory Severely Adverse,56,102,10,0.08928571428571429
+5006575,Barclays US LLC,2020,30,Supervisory Alternative Severe,56,51,5,0.08928571428571429
+2277860,Capital One Financial Corporation,2020,3,Supervisory Severely Adverse,56,102,10,0.08928571428571429
+2277860,Capital One Financial Corporation,2020,30,Supervisory Alternative Severe,56,51,5,0.08928571428571429
+1951350,Citigroup Inc.,2020,3,Supervisory Severely Adverse,56,102,10,0.08928571428571429
+1951350,Citigroup Inc.,2020,30,Supervisory Alternative Severe,56,51,5,0.08928571428571429
+1132449,"Citizens Financial Group, Inc.",2020,3,Supervisory Severely Adverse,56,48,8,0.14285714285714285
+1132449,"Citizens Financial Group, Inc.",2020,30,Supervisory Alternative Severe,56,48,8,0.14285714285714285
+1574834,"Credit Suisse Holdings (USA), Inc.",2020,3,Supervisory Severely Adverse,56,102,10,0.08928571428571429
+1574834,"Credit Suisse Holdings (USA), Inc.",2020,30,Supervisory Alternative Severe,56,51,5,0.08928571428571429
+2816906,DB USA Corporation,2020,3,Supervisory Severely Adverse,56,102,10,0.08928571428571429
+2816906,DB USA Corporation,2020,30,Supervisory Alternative Severe,56,51,5,0.08928571428571429
+3846375,Discover Financial Services,2020,3,Supervisory Severely Adverse,56,48,8,0.14285714285714285
+3846375,Discover Financial Services,2020,30,Supervisory Alternative Severe,56,48,8,0.14285714285714285
+1070345,Fifth Third Bancorp,2020,3,Supervisory Severely Adverse,56,48,8,0.14285714285714285
+1070345,Fifth Third Bancorp,2020,30,Supervisory Alternative Severe,56,48,8,0.14285714285714285
+3232316,HSBC North America Holdings Inc.,2020,3,Supervisory Severely Adverse,56,102,10,0.08928571428571429
+3232316,HSBC North America Holdings Inc.,2020,30,Supervisory Alternative Severe,56,51,5,0.08928571428571429
+1068191,Huntington Bancshares Incorporated,2020,3,Supervisory Severely Adverse,56,48,8,0.14285714285714285
+1068191,Huntington Bancshares Incorporated,2020,30,Supervisory Alternative Severe,56,48,8,0.14285714285714285
+1039502,JPMorgan Chase & Co.,2020,3,Supervisory Severely Adverse,56,102,10,0.08928571428571429
+1039502,JPMorgan Chase & Co.,2020,30,Supervisory Alternative Severe,56,51,5,0.08928571428571429
+1068025,KeyCorp,2020,3,Supervisory Severely Adverse,56,48,8,0.14285714285714285
+1068025,KeyCorp,2020,30,Supervisory Alternative Severe,56,48,8,0.14285714285714285
+1037003,M&T Bank Corporation,2020,3,Supervisory Severely Adverse,56,48,8,0.14285714285714285
+1037003,M&T Bank Corporation,2020,30,Supervisory Alternative Severe,56,48,8,0.14285714285714285
+1378434,MUFG Americas Holdings Corporation,2020,3,Supervisory Severely Adverse,56,96,16,0.14285714285714285
+1378434,MUFG Americas Holdings Corporation,2020,30,Supervisory Alternative Severe,56,48,8,0.14285714285714285
+2162966,Morgan Stanley,2020,3,Supervisory Severely Adverse,56,102,10,0.08928571428571429
+2162966,Morgan Stanley,2020,30,Supervisory Alternative Severe,56,51,5,0.08928571428571429
+1199611,Northern Trust Corporation,2020,3,Supervisory Severely Adverse,56,102,10,0.08928571428571429
+1199611,Northern Trust Corporation,2020,30,Supervisory Alternative Severe,56,51,5,0.08928571428571429
+5280254,RBC US Group Holdings LLC,2020,3,Supervisory Severely Adverse,56,96,16,0.14285714285714285
+5280254,RBC US Group Holdings LLC,2020,30,Supervisory Alternative Severe,56,48,8,0.14285714285714285
+3242838,Regions Financial Corporation,2020,3,Supervisory Severely Adverse,56,96,16,0.14285714285714285
+3242838,Regions Financial Corporation,2020,30,Supervisory Alternative Severe,56,48,8,0.14285714285714285
+3981856,"Santander Holdings USA, Inc.",2020,3,Supervisory Severely Adverse,56,48,8,0.14285714285714285
+3981856,"Santander Holdings USA, Inc.",2020,30,Supervisory Alternative Severe,56,48,8,0.14285714285714285
+1111435,State Street Corporation,2020,3,Supervisory Severely Adverse,56,102,10,0.08928571428571429
+1111435,State Street Corporation,2020,30,Supervisory Alternative Severe,56,51,5,0.08928571428571429
+3606542,TD Group US Holdings LLC,2020,3,Supervisory Severely Adverse,56,102,10,0.08928571428571429
+3606542,TD Group US Holdings LLC,2020,30,Supervisory Alternative Severe,56,51,5,0.08928571428571429
+3587146,The Bank of New York Mellon Corporation,2020,3,Supervisory Severely Adverse,56,102,10,0.08928571428571429
+3587146,The Bank of New York Mellon Corporation,2020,30,Supervisory Alternative Severe,56,51,5,0.08928571428571429
+2380443,"The Goldman Sachs Group, Inc.",2020,3,Supervisory Severely Adverse,56,102,10,0.08928571428571429
+2380443,"The Goldman Sachs Group, Inc.",2020,30,Supervisory Alternative Severe,56,51,5,0.08928571428571429
+1069778,"The PNC Financial Services Group, Inc.",2020,3,Supervisory Severely Adverse,56,102,10,0.08928571428571429
+1069778,"The PNC Financial Services Group, Inc.",2020,30,Supervisory Alternative Severe,56,51,5,0.08928571428571429
+1074156,Truist Financial Corporation,2020,3,Supervisory Severely Adverse,56,102,10,0.08928571428571429
+1074156,Truist Financial Corporation,2020,30,Supervisory Alternative Severe,56,51,5,0.08928571428571429
+1119794,U.S. Bancorp,2020,3,Supervisory Severely Adverse,56,102,10,0.08928571428571429
+1119794,U.S. Bancorp,2020,30,Supervisory Alternative Severe,56,51,5,0.08928571428571429
+4846998,UBS Americas Holding LLC,2020,3,Supervisory Severely Adverse,56,102,10,0.08928571428571429
+4846998,UBS Americas Holding LLC,2020,30,Supervisory Alternative Severe,56,51,5,0.08928571428571429
+1120754,Wells Fargo & Company,2020,3,Supervisory Severely Adverse,56,102,10,0.08928571428571429
+1120754,Wells Fargo & Company,2020,30,Supervisory Alternative Severe,56,51,5,0.08928571428571429
+NA,33 participating banks,2021,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+1562859,Ally Financial Inc.,2021,3,Supervisory Severely Adverse,56,48,8,0.14285714285714285
+1275216,American Express Company,2021,3,Supervisory Severely Adverse,56,48,8,0.14285714285714285
+1245415,BMO Financial Corp.,2021,3,Supervisory Severely Adverse,56,48,8,0.14285714285714285
+1575569,"BNP Paribas USA, Inc.",2021,3,Supervisory Severely Adverse,56,48,8,0.14285714285714285
+1073757,Bank of America Corporation,2021,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+5006575,Barclays US LLC,2021,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+2277860,Capital One Financial Corporation,2021,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+1951350,Citigroup Inc.,2021,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+1132449,"Citizens Financial Group, Inc.",2021,3,Supervisory Severely Adverse,56,48,8,0.14285714285714285
+1574834,"Credit Suisse Holdings (USA), Inc.",2021,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+2816906,DB USA Corporation,2021,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+3846375,Discover Financial Services,2021,3,Supervisory Severely Adverse,56,48,8,0.14285714285714285
+1070345,Fifth Third Bancorp,2021,3,Supervisory Severely Adverse,56,48,8,0.14285714285714285
+3232316,HSBC North America Holdings Inc.,2021,3,Supervisory Severely Adverse,56,48,8,0.14285714285714285
+1068191,Huntington Bancshares Incorporated,2021,3,Supervisory Severely Adverse,56,48,8,0.14285714285714285
+1039502,JPMorgan Chase & Co.,2021,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+1068025,KeyCorp,2021,3,Supervisory Severely Adverse,56,48,8,0.14285714285714285
+1037003,M&T Bank Corporation,2021,3,Supervisory Severely Adverse,56,48,8,0.14285714285714285
+2162966,Morgan Stanley,2021,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+1199611,Northern Trust Corporation,2021,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+5280254,RBC US Group Holdings LLC,2021,3,Supervisory Severely Adverse,56,48,8,0.14285714285714285
+3242838,Regions Financial Corporation,2021,3,Supervisory Severely Adverse,56,48,8,0.14285714285714285
+3981856,"Santander Holdings USA, Inc.",2021,3,Supervisory Severely Adverse,56,48,8,0.14285714285714285
+1111435,State Street Corporation,2021,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+3606542,TD Group US Holdings LLC,2021,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+3587146,The Bank of New York Mellon Corporation,2021,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+1026632,The Charles Schwab Corporation,2021,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+2380443,"The Goldman Sachs Group, Inc.",2021,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+1069778,"The PNC Financial Services Group, Inc.",2021,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+1074156,Truist Financial Corporation,2021,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+1119794,U.S. Bancorp,2021,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+4846998,UBS Americas Holding LLC,2021,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+1120754,Wells Fargo & Company,2021,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+NA,23 participating banks,2022,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+1245415,BMO Financial Corp.,2022,3,Supervisory Severely Adverse,56,48,8,0.14285714285714285
+1073757,Bank of America Corporation,2022,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+5006575,Barclays US LLC,2022,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+2277860,Capital One Financial Corporation,2022,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+1951350,Citigroup Inc.,2022,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+1132449,"Citizens Financial Group, Inc.",2022,3,Supervisory Severely Adverse,56,48,8,0.14285714285714285
+1574834,"Credit Suisse Holdings (USA), Inc.",2022,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+2816906,DB USA Corporation,2022,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+1039502,JPMorgan Chase & Co.,2022,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+1037003,M&T Bank Corporation,2022,3,Supervisory Severely Adverse,56,48,8,0.14285714285714285
+2162966,Morgan Stanley,2022,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+1199611,Northern Trust Corporation,2022,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+5280254,RBC US Group Holdings LLC,2022,3,Supervisory Severely Adverse,56,48,8,0.14285714285714285
+1111435,State Street Corporation,2022,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+3606542,TD Group US Holdings LLC,2022,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+3587146,The Bank of New York Mellon Corporation,2022,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+1026632,The Charles Schwab Corporation,2022,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+2380443,"The Goldman Sachs Group, Inc.",2022,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+1069778,"The PNC Financial Services Group, Inc.",2022,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+1074156,Truist Financial Corporation,2022,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+1119794,U.S. Bancorp,2022,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+4846998,UBS Americas Holding LLC,2022,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+1120754,Wells Fargo & Company,2022,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+NA,31 participating banks,2023,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+1562859,Ally Financial Inc.,2023,3,Supervisory Severely Adverse,56,48,8,0.14285714285714285
+1275216,American Express Company,2023,3,Supervisory Severely Adverse,56,48,8,0.14285714285714285
+1245415,BMO Financial Corp.,2023,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+1073757,Bank of America Corporation,2023,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+5006575,Barclays US LLC,2023,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+2277860,Capital One Financial Corporation,2023,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+1951350,Citigroup Inc.,2023,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+1132449,"Citizens Financial Group, Inc.",2023,3,Supervisory Severely Adverse,56,48,8,0.14285714285714285
+2816906,DB USA Corporation,2023,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+3846375,Discover Financial Services,2023,3,Supervisory Severely Adverse,56,48,8,0.14285714285714285
+1070345,Fifth Third Bancorp,2023,3,Supervisory Severely Adverse,56,48,8,0.14285714285714285
+3232316,HSBC North America Holdings Inc.,2023,3,Supervisory Severely Adverse,56,48,8,0.14285714285714285
+1068191,Huntington Bancshares Incorporated,2023,3,Supervisory Severely Adverse,56,48,8,0.14285714285714285
+1039502,JPMorgan Chase & Co.,2023,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+1068025,KeyCorp,2023,3,Supervisory Severely Adverse,56,48,8,0.14285714285714285
+1037003,M&T Bank Corporation,2023,3,Supervisory Severely Adverse,56,48,8,0.14285714285714285
+2162966,Morgan Stanley,2023,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+1199611,Northern Trust Corporation,2023,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+5280254,RBC US Group Holdings LLC,2023,3,Supervisory Severely Adverse,56,48,8,0.14285714285714285
+3242838,Regions Financial Corporation,2023,3,Supervisory Severely Adverse,56,48,8,0.14285714285714285
+3981856,"Santander Holdings USA, Inc.",2023,3,Supervisory Severely Adverse,56,48,8,0.14285714285714285
+1111435,State Street Corporation,2023,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+3606542,TD Group US Holdings LLC,2023,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+3587146,The Bank of New York Mellon Corporation,2023,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+1026632,The Charles Schwab Corporation,2023,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+2380443,"The Goldman Sachs Group, Inc.",2023,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+1069778,"The PNC Financial Services Group, Inc.",2023,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+1074156,Truist Financial Corporation,2023,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+1119794,U.S. Bancorp,2023,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+4846998,UBS Americas Holding LLC,2023,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+1120754,Wells Fargo & Company,2023,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+NA,22 participating banks,2024,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+1275216,American Express Company,2024,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+1245415,BMO Financial Corp.,2024,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+1073757,Bank of America Corporation,2024,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+5006575,Barclays US LLC,2024,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+2277860,Capital One Financial Corporation,2024,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+1951350,Citigroup Inc.,2024,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+2816906,DB USA Corporation,2024,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+1039502,JPMorgan Chase & Co.,2024,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+1037003,M&T Bank Corporation,2024,3,Supervisory Severely Adverse,56,48,8,0.14285714285714285
+2162966,Morgan Stanley,2024,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+1199611,Northern Trust Corporation,2024,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+5280254,RBC US Group Holdings LLC,2024,3,Supervisory Severely Adverse,56,48,8,0.14285714285714285
+1111435,State Street Corporation,2024,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+3606542,TD Group US Holdings LLC,2024,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+3587146,The Bank of New York Mellon Corporation,2024,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+1026632,The Charles Schwab Corporation,2024,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+2380443,"The Goldman Sachs Group, Inc.",2024,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+1069778,"The PNC Financial Services Group, Inc.",2024,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+1074156,Truist Financial Corporation,2024,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+1119794,U.S. Bancorp,2024,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+4846998,UBS Americas Holding LLC,2024,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+1120754,Wells Fargo & Company,2024,3,Supervisory Severely Adverse,56,51,5,0.08928571428571429
+NA,32 participating banks,2025,3,Supervisory Severely Adverse,56,50,6,0.10714285714285714
+1562859,Ally Financial Inc.,2025,3,Supervisory Severely Adverse,56,47,9,0.16071428571428573
+1275216,American Express Company,2025,3,Supervisory Severely Adverse,56,50,6,0.10714285714285714
+1245415,BMO Financial Corp.,2025,3,Supervisory Severely Adverse,56,50,6,0.10714285714285714
+1073757,Bank of America Corporation,2025,3,Supervisory Severely Adverse,56,50,6,0.10714285714285714
+5006575,Barclays US LLC,2025,3,Supervisory Severely Adverse,56,50,6,0.10714285714285714
+2277860,Capital One Financial Corporation,2025,3,Supervisory Severely Adverse,56,50,6,0.10714285714285714
+1951350,Citigroup Inc.,2025,3,Supervisory Severely Adverse,56,50,6,0.10714285714285714
+1132449,"Citizens Financial Group, Inc.",2025,3,Supervisory Severely Adverse,56,47,9,0.16071428571428573
+2816906,DB USA Corporation,2025,3,Supervisory Severely Adverse,56,50,6,0.10714285714285714
+1070345,Fifth Third Bancorp,2025,3,Supervisory Severely Adverse,56,47,9,0.16071428571428573
+1075612,"First Citizens Bancshares, Inc.",2025,3,Supervisory Severely Adverse,56,47,9,0.16071428571428573
+3232316,HSBC North America Holdings Inc.,2025,3,Supervisory Severely Adverse,56,47,9,0.16071428571428573
+1068191,Huntington Bancshares Incorporated,2025,3,Supervisory Severely Adverse,56,47,9,0.16071428571428573
+1039502,JPMorgan Chase & Co.,2025,3,Supervisory Severely Adverse,56,50,6,0.10714285714285714
+1068025,KeyCorp,2025,3,Supervisory Severely Adverse,56,47,9,0.16071428571428573
+1037003,M&T Bank Corporation,2025,3,Supervisory Severely Adverse,56,47,9,0.16071428571428573
+2162966,Morgan Stanley,2025,3,Supervisory Severely Adverse,56,50,6,0.10714285714285714
+1199611,Northern Trust Corporation,2025,3,Supervisory Severely Adverse,56,50,6,0.10714285714285714
+5280254,RBC US Group Holdings LLC,2025,3,Supervisory Severely Adverse,56,50,6,0.10714285714285714
+3242838,Regions Financial Corporation,2025,3,Supervisory Severely Adverse,56,47,9,0.16071428571428573
+3981856,"Santander Holdings USA, Inc.",2025,3,Supervisory Severely Adverse,56,47,9,0.16071428571428573
+1111435,State Street Corporation,2025,3,Supervisory Severely Adverse,56,50,6,0.10714285714285714
+4504654,Synchrony Financial,2025,3,Supervisory Severely Adverse,56,47,9,0.16071428571428573
+3606542,TD Group US Holdings LLC,2025,3,Supervisory Severely Adverse,56,50,6,0.10714285714285714
+3587146,The Bank of New York Mellon Corporation,2025,3,Supervisory Severely Adverse,56,50,6,0.10714285714285714
+1026632,The Charles Schwab Corporation,2025,3,Supervisory Severely Adverse,56,50,6,0.10714285714285714
+2380443,"The Goldman Sachs Group, Inc.",2025,3,Supervisory Severely Adverse,56,50,6,0.10714285714285714
+1069778,"The PNC Financial Services Group, Inc.",2025,3,Supervisory Severely Adverse,56,50,6,0.10714285714285714
+1074156,Truist Financial Corporation,2025,3,Supervisory Severely Adverse,56,50,6,0.10714285714285714
+1119794,U.S. Bancorp,2025,3,Supervisory Severely Adverse,56,50,6,0.10714285714285714
+4846998,UBS Americas Holding LLC,2025,3,Supervisory Severely Adverse,56,50,6,0.10714285714285714
+1120754,Wells Fargo & Company,2025,3,Supervisory Severely Adverse,56,50,6,0.10714285714285714

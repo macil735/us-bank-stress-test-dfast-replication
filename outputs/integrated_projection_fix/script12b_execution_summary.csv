@@ -1,0 +1,2 @@
+script_id,script_name,project_root,started_at,completed_at,credit_rows_selected,ppnr_rows_selected,capital_rows_selected,credit_unique_keys,ppnr_unique_keys,capital_unique_keys,fixed_integrated_panel_rows,fixed_integrated_long_rows,fixed_integrated_unique_keys,fixed_integrated_duplicated_keys,banks,years,scenarios,figures_created
+12b,fix_integrated_projection_join_keys,D:/GitHub/us-bank-stress-test-dfast-replication,2026-06-30 07:14:18.718509,2026-06-30 07:14:25.69355,520,520,520,497,497,497,497,7952,497,0,56,11,3,4

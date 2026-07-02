@@ -1,0 +1,2 @@
+started_at,completed_at,folders_audited,folders_existing,pdf_files_found,pdfs_to_keep,pdfs_to_quarantine,pdfs_to_review,valid_pdf_signatures,invalid_pdf_signatures,manual_entries,manual_entries_unmatched,publication_readiness
+2026-07-02 05:05:04.262093,2026-07-02 05:05:04.548873,3,3,13,13,0,0,13,0,28,15,PDF_PUBLICATION_READY

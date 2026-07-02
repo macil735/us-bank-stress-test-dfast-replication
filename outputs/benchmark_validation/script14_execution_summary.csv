@@ -1,0 +1,2 @@
+script_id,script_name,project_root,started_at,completed_at,input_rows,validation_rows,banks,years,scenarios,latest_exercise_year,duplicated_keys,cet1_min_rmse,cet1_min_mae,cet1_min_bias,cet1_min_r2,cet1_min_correlation,figures_created
+14,benchmark_validation_against_fed_results,D:/GitHub/us-bank-stress-test-dfast-replication,2026-06-30 07:30:49.445845,2026-06-30 07:30:56.376261,497,497,56,11,3,2025,0,0.8459968851044002,0.5873176405131468,0.014543516428821172,0.9688421257994689,0.9843205770660176,7

@@ -1,0 +1,21 @@
+bank_name,exercise_year,scenario_label,observed_cet1_min_ratio,integrated_predicted_cet1_min_ratio,cet1_min_prediction_error,abs_cet1_min_prediction_error,cet1_min_validation_flag
+DB USA Corporation,2023,Supervisory Severely Adverse,14.5,19.572132156966862,5.0721321569668625,5.0721321569668625,Large deviation
+State Street Corporation,2017,Supervisory Severely Adverse,5.3,9.765252648433869,4.465252648433869,4.465252648433869,Large deviation
+DB USA Corporation,2024,Supervisory Severely Adverse,12.7,16.778879980264946,4.078879980264947,4.078879980264947,Large deviation
+DB USA Corporation,2020,Supervisory Alternative Severe,19.5,22.902423390872997,3.402423390872997,3.402423390872997,Large deviation
+"Credit Suisse Holdings (USA), Inc.",2021,Supervisory Severely Adverse,20.1,23.450961655679535,3.3509616556795336,3.3509616556795336,Large deviation
+DB USA Corporation,2017,Supervisory Severely Adverse,12.2,9.596562391801404,-2.603437608198595,2.603437608198595,Large deviation
+Discover Financial Services,2021,Supervisory Severely Adverse,13.7,11.421980345193896,-2.278019654806103,2.278019654806103,Large deviation
+Morgan Stanley,2017,Supervisory Severely Adverse,7.3,9.555328048963403,2.2553280489634036,2.2553280489634036,Large deviation
+Northern Trust Corporation,2018,Supervisory Adverse,11.3,13.49892765830706,2.19892765830706,2.19892765830706,Large deviation
+HSBC North America Holdings Inc.,2016,Supervisory Severely Adverse,12.9,10.702701584777188,-2.197298415222813,2.197298415222813,Large deviation
+State Street Corporation,2016,Supervisory Adverse,8.6,10.760585671962792,2.1605856719627923,2.1605856719627923,Large deviation
+UBS Americas Holding LLC,2023,Supervisory Severely Adverse,10,12.149533703599126,2.1495337035991255,2.1495337035991255,Large deviation
+DB USA Corporation,2017,Supervisory Adverse,13.3,11.213427693346794,-2.0865723066532063,2.0865723066532063,Large deviation
+"The Goldman Sachs Group, Inc.",2015,Supervisory Adverse,11.4,9.323727957747844,-2.076272042252157,2.076272042252157,Large deviation
+HSBC North America Holdings Inc.,2020,Supervisory Alternative Severe,5.1,7.173869603206361,2.0738696032063615,2.0738696032063615,Large deviation
+Morgan Stanley,2018,Supervisory Severely Adverse,8.9,10.83656542037027,1.93656542037027,1.93656542037027,Moderate deviation
+UBS Americas Holding LLC,2022,Supervisory Severely Adverse,8,9.9119043345414255,1.9119043345414255,1.9119043345414255,Moderate deviation
+TD Group US Holdings LLC,2017,Supervisory Severely Adverse,11.2,13.066623633754595,1.866623633754596,1.866623633754596,Moderate deviation
+HSBC North America Holdings Inc.,2018,Supervisory Adverse,10.9,9.09182112010653,-1.80817887989347,1.80817887989347,Moderate deviation
+American Express Company,2020,Supervisory Severely Adverse,13.5,11.69509838723412,-1.80490161276588,1.80490161276588,Moderate deviation

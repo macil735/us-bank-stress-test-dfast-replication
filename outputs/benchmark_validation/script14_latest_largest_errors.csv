@@ -1,0 +1,21 @@
+bank_name,scenario_label,observed_cet1_min_ratio,integrated_predicted_cet1_min_ratio,cet1_min_prediction_error,abs_cet1_min_prediction_error,cet1_min_validation_flag
+DB USA Corporation,Supervisory Severely Adverse,14.4,15.746023922764708,1.346023922764708,1.346023922764708,Moderate deviation
+Capital One Financial Corporation,Supervisory Severely Adverse,11,9.99490869983584,-1.0050913001641604,1.0050913001641604,Moderate deviation
+UBS Americas Holding LLC,Supervisory Severely Adverse,15.3,14.366116650415734,-0.9338833495842671,0.9338833495842671,Acceptable precision
+The Bank of New York Mellon Corporation,Supervisory Severely Adverse,11.8,12.520213059211136,0.7202130592111349,0.7202130592111349,Acceptable precision
+HSBC North America Holdings Inc.,Supervisory Severely Adverse,8.1,7.409435617270326,-0.6905643827296739,0.6905643827296739,Acceptable precision
+"The PNC Financial Services Group, Inc.",Supervisory Severely Adverse,10.3,9.712715636022084,-0.5872843639779166,0.5872843639779166,Acceptable precision
+Wells Fargo & Company,Supervisory Severely Adverse,9.2,8.616848028490876,-0.5831519715091229,0.5831519715091229,Acceptable precision
+Barclays US LLC,Supervisory Severely Adverse,12.3,12.854734742528883,0.5547347425288827,0.5547347425288827,Acceptable precision
+American Express Company,Supervisory Severely Adverse,9.7,10.253454872743138,0.5534548727431385,0.5534548727431385,Acceptable precision
+The Charles Schwab Corporation,Supervisory Severely Adverse,32.2,32.70385327339852,0.5038532733985193,0.5038532733985193,Acceptable precision
+Morgan Stanley,Supervisory Severely Adverse,12.5,12.01055884198882,-0.4894411580111804,0.4894411580111804,High precision
+TD Group US Holdings LLC,Supervisory Severely Adverse,14,14.39043177300758,0.39043177300757925,0.39043177300757925,High precision
+Huntington Bancshares Incorporated,Supervisory Severely Adverse,9.3,8.937265918775,-0.3627340812250015,0.3627340812250015,High precision
+Truist Financial Corporation,Supervisory Severely Adverse,9.7,9.357063825278804,-0.34293617472119564,0.34293617472119564,High precision
+Ally Financial Inc.,Supervisory Severely Adverse,7.8,8.136001070749833,0.3360010707498331,0.3360010707498331,High precision
+State Street Corporation,Supervisory Severely Adverse,10.8,11.099150434185644,0.299150434185643,0.299150434185643,High precision
+"Santander Holdings USA, Inc.",Supervisory Severely Adverse,11.7,11.992153314272109,0.29215331427210955,0.29215331427210955,High precision
+KeyCorp,Supervisory Severely Adverse,9.9,9.650704204816448,-0.24929579518355283,0.24929579518355283,High precision
+"The Goldman Sachs Group, Inc.",Supervisory Severely Adverse,11.4,11.161421208634078,-0.23857879136592253,0.23857879136592253,High precision
+RBC US Group Holdings LLC,Supervisory Severely Adverse,13.7,13.496070328483718,-0.20392967151628127,0.20392967151628127,High precision
